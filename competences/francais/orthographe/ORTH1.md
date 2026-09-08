@@ -61,24 +61,21 @@ Le format rend visible le raisonnement attendu et isole une seule décision : re
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** cha_ — chaton
 - **Attention :** Faire observer la partie *cha-* commune et prononcer *chaton* lentement.
 - **Verbalisation :** « Dans *chaton*, j’entends /t/ après *cha*. La lettre cachée à la fin de *chat* est donc *t*. J’écris *chat*. »
 - **Réponse :** chat
 - **Contrôle final :** Relire *chat — chaton* et pointer le *t* commun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** gran_ — grande
 - **Attention :** Demander quelle partie se retrouve dans les deux mots et quel son apparait dans *grande*.
 - **Verbalisation :** « Je lis *grande*. Après *gran*, j’entends /d/. Quelle lettre écrit ce son ? J’ajoute *d* à *grand*. »
 - **Réponse :** grand
 - **Contrôle final :** Vérifier que seule la lettre *d* a été ajoutée.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** gro_ — grosse
 - **Attention :** Laisser les élèves isoler la consonne entendue dans l’indice.
 - **Verbalisation :** « Je cherche la partie commune, j’écoute la consonne de *grosse*, puis j’écris la lettre finale de *gros*. »
@@ -89,13 +86,13 @@ Le format rend visible le raisonnement attendu et isole une seule décision : re
 
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **IMM01** — lai_ — laitier
-2. **IMM02** — gro_ — grosse
-3. **IMM03** — hau_ — hauteur
-4. **IMM04** — ron_ — ronde
-5. **IMM05** — chan_ — chanter
-6. **IMM06** — ba_ — basse
-7. **IMM07** — den_ — dentiste
+1. — lai_ — laitier
+2. — gro_ — grosse
+3. — hau_ — hauteur
+4. — ron_ — ronde
+5. — chan_ — chanter
+6. — ba_ — basse
+7. — den_ — dentiste
 
 ## Variables didactiques
 
@@ -122,343 +119,313 @@ Le format rend visible le raisonnement attendu et isole une seule décision : re
 
 ## Entraînements
 
-### ENT01
-
+### Entraînement 1
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT01-01** — cha_ — chaton
-2. **ENT01-02** — gran_ — grande
-3. **ENT01-03** — peti_ — petite
-4. **ENT01-04** — froi_ — froide
-5. **ENT01-05** — lai_ — laitier
-6. **ENT01-06** — gro_ — grosse
-7. **ENT01-07** — hau_ — hauteur
-8. **ENT01-08** — ron_ — ronde
+1. — cha_ — chaton
+2. — gran_ — grande
+3. — peti_ — petite
+4. — froi_ — froide
+5. — lai_ — laitier
+6. — gro_ — grosse
+7. — hau_ — hauteur
+8. — ron_ — ronde
 
-### ENT02
-
+### Entraînement 2
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT02-01** — chan_ — chanter
-2. **ENT02-02** — ba_ — basse
-3. **ENT02-03** — den_ — dentiste
-4. **ENT02-04** — blon_ — blonde
-5. **ENT02-05** — lour_ — lourde
-6. **ENT02-06** — toi_ — toiture
-7. **ENT02-07** — gri_ — grise
-8. **ENT02-08** — bavar_ — bavarde
+1. — chan_ — chanter
+2. — ba_ — basse
+3. — den_ — dentiste
+4. — blon_ — blonde
+5. — lour_ — lourde
+6. — toi_ — toiture
+7. — gri_ — grise
+8. — bavar_ — bavarde
 
-### ENT03
-
+### Entraînement 3
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT03-01** — acha_ — acheter
-2. **ENT03-02** — bor_ — bordure
-3. **ENT03-03** — repo_ — reposer
-4. **ENT03-04** — débu_ — débuter
-5. **ENT03-05** — surpri_ — surprise
-6. **ENT03-06** — regar_ — regarder
-7. **ENT03-07** — frui_ — fruitier
-8. **ENT03-08** — chau_ — chaude
+1. — acha_ — acheter
+2. — bor_ — bordure
+3. — repo_ — reposer
+4. — débu_ — débuter
+5. — surpri_ — surprise
+6. — regar_ — regarder
+7. — frui_ — fruitier
+8. — chau_ — chaude
 
-### ENT04
-
+### Entraînement 4
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT04-01** — tapi_ — tapisser
-2. **ENT04-02** — profon_ — profonde
-3. **ENT04-03** — préci_ — précise
-4. **ENT04-04** — retar_ — retarder
-5. **ENT04-05** — gourman_ — gourmande
-6. **ENT04-06** — pla_ — plate
-7. **ENT04-07** — épai_ — épaisse
-8. **ENT04-08** — écla_ — éclater
+1. — tapi_ — tapisser
+2. — profon_ — profonde
+3. — préci_ — précise
+4. — retar_ — retarder
+5. — gourman_ — gourmande
+6. — pla_ — plate
+7. — épai_ — épaisse
+8. — écla_ — éclater
 
-### ENT05
-
+### Entraînement 5
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT05-01** — couver_ — couverte
-2. **ENT05-02** — sour_ — sourde
-3. **ENT05-03** — galo_ — galoper
-4. **ENT05-04** — dra_ — draperie
-5. **ENT05-05** — cam_ — camper
-6. **ENT05-06** — cham_ — champêtre
-7. **ENT05-07** — blan_ — blanche
-8. **ENT05-08** — san_ — sanglant
+1. — couver_ — couverte
+2. — sour_ — sourde
+3. — galo_ — galoper
+4. — dra_ — draperie
+5. — cam_ — camper
+6. — cham_ — champêtre
+7. — blan_ — blanche
+8. — san_ — sanglant
 
-### ENT06
-
+### Entraînement 6
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT06-01** — lon_ — longue
-2. **ENT06-02** — ran_ — ranger
-3. **ENT06-03** — plom_ — plomber
-4. **ENT06-04** — comple_ — complète
-5. **ENT06-05** — absen_ — absente
-6. **ENT06-06** — candida_ — candidate
-7. **ENT06-07** — déser_ — déserter
-8. **ENT06-08** — paren_ — parenté
+1. — lon_ — longue
+2. — ran_ — ranger
+3. — plom_ — plomber
+4. — comple_ — complète
+5. — absen_ — absente
+6. — candida_ — candidate
+7. — déser_ — déserter
+8. — paren_ — parenté
 
-### ENT07
-
+### Entraînement 7
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT07-01** — bon_ — bondir
-2. **ENT07-02** — accor_ — accorder
-3. **ENT07-03** — serpen_ — serpentin
-4. **ENT07-04** — réci_ — réciter
-5. **ENT07-05** — goû_ — goûter
-6. **ENT07-06** — écar_ — écarter
-7. **ENT07-07** — géan_ — géante
-8. **ENT07-08** — marchan_ — marchande
+1. — bon_ — bondir
+2. — accor_ — accorder
+3. — serpen_ — serpentin
+4. — réci_ — réciter
+5. — goû_ — goûter
+6. — écar_ — écarter
+7. — géan_ — géante
+8. — marchan_ — marchande
 
-### ENT08
-
+### Entraînement 8
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT08-01** — gran_ — grandir
-2. **ENT08-02** — peti_ — petitesse
-3. **ENT08-03** — froi_ — refroidir
-4. **ENT08-04** — lai_ — laiterie
-5. **ENT08-05** — gro_ — grosseur
-6. **ENT08-06** — ron_ — rondeur
-7. **ENT08-07** — chan_ — chanteur
-8. **ENT08-08** — chau_ — chaudière
+1. — gran_ — grandir
+2. — peti_ — petitesse
+3. — froi_ — refroidir
+4. — lai_ — laiterie
+5. — gro_ — grosseur
+6. — ron_ — rondeur
+7. — chan_ — chanteur
+8. — chau_ — chaudière
 
-### ENT09
-
+### Entraînement 9
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT09-01** — den_ — dentaire
-2. **ENT09-02** — blon_ — blondir
-3. **ENT09-03** — lour_ — lourdeur
-4. **ENT09-04** — gri_ — grisaille
-5. **ENT09-05** — bavar_ — bavarder
-6. **ENT09-06** — acha_ — acheteur
-7. **ENT09-07** — bor_ — déborder
-8. **ENT09-08** — débu_ — débutant
+1. — den_ — dentaire
+2. — blon_ — blondir
+3. — lour_ — lourdeur
+4. — gri_ — grisaille
+5. — bavar_ — bavarder
+6. — acha_ — acheteur
+7. — bor_ — déborder
+8. — débu_ — débutant
 
-### ENT10
-
+### Entraînement 10
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **ENT10-01** — regar_ — regardant
-2. **ENT10-02** — frui_ — fruité
-3. **ENT10-03** — tapi_ — tapisserie
-4. **ENT10-04** — profon_ — profondeur
-5. **ENT10-05** — préci_ — précision
-6. **ENT10-06** — retar_ — retardataire
-7. **ENT10-07** — gourman_ — gourmandise
-8. **ENT10-08** — épai_ — épaisseur
+1. — regar_ — regardant
+2. — frui_ — fruité
+3. — tapi_ — tapisserie
+4. — profon_ — profondeur
+5. — préci_ — précision
+6. — retar_ — retardataire
+7. — gourman_ — gourmandise
+8. — épai_ — épaisseur
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune associe trois items entraînés, un item très légèrement transposé et un item nouveau strictement isomorphe.
 
-### EVAL01
-
+### Évaluation 1
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL01-01** — chan_ — chanter
-2. **EVAL01-02** — galo_ — galoper
-3. **EVAL01-03** — bavar_ — bavarder
-4. **EVAL01-04** — cha_ — chatière
-5. **EVAL01-05** — for_ — forte
+1. — chan_ — chanter
+2. — galo_ — galoper
+3. — bavar_ — bavarder
+4. — cha_ — chatière
+5. — for_ — forte
 
-### EVAL02
-
+### Évaluation 2
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL02-01** — bor_ — bordure
-2. **EVAL02-02** — comple_ — complète
-3. **EVAL02-03** — retar_ — retardataire
-4. **EVAL02-04** — gran_ — grandeur
-5. **EVAL02-05** — ouver_ — ouverte
+1. — bor_ — bordure
+2. — comple_ — complète
+3. — retar_ — retardataire
+4. — gran_ — grandeur
+5. — ouver_ — ouverte
 
-### EVAL03
-
+### Évaluation 3
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL03-01** — den_ — dentiste
-2. **EVAL03-02** — goû_ — goûter
-3. **EVAL03-03** — bor_ — déborder
-4. **EVAL03-04** — froi_ — froidement
-5. **EVAL03-05** — por_ — porter
+1. — den_ — dentiste
+2. — goû_ — goûter
+3. — bor_ — déborder
+4. — froi_ — froidement
+5. — por_ — porter
 
-### EVAL04
-
+### Évaluation 4
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL04-01** — débu_ — débuter
-2. **EVAL04-02** — cham_ — champêtre
-3. **EVAL04-03** — épai_ — épaisseur
-4. **EVAL04-04** — gro_ — grossir
-5. **EVAL04-05** — sor_ — sortir
+1. — débu_ — débuter
+2. — cham_ — champêtre
+3. — épai_ — épaisseur
+4. — gro_ — grossir
+5. — sor_ — sortir
 
-### EVAL05
-
+### Évaluation 5
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL05-01** — lour_ — lourde
-2. **EVAL05-02** — déser_ — déserter
-3. **EVAL05-03** — den_ — dentaire
-4. **EVAL05-04** — ron_ — arrondir
-5. **EVAL05-05** — délica_ — délicate
+1. — lour_ — lourde
+2. — déser_ — déserter
+3. — den_ — dentaire
+4. — ron_ — arrondir
+5. — délica_ — délicate
 
-### EVAL06
-
+### Évaluation 6
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL06-01** — regar_ — regarder
-2. **EVAL06-02** — marchan_ — marchande
-3. **EVAL06-03** — frui_ — fruité
-4. **EVAL06-04** — chan_ — chanteuse
-5. **EVAL06-05** — méchan_ — méchante
+1. — regar_ — regarder
+2. — marchan_ — marchande
+3. — frui_ — fruité
+4. — chan_ — chanteuse
+5. — méchan_ — méchante
 
-### EVAL07
-
+### Évaluation 7
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL07-01** — gri_ — grise
-2. **EVAL07-02** — couver_ — couverte
-3. **EVAL07-03** — lour_ — lourdeur
-4. **EVAL07-04** — lour_ — lourdement
-5. **EVAL07-05** — vivan_ — vivante
+1. — gri_ — grise
+2. — couver_ — couverte
+3. — lour_ — lourdeur
+4. — lour_ — lourdement
+5. — vivan_ — vivante
 
-### EVAL08
-
+### Évaluation 8
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL08-01** — chau_ — chaude
-2. **EVAL08-02** — ran_ — ranger
-3. **EVAL08-03** — profon_ — profondeur
-4. **EVAL08-04** — bavar_ — bavarder
-5. **EVAL08-05** — norman_ — normande
+1. — chau_ — chaude
+2. — ran_ — ranger
+3. — profon_ — profondeur
+4. — bavar_ — bavarder
+5. — norman_ — normande
 
-### EVAL09
-
+### Évaluation 9
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL09-01** — chan_ — chanter
-2. **EVAL09-02** — serpen_ — serpentin
-3. **EVAL09-03** — bavar_ — bavarder
-4. **EVAL09-04** — regar_ — regarde
-5. **EVAL09-05** — refu_ — refuser
+1. — chan_ — chanter
+2. — serpen_ — serpentin
+3. — bavar_ — bavarder
+4. — regar_ — regarde
+5. — refu_ — refuser
 
-### EVAL10
-
+### Évaluation 10
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **EVAL10-01** — bor_ — bordure
-2. **EVAL10-02** — dra_ — draperie
-3. **EVAL10-03** — retar_ — retardataire
-4. **EVAL10-04** — profon_ — profondeur
-5. **EVAL10-05** — boi_ — boiserie
+1. — bor_ — bordure
+2. — dra_ — draperie
+3. — retar_ — retardataire
+4. — profon_ — profondeur
+5. — boi_ — boiserie
 
 ## Devoirs
 
 Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
-### DEV01
-
+### Devoir 1
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV01-01** — cha_ — chaton
-2. **DEV01-02** — froi_ — froide
-3. **DEV01-03** — hau_ — hauteur
-4. **DEV01-04** — ba_ — basse
-5. **DEV01-05** — lour_ — lourde
+1. — cha_ — chaton
+2. — froi_ — froide
+3. — hau_ — hauteur
+4. — ba_ — basse
+5. — lour_ — lourde
 
-### DEV02
-
+### Devoir 2
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV02-01** — gro_ — grosse
-2. **DEV02-02** — chan_ — chanter
-3. **DEV02-03** — blon_ — blonde
-4. **DEV02-04** — gri_ — grise
-5. **DEV02-05** — bor_ — bordure
+1. — gro_ — grosse
+2. — chan_ — chanter
+3. — blon_ — blonde
+4. — gri_ — grise
+5. — bor_ — bordure
 
-### DEV03
-
+### Devoir 3
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV03-01** — den_ — dentiste
-2. **DEV03-02** — toi_ — toiture
-3. **DEV03-03** — acha_ — acheter
-4. **DEV03-04** — débu_ — débuter
-5. **DEV03-05** — frui_ — fruitier
+1. — den_ — dentiste
+2. — toi_ — toiture
+3. — acha_ — acheter
+4. — débu_ — débuter
+5. — frui_ — fruitier
 
-### DEV04
-
+### Devoir 4
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV04-01** — bavar_ — bavarde
-2. **DEV04-02** — repo_ — reposer
-3. **DEV04-03** — regar_ — regarder
-4. **DEV04-04** — tapi_ — tapisser
-5. **DEV04-05** — retar_ — retarder
+1. — bavar_ — bavarde
+2. — repo_ — reposer
+3. — regar_ — regarder
+4. — tapi_ — tapisser
+5. — retar_ — retarder
 
-### DEV05
-
+### Devoir 5
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV05-01** — surpri_ — surprise
-2. **DEV05-02** — chau_ — chaude
-3. **DEV05-03** — préci_ — précise
-4. **DEV05-04** — pla_ — plate
-5. **DEV05-05** — cha_ — chaton
+1. — surpri_ — surprise
+2. — chau_ — chaude
+3. — préci_ — précise
+4. — pla_ — plate
+5. — cha_ — chaton
 
-### DEV06
-
+### Devoir 6
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV06-01** — profon_ — profonde
-2. **DEV06-02** — gourman_ — gourmande
-3. **DEV06-03** — écla_ — éclater
-4. **DEV06-04** — peti_ — petite
-5. **DEV06-05** — gro_ — grosse
+1. — profon_ — profonde
+2. — gourman_ — gourmande
+3. — écla_ — éclater
+4. — peti_ — petite
+5. — gro_ — grosse
 
-### DEV07
-
+### Devoir 7
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV07-01** — épai_ — épaisse
-2. **DEV07-02** — gran_ — grande
-3. **DEV07-03** — lai_ — laitier
-4. **DEV07-04** — ron_ — ronde
-5. **DEV07-05** — den_ — dentiste
+1. — épai_ — épaisse
+2. — gran_ — grande
+3. — lai_ — laitier
+4. — ron_ — ronde
+5. — den_ — dentiste
 
-### DEV08
-
+### Devoir 8
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV08-01** — froi_ — froide
-2. **DEV08-02** — hau_ — hauteur
-3. **DEV08-03** — ba_ — basse
-4. **DEV08-04** — lour_ — lourde
-5. **DEV08-05** — bavar_ — bavarde
+1. — froi_ — froide
+2. — hau_ — hauteur
+3. — ba_ — basse
+4. — lour_ — lourde
+5. — bavar_ — bavarde
 
-### DEV09
-
+### Devoir 9
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV09-01** — chan_ — chanter
-2. **DEV09-02** — blon_ — blonde
-3. **DEV09-03** — gri_ — grise
-4. **DEV09-04** — bor_ — bordure
-5. **DEV09-05** — surpri_ — surprise
+1. — chan_ — chanter
+2. — blon_ — blonde
+3. — gri_ — grise
+4. — bor_ — bordure
+5. — surpri_ — surprise
 
-### DEV10
-
+### Devoir 10
 **Consigne :** Complète le mot avec sa lettre finale muette. Appuie-toi sur le mot de la même famille
 
-1. **DEV10-01** — toi_ — toiture
-2. **DEV10-02** — acha_ — acheter
-3. **DEV10-03** — débu_ — débuter
-4. **DEV10-04** — frui_ — fruitier
-5. **DEV10-05** — profon_ — profonde
+1. — toi_ — toiture
+2. — acha_ — acheter
+3. — débu_ — débuter
+4. — frui_ — fruitier
+5. — profon_ — profonde
 
 ## Corrections
 
@@ -474,8 +441,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. chat
 2. grand
 3. petit
@@ -485,8 +451,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. haut
 8. rond
 
-#### ENT02
-
+#### Entraînement 2
 1. chant
 2. bas
 3. dent
@@ -496,8 +461,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. gris
 8. bavard
 
-#### ENT03
-
+#### Entraînement 3
 1. achat
 2. bord
 3. repos
@@ -507,8 +471,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. fruit
 8. chaud
 
-#### ENT04
-
+#### Entraînement 4
 1. tapis
 2. profond
 3. précis
@@ -518,8 +481,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. épais
 8. éclat
 
-#### ENT05
-
+#### Entraînement 5
 1. couvert
 2. sourd
 3. galop
@@ -529,8 +491,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. blanc
 8. sang
 
-#### ENT06
-
+#### Entraînement 6
 1. long
 2. rang
 3. plomb
@@ -540,8 +501,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. désert
 8. parent
 
-#### ENT07
-
+#### Entraînement 7
 1. bond
 2. accord
 3. serpent
@@ -551,8 +511,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. géant
 8. marchand
 
-#### ENT08
-
+#### Entraînement 8
 1. grand
 2. petit
 3. froid
@@ -562,8 +521,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. chant
 8. chaud
 
-#### ENT09
-
+#### Entraînement 9
 1. dent
 2. blond
 3. lourd
@@ -573,8 +531,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. bord
 8. début
 
-#### ENT10
-
+#### Entraînement 10
 1. regard
 2. fruit
 3. tapis
@@ -586,80 +543,70 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. chant
 2. galop
 3. bavard
 4. chat
 5. fort
 
-#### EVAL02
-
+#### Évaluation 2
 1. bord
 2. complet
 3. retard
 4. grand
 5. ouvert
 
-#### EVAL03
-
+#### Évaluation 3
 1. dent
 2. goût
 3. bord
 4. froid
 5. port
 
-#### EVAL04
-
+#### Évaluation 4
 1. début
 2. champ
 3. épais
 4. gros
 5. sort
 
-#### EVAL05
-
+#### Évaluation 5
 1. lourd
 2. désert
 3. dent
 4. rond
 5. délicat
 
-#### EVAL06
-
+#### Évaluation 6
 1. regard
 2. marchand
 3. fruit
 4. chant
 5. méchant
 
-#### EVAL07
-
+#### Évaluation 7
 1. gris
 2. couvert
 3. lourd
 4. lourd
 5. vivant
 
-#### EVAL08
-
+#### Évaluation 8
 1. chaud
 2. rang
 3. profond
 4. bavard
 5. normand
 
-#### EVAL09
-
+#### Évaluation 9
 1. chant
 2. serpent
 3. bavard
 4. regard
 5. refus
 
-#### EVAL10
-
+#### Évaluation 10
 1. bord
 2. drap
 3. retard
@@ -668,80 +615,70 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. chat
 2. froid
 3. haut
 4. bas
 5. lourd
 
-#### DEV02
-
+#### Devoir 2
 1. gros
 2. chant
 3. blond
 4. gris
 5. bord
 
-#### DEV03
-
+#### Devoir 3
 1. dent
 2. toit
 3. achat
 4. début
 5. fruit
 
-#### DEV04
-
+#### Devoir 4
 1. bavard
 2. repos
 3. regard
 4. tapis
 5. retard
 
-#### DEV05
-
+#### Devoir 5
 1. surpris
 2. chaud
 3. précis
 4. plat
 5. chat
 
-#### DEV06
-
+#### Devoir 6
 1. profond
 2. gourmand
 3. éclat
 4. petit
 5. gros
 
-#### DEV07
-
+#### Devoir 7
 1. épais
 2. grand
 3. lait
 4. rond
 5. dent
 
-#### DEV08
-
+#### Devoir 8
 1. froid
 2. haut
 3. bas
 4. lourd
 5. bavard
 
-#### DEV09
-
+#### Devoir 9
 1. chant
 2. blond
 3. gris
 4. bord
 5. surpris
 
-#### DEV10
-
+#### Devoir 10
 1. toit
 2. achat
 3. début

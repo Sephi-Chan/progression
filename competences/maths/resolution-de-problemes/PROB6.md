@@ -60,8 +60,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** La classe répartit équitablement 6 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
 
 - **Attention portée :** Je lis la question, je nomme chaque quantité et je montre leur relation avant de choisir le calcul.
@@ -69,8 +68,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
 - **Contrôle final :** la taille trouvée est la même pour chaque groupe et nombre de groupes × taille = total.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Un jardinier répartit 8 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
 - **Attention portée :** Demander : « Que connaît-on ? Que cherche-t-on ? Que doivent montrer les barres ou les groupes ? »
@@ -78,8 +76,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 8 ÷ 2 = 4. Chaque groupe contient 4 éléments.
 - **Contrôle final :** la taille trouvée est la même pour chaque groupe et nombre de groupes × taille = total.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** On partage 10 élèves en 2 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
 - **Attention portée :** Laisser les élèves reformuler et choisir le premier geste ; demander seulement de justifier.
@@ -91,13 +88,13 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne :** Résous le problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-- **IMM01** On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **IMM02** On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **IMM03** La classe répartit équitablement 20 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
-- **IMM04** Un jardinier répartit 24 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **IMM05** On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **IMM06** On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
-- **IMM07** La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 20 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 24 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
 
 ## Variables didactiques
 
@@ -111,253 +108,223 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne pour toutes les séries :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### ENT01
+### Entraînement 1
+- On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 8 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
 
-- **ENT01-01** On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT01-02** La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT01-03** Un jardinier répartit 8 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT01-04** On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT01-05** On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+### Entraînement 2
+- On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 25 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 30 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-### ENT02
+### Entraînement 3
+- Un jardinier répartit 24 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 30 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 36 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
-- **ENT02-01** On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT02-02** On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT02-03** La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT02-04** Un jardinier répartit 25 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT02-05** On partage 30 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+### Entraînement 4
+- La classe répartit équitablement 54 crayons dans 9 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 63 fleurs en 9 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 72 élèves en 9 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 81 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
 
-### ENT03
+### Entraînement 5
+- On partage équitablement 28 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 32 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 36 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 35 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 40 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
 
-- **ENT03-01** Un jardinier répartit 24 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT03-02** On partage 30 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT03-03** On partage équitablement 36 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT03-04** La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT03-05** Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
+### Entraînement 6
+- On partage 48 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 54 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 21 crayons dans 7 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 28 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 35 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-### ENT04
+### Entraînement 7
+- Un jardinier répartit 56 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 63 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 24 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 32 crayons dans 8 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 40 fleurs en 8 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
-- **ENT04-01** La classe répartit équitablement 54 crayons dans 9 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT04-02** Un jardinier répartit 63 fleurs en 9 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT04-03** On partage 72 élèves en 9 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT04-04** On partage équitablement 81 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT04-05** La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+### Entraînement 8
+- La classe répartit équitablement 80 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 80 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 60 élèves en 20 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 60 billes entre 10 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 70 crayons dans 10 boites. Combien met-elle de crayons dans chaque boite ?
 
-### ENT05
+### Entraînement 9
+- On partage équitablement 100 billes entre 10 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 60 crayons dans 6 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 70 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 80 élèves en 8 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 90 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
 
-- **ENT05-01** On partage équitablement 28 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT05-02** La classe répartit équitablement 32 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT05-03** Un jardinier répartit 36 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT05-04** On partage 35 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT05-05** On partage équitablement 40 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
-
-### ENT06
-
-- **ENT06-01** On partage 48 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT06-02** On partage équitablement 54 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT06-03** La classe répartit équitablement 21 crayons dans 7 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT06-04** Un jardinier répartit 28 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT06-05** On partage 35 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-
-### ENT07
-
-- **ENT07-01** Un jardinier répartit 56 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT07-02** On partage 63 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT07-03** On partage équitablement 24 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT07-04** La classe répartit équitablement 32 crayons dans 8 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT07-05** Un jardinier répartit 40 fleurs en 8 rangées égales. Combien y a-t-il de fleurs par rangée ?
-
-### ENT08
-
-- **ENT08-01** La classe répartit équitablement 80 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT08-02** Un jardinier répartit 80 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT08-03** On partage 60 élèves en 20 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT08-04** On partage équitablement 60 billes entre 10 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT08-05** La classe répartit équitablement 70 crayons dans 10 boites. Combien met-elle de crayons dans chaque boite ?
-
-### ENT09
-
-- **ENT09-01** On partage équitablement 100 billes entre 10 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT09-02** La classe répartit équitablement 60 crayons dans 6 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT09-03** Un jardinier répartit 70 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT09-04** On partage 80 élèves en 8 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT09-05** On partage équitablement 90 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
-
-### ENT10
-
-- **ENT10-01** On partage 100 élèves en 20 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **ENT10-02** On partage équitablement 80 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **ENT10-03** La classe répartit équitablement 80 crayons dans 20 boites. Combien met-elle de crayons dans chaque boite ?
-- **ENT10-04** Un jardinier répartit 60 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **ENT10-05** On partage 60 élèves en 10 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+### Entraînement 10
+- On partage 100 élèves en 20 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 80 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 80 crayons dans 20 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 60 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 60 élèves en 10 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
 ## Évaluations
 
 **Consigne pour toutes les formes :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### EVAL01
+### Évaluation 1
+- Un jardinier répartit 56 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- La classe répartit équitablement 60 crayons dans 6 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage 72 élèves en 9 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- Un jardinier répartit 63 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- La classe répartit équitablement 28 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
 
-- **EVAL01-01** Un jardinier répartit 56 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL01-02** La classe répartit équitablement 60 crayons dans 6 boites. Combien met-elle de crayons dans chaque boite ?
-- **EVAL01-03** On partage 72 élèves en 9 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL01-04** Un jardinier répartit 63 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL01-05** La classe répartit équitablement 28 crayons dans 4 boites. Combien met-elle de crayons dans chaque boite ?
+### Évaluation 2
+- Un jardinier répartit 80 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- La classe répartit équitablement 80 crayons dans 20 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage 35 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage 70 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- Un jardinier répartit 32 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
-### EVAL02
+### Évaluation 3
+- Un jardinier répartit 70 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage équitablement 81 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage 35 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 32 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage 36 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-- **EVAL02-01** Un jardinier répartit 80 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL02-02** La classe répartit équitablement 80 crayons dans 20 boites. Combien met-elle de crayons dans chaque boite ?
-- **EVAL02-03** On partage 35 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL02-04** On partage 70 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL02-05** Un jardinier répartit 32 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
+### Évaluation 4
+- Un jardinier répartit 60 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage équitablement 40 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
+- Un jardinier répartit 56 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- La classe répartit équitablement 40 crayons dans 8 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage équitablement 35 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
 
-### EVAL03
+### Évaluation 5
+- La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage 48 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- Un jardinier répartit 80 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- Un jardinier répartit 48 fleurs en 8 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- La classe répartit équitablement 40 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
 
-- **EVAL03-01** Un jardinier répartit 70 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL03-02** On partage équitablement 81 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL03-03** On partage 35 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL03-04** On partage équitablement 32 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL03-05** On partage 36 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+### Évaluation 6
+- On partage équitablement 28 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage 63 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- Un jardinier répartit 70 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- Un jardinier répartit 63 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- Un jardinier répartit 45 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
-### EVAL04
+### Évaluation 7
+- On partage équitablement 54 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage 60 élèves en 20 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- Un jardinier répartit 60 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 70 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage 42 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-- **EVAL04-01** Un jardinier répartit 60 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL04-02** On partage équitablement 40 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL04-03** Un jardinier répartit 56 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL04-04** La classe répartit équitablement 40 crayons dans 8 boites. Combien met-elle de crayons dans chaque boite ?
-- **EVAL04-05** On partage équitablement 35 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
+### Évaluation 8
+- On partage équitablement 24 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage 80 élèves en 8 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage équitablement 32 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage équitablement 48 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
 
-### EVAL05
+### Évaluation 9
+- On partage équitablement 60 billes entre 10 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage 60 élèves en 10 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 28 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 40 crayons dans 8 boites. Combien met-elle de crayons dans chaque boite ?
+- La classe répartit équitablement 54 crayons dans 6 boites. Combien met-elle de crayons dans chaque boite ?
 
-- **EVAL05-01** La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
-- **EVAL05-02** On partage 48 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL05-03** Un jardinier répartit 80 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL05-04** Un jardinier répartit 48 fleurs en 8 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL05-05** La classe répartit équitablement 40 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
-
-### EVAL06
-
-- **EVAL06-01** On partage équitablement 28 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL06-02** On partage 63 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL06-03** Un jardinier répartit 70 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL06-04** Un jardinier répartit 63 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL06-05** Un jardinier répartit 45 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
-
-### EVAL07
-
-- **EVAL07-01** On partage équitablement 54 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL07-02** On partage 60 élèves en 20 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL07-03** Un jardinier répartit 60 fleurs en 20 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL07-04** On partage 70 élèves en 7 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL07-05** On partage 42 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-
-### EVAL08
-
-- **EVAL08-01** On partage équitablement 24 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL08-02** On partage 80 élèves en 8 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL08-03** La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
-- **EVAL08-04** On partage équitablement 32 billes entre 8 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL08-05** On partage équitablement 48 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
-
-### EVAL09
-
-- **EVAL09-01** On partage équitablement 60 billes entre 10 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL09-02** On partage 60 élèves en 10 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **EVAL09-03** On partage équitablement 28 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL09-04** La classe répartit équitablement 40 crayons dans 8 boites. Combien met-elle de crayons dans chaque boite ?
-- **EVAL09-05** La classe répartit équitablement 54 crayons dans 6 boites. Combien met-elle de crayons dans chaque boite ?
-
-### EVAL10
-
-- **EVAL10-01** On partage équitablement 90 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL10-02** La classe répartit équitablement 54 crayons dans 9 boites. Combien met-elle de crayons dans chaque boite ?
-- **EVAL10-03** On partage équitablement 54 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
-- **EVAL10-04** Un jardinier répartit 48 fleurs en 8 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **EVAL10-05** Un jardinier répartit 21 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
+### Évaluation 10
+- On partage équitablement 90 billes entre 9 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 54 crayons dans 9 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage équitablement 54 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
+- Un jardinier répartit 48 fleurs en 8 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- Un jardinier répartit 21 fleurs en 7 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
 ## Devoirs
 
 **Consigne pour tous les devoirs :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### DEV01
+### Devoir 1
+- On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage 16 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-- **DEV01-01** On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV01-02** La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV01-03** Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV01-04** La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV01-05** On partage 16 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+### Devoir 2
+- On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage 35 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-### DEV02
+### Devoir 3
+- On partage équitablement 36 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 30 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
-- **DEV02-01** On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV02-02** La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV02-03** On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV02-04** La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV02-05** On partage 35 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+### Devoir 4
+- On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage équitablement 36 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
 
-### DEV03
+### Devoir 5
+- On partage 30 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage 30 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- La classe répartit équitablement 25 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
 
-- **DEV03-01** On partage équitablement 36 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV03-02** On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV03-03** On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV03-04** La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV03-05** Un jardinier répartit 30 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
+### Devoir 6
+- Un jardinier répartit 24 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- Un jardinier répartit 8 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 30 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- On partage 30 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
+- La classe répartit équitablement 6 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
 
-### DEV04
+### Devoir 7
+- La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 25 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- Un jardinier répartit 24 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- Un jardinier répartit 8 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage équitablement 20 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
 
-- **DEV04-01** On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV04-02** On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV04-03** On partage équitablement 36 billes entre 6 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV04-04** On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV04-05** La classe répartit équitablement 21 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+### Devoir 8
+- La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 25 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 15 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-### DEV05
+### Devoir 9
+- La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
+- Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
+- On partage 36 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
 
-- **DEV05-01** On partage 30 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV05-02** On partage 30 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV05-03** On partage 12 élèves en 4 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV05-04** On partage 10 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV05-05** La classe répartit équitablement 25 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
-
-### DEV06
-
-- **DEV06-01** Un jardinier répartit 24 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV06-02** Un jardinier répartit 8 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV06-03** On partage 30 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV06-04** On partage 30 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-- **DEV06-05** La classe répartit équitablement 6 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
-
-### DEV07
-
-- **DEV07-01** La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV07-02** Un jardinier répartit 25 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV07-03** Un jardinier répartit 24 fleurs en 6 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV07-04** Un jardinier répartit 8 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV07-05** On partage équitablement 20 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-
-### DEV08
-
-- **DEV08-01** La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV08-02** Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV08-03** La classe répartit équitablement 18 crayons dans 3 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV08-04** Un jardinier répartit 25 fleurs en 5 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV08-05** On partage 15 élèves en 5 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-
-### DEV09
-
-- **DEV09-01** La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV09-02** On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV09-03** La classe répartit équitablement 20 crayons dans 5 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV09-04** Un jardinier répartit 6 fleurs en 2 rangées égales. Combien y a-t-il de fleurs par rangée ?
-- **DEV09-05** On partage 36 élèves en 6 équipes de même taille. Combien y a-t-il d’élèves par équipe ?
-
-### DEV10
-
-- **DEV10-01** On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV10-02** On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV10-03** La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
-- **DEV10-04** On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
-- **DEV10-05** Un jardinier répartit 12 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
+### Devoir 10
+- On partage équitablement 16 billes entre 4 enfants. Combien chaque enfant reçoit-il de billes ?
+- On partage équitablement 15 billes entre 5 enfants. Combien chaque enfant reçoit-il de billes ?
+- La classe répartit équitablement 4 crayons dans 2 boites. Combien met-elle de crayons dans chaque boite ?
+- On partage équitablement 15 billes entre 3 enfants. Combien chaque enfant reçoit-il de billes ?
+- Un jardinier répartit 12 fleurs en 4 rangées égales. Combien y a-t-il de fleurs par rangée ?
 
 ## Corrections
 
@@ -365,259 +332,229 @@ La formulation de la phrase peut varier. Accepter toute phrase qui donne le rés
 
 ### Correction — À toi de jouer
 
-- **IMM01** 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
-- **IMM02** 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
-- **IMM03** 20 ÷ 4 = 5. Chaque groupe contient 5 éléments.
-- **IMM04** 24 ÷ 4 = 6. Chaque groupe contient 6 éléments.
-- **IMM05** 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
-- **IMM06** 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
-- **IMM07** 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
+- 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
+- 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
+- 20 ÷ 4 = 5. Chaque groupe contient 5 éléments.
+- 24 ÷ 4 = 6. Chaque groupe contient 6 éléments.
+- 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
+- 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
+- 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
+- 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
+- 8 ÷ 4 = 2. Chaque groupe contient 2 éléments.
+- 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
+- 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
 
-- **ENT01-01** 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
-- **ENT01-02** 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
-- **ENT01-03** 8 ÷ 4 = 2. Chaque groupe contient 2 éléments.
-- **ENT01-04** 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
-- **ENT01-05** 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
+#### Entraînement 2
+- 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
+- 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
+- 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
+- 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
+- 30 ÷ 5 = 6. Chaque groupe contient 6 éléments.
 
-#### ENT02
+#### Entraînement 3
+- 24 ÷ 6 = 4. Chaque groupe contient 4 éléments.
+- 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
+- 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
+- 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
+- 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
 
-- **ENT02-01** 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
-- **ENT02-02** 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
-- **ENT02-03** 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
-- **ENT02-04** 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
-- **ENT02-05** 30 ÷ 5 = 6. Chaque groupe contient 6 éléments.
+#### Entraînement 4
+- 54 ÷ 9 = 6. Chaque groupe contient 6 éléments.
+- 63 ÷ 9 = 7. Chaque groupe contient 7 éléments.
+- 72 ÷ 9 = 8. Chaque groupe contient 8 éléments.
+- 81 ÷ 9 = 9. Chaque groupe contient 9 éléments.
+- 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
 
-#### ENT03
+#### Entraînement 5
+- 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
+- 32 ÷ 4 = 8. Chaque groupe contient 8 éléments.
+- 36 ÷ 4 = 9. Chaque groupe contient 9 éléments.
+- 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
+- 40 ÷ 5 = 8. Chaque groupe contient 8 éléments.
 
-- **ENT03-01** 24 ÷ 6 = 4. Chaque groupe contient 4 éléments.
-- **ENT03-02** 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
-- **ENT03-03** 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
-- **ENT03-04** 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
-- **ENT03-05** 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
+#### Entraînement 6
+- 48 ÷ 6 = 8. Chaque groupe contient 8 éléments.
+- 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
+- 21 ÷ 7 = 3. Chaque groupe contient 3 éléments.
+- 28 ÷ 7 = 4. Chaque groupe contient 4 éléments.
+- 35 ÷ 7 = 5. Chaque groupe contient 5 éléments.
 
-#### ENT04
+#### Entraînement 7
+- 56 ÷ 7 = 8. Chaque groupe contient 8 éléments.
+- 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
+- 24 ÷ 8 = 3. Chaque groupe contient 3 éléments.
+- 32 ÷ 8 = 4. Chaque groupe contient 4 éléments.
+- 40 ÷ 8 = 5. Chaque groupe contient 5 éléments.
 
-- **ENT04-01** 54 ÷ 9 = 6. Chaque groupe contient 6 éléments.
-- **ENT04-02** 63 ÷ 9 = 7. Chaque groupe contient 7 éléments.
-- **ENT04-03** 72 ÷ 9 = 8. Chaque groupe contient 8 éléments.
-- **ENT04-04** 81 ÷ 9 = 9. Chaque groupe contient 9 éléments.
-- **ENT04-05** 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
+#### Entraînement 8
+- 80 ÷ 4 = 20. Chaque groupe contient 20 éléments.
+- 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
+- 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
+- 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
+- 70 ÷ 10 = 7. Chaque groupe contient 7 éléments.
 
-#### ENT05
+#### Entraînement 9
+- 100 ÷ 10 = 10. Chaque groupe contient 10 éléments.
+- 60 ÷ 6 = 10. Chaque groupe contient 10 éléments.
+- 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
+- 80 ÷ 8 = 10. Chaque groupe contient 10 éléments.
+- 90 ÷ 9 = 10. Chaque groupe contient 10 éléments.
 
-- **ENT05-01** 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
-- **ENT05-02** 32 ÷ 4 = 8. Chaque groupe contient 8 éléments.
-- **ENT05-03** 36 ÷ 4 = 9. Chaque groupe contient 9 éléments.
-- **ENT05-04** 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
-- **ENT05-05** 40 ÷ 5 = 8. Chaque groupe contient 8 éléments.
-
-#### ENT06
-
-- **ENT06-01** 48 ÷ 6 = 8. Chaque groupe contient 8 éléments.
-- **ENT06-02** 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
-- **ENT06-03** 21 ÷ 7 = 3. Chaque groupe contient 3 éléments.
-- **ENT06-04** 28 ÷ 7 = 4. Chaque groupe contient 4 éléments.
-- **ENT06-05** 35 ÷ 7 = 5. Chaque groupe contient 5 éléments.
-
-#### ENT07
-
-- **ENT07-01** 56 ÷ 7 = 8. Chaque groupe contient 8 éléments.
-- **ENT07-02** 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
-- **ENT07-03** 24 ÷ 8 = 3. Chaque groupe contient 3 éléments.
-- **ENT07-04** 32 ÷ 8 = 4. Chaque groupe contient 4 éléments.
-- **ENT07-05** 40 ÷ 8 = 5. Chaque groupe contient 5 éléments.
-
-#### ENT08
-
-- **ENT08-01** 80 ÷ 4 = 20. Chaque groupe contient 20 éléments.
-- **ENT08-02** 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
-- **ENT08-03** 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
-- **ENT08-04** 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
-- **ENT08-05** 70 ÷ 10 = 7. Chaque groupe contient 7 éléments.
-
-#### ENT09
-
-- **ENT09-01** 100 ÷ 10 = 10. Chaque groupe contient 10 éléments.
-- **ENT09-02** 60 ÷ 6 = 10. Chaque groupe contient 10 éléments.
-- **ENT09-03** 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
-- **ENT09-04** 80 ÷ 8 = 10. Chaque groupe contient 10 éléments.
-- **ENT09-05** 90 ÷ 9 = 10. Chaque groupe contient 10 éléments.
-
-#### ENT10
-
-- **ENT10-01** 100 ÷ 20 = 5. Chaque groupe contient 5 éléments.
-- **ENT10-02** 80 ÷ 4 = 20. Chaque groupe contient 20 éléments.
-- **ENT10-03** 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
-- **ENT10-04** 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
-- **ENT10-05** 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
+#### Entraînement 10
+- 100 ÷ 20 = 5. Chaque groupe contient 5 éléments.
+- 80 ÷ 4 = 20. Chaque groupe contient 20 éléments.
+- 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
+- 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
+- 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- 56 ÷ 7 = 8. Chaque groupe contient 8 éléments.
+- 60 ÷ 6 = 10. Chaque groupe contient 10 éléments.
+- 72 ÷ 9 = 8. Chaque groupe contient 8 éléments.
+- 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
+- 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
 
-- **EVAL01-01** 56 ÷ 7 = 8. Chaque groupe contient 8 éléments.
-- **EVAL01-02** 60 ÷ 6 = 10. Chaque groupe contient 10 éléments.
-- **EVAL01-03** 72 ÷ 9 = 8. Chaque groupe contient 8 éléments.
-- **EVAL01-04** 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
-- **EVAL01-05** 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
+#### Évaluation 2
+- 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
+- 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
+- 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
+- 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
+- 32 ÷ 4 = 8. Chaque groupe contient 8 éléments.
 
-#### EVAL02
+#### Évaluation 3
+- 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
+- 81 ÷ 9 = 9. Chaque groupe contient 9 éléments.
+- 35 ÷ 7 = 5. Chaque groupe contient 5 éléments.
+- 32 ÷ 8 = 4. Chaque groupe contient 4 éléments.
+- 36 ÷ 4 = 9. Chaque groupe contient 9 éléments.
 
-- **EVAL02-01** 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
-- **EVAL02-02** 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
-- **EVAL02-03** 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
-- **EVAL02-04** 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
-- **EVAL02-05** 32 ÷ 4 = 8. Chaque groupe contient 8 éléments.
+#### Évaluation 4
+- 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
+- 40 ÷ 5 = 8. Chaque groupe contient 8 éléments.
+- 56 ÷ 7 = 8. Chaque groupe contient 8 éléments.
+- 40 ÷ 8 = 5. Chaque groupe contient 5 éléments.
+- 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
 
-#### EVAL03
+#### Évaluation 5
+- 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
+- 48 ÷ 6 = 8. Chaque groupe contient 8 éléments.
+- 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
+- 48 ÷ 8 = 6. Chaque groupe contient 6 éléments.
+- 40 ÷ 5 = 8. Chaque groupe contient 8 éléments.
 
-- **EVAL03-01** 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
-- **EVAL03-02** 81 ÷ 9 = 9. Chaque groupe contient 9 éléments.
-- **EVAL03-03** 35 ÷ 7 = 5. Chaque groupe contient 5 éléments.
-- **EVAL03-04** 32 ÷ 8 = 4. Chaque groupe contient 4 éléments.
-- **EVAL03-05** 36 ÷ 4 = 9. Chaque groupe contient 9 éléments.
+#### Évaluation 6
+- 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
+- 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
+- 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
+- 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
+- 45 ÷ 5 = 9. Chaque groupe contient 9 éléments.
 
-#### EVAL04
+#### Évaluation 7
+- 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
+- 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
+- 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
+- 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
+- 42 ÷ 6 = 7. Chaque groupe contient 7 éléments.
 
-- **EVAL04-01** 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
-- **EVAL04-02** 40 ÷ 5 = 8. Chaque groupe contient 8 éléments.
-- **EVAL04-03** 56 ÷ 7 = 8. Chaque groupe contient 8 éléments.
-- **EVAL04-04** 40 ÷ 8 = 5. Chaque groupe contient 5 éléments.
-- **EVAL04-05** 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
+#### Évaluation 8
+- 24 ÷ 8 = 3. Chaque groupe contient 3 éléments.
+- 80 ÷ 8 = 10. Chaque groupe contient 10 éléments.
+- 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
+- 32 ÷ 8 = 4. Chaque groupe contient 4 éléments.
+- 48 ÷ 6 = 8. Chaque groupe contient 8 éléments.
 
-#### EVAL05
+#### Évaluation 9
+- 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
+- 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
+- 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
+- 40 ÷ 8 = 5. Chaque groupe contient 5 éléments.
+- 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
 
-- **EVAL05-01** 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
-- **EVAL05-02** 48 ÷ 6 = 8. Chaque groupe contient 8 éléments.
-- **EVAL05-03** 80 ÷ 20 = 4. Chaque groupe contient 4 éléments.
-- **EVAL05-04** 48 ÷ 8 = 6. Chaque groupe contient 6 éléments.
-- **EVAL05-05** 40 ÷ 5 = 8. Chaque groupe contient 8 éléments.
-
-#### EVAL06
-
-- **EVAL06-01** 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
-- **EVAL06-02** 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
-- **EVAL06-03** 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
-- **EVAL06-04** 63 ÷ 7 = 9. Chaque groupe contient 9 éléments.
-- **EVAL06-05** 45 ÷ 5 = 9. Chaque groupe contient 9 éléments.
-
-#### EVAL07
-
-- **EVAL07-01** 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
-- **EVAL07-02** 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
-- **EVAL07-03** 60 ÷ 20 = 3. Chaque groupe contient 3 éléments.
-- **EVAL07-04** 70 ÷ 7 = 10. Chaque groupe contient 10 éléments.
-- **EVAL07-05** 42 ÷ 6 = 7. Chaque groupe contient 7 éléments.
-
-#### EVAL08
-
-- **EVAL08-01** 24 ÷ 8 = 3. Chaque groupe contient 3 éléments.
-- **EVAL08-02** 80 ÷ 8 = 10. Chaque groupe contient 10 éléments.
-- **EVAL08-03** 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
-- **EVAL08-04** 32 ÷ 8 = 4. Chaque groupe contient 4 éléments.
-- **EVAL08-05** 48 ÷ 6 = 8. Chaque groupe contient 8 éléments.
-
-#### EVAL09
-
-- **EVAL09-01** 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
-- **EVAL09-02** 60 ÷ 10 = 6. Chaque groupe contient 6 éléments.
-- **EVAL09-03** 28 ÷ 4 = 7. Chaque groupe contient 7 éléments.
-- **EVAL09-04** 40 ÷ 8 = 5. Chaque groupe contient 5 éléments.
-- **EVAL09-05** 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
-
-#### EVAL10
-
-- **EVAL10-01** 90 ÷ 9 = 10. Chaque groupe contient 10 éléments.
-- **EVAL10-02** 54 ÷ 9 = 6. Chaque groupe contient 6 éléments.
-- **EVAL10-03** 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
-- **EVAL10-04** 48 ÷ 8 = 6. Chaque groupe contient 6 éléments.
-- **EVAL10-05** 21 ÷ 7 = 3. Chaque groupe contient 3 éléments.
+#### Évaluation 10
+- 90 ÷ 9 = 10. Chaque groupe contient 10 éléments.
+- 54 ÷ 9 = 6. Chaque groupe contient 6 éléments.
+- 54 ÷ 6 = 9. Chaque groupe contient 9 éléments.
+- 48 ÷ 8 = 6. Chaque groupe contient 6 éléments.
+- 21 ÷ 7 = 3. Chaque groupe contient 3 éléments.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
+- 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
+- 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
+- 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
+- 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
 
-- **DEV01-01** 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
-- **DEV01-02** 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
-- **DEV01-03** 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
-- **DEV01-04** 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
-- **DEV01-05** 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
+#### Devoir 2
+- 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
+- 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
+- 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
+- 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
+- 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
 
-#### DEV02
+#### Devoir 3
+- 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
+- 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
+- 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
+- 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
+- 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
 
-- **DEV02-01** 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
-- **DEV02-02** 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
-- **DEV02-03** 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
-- **DEV02-04** 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
-- **DEV02-05** 35 ÷ 5 = 7. Chaque groupe contient 7 éléments.
+#### Devoir 4
+- 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
+- 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
+- 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
+- 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
+- 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
 
-#### DEV03
+#### Devoir 5
+- 30 ÷ 5 = 6. Chaque groupe contient 6 éléments.
+- 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
+- 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
+- 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
+- 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
 
-- **DEV03-01** 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
-- **DEV03-02** 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
-- **DEV03-03** 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
-- **DEV03-04** 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
-- **DEV03-05** 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
+#### Devoir 6
+- 24 ÷ 6 = 4. Chaque groupe contient 4 éléments.
+- 8 ÷ 4 = 2. Chaque groupe contient 2 éléments.
+- 30 ÷ 5 = 6. Chaque groupe contient 6 éléments.
+- 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
+- 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
 
-#### DEV04
+#### Devoir 7
+- 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
+- 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
+- 24 ÷ 6 = 4. Chaque groupe contient 4 éléments.
+- 8 ÷ 4 = 2. Chaque groupe contient 2 éléments.
+- 20 ÷ 4 = 5. Chaque groupe contient 5 éléments.
 
-- **DEV04-01** 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
-- **DEV04-02** 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
-- **DEV04-03** 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
-- **DEV04-04** 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
-- **DEV04-05** 21 ÷ 3 = 7. Chaque groupe contient 7 éléments.
+#### Devoir 8
+- 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
+- 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
+- 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
+- 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
+- 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
 
-#### DEV05
+#### Devoir 9
+- 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
+- 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
+- 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
+- 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
+- 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
 
-- **DEV05-01** 30 ÷ 5 = 6. Chaque groupe contient 6 éléments.
-- **DEV05-02** 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
-- **DEV05-03** 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
-- **DEV05-04** 10 ÷ 5 = 2. Chaque groupe contient 2 éléments.
-- **DEV05-05** 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
-
-#### DEV06
-
-- **DEV06-01** 24 ÷ 6 = 4. Chaque groupe contient 4 éléments.
-- **DEV06-02** 8 ÷ 4 = 2. Chaque groupe contient 2 éléments.
-- **DEV06-03** 30 ÷ 5 = 6. Chaque groupe contient 6 éléments.
-- **DEV06-04** 30 ÷ 6 = 5. Chaque groupe contient 5 éléments.
-- **DEV06-05** 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
-
-#### DEV07
-
-- **DEV07-01** 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
-- **DEV07-02** 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
-- **DEV07-03** 24 ÷ 6 = 4. Chaque groupe contient 4 éléments.
-- **DEV07-04** 8 ÷ 4 = 2. Chaque groupe contient 2 éléments.
-- **DEV07-05** 20 ÷ 4 = 5. Chaque groupe contient 5 éléments.
-
-#### DEV08
-
-- **DEV08-01** 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
-- **DEV08-02** 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
-- **DEV08-03** 18 ÷ 3 = 6. Chaque groupe contient 6 éléments.
-- **DEV08-04** 25 ÷ 5 = 5. Chaque groupe contient 5 éléments.
-- **DEV08-05** 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
-
-#### DEV09
-
-- **DEV09-01** 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
-- **DEV09-02** 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
-- **DEV09-03** 20 ÷ 5 = 4. Chaque groupe contient 4 éléments.
-- **DEV09-04** 6 ÷ 2 = 3. Chaque groupe contient 3 éléments.
-- **DEV09-05** 36 ÷ 6 = 6. Chaque groupe contient 6 éléments.
-
-#### DEV10
-
-- **DEV10-01** 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
-- **DEV10-02** 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
-- **DEV10-03** 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
-- **DEV10-04** 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
-- **DEV10-05** 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
+#### Devoir 10
+- 16 ÷ 4 = 4. Chaque groupe contient 4 éléments.
+- 15 ÷ 5 = 3. Chaque groupe contient 3 éléments.
+- 4 ÷ 2 = 2. Chaque groupe contient 2 éléments.
+- 15 ÷ 3 = 5. Chaque groupe contient 5 éléments.
+- 12 ÷ 4 = 3. Chaque groupe contient 3 éléments.
 
 ## Traçabilité des évaluations et devoirs
 

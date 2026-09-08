@@ -58,24 +58,21 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle).  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** M au pli, 3 cm de C et de D au contrôle.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **IMM02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **IMM03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **IMM04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **IMM05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **IMM06** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **IMM07** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
 
-- **ENT01-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **ENT01-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **ENT01-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **ENT01-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **ENT01-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+### Entraînement 2
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
 
-### ENT02
+### Entraînement 3
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
 
-- **ENT02-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **ENT02-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **ENT02-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **ENT02-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **ENT02-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+### Entraînement 4
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
 
-### ENT03
+### Entraînement 5
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
 
-- **ENT03-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **ENT03-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **ENT03-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **ENT03-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **ENT03-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+### Entraînement 6
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
 
-### ENT04
+### Entraînement 7
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
 
-- **ENT04-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
-- **ENT04-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
-- **ENT04-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
-- **ENT04-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
-- **ENT04-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
+### Entraînement 8
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] long de 15 cm ; aucun repère intermédiaire.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] décentré sur une bande ; seules C et D doivent être superposées.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
 
-### ENT05
+### Entraînement 9
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
 
-- **ENT05-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
-- **ENT05-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
-- **ENT05-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
-- **ENT05-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
-- **ENT05-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
-
-### ENT06
-
-- **ENT06-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
-- **ENT06-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
-- **ENT06-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
-- **ENT06-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
-- **ENT06-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
-
-### ENT07
-
-- **ENT07-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
-- **ENT07-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
-- **ENT07-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
-- **ENT07-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
-- **ENT07-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
-
-### ENT08
-
-- **ENT08-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] long de 15 cm ; aucun repère intermédiaire.
-- **ENT08-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] décentré sur une bande ; seules C et D doivent être superposées.
-- **ENT08-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
-- **ENT08-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
-- **ENT08-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
-
-### ENT09
-
-- **ENT09-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
-- **ENT09-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
-- **ENT09-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
-- **ENT09-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
-- **ENT09-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
-
-### ENT10
-
-- **ENT10-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
-- **ENT10-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
-- **ENT10-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
-- **ENT10-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] long de 15 cm ; aucun repère intermédiaire.
-- **ENT10-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] décentré sur une bande ; seules C et D doivent être superposées.
+### Entraînement 10
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] long de 15 cm ; aucun repère intermédiaire.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] décentré sur une bande ; seules C et D doivent être superposées.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [UV] horizontal de 18 cm.
 
-- **EVAL01-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **EVAL01-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
-- **EVAL01-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
-- **EVAL01-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
-- **EVAL01-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [UV] horizontal de 18 cm.
+### Évaluation 2
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [WX] de 12 cm.
 
-### EVAL02
+### Évaluation 3
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [YZ] décentré sur la bande.
 
-- **EVAL02-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **EVAL02-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
-- **EVAL02-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
-- **EVAL02-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
-- **EVAL02-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [WX] de 12 cm.
+### Évaluation 4
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment vertical [AC].
 
-### EVAL03
+### Évaluation 5
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [UV] horizontal de 18 cm.
 
-- **EVAL03-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **EVAL03-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
-- **EVAL03-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
-- **EVAL03-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
-- **EVAL03-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [YZ] décentré sur la bande.
+### Évaluation 6
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [WX] de 12 cm.
 
-### EVAL04
+### Évaluation 7
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [YZ] décentré sur la bande.
 
-- **EVAL04-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **EVAL04-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
-- **EVAL04-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
-- **EVAL04-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
-- **EVAL04-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment vertical [AC].
+### Évaluation 8
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment vertical [AC].
 
-### EVAL05
+### Évaluation 9
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [UV] horizontal de 18 cm.
 
-- **EVAL05-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **EVAL05-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
-- **EVAL05-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
-- **EVAL05-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
-- **EVAL05-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [UV] horizontal de 18 cm.
-
-### EVAL06
-
-- **EVAL06-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **EVAL06-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
-- **EVAL06-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [AB] de 8 cm sur une bande large.
-- **EVAL06-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] vertical sur une bande.
-- **EVAL06-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [WX] de 12 cm.
-
-### EVAL07
-
-- **EVAL07-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **EVAL07-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] de 12 cm, H étant écrit à gauche de G.
-- **EVAL07-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
-- **EVAL07-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] oblique placé en diagonale sur la bande.
-- **EVAL07-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [YZ] décentré sur la bande.
-
-### EVAL08
-
-- **EVAL08-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **EVAL08-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [JK] de 14 cm.
-- **EVAL08-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] de 6 cm placé près du bord supérieur de la bande.
-- **EVAL08-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] oblique ; la bande comporte un dessin distracteur.
-- **EVAL08-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment vertical [AC].
-
-### EVAL09
-
-- **EVAL09-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **EVAL09-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
-- **EVAL09-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LP] de 4 cm au centre d’une grande bande.
-- **EVAL09-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] ; trois marques sont déjà présentes mais aucune n’est nommée.
-- **EVAL09-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [UV] horizontal de 18 cm.
-
-### EVAL10
-
-- **EVAL10-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **EVAL10-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
-- **EVAL10-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
-- **EVAL10-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
-- **EVAL10-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [WX] de 12 cm.
+### Évaluation 10
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [CD] de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [RS] de 16 cm sur une bande étroite.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] avec K à gauche de J.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment oblique [WX] de 12 cm.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
 
-- **DEV01-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **DEV01-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **DEV01-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **DEV01-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **DEV01-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+### Devoir 2
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
 
-### DEV02
+### Devoir 3
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
 
-- **DEV02-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **DEV02-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV02-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **DEV02-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV02-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+### Devoir 4
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
 
-### DEV03
+### Devoir 5
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
 
-- **DEV03-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **DEV03-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **DEV03-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **DEV03-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **DEV03-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+### Devoir 6
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
 
-### DEV04
+### Devoir 7
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
 
-- **DEV04-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **DEV04-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **DEV04-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV04-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **DEV04-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+### Devoir 8
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
 
-### DEV05
+### Devoir 9
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
 
-- **DEV05-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV05-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **DEV05-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **DEV05-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **DEV05-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-
-### DEV06
-
-- **DEV06-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **DEV06-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **DEV06-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **DEV06-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **DEV06-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-
-### DEV07
-
-- **DEV07-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **DEV07-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV07-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **DEV07-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV07-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-
-### DEV08
-
-- **DEV08-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **DEV08-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **DEV08-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **DEV08-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [AB] horizontal de 8 cm sur une bande.
-- **DEV08-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-
-### DEV09
-
-- **DEV09-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [GH] horizontal de 4 cm.
-- **DEV09-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [PQ] horizontal de 16 cm ; nomme le milieu R.
-- **DEV09-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV09-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [CD] horizontal de 6 cm.
-- **DEV09-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-
-### DEV10
-
-- **DEV10-01** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
-- **DEV10-02** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **DEV10-03** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
-- **DEV10-04** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
-- **DEV10-05** Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+### Devoir 10
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [JK] horizontal de 12 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [EF] horizontal de 10 cm.
+- Découpe la bande si besoin, superpose les deux extrémités par pliage, puis marque le milieu M. Segment [LM] horizontal de 14 cm ; nomme le milieu N.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** M au pli, 2 cm de G et de H au contrôle
-2. **IMM02** M au pli, 6 cm de J et de K au contrôle
-3. **IMM03** N au pli, 7 cm de chaque extrémité au contrôle
-4. **IMM04** R au pli, 8 cm de chaque extrémité au contrôle
-5. **IMM05** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-6. **IMM06** M au pli, 3 cm de C et de D au contrôle
-7. **IMM07** M au pli, 5 cm de E et de F au contrôle
+1. M au pli, 2 cm de G et de H au contrôle
+2. M au pli, 6 cm de J et de K au contrôle
+3. N au pli, 7 cm de chaque extrémité au contrôle
+4. R au pli, 8 cm de chaque extrémité au contrôle
+5. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+6. M au pli, 3 cm de C et de D au contrôle
+7. M au pli, 5 cm de E et de F au contrôle
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+2. M au pli, 3 cm de C et de D au contrôle
+3. M au pli, 5 cm de E et de F au contrôle
+4. M au pli, 2 cm de G et de H au contrôle
+5. M au pli, 6 cm de J et de K au contrôle
 
-1. **ENT01-01** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-2. **ENT01-02** M au pli, 3 cm de C et de D au contrôle
-3. **ENT01-03** M au pli, 5 cm de E et de F au contrôle
-4. **ENT01-04** M au pli, 2 cm de G et de H au contrôle
-5. **ENT01-05** M au pli, 6 cm de J et de K au contrôle
+#### Entraînement 2
+1. M au pli, 5 cm de E et de F au contrôle
+2. M au pli, 2 cm de G et de H au contrôle
+3. M au pli, 6 cm de J et de K au contrôle
+4. N au pli, 7 cm de chaque extrémité au contrôle
+5. R au pli, 8 cm de chaque extrémité au contrôle
 
-#### ENT02
+#### Entraînement 3
+1. M au pli, 6 cm de J et de K au contrôle
+2. N au pli, 7 cm de chaque extrémité au contrôle
+3. R au pli, 8 cm de chaque extrémité au contrôle
+4. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+5. M au pli, 3 cm de C et de D au contrôle
 
-1. **ENT02-01** M au pli, 5 cm de E et de F au contrôle
-2. **ENT02-02** M au pli, 2 cm de G et de H au contrôle
-3. **ENT02-03** M au pli, 6 cm de J et de K au contrôle
-4. **ENT02-04** N au pli, 7 cm de chaque extrémité au contrôle
-5. **ENT02-05** R au pli, 8 cm de chaque extrémité au contrôle
+#### Entraînement 4
+1. M au pli, à égale distance de R et S
+2. M au pli, à égale distance de A et B
+3. M au pli, à égale distance de C et D
+4. M au pli, à égale distance de E et F
+5. M au pli, à égale distance de G et H
 
-#### ENT03
+#### Entraînement 5
+1. M au pli, à égale distance de C et D
+2. M au pli, à égale distance de E et F
+3. M au pli, à égale distance de G et H
+4. M au pli, à égale distance de J et K
+5. M au pli, à égale distance de L et P
 
-1. **ENT03-01** M au pli, 6 cm de J et de K au contrôle
-2. **ENT03-02** N au pli, 7 cm de chaque extrémité au contrôle
-3. **ENT03-03** R au pli, 8 cm de chaque extrémité au contrôle
-4. **ENT03-04** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-5. **ENT03-05** M au pli, 3 cm de C et de D au contrôle
+#### Entraînement 6
+1. M au pli, à égale distance de G et H
+2. M au pli, à égale distance de J et K
+3. M au pli, à égale distance de L et P
+4. M au pli, à égale distance de R et S
+5. M au pli, à égale distance de A et B
 
-#### ENT04
+#### Entraînement 7
+1. M au pli, à égale distance de L et P
+2. M au pli, à égale distance de R et S
+3. M au pli, à égale distance de A et B
+4. M au pli, à égale distance de C et D
+5. M au pli, à égale distance de E et F
 
-1. **ENT04-01** M au pli, à égale distance de R et S
-2. **ENT04-02** M au pli, à égale distance de A et B
-3. **ENT04-03** M au pli, à égale distance de C et D
-4. **ENT04-04** M au pli, à égale distance de E et F
-5. **ENT04-05** M au pli, à égale distance de G et H
+#### Entraînement 8
+1. M au pli, à égale distance de A et B
+2. M est le pli obtenu en superposant C et D, pas le milieu de la bande
+3. M au pli entre E et F ; dessin ignoré
+4. M est la marque qui coïncide avec le pli
+5. M au pli ; ordre des lettres sans effet
 
-#### ENT05
+#### Entraînement 9
+1. M au pli entre E et F ; dessin ignoré
+2. M est la marque qui coïncide avec le pli
+3. M au pli ; ordre des lettres sans effet
+4. M au pli, à égale distance de L et P
+5. M au pli, à égale distance de R et S
 
-1. **ENT05-01** M au pli, à égale distance de C et D
-2. **ENT05-02** M au pli, à égale distance de E et F
-3. **ENT05-03** M au pli, à égale distance de G et H
-4. **ENT05-04** M au pli, à égale distance de J et K
-5. **ENT05-05** M au pli, à égale distance de L et P
-
-#### ENT06
-
-1. **ENT06-01** M au pli, à égale distance de G et H
-2. **ENT06-02** M au pli, à égale distance de J et K
-3. **ENT06-03** M au pli, à égale distance de L et P
-4. **ENT06-04** M au pli, à égale distance de R et S
-5. **ENT06-05** M au pli, à égale distance de A et B
-
-#### ENT07
-
-1. **ENT07-01** M au pli, à égale distance de L et P
-2. **ENT07-02** M au pli, à égale distance de R et S
-3. **ENT07-03** M au pli, à égale distance de A et B
-4. **ENT07-04** M au pli, à égale distance de C et D
-5. **ENT07-05** M au pli, à égale distance de E et F
-
-#### ENT08
-
-1. **ENT08-01** M au pli, à égale distance de A et B
-2. **ENT08-02** M est le pli obtenu en superposant C et D, pas le milieu de la bande
-3. **ENT08-03** M au pli entre E et F ; dessin ignoré
-4. **ENT08-04** M est la marque qui coïncide avec le pli
-5. **ENT08-05** M au pli ; ordre des lettres sans effet
-
-#### ENT09
-
-1. **ENT09-01** M au pli entre E et F ; dessin ignoré
-2. **ENT09-02** M est la marque qui coïncide avec le pli
-3. **ENT09-03** M au pli ; ordre des lettres sans effet
-4. **ENT09-04** M au pli, à égale distance de L et P
-5. **ENT09-05** M au pli, à égale distance de R et S
-
-#### ENT10
-
-1. **ENT10-01** M au pli ; ordre des lettres sans effet
-2. **ENT10-02** M au pli, à égale distance de L et P
-3. **ENT10-03** M au pli, à égale distance de R et S
-4. **ENT10-04** M au pli, à égale distance de A et B
-5. **ENT10-05** M est le pli obtenu en superposant C et D, pas le milieu de la bande
+#### Entraînement 10
+1. M au pli ; ordre des lettres sans effet
+2. M au pli, à égale distance de L et P
+3. M au pli, à égale distance de R et S
+4. M au pli, à égale distance de A et B
+5. M est le pli obtenu en superposant C et D, pas le milieu de la bande
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. M au pli, 6 cm de J et de K au contrôle
+2. M au pli, à égale distance de E et F
+3. M au pli, à égale distance de A et B
+4. M au pli, à égale distance de L et P
+5. M au pli, 9 cm de chaque extrémité au contrôle
 
-1. **EVAL01-01** M au pli, 6 cm de J et de K au contrôle
-2. **EVAL01-02** M au pli, à égale distance de E et F
-3. **EVAL01-03** M au pli, à égale distance de A et B
-4. **EVAL01-04** M au pli, à égale distance de L et P
-5. **EVAL01-05** M au pli, 9 cm de chaque extrémité au contrôle
+#### Évaluation 2
+1. N au pli, 7 cm de chaque extrémité au contrôle
+2. M au pli, à égale distance de G et H
+3. M au pli, à égale distance de C et D
+4. M au pli, à égale distance de R et S
+5. M au pli, à égale distance de W et X
 
-#### EVAL02
+#### Évaluation 3
+1. R au pli, 8 cm de chaque extrémité au contrôle
+2. M au pli, à égale distance de J et K
+3. M au pli, à égale distance de E et F
+4. M au pli entre E et F ; dessin ignoré
+5. M obtenu en superposant Y et Z
 
-1. **EVAL02-01** N au pli, 7 cm de chaque extrémité au contrôle
-2. **EVAL02-02** M au pli, à égale distance de G et H
-3. **EVAL02-03** M au pli, à égale distance de C et D
-4. **EVAL02-04** M au pli, à égale distance de R et S
-5. **EVAL02-05** M au pli, à égale distance de W et X
+#### Évaluation 4
+1. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+2. M au pli, à égale distance de L et P
+3. M au pli, à égale distance de L et P
+4. M est la marque qui coïncide avec le pli
+5. M au pli, à égale distance de A et C
 
-#### EVAL03
+#### Évaluation 5
+1. M au pli, 3 cm de C et de D au contrôle
+2. M au pli, à égale distance de C et D
+3. M au pli, à égale distance de R et S
+4. M au pli ; ordre des lettres sans effet
+5. M au pli, 9 cm de chaque extrémité au contrôle
 
-1. **EVAL03-01** R au pli, 8 cm de chaque extrémité au contrôle
-2. **EVAL03-02** M au pli, à égale distance de J et K
-3. **EVAL03-03** M au pli, à égale distance de E et F
-4. **EVAL03-04** M au pli entre E et F ; dessin ignoré
-5. **EVAL03-05** M obtenu en superposant Y et Z
+#### Évaluation 6
+1. M au pli, 6 cm de J et de K au contrôle
+2. M au pli, à égale distance de E et F
+3. M au pli, à égale distance de A et B
+4. M au pli, à égale distance de L et P
+5. M au pli, à égale distance de W et X
 
-#### EVAL04
+#### Évaluation 7
+1. N au pli, 7 cm de chaque extrémité au contrôle
+2. M au pli, à égale distance de G et H
+3. M au pli, à égale distance de C et D
+4. M au pli, à égale distance de R et S
+5. M obtenu en superposant Y et Z
 
-1. **EVAL04-01** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-2. **EVAL04-02** M au pli, à égale distance de L et P
-3. **EVAL04-03** M au pli, à égale distance de L et P
-4. **EVAL04-04** M est la marque qui coïncide avec le pli
-5. **EVAL04-05** M au pli, à égale distance de A et C
+#### Évaluation 8
+1. R au pli, 8 cm de chaque extrémité au contrôle
+2. M au pli, à égale distance de J et K
+3. M au pli, à égale distance de E et F
+4. M au pli entre E et F ; dessin ignoré
+5. M au pli, à égale distance de A et C
 
-#### EVAL05
+#### Évaluation 9
+1. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+2. M au pli, à égale distance de L et P
+3. M au pli, à égale distance de L et P
+4. M est la marque qui coïncide avec le pli
+5. M au pli, 9 cm de chaque extrémité au contrôle
 
-1. **EVAL05-01** M au pli, 3 cm de C et de D au contrôle
-2. **EVAL05-02** M au pli, à égale distance de C et D
-3. **EVAL05-03** M au pli, à égale distance de R et S
-4. **EVAL05-04** M au pli ; ordre des lettres sans effet
-5. **EVAL05-05** M au pli, 9 cm de chaque extrémité au contrôle
-
-#### EVAL06
-
-1. **EVAL06-01** M au pli, 6 cm de J et de K au contrôle
-2. **EVAL06-02** M au pli, à égale distance de E et F
-3. **EVAL06-03** M au pli, à égale distance de A et B
-4. **EVAL06-04** M au pli, à égale distance de L et P
-5. **EVAL06-05** M au pli, à égale distance de W et X
-
-#### EVAL07
-
-1. **EVAL07-01** N au pli, 7 cm de chaque extrémité au contrôle
-2. **EVAL07-02** M au pli, à égale distance de G et H
-3. **EVAL07-03** M au pli, à égale distance de C et D
-4. **EVAL07-04** M au pli, à égale distance de R et S
-5. **EVAL07-05** M obtenu en superposant Y et Z
-
-#### EVAL08
-
-1. **EVAL08-01** R au pli, 8 cm de chaque extrémité au contrôle
-2. **EVAL08-02** M au pli, à égale distance de J et K
-3. **EVAL08-03** M au pli, à égale distance de E et F
-4. **EVAL08-04** M au pli entre E et F ; dessin ignoré
-5. **EVAL08-05** M au pli, à égale distance de A et C
-
-#### EVAL09
-
-1. **EVAL09-01** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-2. **EVAL09-02** M au pli, à égale distance de L et P
-3. **EVAL09-03** M au pli, à égale distance de L et P
-4. **EVAL09-04** M est la marque qui coïncide avec le pli
-5. **EVAL09-05** M au pli, 9 cm de chaque extrémité au contrôle
-
-#### EVAL10
-
-1. **EVAL10-01** M au pli, 3 cm de C et de D au contrôle
-2. **EVAL10-02** M au pli, à égale distance de C et D
-3. **EVAL10-03** M au pli, à égale distance de R et S
-4. **EVAL10-04** M au pli ; ordre des lettres sans effet
-5. **EVAL10-05** M au pli, à égale distance de W et X
+#### Évaluation 10
+1. M au pli, 3 cm de C et de D au contrôle
+2. M au pli, à égale distance de C et D
+3. M au pli, à égale distance de R et S
+4. M au pli ; ordre des lettres sans effet
+5. M au pli, à égale distance de W et X
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+2. M au pli, 2 cm de G et de H au contrôle
+3. R au pli, 8 cm de chaque extrémité au contrôle
+4. M au pli, 2 cm de G et de H au contrôle
+5. R au pli, 8 cm de chaque extrémité au contrôle
 
-1. **DEV01-01** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-2. **DEV01-02** M au pli, 2 cm de G et de H au contrôle
-3. **DEV01-03** R au pli, 8 cm de chaque extrémité au contrôle
-4. **DEV01-04** M au pli, 2 cm de G et de H au contrôle
-5. **DEV01-05** R au pli, 8 cm de chaque extrémité au contrôle
+#### Devoir 2
+1. M au pli, 3 cm de C et de D au contrôle
+2. M au pli, 6 cm de J et de K au contrôle
+3. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+4. M au pli, 6 cm de J et de K au contrôle
+5. M au pli, 5 cm de E et de F au contrôle
 
-#### DEV02
+#### Devoir 3
+1. M au pli, 5 cm de E et de F au contrôle
+2. N au pli, 7 cm de chaque extrémité au contrôle
+3. M au pli, 3 cm de C et de D au contrôle
+4. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+5. M au pli, 2 cm de G et de H au contrôle
 
-1. **DEV02-01** M au pli, 3 cm de C et de D au contrôle
-2. **DEV02-02** M au pli, 6 cm de J et de K au contrôle
-3. **DEV02-03** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-4. **DEV02-04** M au pli, 6 cm de J et de K au contrôle
-5. **DEV02-05** M au pli, 5 cm de E et de F au contrôle
+#### Devoir 4
+1. M au pli, 2 cm de G et de H au contrôle
+2. R au pli, 8 cm de chaque extrémité au contrôle
+3. M au pli, 6 cm de J et de K au contrôle
+4. M au pli, 3 cm de C et de D au contrôle
+5. M au pli, 6 cm de J et de K au contrôle
 
-#### DEV03
+#### Devoir 5
+1. M au pli, 6 cm de J et de K au contrôle
+2. M au pli, 5 cm de E et de F au contrôle
+3. N au pli, 7 cm de chaque extrémité au contrôle
+4. M au pli, 5 cm de E et de F au contrôle
+5. N au pli, 7 cm de chaque extrémité au contrôle
 
-1. **DEV03-01** M au pli, 5 cm de E et de F au contrôle
-2. **DEV03-02** N au pli, 7 cm de chaque extrémité au contrôle
-3. **DEV03-03** M au pli, 3 cm de C et de D au contrôle
-4. **DEV03-04** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-5. **DEV03-05** M au pli, 2 cm de G et de H au contrôle
+#### Devoir 6
+1. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+2. M au pli, 2 cm de G et de H au contrôle
+3. R au pli, 8 cm de chaque extrémité au contrôle
+4. M au pli, 2 cm de G et de H au contrôle
+5. R au pli, 8 cm de chaque extrémité au contrôle
 
-#### DEV04
+#### Devoir 7
+1. M au pli, 3 cm de C et de D au contrôle
+2. M au pli, 6 cm de J et de K au contrôle
+3. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+4. M au pli, 6 cm de J et de K au contrôle
+5. M au pli, 5 cm de E et de F au contrôle
 
-1. **DEV04-01** M au pli, 2 cm de G et de H au contrôle
-2. **DEV04-02** R au pli, 8 cm de chaque extrémité au contrôle
-3. **DEV04-03** M au pli, 6 cm de J et de K au contrôle
-4. **DEV04-04** M au pli, 3 cm de C et de D au contrôle
-5. **DEV04-05** M au pli, 6 cm de J et de K au contrôle
+#### Devoir 8
+1. M au pli, 5 cm de E et de F au contrôle
+2. N au pli, 7 cm de chaque extrémité au contrôle
+3. M au pli, 3 cm de C et de D au contrôle
+4. M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
+5. M au pli, 2 cm de G et de H au contrôle
 
-#### DEV05
+#### Devoir 9
+1. M au pli, 2 cm de G et de H au contrôle
+2. R au pli, 8 cm de chaque extrémité au contrôle
+3. M au pli, 6 cm de J et de K au contrôle
+4. M au pli, 3 cm de C et de D au contrôle
+5. M au pli, 6 cm de J et de K au contrôle
 
-1. **DEV05-01** M au pli, 6 cm de J et de K au contrôle
-2. **DEV05-02** M au pli, 5 cm de E et de F au contrôle
-3. **DEV05-03** N au pli, 7 cm de chaque extrémité au contrôle
-4. **DEV05-04** M au pli, 5 cm de E et de F au contrôle
-5. **DEV05-05** N au pli, 7 cm de chaque extrémité au contrôle
-
-#### DEV06
-
-1. **DEV06-01** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-2. **DEV06-02** M au pli, 2 cm de G et de H au contrôle
-3. **DEV06-03** R au pli, 8 cm de chaque extrémité au contrôle
-4. **DEV06-04** M au pli, 2 cm de G et de H au contrôle
-5. **DEV06-05** R au pli, 8 cm de chaque extrémité au contrôle
-
-#### DEV07
-
-1. **DEV07-01** M au pli, 3 cm de C et de D au contrôle
-2. **DEV07-02** M au pli, 6 cm de J et de K au contrôle
-3. **DEV07-03** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-4. **DEV07-04** M au pli, 6 cm de J et de K au contrôle
-5. **DEV07-05** M au pli, 5 cm de E et de F au contrôle
-
-#### DEV08
-
-1. **DEV08-01** M au pli, 5 cm de E et de F au contrôle
-2. **DEV08-02** N au pli, 7 cm de chaque extrémité au contrôle
-3. **DEV08-03** M au pli, 3 cm de C et de D au contrôle
-4. **DEV08-04** M est au pli, à égale distance de A et de B (4 cm de chaque extrémité au contrôle)
-5. **DEV08-05** M au pli, 2 cm de G et de H au contrôle
-
-#### DEV09
-
-1. **DEV09-01** M au pli, 2 cm de G et de H au contrôle
-2. **DEV09-02** R au pli, 8 cm de chaque extrémité au contrôle
-3. **DEV09-03** M au pli, 6 cm de J et de K au contrôle
-4. **DEV09-04** M au pli, 3 cm de C et de D au contrôle
-5. **DEV09-05** M au pli, 6 cm de J et de K au contrôle
-
-#### DEV10
-
-1. **DEV10-01** M au pli, 6 cm de J et de K au contrôle
-2. **DEV10-02** M au pli, 5 cm de E et de F au contrôle
-3. **DEV10-03** N au pli, 7 cm de chaque extrémité au contrôle
-4. **DEV10-04** M au pli, 5 cm de E et de F au contrôle
-5. **DEV10-05** N au pli, 7 cm de chaque extrémité au contrôle
+#### Devoir 10
+1. M au pli, 6 cm de J et de K au contrôle
+2. M au pli, 5 cm de E et de F au contrôle
+3. N au pli, 7 cm de chaque extrémité au contrôle
+4. M au pli, 5 cm de E et de F au contrôle
+5. N au pli, 7 cm de chaque extrémité au contrôle
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

@@ -76,24 +76,21 @@ Imprimer ce SVG à 100 %. Les angles ne se distinguent pas par la couleur. L’�
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** droit.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** non droit.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -102,13 +99,13 @@ Imprimer ce SVG à 100 %. Les angles ne se distinguent pas par la couleur. L’�
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **IMM02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **IMM03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **IMM04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **IMM05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **IMM06** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **IMM07** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
 
 ## Variables didactiques
 
@@ -118,511 +115,451 @@ Imprimer ce SVG à 100 %. Les angles ne se distinguent pas par la couleur. L’�
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
 
-- **ENT01-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **ENT01-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **ENT01-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **ENT01-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **ENT01-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+### Entraînement 2
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
 
-### ENT02
+### Entraînement 3
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
 
-- **ENT02-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **ENT02-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **ENT02-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **ENT02-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **ENT02-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+### Entraînement 4
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
 
-### ENT03
+### Entraînement 5
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
 
-- **ENT03-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **ENT03-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **ENT03-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **ENT03-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **ENT03-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+### Entraînement 6
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
 
-### ENT04
+### Entraînement 7
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
 
-- **ENT04-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
-- **ENT04-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
-- **ENT04-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
-- **ENT04-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
-- **ENT04-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
+### Entraînement 8
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B : vérifie malgré son ouverture proche de l’angle droit.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C : place exactement le sommet de l’équerre.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
 
-### ENT05
+### Entraînement 9
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
 
-- **ENT05-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
-- **ENT05-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
-- **ENT05-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
-- **ENT05-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
-- **ENT05-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
-
-### ENT06
-
-- **ENT06-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
-- **ENT06-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
-- **ENT06-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
-- **ENT06-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
-- **ENT06-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
-
-### ENT07
-
-- **ENT07-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
-- **ENT07-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
-- **ENT07-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
-- **ENT07-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
-- **ENT07-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
-
-### ENT08
-
-- **ENT08-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B : vérifie malgré son ouverture proche de l’angle droit.
-- **ENT08-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C : place exactement le sommet de l’équerre.
-- **ENT08-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
-- **ENT08-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
-- **ENT08-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
-
-### ENT09
-
-- **ENT09-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
-- **ENT09-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
-- **ENT09-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
-- **ENT09-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
-- **ENT09-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
-
-### ENT10
-
-- **ENT10-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
-- **ENT10-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
-- **ENT10-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
-- **ENT10-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B : vérifie malgré son ouverture proche de l’angle droit.
-- **ENT10-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C : place exactement le sommet de l’équerre.
+### Entraînement 10
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B : vérifie malgré son ouverture proche de l’angle droit.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C : place exactement le sommet de l’équerre.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G après rotation de la feuille.
 
-- **EVAL01-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **EVAL01-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
-- **EVAL01-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
-- **EVAL01-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
-- **EVAL01-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G après rotation de la feuille.
+### Évaluation 2
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F après rotation de la feuille.
 
-### EVAL02
+### Évaluation 3
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J avec des côtés prolongés.
 
-- **EVAL02-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **EVAL02-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
-- **EVAL02-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
-- **EVAL02-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
-- **EVAL02-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F après rotation de la feuille.
+### Évaluation 4
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C avec un gabarit en carton.
 
-### EVAL03
+### Évaluation 5
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G après rotation de la feuille.
 
-- **EVAL03-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **EVAL03-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
-- **EVAL03-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
-- **EVAL03-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
-- **EVAL03-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J avec des côtés prolongés.
+### Évaluation 6
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F après rotation de la feuille.
 
-### EVAL04
+### Évaluation 7
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J avec des côtés prolongés.
 
-- **EVAL04-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **EVAL04-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
-- **EVAL04-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
-- **EVAL04-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
-- **EVAL04-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C avec un gabarit en carton.
+### Évaluation 8
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C avec un gabarit en carton.
 
-### EVAL05
+### Évaluation 9
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G après rotation de la feuille.
 
-- **EVAL05-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **EVAL05-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
-- **EVAL05-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
-- **EVAL05-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
-- **EVAL05-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G après rotation de la feuille.
-
-### EVAL06
-
-- **EVAL06-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **EVAL06-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
-- **EVAL06-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C.
-- **EVAL06-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I : les côtés sont obliques sur la page.
-- **EVAL06-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F après rotation de la feuille.
-
-### EVAL07
-
-- **EVAL07-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **EVAL07-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K.
-- **EVAL07-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
-- **EVAL07-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E : le sommet pointe vers le bas.
-- **EVAL07-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J avec des côtés prolongés.
-
-### EVAL08
-
-- **EVAL08-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **EVAL08-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L.
-- **EVAL08-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle I.
-- **EVAL08-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F : ne te fie pas à son orientation.
-- **EVAL08-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle C avec un gabarit en carton.
-
-### EVAL09
-
-- **EVAL09-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **EVAL09-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
-- **EVAL09-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E, après avoir tourné la feuille.
-- **EVAL09-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle K : vérifie avec le coin de l’équerre.
-- **EVAL09-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G après rotation de la feuille.
-
-### EVAL10
-
-- **EVAL10-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **EVAL10-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
-- **EVAL10-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
-- **EVAL10-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
-- **EVAL10-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F après rotation de la feuille.
+### Évaluation 10
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H, après avoir prolongé mentalement ses côtés.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle L : tourne l’équerre si nécessaire.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle F après rotation de la feuille.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
 
-- **DEV01-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **DEV01-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **DEV01-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **DEV01-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **DEV01-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+### Devoir 2
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
 
-### DEV02
+### Devoir 3
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
 
-- **DEV02-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **DEV02-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV02-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **DEV02-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV02-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+### Devoir 4
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
 
-### DEV03
+### Devoir 5
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
 
-- **DEV03-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **DEV03-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **DEV03-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **DEV03-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **DEV03-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+### Devoir 6
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
 
-### DEV04
+### Devoir 7
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
 
-- **DEV04-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **DEV04-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **DEV04-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV04-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **DEV04-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+### Devoir 8
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
 
-### DEV05
+### Devoir 9
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
 
-- **DEV05-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV05-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **DEV05-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **DEV05-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **DEV05-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-
-### DEV06
-
-- **DEV06-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **DEV06-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **DEV06-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **DEV06-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **DEV06-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-
-### DEV07
-
-- **DEV07-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **DEV07-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV07-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **DEV07-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV07-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-
-### DEV08
-
-- **DEV08-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **DEV08-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **DEV08-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **DEV08-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle A.
-- **DEV08-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-
-### DEV09
-
-- **DEV09-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle E.
-- **DEV09-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle J.
-- **DEV09-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV09-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle B.
-- **DEV09-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-
-### DEV10
-
-- **DEV10-01** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
-- **DEV10-02** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **DEV10-03** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
-- **DEV10-04** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
-- **DEV10-05** Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+### Devoir 10
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle G.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle D.
+- Vérifie l’angle indiqué avec le gabarit ou l’équerre. Écris « droit » ou « non droit ». Angle H.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** droit
-2. **IMM02** droit
-3. **IMM03** non droit
-4. **IMM04** droit
-5. **IMM05** droit
-6. **IMM06** non droit
-7. **IMM07** droit
+1. droit
+2. droit
+3. non droit
+4. droit
+5. droit
+6. non droit
+7. droit
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. droit
+2. non droit
+3. droit
+4. droit
+5. droit
 
-1. **ENT01-01** droit
-2. **ENT01-02** non droit
-3. **ENT01-03** droit
-4. **ENT01-04** droit
-5. **ENT01-05** droit
+#### Entraînement 2
+1. droit
+2. droit
+3. droit
+4. non droit
+5. droit
 
-#### ENT02
+#### Entraînement 3
+1. droit
+2. non droit
+3. droit
+4. droit
+5. non droit
 
-1. **ENT02-01** droit
-2. **ENT02-02** droit
-3. **ENT02-03** droit
-4. **ENT02-04** non droit
-5. **ENT02-05** droit
+#### Entraînement 4
+1. non droit
+2. non droit
+3. non droit
+4. droit
+5. non droit
 
-#### ENT03
+#### Entraînement 5
+1. non droit
+2. droit
+3. non droit
+4. droit
+5. droit
 
-1. **ENT03-01** droit
-2. **ENT03-02** non droit
-3. **ENT03-03** droit
-4. **ENT03-04** droit
-5. **ENT03-05** non droit
+#### Entraînement 6
+1. non droit
+2. droit
+3. droit
+4. non droit
+5. non droit
 
-#### ENT04
+#### Entraînement 7
+1. droit
+2. non droit
+3. non droit
+4. non droit
+5. droit
 
-1. **ENT04-01** non droit
-2. **ENT04-02** non droit
-3. **ENT04-03** non droit
-4. **ENT04-04** droit
-5. **ENT04-05** non droit
+#### Entraînement 8
+1. non droit
+2. non droit
+3. non droit
+4. non droit
+5. droit
 
-#### ENT05
+#### Entraînement 9
+1. non droit
+2. non droit
+3. droit
+4. droit
+5. droit
 
-1. **ENT05-01** non droit
-2. **ENT05-02** droit
-3. **ENT05-03** non droit
-4. **ENT05-04** droit
-5. **ENT05-05** droit
-
-#### ENT06
-
-1. **ENT06-01** non droit
-2. **ENT06-02** droit
-3. **ENT06-03** droit
-4. **ENT06-04** non droit
-5. **ENT06-05** non droit
-
-#### ENT07
-
-1. **ENT07-01** droit
-2. **ENT07-02** non droit
-3. **ENT07-03** non droit
-4. **ENT07-04** non droit
-5. **ENT07-05** droit
-
-#### ENT08
-
-1. **ENT08-01** non droit
-2. **ENT08-02** non droit
-3. **ENT08-03** non droit
-4. **ENT08-04** non droit
-5. **ENT08-05** droit
-
-#### ENT09
-
-1. **ENT09-01** non droit
-2. **ENT09-02** non droit
-3. **ENT09-03** droit
-4. **ENT09-04** droit
-5. **ENT09-05** droit
-
-#### ENT10
-
-1. **ENT10-01** droit
-2. **ENT10-02** droit
-3. **ENT10-03** droit
-4. **ENT10-04** non droit
-5. **ENT10-05** non droit
+#### Entraînement 10
+1. droit
+2. droit
+3. droit
+4. non droit
+5. non droit
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. droit
+2. droit
+3. non droit
+4. droit
+5. droit
 
-1. **EVAL01-01** droit
-2. **EVAL01-02** droit
-3. **EVAL01-03** non droit
-4. **EVAL01-04** droit
-5. **EVAL01-05** droit
+#### Évaluation 2
+1. non droit
+2. non droit
+3. non droit
+4. droit
+5. non droit
 
-#### EVAL02
+#### Évaluation 3
+1. droit
+2. droit
+3. droit
+4. non droit
+5. droit
 
-1. **EVAL02-01** non droit
-2. **EVAL02-02** non droit
-3. **EVAL02-03** non droit
-4. **EVAL02-04** droit
-5. **EVAL02-05** non droit
+#### Évaluation 4
+1. droit
+2. droit
+3. droit
+4. non droit
+5. non droit
 
-#### EVAL03
+#### Évaluation 5
+1. non droit
+2. non droit
+3. non droit
+4. droit
+5. droit
 
-1. **EVAL03-01** droit
-2. **EVAL03-02** droit
-3. **EVAL03-03** droit
-4. **EVAL03-04** non droit
-5. **EVAL03-05** droit
+#### Évaluation 6
+1. droit
+2. droit
+3. non droit
+4. droit
+5. non droit
 
-#### EVAL04
+#### Évaluation 7
+1. non droit
+2. non droit
+3. non droit
+4. droit
+5. droit
 
-1. **EVAL04-01** droit
-2. **EVAL04-02** droit
-3. **EVAL04-03** droit
-4. **EVAL04-04** non droit
-5. **EVAL04-05** non droit
+#### Évaluation 8
+1. droit
+2. droit
+3. droit
+4. non droit
+5. non droit
 
-#### EVAL05
+#### Évaluation 9
+1. droit
+2. droit
+3. droit
+4. non droit
+5. droit
 
-1. **EVAL05-01** non droit
-2. **EVAL05-02** non droit
-3. **EVAL05-03** non droit
-4. **EVAL05-04** droit
-5. **EVAL05-05** droit
-
-#### EVAL06
-
-1. **EVAL06-01** droit
-2. **EVAL06-02** droit
-3. **EVAL06-03** non droit
-4. **EVAL06-04** droit
-5. **EVAL06-05** non droit
-
-#### EVAL07
-
-1. **EVAL07-01** non droit
-2. **EVAL07-02** non droit
-3. **EVAL07-03** non droit
-4. **EVAL07-04** droit
-5. **EVAL07-05** droit
-
-#### EVAL08
-
-1. **EVAL08-01** droit
-2. **EVAL08-02** droit
-3. **EVAL08-03** droit
-4. **EVAL08-04** non droit
-5. **EVAL08-05** non droit
-
-#### EVAL09
-
-1. **EVAL09-01** droit
-2. **EVAL09-02** droit
-3. **EVAL09-03** droit
-4. **EVAL09-04** non droit
-5. **EVAL09-05** droit
-
-#### EVAL10
-
-1. **EVAL10-01** non droit
-2. **EVAL10-02** non droit
-3. **EVAL10-03** non droit
-4. **EVAL10-04** droit
-5. **EVAL10-05** non droit
+#### Évaluation 10
+1. non droit
+2. non droit
+3. non droit
+4. droit
+5. non droit
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. droit
+2. droit
+3. droit
+4. droit
+5. droit
 
-1. **DEV01-01** droit
-2. **DEV01-02** droit
-3. **DEV01-03** droit
-4. **DEV01-04** droit
-5. **DEV01-05** droit
+#### Devoir 2
+1. non droit
+2. droit
+3. droit
+4. droit
+5. droit
 
-#### DEV02
+#### Devoir 3
+1. droit
+2. non droit
+3. non droit
+4. droit
+5. droit
 
-1. **DEV02-01** non droit
-2. **DEV02-02** droit
-3. **DEV02-03** droit
-4. **DEV02-04** droit
-5. **DEV02-05** droit
+#### Devoir 4
+1. droit
+2. droit
+3. droit
+4. non droit
+5. droit
 
-#### DEV03
+#### Devoir 5
+1. droit
+2. droit
+3. non droit
+4. droit
+5. non droit
 
-1. **DEV03-01** droit
-2. **DEV03-02** non droit
-3. **DEV03-03** non droit
-4. **DEV03-04** droit
-5. **DEV03-05** droit
+#### Devoir 6
+1. droit
+2. droit
+3. droit
+4. droit
+5. droit
 
-#### DEV04
+#### Devoir 7
+1. non droit
+2. droit
+3. droit
+4. droit
+5. droit
 
-1. **DEV04-01** droit
-2. **DEV04-02** droit
-3. **DEV04-03** droit
-4. **DEV04-04** non droit
-5. **DEV04-05** droit
+#### Devoir 8
+1. droit
+2. non droit
+3. non droit
+4. droit
+5. droit
 
-#### DEV05
+#### Devoir 9
+1. droit
+2. droit
+3. droit
+4. non droit
+5. droit
 
-1. **DEV05-01** droit
-2. **DEV05-02** droit
-3. **DEV05-03** non droit
-4. **DEV05-04** droit
-5. **DEV05-05** non droit
-
-#### DEV06
-
-1. **DEV06-01** droit
-2. **DEV06-02** droit
-3. **DEV06-03** droit
-4. **DEV06-04** droit
-5. **DEV06-05** droit
-
-#### DEV07
-
-1. **DEV07-01** non droit
-2. **DEV07-02** droit
-3. **DEV07-03** droit
-4. **DEV07-04** droit
-5. **DEV07-05** droit
-
-#### DEV08
-
-1. **DEV08-01** droit
-2. **DEV08-02** non droit
-3. **DEV08-03** non droit
-4. **DEV08-04** droit
-5. **DEV08-05** droit
-
-#### DEV09
-
-1. **DEV09-01** droit
-2. **DEV09-02** droit
-3. **DEV09-03** droit
-4. **DEV09-04** non droit
-5. **DEV09-05** droit
-
-#### DEV10
-
-1. **DEV10-01** droit
-2. **DEV10-02** droit
-3. **DEV10-03** non droit
-4. **DEV10-04** droit
-5. **DEV10-05** non droit
+#### Devoir 10
+1. droit
+2. droit
+3. non droit
+4. droit
+5. non droit
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

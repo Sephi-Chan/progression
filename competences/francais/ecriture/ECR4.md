@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
-- **IMM02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **IMM03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
-- **IMM04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **IMM05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **IMM06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
-- **IMM07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
 
 ## Variables didactiques
 
@@ -135,571 +132,511 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
 
-- **ENT01-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **ENT01-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **ENT01-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **ENT01-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **ENT01-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT01-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **ENT01-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **ENT01-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+### Entraînement 2 — accessible
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
 
-- **ENT02-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **ENT02-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **ENT02-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **ENT02-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
-- **ENT02-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **ENT02-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **ENT02-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **ENT02-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+### Entraînement 4 — standard
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
 
-- **ENT03-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **ENT03-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **ENT03-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **ENT03-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT03-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **ENT03-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **ENT03-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **ENT03-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
+### Entraînement 6 — standard
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
 
-### ENT04 — standard
+### Entraînement 7 — standard
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
 
-- **ENT04-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **ENT04-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **ENT04-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT04-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **ENT04-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **ENT04-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **ENT04-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **ENT04-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+### Entraînement 8 — plus résistant
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
 
-- **ENT05-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **ENT05-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **ENT05-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **ENT05-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-- **ENT05-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **ENT05-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **ENT05-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT05-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-
-### ENT06 — standard
-
-- **ENT06-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **ENT06-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT06-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **ENT06-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **ENT06-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **ENT06-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **ENT06-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **ENT06-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-
-### ENT07 — standard
-
-- **ENT07-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **ENT07-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **ENT07-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-- **ENT07-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **ENT07-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **ENT07-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT07-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **ENT07-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-
-### ENT08 — plus résistant
-
-- **ENT08-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
-- **ENT08-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **ENT08-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **ENT08-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-- **ENT08-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **ENT08-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **ENT08-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT08-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
-
-### ENT09 — plus résistant
-
-- **ENT09-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **ENT09-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **ENT09-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
-- **ENT09-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **ENT09-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
-- **ENT09-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **ENT09-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **ENT09-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **ENT10-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **ENT10-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
-- **ENT10-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **ENT10-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **ENT10-06** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-- **ENT10-07** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **ENT10-08** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+### Entraînement 10 — plus résistant
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune combine quatre items entraînés issus des mêmes niveaux de série et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **aya frappe à la porte pablo ouvre**
 
-- **EVAL01-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **EVAL01-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **EVAL01-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-- **EVAL01-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
-- **EVAL01-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **aya frappe à la porte pablo ouvre**
+### Évaluation 2
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le rideau se lève le public applaudit**
 
-### EVAL02
+### Évaluation 3
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où va ce car il roule vers la gare**
 
-- **EVAL02-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **EVAL02-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **EVAL02-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **EVAL02-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
-- **EVAL02-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le rideau se lève le public applaudit**
+### Évaluation 4
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quelle surprise tu es déjà là**
 
-### EVAL03
+### Évaluation 5
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la neige tombe mets tes gants**
 
-- **EVAL03-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **EVAL03-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-- **EVAL03-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **EVAL03-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **EVAL03-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où va ce car il roule vers la gare**
+### Évaluation 6
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu vu ma clé elle est près du vase**
 
-### EVAL04
+### Évaluation 7
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bateau accoste les passagers descendent**
 
-- **EVAL04-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
-- **EVAL04-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **EVAL04-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **EVAL04-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **EVAL04-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quelle surprise tu es déjà là**
+### Évaluation 8
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **vite le portail va fermer**
 
-### EVAL05
+### Évaluation 9
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la lampe s’éteint la salle devient sombre**
 
-- **EVAL05-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **EVAL05-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **EVAL05-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **EVAL05-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la pluie cesse le soleil revient**
-- **EVAL05-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la neige tombe mets tes gants**
-
-### EVAL06
-
-- **EVAL06-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **EVAL06-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **EVAL06-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **EVAL06-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu faim le goûter est prêt**
-- **EVAL06-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **as-tu vu ma clé elle est près du vase**
-
-### EVAL07
-
-- **EVAL07-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **EVAL07-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **EVAL07-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **EVAL07-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **EVAL07-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bateau accoste les passagers descendent**
-
-### EVAL08
-
-- **EVAL08-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **EVAL08-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **EVAL08-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **EVAL08-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **attention le sol est mouillé**
-- **EVAL08-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **vite le portail va fermer**
-
-### EVAL09
-
-- **EVAL09-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **EVAL09-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **EVAL09-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bus arrive montons vite**
-- **EVAL09-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
-- **EVAL09-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la lampe s’éteint la salle devient sombre**
-
-### EVAL10
-
-- **EVAL10-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **EVAL10-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
-- **EVAL10-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **EVAL10-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
-- **EVAL10-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **qui appelle c’est le gardien**
+### Évaluation 10
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **quel beau dessin tu as bien travaillé**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **viens ici le repas commence**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **qui appelle c’est le gardien**
 
 ## Devoirs
 
 La consigne reste celle de la classe. Tous les items proviennent des quatre premières séries ; aucun matériel particulier n’est requis en dehors du support imprimé et d’un crayon.
 
-### DEV01
+### Devoir 1
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
 
-- **DEV01-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **DEV01-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **DEV01-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **DEV01-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **DEV01-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+### Devoir 2
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
 
-### DEV02
+### Devoir 3
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
 
-- **DEV02-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **DEV02-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **DEV02-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **DEV02-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **DEV02-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+### Devoir 4
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
 
-### DEV03
+### Devoir 5
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
 
-- **DEV03-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **DEV03-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **DEV03-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **DEV03-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **DEV03-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+### Devoir 6
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
 
-### DEV04
+### Devoir 7
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
 
-- **DEV04-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **DEV04-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **DEV04-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **DEV04-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **DEV04-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+### Devoir 8
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
 
-### DEV05
+### Devoir 9
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
 
-- **DEV05-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **DEV05-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **DEV05-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **DEV05-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **DEV05-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-
-### DEV06
-
-- **DEV06-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **DEV06-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **DEV06-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **DEV06-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **DEV06-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-
-### DEV07
-
-- **DEV07-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **DEV07-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **DEV07-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **DEV07-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **DEV07-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-
-### DEV08
-
-- **DEV08-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **où est mon livre il est sur la table**
-- **DEV08-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **DEV08-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **DEV08-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
-- **DEV08-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-
-### DEV09
-
-- **DEV09-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **DEV09-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le bébé rit sa sœur applaudit**
-- **DEV09-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **la cloche sonne les élèves sortent**
-- **DEV09-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le chat dort le chien joue**
-- **DEV09-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-
-### DEV10
-
-- **DEV10-01** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
-- **DEV10-02** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
-- **DEV10-03** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
-- **DEV10-04** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
-- **DEV10-05** — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
+### Devoir 10
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **malo dessine lina colorie**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **le vent se lève les feuilles s’envolent**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **mila ouvre la porte elle entre**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **nora lit adam dessine**
+- — Réécris en séparant les deux phrases. Ajoute les majuscules et les signes finaux : **il pleut prends ton parapluie**
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Réponse exacte : « Attention ! Le sol est mouillé. »
-- **IMM02** — Réponse exacte : « Nora lit. Adam dessine. »
-- **IMM03** — Réponse exacte : « Viens ici ! Le repas commence. »
-- **IMM04** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **IMM05** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **IMM06** — Réponse exacte : « La pluie cesse. Le soleil revient. »
-- **IMM07** — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Attention ! Le sol est mouillé. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Viens ici ! Le repas commence. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
 
-- **ENT01-01** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **ENT01-02** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **ENT01-03** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **ENT01-04** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **ENT01-05** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT01-06** — Réponse exacte : « Nora lit. Adam dessine. »
-- **ENT01-07** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **ENT01-08** — Réponse exacte : « Malo dessine. Lina colorie. »
+#### Entraînement 2
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
 
-#### ENT02
+#### Entraînement 3
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
 
-- **ENT02-01** — Réponse exacte : « Nora lit. Adam dessine. »
-- **ENT02-02** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **ENT02-03** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **ENT02-04** — Réponse exacte : « La pluie cesse. Le soleil revient. »
-- **ENT02-05** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **ENT02-06** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **ENT02-07** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **ENT02-08** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+#### Entraînement 4
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
 
-#### ENT03
+#### Entraînement 5
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
 
-- **ENT03-01** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **ENT03-02** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **ENT03-03** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **ENT03-04** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT03-05** — Réponse exacte : « Nora lit. Adam dessine. »
-- **ENT03-06** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **ENT03-07** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **ENT03-08** — Réponse exacte : « La pluie cesse. Le soleil revient. »
+#### Entraînement 6
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
 
-#### ENT04
+#### Entraînement 7
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
 
-- **ENT04-01** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **ENT04-02** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **ENT04-03** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT04-04** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **ENT04-05** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **ENT04-06** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **ENT04-07** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **ENT04-08** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+#### Entraînement 8
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Attention ! Le sol est mouillé. »
 
-#### ENT05
+#### Entraînement 9
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Attention ! Le sol est mouillé. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Viens ici ! Le repas commence. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
 
-- **ENT05-01** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **ENT05-02** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **ENT05-03** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **ENT05-04** — Réponse exacte : « Le bus arrive. Montons vite ! »
-- **ENT05-05** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **ENT05-06** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **ENT05-07** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT05-08** — Réponse exacte : « Le chat dort. Le chien joue. »
-
-#### ENT06
-
-- **ENT06-01** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **ENT06-02** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT06-03** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **ENT06-04** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **ENT06-05** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **ENT06-06** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **ENT06-07** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **ENT06-08** — Réponse exacte : « Le bus arrive. Montons vite ! »
-
-#### ENT07
-
-- **ENT07-01** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **ENT07-02** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **ENT07-03** — Réponse exacte : « Le bus arrive. Montons vite ! »
-- **ENT07-04** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **ENT07-05** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **ENT07-06** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT07-07** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **ENT07-08** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-
-#### ENT08
-
-- **ENT08-01** — Réponse exacte : « La pluie cesse. Le soleil revient. »
-- **ENT08-02** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **ENT08-03** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **ENT08-04** — Réponse exacte : « Le bus arrive. Montons vite ! »
-- **ENT08-05** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **ENT08-06** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **ENT08-07** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT08-08** — Réponse exacte : « Attention ! Le sol est mouillé. »
-
-#### ENT09
-
-- **ENT09-01** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **ENT09-02** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **ENT09-03** — Réponse exacte : « Attention ! Le sol est mouillé. »
-- **ENT09-04** — Réponse exacte : « Nora lit. Adam dessine. »
-- **ENT09-05** — Réponse exacte : « Viens ici ! Le repas commence. »
-- **ENT09-06** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **ENT09-07** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **ENT09-08** — Réponse exacte : « La pluie cesse. Le soleil revient. »
-
-#### ENT10
-
-- **ENT10-01** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **ENT10-02** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **ENT10-03** — Réponse exacte : « La pluie cesse. Le soleil revient. »
-- **ENT10-04** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **ENT10-05** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **ENT10-06** — Réponse exacte : « Le bus arrive. Montons vite ! »
-- **ENT10-07** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **ENT10-08** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+#### Entraînement 10
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
+- — Réponse exacte : « Viens ici ! Le repas commence. »
+- — Réponse exacte : « Aya frappe à la porte. Pablo ouvre. »
 
-- **EVAL01-01** — Réponse exacte : « Nora lit. Adam dessine. »
-- **EVAL01-02** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **EVAL01-03** — Réponse exacte : « Le bus arrive. Montons vite ! »
-- **EVAL01-04** — Réponse exacte : « Viens ici ! Le repas commence. »
-- **EVAL01-05** — Réponse exacte : « Aya frappe à la porte. Pablo ouvre. »
+#### Évaluation 2
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Viens ici ! Le repas commence. »
+- — Réponse exacte : « Le rideau se lève. Le public applaudit. »
 
-#### EVAL02
+#### Évaluation 3
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Où va ce car ? Il roule vers la gare. »
 
-- **EVAL02-01** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **EVAL02-02** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **EVAL02-03** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **EVAL02-04** — Réponse exacte : « Viens ici ! Le repas commence. »
-- **EVAL02-05** — Réponse exacte : « Le rideau se lève. Le public applaudit. »
+#### Évaluation 4
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « Quelle surprise ! Tu es déjà là. »
 
-#### EVAL03
+#### Évaluation 5
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « La pluie cesse. Le soleil revient. »
+- — Réponse exacte : « La neige tombe. Mets tes gants ! »
 
-- **EVAL03-01** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **EVAL03-02** — Réponse exacte : « Le bus arrive. Montons vite ! »
-- **EVAL03-03** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **EVAL03-04** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **EVAL03-05** — Réponse exacte : « Où va ce car ? Il roule vers la gare. »
+#### Évaluation 6
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
+- — Réponse exacte : « As-tu vu ma clé ? Elle est près du vase. »
 
-#### EVAL04
+#### Évaluation 7
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Le bateau accoste. Les passagers descendent. »
 
-- **EVAL04-01** — Réponse exacte : « La pluie cesse. Le soleil revient. »
-- **EVAL04-02** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **EVAL04-03** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **EVAL04-04** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **EVAL04-05** — Réponse exacte : « Quelle surprise ! Tu es déjà là. »
+#### Évaluation 8
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « Attention ! Le sol est mouillé. »
+- — Réponse exacte : « Vite ! Le portail va fermer. »
 
-#### EVAL05
+#### Évaluation 9
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Le bus arrive. Montons vite ! »
+- — Réponse exacte : « Viens ici ! Le repas commence. »
+- — Réponse exacte : « La lampe s’éteint. La salle devient sombre. »
 
-- **EVAL05-01** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **EVAL05-02** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **EVAL05-03** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **EVAL05-04** — Réponse exacte : « La pluie cesse. Le soleil revient. »
-- **EVAL05-05** — Réponse exacte : « La neige tombe. Mets tes gants ! »
-
-#### EVAL06
-
-- **EVAL06-01** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **EVAL06-02** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **EVAL06-03** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **EVAL06-04** — Réponse exacte : « As-tu faim ? Le goûter est prêt. »
-- **EVAL06-05** — Réponse exacte : « As-tu vu ma clé ? Elle est près du vase. »
-
-#### EVAL07
-
-- **EVAL07-01** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **EVAL07-02** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **EVAL07-03** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **EVAL07-04** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **EVAL07-05** — Réponse exacte : « Le bateau accoste. Les passagers descendent. »
-
-#### EVAL08
-
-- **EVAL08-01** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **EVAL08-02** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **EVAL08-03** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **EVAL08-04** — Réponse exacte : « Attention ! Le sol est mouillé. »
-- **EVAL08-05** — Réponse exacte : « Vite ! Le portail va fermer. »
-
-#### EVAL09
-
-- **EVAL09-01** — Réponse exacte : « Nora lit. Adam dessine. »
-- **EVAL09-02** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **EVAL09-03** — Réponse exacte : « Le bus arrive. Montons vite ! »
-- **EVAL09-04** — Réponse exacte : « Viens ici ! Le repas commence. »
-- **EVAL09-05** — Réponse exacte : « La lampe s’éteint. La salle devient sombre. »
-
-#### EVAL10
-
-- **EVAL10-01** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **EVAL10-02** — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
-- **EVAL10-03** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **EVAL10-04** — Réponse exacte : « Viens ici ! Le repas commence. »
-- **EVAL10-05** — Réponse exacte : « Qui appelle ? C’est le gardien. »
+#### Évaluation 10
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « Quel beau dessin ! Tu as bien travaillé. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Viens ici ! Le repas commence. »
+- — Réponse exacte : « Qui appelle ? C’est le gardien. »
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
 
-- **DEV01-01** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **DEV01-02** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **DEV01-03** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **DEV01-04** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **DEV01-05** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+#### Devoir 2
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
 
-#### DEV02
+#### Devoir 3
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
 
-- **DEV02-01** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **DEV02-02** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **DEV02-03** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **DEV02-04** — Réponse exacte : « Nora lit. Adam dessine. »
-- **DEV02-05** — Réponse exacte : « Il pleut. Prends ton parapluie. »
+#### Devoir 4
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
 
-#### DEV03
+#### Devoir 5
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
 
-- **DEV03-01** — Réponse exacte : « Nora lit. Adam dessine. »
-- **DEV03-02** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **DEV03-03** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **DEV03-04** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **DEV03-05** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+#### Devoir 6
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
 
-#### DEV04
+#### Devoir 7
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
 
-- **DEV04-01** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **DEV04-02** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **DEV04-03** — Réponse exacte : « Nora lit. Adam dessine. »
-- **DEV04-04** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **DEV04-05** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+#### Devoir 8
+- — Réponse exacte : « Où est mon livre ? Il est sur la table. »
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
 
-#### DEV05
+#### Devoir 9
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
+- — Réponse exacte : « La cloche sonne. Les élèves sortent. »
+- — Réponse exacte : « Le chat dort. Le chien joue. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
 
-- **DEV05-01** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **DEV05-02** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **DEV05-03** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **DEV05-04** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **DEV05-05** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-
-#### DEV06
-
-- **DEV06-01** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **DEV06-02** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **DEV06-03** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **DEV06-04** — Réponse exacte : « Nora lit. Adam dessine. »
-- **DEV06-05** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-
-#### DEV07
-
-- **DEV07-01** — Réponse exacte : « Nora lit. Adam dessine. »
-- **DEV07-02** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **DEV07-03** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **DEV07-04** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **DEV07-05** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-
-#### DEV08
-
-- **DEV08-01** — Réponse exacte : « Où est mon livre ? Il est sur la table. »
-- **DEV08-02** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **DEV08-03** — Réponse exacte : « Nora lit. Adam dessine. »
-- **DEV08-04** — Réponse exacte : « Il pleut. Prends ton parapluie. »
-- **DEV08-05** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-
-#### DEV09
-
-- **DEV09-01** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **DEV09-02** — Réponse exacte : « Le bébé rit. Sa sœur applaudit. »
-- **DEV09-03** — Réponse exacte : « La cloche sonne. Les élèves sortent. »
-- **DEV09-04** — Réponse exacte : « Le chat dort. Le chien joue. »
-- **DEV09-05** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-
-#### DEV10
-
-- **DEV10-01** — Réponse exacte : « Malo dessine. Lina colorie. »
-- **DEV10-02** — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
-- **DEV10-03** — Réponse exacte : « Mila ouvre la porte. Elle entre. »
-- **DEV10-04** — Réponse exacte : « Nora lit. Adam dessine. »
-- **DEV10-05** — Réponse exacte : « Il pleut. Prends ton parapluie. »
+#### Devoir 10
+- — Réponse exacte : « Malo dessine. Lina colorie. »
+- — Réponse exacte : « Le vent se lève. Les feuilles s’envolent. »
+- — Réponse exacte : « Mila ouvre la porte. Elle entre. »
+- — Réponse exacte : « Nora lit. Adam dessine. »
+- — Réponse exacte : « Il pleut. Prends ton parapluie. »
 
 ## Traçabilité des évaluations et devoirs
 

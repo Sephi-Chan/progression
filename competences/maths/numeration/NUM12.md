@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** <.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Complète avec <, > ou = : 2/3 ___ 3/3.
+- Complète avec <, > ou = : 2/3 ___ 3/3.
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** <.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Complète avec <, > ou = : 1/4 ___ 1/4.
+- Complète avec <, > ou = : 1/4 ___ 1/4.
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Complète avec <, > ou = : 2/5 ___ 2/5.
-- **IMM02** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **IMM03** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **IMM04** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **IMM05** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **IMM06** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **IMM07** Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 2/5 ___ 2/5.
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Complète avec <, > ou = : 1/4 ___ 1/4.
+- Complète avec <, > ou = : 2/5 ___ 2/5.
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
 
-- **ENT01-01** Complète avec <, > ou = : 1/4 ___ 1/4.
-- **ENT01-02** Complète avec <, > ou = : 2/5 ___ 2/5.
-- **ENT01-03** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **ENT01-04** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **ENT01-05** Complète avec <, > ou = : 1/10 ___ 2/10.
+### Entraînement 2
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
 
-### ENT02
+### Entraînement 3
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
 
-- **ENT02-01** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **ENT02-02** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **ENT02-03** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **ENT02-04** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **ENT02-05** Complète avec <, > ou = : 1/3 ___ 1/3.
+### Entraînement 4
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
+- Complète avec <, > ou = : 1/4 ___ 2/4.
 
-### ENT03
+### Entraînement 5
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
+- Complète avec <, > ou = : 1/4 ___ 2/4.
+- Complète avec <, > ou = : 2/5 ___ 3/5.
+- Complète avec <, > ou = : 1/6 ___ 1/6.
 
-- **ENT03-01** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **ENT03-02** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **ENT03-03** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **ENT03-04** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **ENT03-05** Complète avec <, > ou = : 1/2 ___ 2/2.
+### Entraînement 6
+- Complète avec <, > ou = : 1/4 ___ 2/4.
+- Complète avec <, > ou = : 2/5 ___ 3/5.
+- Complète avec <, > ou = : 1/6 ___ 1/6.
+- Complète avec <, > ou = : 2/8 ___ 2/8.
+- Complète avec <, > ou = : 1/10 ___ 3/10.
 
-### ENT04
+### Entraînement 7
+- Complète avec <, > ou = : 1/6 ___ 1/6.
+- Complète avec <, > ou = : 2/8 ___ 2/8.
+- Complète avec <, > ou = : 1/10 ___ 3/10.
+- Complète avec <, > ou = : 2/12 ___ 1/12.
+- Complète avec <, > ou = : 1/3 ___ 2/3.
 
-- **ENT04-01** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **ENT04-02** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **ENT04-03** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **ENT04-04** Complète avec <, > ou = : 2/3 ___ 1/3.
-- **ENT04-05** Complète avec <, > ou = : 1/4 ___ 2/4.
+### Entraînement 8
+- Complète avec <, > ou = : 1/10 ___ 3/10.
+- Complète avec <, > ou = : 2/12 ___ 1/12.
+- Complète avec <, > ou = : 1/3 ___ 2/3.
+- Complète avec <, > ou = : 2/4 ___ 3/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
 
-### ENT05
+### Entraînement 9
+- Complète avec <, > ou = : 1/3 ___ 2/3.
+- Complète avec <, > ou = : 2/4 ___ 3/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 2/3.
+- Complète avec <, > ou = : 1/4 ___ 3/4.
 
-- **ENT05-01** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **ENT05-02** Complète avec <, > ou = : 2/3 ___ 1/3.
-- **ENT05-03** Complète avec <, > ou = : 1/4 ___ 2/4.
-- **ENT05-04** Complète avec <, > ou = : 2/5 ___ 3/5.
-- **ENT05-05** Complète avec <, > ou = : 1/6 ___ 1/6.
-
-### ENT06
-
-- **ENT06-01** Complète avec <, > ou = : 1/4 ___ 2/4.
-- **ENT06-02** Complète avec <, > ou = : 2/5 ___ 3/5.
-- **ENT06-03** Complète avec <, > ou = : 1/6 ___ 1/6.
-- **ENT06-04** Complète avec <, > ou = : 2/8 ___ 2/8.
-- **ENT06-05** Complète avec <, > ou = : 1/10 ___ 3/10.
-
-### ENT07
-
-- **ENT07-01** Complète avec <, > ou = : 1/6 ___ 1/6.
-- **ENT07-02** Complète avec <, > ou = : 2/8 ___ 2/8.
-- **ENT07-03** Complète avec <, > ou = : 1/10 ___ 3/10.
-- **ENT07-04** Complète avec <, > ou = : 2/12 ___ 1/12.
-- **ENT07-05** Complète avec <, > ou = : 1/3 ___ 2/3.
-
-### ENT08
-
-- **ENT08-01** Complète avec <, > ou = : 1/10 ___ 3/10.
-- **ENT08-02** Complète avec <, > ou = : 2/12 ___ 1/12.
-- **ENT08-03** Complète avec <, > ou = : 1/3 ___ 2/3.
-- **ENT08-04** Complète avec <, > ou = : 2/4 ___ 3/4.
-- **ENT08-05** Complète avec <, > ou = : 1/2 ___ 2/2.
-
-### ENT09
-
-- **ENT09-01** Complète avec <, > ou = : 1/3 ___ 2/3.
-- **ENT09-02** Complète avec <, > ou = : 2/4 ___ 3/4.
-- **ENT09-03** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **ENT09-04** Complète avec <, > ou = : 2/3 ___ 2/3.
-- **ENT09-05** Complète avec <, > ou = : 1/4 ___ 3/4.
-
-### ENT10
-
-- **ENT10-01** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **ENT10-02** Complète avec <, > ou = : 2/3 ___ 2/3.
-- **ENT10-03** Complète avec <, > ou = : 1/4 ___ 3/4.
-- **ENT10-04** Complète avec <, > ou = : 2/5 ___ 1/5.
-- **ENT10-05** Complète avec <, > ou = : 1/6 ___ 2/6.
+### Entraînement 10
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 2/3.
+- Complète avec <, > ou = : 1/4 ___ 3/4.
+- Complète avec <, > ou = : 2/5 ___ 1/5.
+- Complète avec <, > ou = : 1/6 ___ 2/6.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Complète avec <, > ou = : 1/4 ___ 1/4.
+- Complète avec <, > ou = : 2/5 ___ 2/5.
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
 
-- **EVAL01-01** Complète avec <, > ou = : 1/4 ___ 1/4.
-- **EVAL01-02** Complète avec <, > ou = : 2/5 ___ 2/5.
-- **EVAL01-03** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **EVAL01-04** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **EVAL01-05** Complète avec <, > ou = : 1/10 ___ 2/10.
+### Évaluation 2
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
 
-### EVAL02
+### Évaluation 3
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
 
-- **EVAL02-01** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **EVAL02-02** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **EVAL02-03** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **EVAL02-04** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **EVAL02-05** Complète avec <, > ou = : 1/3 ___ 1/3.
+### Évaluation 4
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
+- Complète avec <, > ou = : 1/4 ___ 2/4.
 
-### EVAL03
+### Évaluation 5
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
+- Complète avec <, > ou = : 1/4 ___ 2/4.
+- Complète avec <, > ou = : 2/5 ___ 3/5.
+- Complète avec <, > ou = : 1/6 ___ 1/6.
 
-- **EVAL03-01** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **EVAL03-02** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **EVAL03-03** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **EVAL03-04** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **EVAL03-05** Complète avec <, > ou = : 1/2 ___ 2/2.
+### Évaluation 6
+- Complète avec <, > ou = : 1/4 ___ 2/4.
+- Complète avec <, > ou = : 2/5 ___ 3/5.
+- Complète avec <, > ou = : 1/6 ___ 1/6.
+- Complète avec <, > ou = : 2/8 ___ 2/8.
+- Complète avec <, > ou = : 1/10 ___ 3/10.
 
-### EVAL04
+### Évaluation 7
+- Complète avec <, > ou = : 1/6 ___ 1/6.
+- Complète avec <, > ou = : 2/8 ___ 2/8.
+- Complète avec <, > ou = : 1/10 ___ 3/10.
+- Complète avec <, > ou = : 2/12 ___ 1/12.
+- Complète avec <, > ou = : 1/3 ___ 2/3.
 
-- **EVAL04-01** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **EVAL04-02** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **EVAL04-03** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **EVAL04-04** Complète avec <, > ou = : 2/3 ___ 1/3.
-- **EVAL04-05** Complète avec <, > ou = : 1/4 ___ 2/4.
+### Évaluation 8
+- Complète avec <, > ou = : 1/10 ___ 3/10.
+- Complète avec <, > ou = : 2/12 ___ 1/12.
+- Complète avec <, > ou = : 1/3 ___ 2/3.
+- Complète avec <, > ou = : 2/4 ___ 3/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
 
-### EVAL05
+### Évaluation 9
+- Complète avec <, > ou = : 1/3 ___ 2/3.
+- Complète avec <, > ou = : 2/4 ___ 3/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 2/3.
+- Complète avec <, > ou = : 1/4 ___ 3/4.
 
-- **EVAL05-01** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **EVAL05-02** Complète avec <, > ou = : 2/3 ___ 1/3.
-- **EVAL05-03** Complète avec <, > ou = : 1/4 ___ 2/4.
-- **EVAL05-04** Complète avec <, > ou = : 2/5 ___ 3/5.
-- **EVAL05-05** Complète avec <, > ou = : 1/6 ___ 1/6.
-
-### EVAL06
-
-- **EVAL06-01** Complète avec <, > ou = : 1/4 ___ 2/4.
-- **EVAL06-02** Complète avec <, > ou = : 2/5 ___ 3/5.
-- **EVAL06-03** Complète avec <, > ou = : 1/6 ___ 1/6.
-- **EVAL06-04** Complète avec <, > ou = : 2/8 ___ 2/8.
-- **EVAL06-05** Complète avec <, > ou = : 1/10 ___ 3/10.
-
-### EVAL07
-
-- **EVAL07-01** Complète avec <, > ou = : 1/6 ___ 1/6.
-- **EVAL07-02** Complète avec <, > ou = : 2/8 ___ 2/8.
-- **EVAL07-03** Complète avec <, > ou = : 1/10 ___ 3/10.
-- **EVAL07-04** Complète avec <, > ou = : 2/12 ___ 1/12.
-- **EVAL07-05** Complète avec <, > ou = : 1/3 ___ 2/3.
-
-### EVAL08
-
-- **EVAL08-01** Complète avec <, > ou = : 1/10 ___ 3/10.
-- **EVAL08-02** Complète avec <, > ou = : 2/12 ___ 1/12.
-- **EVAL08-03** Complète avec <, > ou = : 1/3 ___ 2/3.
-- **EVAL08-04** Complète avec <, > ou = : 2/4 ___ 3/4.
-- **EVAL08-05** Complète avec <, > ou = : 1/2 ___ 2/2.
-
-### EVAL09
-
-- **EVAL09-01** Complète avec <, > ou = : 1/3 ___ 2/3.
-- **EVAL09-02** Complète avec <, > ou = : 2/4 ___ 3/4.
-- **EVAL09-03** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **EVAL09-04** Complète avec <, > ou = : 2/3 ___ 2/3.
-- **EVAL09-05** Complète avec <, > ou = : 1/4 ___ 3/4.
-
-### EVAL10
-
-- **EVAL10-01** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **EVAL10-02** Complète avec <, > ou = : 2/3 ___ 2/3.
-- **EVAL10-03** Complète avec <, > ou = : 1/4 ___ 3/4.
-- **EVAL10-04** Complète avec <, > ou = : 2/5 ___ 1/5.
-- **EVAL10-05** Complète avec <, > ou = : 1/6 ___ 2/6.
+### Évaluation 10
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 2/3.
+- Complète avec <, > ou = : 1/4 ___ 3/4.
+- Complète avec <, > ou = : 2/5 ___ 1/5.
+- Complète avec <, > ou = : 1/6 ___ 2/6.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Complète avec <, > ou = : 2/3 ___ 3/3.
+- Complète avec <, > ou = : 1/4 ___ 1/4.
+- Complète avec <, > ou = : 2/5 ___ 2/5.
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
 
-- **DEV01-01** Complète avec <, > ou = : 2/3 ___ 3/3.
-- **DEV01-02** Complète avec <, > ou = : 1/4 ___ 1/4.
-- **DEV01-03** Complète avec <, > ou = : 2/5 ___ 2/5.
-- **DEV01-04** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **DEV01-05** Complète avec <, > ou = : 2/8 ___ 1/8.
+### Devoir 2
+- Complète avec <, > ou = : 1/4 ___ 1/4.
+- Complète avec <, > ou = : 2/5 ___ 2/5.
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
 
-### DEV02
+### Devoir 3
+- Complète avec <, > ou = : 2/5 ___ 2/5.
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
 
-- **DEV02-01** Complète avec <, > ou = : 1/4 ___ 1/4.
-- **DEV02-02** Complète avec <, > ou = : 2/5 ___ 2/5.
-- **DEV02-03** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **DEV02-04** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **DEV02-05** Complète avec <, > ou = : 1/10 ___ 2/10.
+### Devoir 4
+- Complète avec <, > ou = : 1/6 ___ 3/6.
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
 
-### DEV03
+### Devoir 5
+- Complète avec <, > ou = : 2/8 ___ 1/8.
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
 
-- **DEV03-01** Complète avec <, > ou = : 2/5 ___ 2/5.
-- **DEV03-02** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **DEV03-03** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **DEV03-04** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **DEV03-05** Complète avec <, > ou = : 2/12 ___ 3/12.
+### Devoir 6
+- Complète avec <, > ou = : 1/10 ___ 2/10.
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
 
-### DEV04
+### Devoir 7
+- Complète avec <, > ou = : 2/12 ___ 3/12.
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
 
-- **DEV04-01** Complète avec <, > ou = : 1/6 ___ 3/6.
-- **DEV04-02** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **DEV04-03** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **DEV04-04** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **DEV04-05** Complète avec <, > ou = : 1/3 ___ 1/3.
+### Devoir 8
+- Complète avec <, > ou = : 1/3 ___ 1/3.
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
+- Complète avec <, > ou = : 1/4 ___ 2/4.
 
-### DEV05
+### Devoir 9
+- Complète avec <, > ou = : 2/4 ___ 2/4.
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
+- Complète avec <, > ou = : 1/4 ___ 2/4.
+- Complète avec <, > ou = : 2/5 ___ 3/5.
 
-- **DEV05-01** Complète avec <, > ou = : 2/8 ___ 1/8.
-- **DEV05-02** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **DEV05-03** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **DEV05-04** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **DEV05-05** Complète avec <, > ou = : 2/4 ___ 2/4.
-
-### DEV06
-
-- **DEV06-01** Complète avec <, > ou = : 1/10 ___ 2/10.
-- **DEV06-02** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **DEV06-03** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **DEV06-04** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **DEV06-05** Complète avec <, > ou = : 1/2 ___ 2/2.
-
-### DEV07
-
-- **DEV07-01** Complète avec <, > ou = : 2/12 ___ 3/12.
-- **DEV07-02** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **DEV07-03** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **DEV07-04** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **DEV07-05** Complète avec <, > ou = : 2/3 ___ 1/3.
-
-### DEV08
-
-- **DEV08-01** Complète avec <, > ou = : 1/3 ___ 1/3.
-- **DEV08-02** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **DEV08-03** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **DEV08-04** Complète avec <, > ou = : 2/3 ___ 1/3.
-- **DEV08-05** Complète avec <, > ou = : 1/4 ___ 2/4.
-
-### DEV09
-
-- **DEV09-01** Complète avec <, > ou = : 2/4 ___ 2/4.
-- **DEV09-02** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **DEV09-03** Complète avec <, > ou = : 2/3 ___ 1/3.
-- **DEV09-04** Complète avec <, > ou = : 1/4 ___ 2/4.
-- **DEV09-05** Complète avec <, > ou = : 2/5 ___ 3/5.
-
-### DEV10
-
-- **DEV10-01** Complète avec <, > ou = : 1/2 ___ 2/2.
-- **DEV10-02** Complète avec <, > ou = : 2/3 ___ 1/3.
-- **DEV10-03** Complète avec <, > ou = : 1/4 ___ 2/4.
-- **DEV10-04** Complète avec <, > ou = : 2/5 ___ 3/5.
-- **DEV10-05** Complète avec <, > ou = : 1/6 ___ 1/6.
+### Devoir 10
+- Complète avec <, > ou = : 1/2 ___ 2/2.
+- Complète avec <, > ou = : 2/3 ___ 1/3.
+- Complète avec <, > ou = : 1/4 ___ 2/4.
+- Complète avec <, > ou = : 2/5 ___ 3/5.
+- Complète avec <, > ou = : 1/6 ___ 1/6.
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. <.
 2. <.
 3. <.
 4. >.
 5. >.
 
-#### ENT02
-
+#### Entraînement 2
 1. <.
 2. >.
 3. >.
 4. <.
 5. <.
 
-#### ENT03
-
+#### Entraînement 3
 1. >.
 2. <.
 3. <.
 4. >.
 5. <.
 
-#### ENT04
-
+#### Entraînement 4
 1. <.
 2. >.
 3. <.
 4. <.
 5. <.
 
-#### ENT05
-
+#### Entraînement 5
 1. <.
 2. <.
 3. <.
 4. <.
 5. <.
 
-#### ENT06
-
+#### Entraînement 6
 1. <.
 2. <.
 3. <.
 4. >.
 5. >.
 
-#### ENT07
-
+#### Entraînement 7
 1. <.
 2. >.
 3. >.
 4. <.
 5. <.
 
-#### ENT08
-
+#### Entraînement 8
 1. >.
 2. <.
 3. <.
 4. >.
 5. <.
 
-#### ENT09
-
+#### Entraînement 9
 1. <.
 2. >.
 3. <.
 4. <.
 5. <.
 
-#### ENT10
-
+#### Entraînement 10
 1. <.
 2. <.
 3. <.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. <.
 2. <.
 3. <.
 4. >.
 5. >.
 
-#### EVAL02
-
+#### Évaluation 2
 1. <.
 2. >.
 3. >.
 4. <.
 5. <.
 
-#### EVAL03
-
+#### Évaluation 3
 1. >.
 2. <.
 3. <.
 4. >.
 5. <.
 
-#### EVAL04
-
+#### Évaluation 4
 1. <.
 2. >.
 3. <.
 4. <.
 5. <.
 
-#### EVAL05
-
+#### Évaluation 5
 1. <.
 2. <.
 3. <.
 4. <.
 5. <.
 
-#### EVAL06
-
+#### Évaluation 6
 1. <.
 2. <.
 3. <.
 4. >.
 5. >.
 
-#### EVAL07
-
+#### Évaluation 7
 1. <.
 2. >.
 3. >.
 4. <.
 5. <.
 
-#### EVAL08
-
+#### Évaluation 8
 1. >.
 2. <.
 3. <.
 4. >.
 5. <.
 
-#### EVAL09
-
+#### Évaluation 9
 1. <.
 2. >.
 3. <.
 4. <.
 5. <.
 
-#### EVAL10
-
+#### Évaluation 10
 1. <.
 2. <.
 3. <.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. <.
 2. <.
 3. <.
 4. <.
 5. >.
 
-#### DEV02
-
+#### Devoir 2
 1. <.
 2. <.
 3. <.
 4. >.
 5. >.
 
-#### DEV03
-
+#### Devoir 3
 1. <.
 2. <.
 3. >.
 4. >.
 5. <.
 
-#### DEV04
-
+#### Devoir 4
 1. <.
 2. >.
 3. >.
 4. <.
 5. <.
 
-#### DEV05
-
+#### Devoir 5
 1. >.
 2. >.
 3. <.
 4. <.
 5. >.
 
-#### DEV06
-
+#### Devoir 6
 1. >.
 2. <.
 3. <.
 4. >.
 5. <.
 
-#### DEV07
-
+#### Devoir 7
 1. <.
 2. <.
 3. >.
 4. <.
 5. <.
 
-#### DEV08
-
+#### Devoir 8
 1. <.
 2. >.
 3. <.
 4. <.
 5. <.
 
-#### DEV09
-
+#### Devoir 9
 1. >.
 2. <.
 3. <.
 4. <.
 5. <.
 
-#### DEV10
-
+#### Devoir 10
 1. <.
 2. <.
 3. <.

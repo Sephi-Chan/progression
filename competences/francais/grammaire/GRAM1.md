@@ -67,8 +67,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 ## Modelage explicite — 3 items
 
-### MOD01 — Modelage complet
-
+### Modelage 1 — Modelage complet
 **Énoncé :** Le chat **noir** dort.
 
 - **Attention d’abord :** Je regarde le mot en gras : noir.
@@ -76,8 +75,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** chat
 - **Contrôle final :** Le groupe « chat noir » a du sens.
 
-### MOD02 — Modelage interactif
-
+### Modelage 2 — Modelage interactif
 **Énoncé :** La **petite** souris grignote du pain.
 
 - **Attention d’abord :** Quel mot est en gras ?
@@ -85,8 +83,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** souris
 - **Contrôle final :** Petite ne décrit pas le pain.
 
-### MOD03 — Guidage allégé
-
+### Modelage 3 — Guidage allégé
 **Énoncé :** Lina porte un chapeau **bleu**.
 
 - **Attention d’abord :** Repérez l’adjectif puis cherchez ce qu’il décrit.
@@ -98,13 +95,13 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **IMM01** La robe **rouge** sèche.
-- **IMM02** Un lapin **blanc** saute.
-- **IMM03** La **petite** souris grignote.
-- **IMM04** Le **joli** bateau flotte.
-- **IMM05** Le chien pousse la balle **rouge**.
-- **IMM06** Lina porte un chapeau **bleu**.
-- **IMM07** La chèvre longe un mur **bas**.
+- La robe **rouge** sèche.
+- Un lapin **blanc** saute.
+- La **petite** souris grignote.
+- Le **joli** bateau flotte.
+- Le chien pousse la balle **rouge**.
+- Lina porte un chapeau **bleu**.
+- La chèvre longe un mur **bas**.
 
 ## Variables didactiques
 
@@ -135,602 +132,542 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 ## Entraînements
 
 
-### ENT01
-
+### Entraînement 1
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT01-01** Le chat **noir** dort.
-- **ENT01-02** La robe **rouge** sèche.
-- **ENT01-03** Un lapin **blanc** saute.
-- **ENT01-04** La porte **verte** grince.
-- **ENT01-05** Le ballon **rond** roule.
-- **ENT01-06** Une écharpe **douce** tombe.
-- **ENT01-07** Le camion **bleu** avance.
-- **ENT01-08** La pomme **mûre** tombe.
+- Le chat **noir** dort.
+- La robe **rouge** sèche.
+- Un lapin **blanc** saute.
+- La porte **verte** grince.
+- Le ballon **rond** roule.
+- Une écharpe **douce** tombe.
+- Le camion **bleu** avance.
+- La pomme **mûre** tombe.
 
-### ENT02
-
+### Entraînement 2
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT02-01** Cette porte **verte** grince.
-- **ENT02-02** Ce ballon **rond** roule.
-- **ENT02-03** Une écharpe **douce** tombe.
-- **ENT02-04** Ce camion **bleu** avance.
-- **ENT02-05** Cette pomme **mûre** tombe.
-- **ENT02-06** Un livre **épais** repose ici.
-- **ENT02-07** La fleur **jaune** pousse.
-- **ENT02-08** La **petite** souris grignote.
+- Cette porte **verte** grince.
+- Ce ballon **rond** roule.
+- Une écharpe **douce** tombe.
+- Ce camion **bleu** avance.
+- Cette pomme **mûre** tombe.
+- Un livre **épais** repose ici.
+- La fleur **jaune** pousse.
+- La **petite** souris grignote.
 
-### ENT03
-
+### Entraînement 3
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT03-01** Ce camion **bleu** avance.
-- **ENT03-02** Cette pomme **mûre** tombe.
-- **ENT03-03** Un livre **épais** repose ici.
-- **ENT03-04** Cette fleur **jaune** pousse.
-- **ENT03-05** Cette **petite** souris grignote.
-- **ENT03-06** Un **grand** chien aboie.
-- **ENT03-07** Le **joli** bateau flotte.
-- **ENT03-08** Un **jeune** renard avance.
+- Ce camion **bleu** avance.
+- Cette pomme **mûre** tombe.
+- Un livre **épais** repose ici.
+- Cette fleur **jaune** pousse.
+- Cette **petite** souris grignote.
+- Un **grand** chien aboie.
+- Le **joli** bateau flotte.
+- Un **jeune** renard avance.
 
-### ENT04
-
+### Entraînement 4
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT04-01** La **nouvelle** voiture démarre.
-- **ENT04-02** Le chien pousse la balle **rouge**.
-- **ENT04-03** Lina porte un chapeau **bleu**.
-- **ENT04-04** Papa pose le panier **lourd**.
-- **ENT04-05** La chèvre longe un mur **bas**.
-- **ENT04-06** Malo range son crayon **pointu**.
-- **ENT04-07** Le bébé tire la couverture **douce**.
-- **ENT04-08** La maîtresse déplace un carton **plein**.
+- La **nouvelle** voiture démarre.
+- Le chien pousse la balle **rouge**.
+- Lina porte un chapeau **bleu**.
+- Papa pose le panier **lourd**.
+- La chèvre longe un mur **bas**.
+- Malo range son crayon **pointu**.
+- Le bébé tire la couverture **douce**.
+- La maîtresse déplace un carton **plein**.
 
-### ENT05
-
+### Entraînement 5
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT05-01** Papa pose le panier **lourd**.
-- **ENT05-02** Cette chèvre longe un mur **bas**.
-- **ENT05-03** Malo range son crayon **pointu**.
-- **ENT05-04** Ce bébé tire la couverture **douce**.
-- **ENT05-05** Cette maîtresse déplace un carton **plein**.
-- **ENT05-06** Le chat frôle une tasse **fragile**.
-- **ENT05-07** L’oiseau choisit une branche **solide**.
-- **ENT05-08** Nina cache la bille dans sa poche **profonde**.
+- Papa pose le panier **lourd**.
+- Cette chèvre longe un mur **bas**.
+- Malo range son crayon **pointu**.
+- Ce bébé tire la couverture **douce**.
+- Cette maîtresse déplace un carton **plein**.
+- Le chat frôle une tasse **fragile**.
+- L’oiseau choisit une branche **solide**.
+- Nina cache la bille dans sa poche **profonde**.
 
-### ENT06
-
+### Entraînement 6
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT06-01** Ce bébé tire la couverture **douce**.
-- **ENT06-02** Cette maîtresse déplace un carton **plein**.
-- **ENT06-03** Ce chat frôle une tasse **fragile**.
-- **ENT06-04** L’oiseau choisit une branche **solide**.
-- **ENT06-05** Nina cache la bille dans sa poche **profonde**.
-- **ENT06-06** Cette **petite** souris grignote.
-- **ENT06-07** Un **grand** chien aboie.
-- **ENT06-08** Ce **joli** bateau flotte.
+- Ce bébé tire la couverture **douce**.
+- Cette maîtresse déplace un carton **plein**.
+- Ce chat frôle une tasse **fragile**.
+- L’oiseau choisit une branche **solide**.
+- Nina cache la bille dans sa poche **profonde**.
+- Cette **petite** souris grignote.
+- Un **grand** chien aboie.
+- Ce **joli** bateau flotte.
 
-### ENT07
-
+### Entraînement 7
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT07-01** L’oiseau choisit une branche **solide**.
-- **ENT07-02** Nina cache la bille dans sa poche **profonde**.
-- **ENT07-03** Cette **petite** souris grignote.
-- **ENT07-04** Un **grand** chien aboie.
-- **ENT07-05** Ce **joli** bateau flotte.
-- **ENT07-06** Un **jeune** renard avance.
-- **ENT07-07** La **vieille** maison résiste.
-- **ENT07-08** Un **minuscule** oiseau chante.
+- L’oiseau choisit une branche **solide**.
+- Nina cache la bille dans sa poche **profonde**.
+- Cette **petite** souris grignote.
+- Un **grand** chien aboie.
+- Ce **joli** bateau flotte.
+- Un **jeune** renard avance.
+- La **vieille** maison résiste.
+- Un **minuscule** oiseau chante.
 
-### ENT08
-
+### Entraînement 8
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT08-01** Dans l’entrée, le sac marron touche la **petite** chaise.
-- **ENT08-02** Au-dessus du village, un **gros** nuage cache le soleil pâle.
-- **ENT08-03** Au-dessus du village, un gros nuage cache le soleil **pâle**.
-- **ENT08-04** Près du banc, la veste **humide** couvre un cartable neuf.
-- **ENT08-05** Près du banc, la veste humide couvre un cartable **neuf**.
-- **ENT08-06** Derrière la barrière, la chèvre **blanche** regarde le pré vert.
-- **ENT08-07** Derrière la barrière, la chèvre blanche regarde le pré **vert**.
-- **ENT08-08** Sur la table, une boîte **carrée** contient des perles rondes.
+- Dans l’entrée, le sac marron touche la **petite** chaise.
+- Au-dessus du village, un **gros** nuage cache le soleil pâle.
+- Au-dessus du village, un gros nuage cache le soleil **pâle**.
+- Près du banc, la veste **humide** couvre un cartable neuf.
+- Près du banc, la veste humide couvre un cartable **neuf**.
+- Derrière la barrière, la chèvre **blanche** regarde le pré vert.
+- Derrière la barrière, la chèvre blanche regarde le pré **vert**.
+- Sur la table, une boîte **carrée** contient des perles rondes.
 
-### ENT09
-
+### Entraînement 9
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT09-01** Près du banc, la veste **humide** couvre un cartable neuf.
-- **ENT09-02** Près du banc, la veste humide couvre un cartable **neuf**.
-- **ENT09-03** Derrière la barrière, la chèvre **blanche** regarde le pré vert.
-- **ENT09-04** Derrière la barrière, la chèvre blanche regarde le pré **vert**.
-- **ENT09-05** Sur la table, une boîte **carrée** contient des perles rondes.
-- **ENT09-06** Sur la table, une boîte carrée contient des perles **rondes**.
-- **ENT09-07** Ce chien pousse la balle **rouge**.
-- **ENT09-08** Lina porte un chapeau **bleu**.
+- Près du banc, la veste **humide** couvre un cartable neuf.
+- Près du banc, la veste humide couvre un cartable **neuf**.
+- Derrière la barrière, la chèvre **blanche** regarde le pré vert.
+- Derrière la barrière, la chèvre blanche regarde le pré **vert**.
+- Sur la table, une boîte **carrée** contient des perles rondes.
+- Sur la table, une boîte carrée contient des perles **rondes**.
+- Ce chien pousse la balle **rouge**.
+- Lina porte un chapeau **bleu**.
 
-### ENT10
-
+### Entraînement 10
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **ENT10-01** Derrière la barrière, la chèvre blanche regarde le pré **vert**.
-- **ENT10-02** Sur la table, une boîte **carrée** contient des perles rondes.
-- **ENT10-03** Sur la table, une boîte carrée contient des perles **rondes**.
-- **ENT10-04** Ce chien pousse la balle **rouge**.
-- **ENT10-05** Lina porte un chapeau **bleu**.
-- **ENT10-06** Papa pose le panier **lourd**.
-- **ENT10-07** Cette chèvre longe un mur **bas**.
-- **ENT10-08** Malo range son crayon **pointu**.
+- Derrière la barrière, la chèvre blanche regarde le pré **vert**.
+- Sur la table, une boîte **carrée** contient des perles rondes.
+- Sur la table, une boîte carrée contient des perles **rondes**.
+- Ce chien pousse la balle **rouge**.
+- Lina porte un chapeau **bleu**.
+- Papa pose le panier **lourd**.
+- Cette chèvre longe un mur **bas**.
+- Malo range son crayon **pointu**.
 
 ## Évaluations
 
 
-### EVAL01
-
+### Évaluation 1
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL01-01** Le chat **noir** dort.
-- **EVAL01-02** Cette fleur **jaune** pousse.
-- **EVAL01-03** L’oiseau choisit une branche **solide**.
-- **EVAL01-04** Le chiot pousse la balle **rouge**.
-- **EVAL01-05** Le jardinier examine une plante **verte**.
+- Le chat **noir** dort.
+- Cette fleur **jaune** pousse.
+- L’oiseau choisit une branche **solide**.
+- Le chiot pousse la balle **rouge**.
+- Le jardinier examine une plante **verte**.
 
-### EVAL02
-
+### Évaluation 2
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL02-01** La pomme **mûre** tombe.
-- **EVAL02-02** Lina porte un chapeau **bleu**.
-- **EVAL02-03** Cette **petite** souris grignote.
-- **EVAL02-04** Mina porte un chapeau **bleu**.
-- **EVAL02-05** Le jardinier examine une plante **haute**.
+- La pomme **mûre** tombe.
+- Lina porte un chapeau **bleu**.
+- Cette **petite** souris grignote.
+- Mina porte un chapeau **bleu**.
+- Le jardinier examine une plante **haute**.
 
-### EVAL03
-
+### Évaluation 3
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL03-01** La fleur **jaune** pousse.
-- **EVAL03-02** Cette chèvre longe un mur **bas**.
-- **EVAL03-03** Ce **joli** bateau flotte.
-- **EVAL03-04** Maman pose le panier **lourd**.
-- **EVAL03-05** Le jardinier examine une plante **fine**.
+- La fleur **jaune** pousse.
+- Cette chèvre longe un mur **bas**.
+- Ce **joli** bateau flotte.
+- Maman pose le panier **lourd**.
+- Le jardinier examine une plante **fine**.
 
-### EVAL04
-
+### Évaluation 4
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL04-01** Un **grand** chien aboie.
-- **EVAL04-02** Ce bébé tire la couverture **douce**.
-- **EVAL04-03** Près du banc, la veste **humide** couvre un cartable neuf.
-- **EVAL04-04** Le mouton longe un mur **bas**.
-- **EVAL04-05** Le jardinier examine une plante **jeune**.
+- Un **grand** chien aboie.
+- Ce bébé tire la couverture **douce**.
+- Près du banc, la veste **humide** couvre un cartable neuf.
+- Le mouton longe un mur **bas**.
+- Le jardinier examine une plante **jeune**.
 
-### EVAL05
-
+### Évaluation 5
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL05-01** La chèvre longe un mur **bas**.
-- **EVAL05-02** Ce **joli** bateau flotte.
-- **EVAL05-03** Derrière la barrière, la chèvre **blanche** regarde le pré vert.
-- **EVAL05-04** Léo range son crayon **pointu**.
-- **EVAL05-05** Le jardinier examine une plante **fragile**.
+- La chèvre longe un mur **bas**.
+- Ce **joli** bateau flotte.
+- Derrière la barrière, la chèvre **blanche** regarde le pré vert.
+- Léo range son crayon **pointu**.
+- Le jardinier examine une plante **fragile**.
 
-### EVAL06
-
+### Évaluation 6
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL06-01** Ce bébé tire la couverture **douce**.
-- **EVAL06-02** La **vieille** maison résiste.
-- **EVAL06-03** Sur la table, une boîte **carrée** contient des perles rondes.
-- **EVAL06-04** La fillette tire la couverture **douce**.
-- **EVAL06-05** Le jardinier examine une plante **sèche**.
+- Ce bébé tire la couverture **douce**.
+- La **vieille** maison résiste.
+- Sur la table, une boîte **carrée** contient des perles rondes.
+- La fillette tire la couverture **douce**.
+- Le jardinier examine une plante **sèche**.
 
-### EVAL07
-
+### Évaluation 7
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL07-01** Ce chat frôle une tasse **fragile**.
-- **EVAL07-02** Derrière la barrière, la chèvre **blanche** regarde le pré vert.
-- **EVAL07-03** Le chat **noir** dort.
-- **EVAL07-04** Le maître déplace un carton **plein**.
-- **EVAL07-05** Le jardinier examine une plante **rare**.
+- Ce chat frôle une tasse **fragile**.
+- Derrière la barrière, la chèvre **blanche** regarde le pré vert.
+- Le chat **noir** dort.
+- Le maître déplace un carton **plein**.
+- Le jardinier examine une plante **rare**.
 
-### EVAL08
-
+### Évaluation 8
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL08-01** Nina cache la bille dans sa poche **profonde**.
-- **EVAL08-02** Sur la table, une boîte **carrée** contient des perles rondes.
-- **EVAL08-03** La pomme **mûre** tombe.
-- **EVAL08-04** Le lapin frôle une tasse **fragile**.
-- **EVAL08-05** Le jardinier examine une plante **fleurie**.
+- Nina cache la bille dans sa poche **profonde**.
+- Sur la table, une boîte **carrée** contient des perles rondes.
+- La pomme **mûre** tombe.
+- Le lapin frôle une tasse **fragile**.
+- Le jardinier examine une plante **fleurie**.
 
-### EVAL09
-
+### Évaluation 9
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL09-01** Dans l’entrée, le sac marron touche la **petite** chaise.
-- **EVAL09-02** Ce chien pousse la balle **rouge**.
-- **EVAL09-03** La fleur **jaune** pousse.
-- **EVAL09-04** Le merle choisit une branche **solide**.
-- **EVAL09-05** Le jardinier examine une plante **courbée**.
+- Dans l’entrée, le sac marron touche la **petite** chaise.
+- Ce chien pousse la balle **rouge**.
+- La fleur **jaune** pousse.
+- Le merle choisit une branche **solide**.
+- Le jardinier examine une plante **courbée**.
 
-### EVAL10
-
+### Évaluation 10
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **EVAL10-01** Sur la table, une boîte **carrée** contient des perles rondes.
-- **EVAL10-02** Un lapin **blanc** saute.
-- **EVAL10-03** Un **grand** chien aboie.
-- **EVAL10-04** Lola cache la bille dans sa poche **profonde**.
-- **EVAL10-05** Le jardinier examine une plante **épaisse**.
+- Sur la table, une boîte **carrée** contient des perles rondes.
+- Un lapin **blanc** saute.
+- Un **grand** chien aboie.
+- Lola cache la bille dans sa poche **profonde**.
+- Le jardinier examine une plante **épaisse**.
 
 ## Devoirs
 
 
-### DEV01
-
+### Devoir 1
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV01-01** Le chat **noir** dort.
-- **DEV01-02** La pomme **mûre** tombe.
-- **DEV01-03** La fleur **jaune** pousse.
-- **DEV01-04** Un **grand** chien aboie.
-- **DEV01-05** La chèvre longe un mur **bas**.
+- Le chat **noir** dort.
+- La pomme **mûre** tombe.
+- La fleur **jaune** pousse.
+- Un **grand** chien aboie.
+- La chèvre longe un mur **bas**.
 
-### DEV02
-
+### Devoir 2
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV02-01** La porte **verte** grince.
-- **DEV02-02** Une écharpe **douce** tombe.
-- **DEV02-03** Cette pomme **mûre** tombe.
-- **DEV02-04** La **nouvelle** voiture démarre.
-- **DEV02-05** La maîtresse déplace un carton **plein**.
+- La porte **verte** grince.
+- Une écharpe **douce** tombe.
+- Cette pomme **mûre** tombe.
+- La **nouvelle** voiture démarre.
+- La maîtresse déplace un carton **plein**.
 
-### DEV03
-
+### Devoir 3
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV03-01** Le camion **bleu** avance.
-- **DEV03-02** Un livre **épais** repose ici.
-- **DEV03-03** Cette **petite** souris grignote.
-- **DEV03-04** Papa pose le panier **lourd**.
-- **DEV03-05** Un lapin **blanc** saute.
+- Le camion **bleu** avance.
+- Un livre **épais** repose ici.
+- Cette **petite** souris grignote.
+- Papa pose le panier **lourd**.
+- Un lapin **blanc** saute.
 
-### DEV04
-
+### Devoir 4
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV04-01** Ce ballon **rond** roule.
-- **DEV04-02** Ce camion **bleu** avance.
-- **DEV04-03** Un **jeune** renard avance.
-- **DEV04-04** Le bébé tire la couverture **douce**.
-- **DEV04-05** Une écharpe **douce** tombe.
+- Ce ballon **rond** roule.
+- Ce camion **bleu** avance.
+- Un **jeune** renard avance.
+- Le bébé tire la couverture **douce**.
+- Une écharpe **douce** tombe.
 
-### DEV05
-
+### Devoir 5
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV05-01** Cette pomme **mûre** tombe.
-- **DEV05-02** Cette fleur **jaune** pousse.
-- **DEV05-03** Lina porte un chapeau **bleu**.
-- **DEV05-04** La robe **rouge** sèche.
-- **DEV05-05** Cette porte **verte** grince.
+- Cette pomme **mûre** tombe.
+- Cette fleur **jaune** pousse.
+- Lina porte un chapeau **bleu**.
+- La robe **rouge** sèche.
+- Cette porte **verte** grince.
 
-### DEV06
-
+### Devoir 6
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV06-01** La **petite** souris grignote.
-- **DEV06-02** Le **joli** bateau flotte.
-- **DEV06-03** Malo range son crayon **pointu**.
-- **DEV06-04** Le ballon **rond** roule.
-- **DEV06-05** Ce camion **bleu** avance.
+- La **petite** souris grignote.
+- Le **joli** bateau flotte.
+- Malo range son crayon **pointu**.
+- Le ballon **rond** roule.
+- Ce camion **bleu** avance.
 
-### DEV07
-
+### Devoir 7
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV07-01** Un livre **épais** repose ici.
-- **DEV07-02** Le chien pousse la balle **rouge**.
-- **DEV07-03** Le chat **noir** dort.
-- **DEV07-04** La pomme **mûre** tombe.
-- **DEV07-05** La fleur **jaune** pousse.
+- Un livre **épais** repose ici.
+- Le chien pousse la balle **rouge**.
+- Le chat **noir** dort.
+- La pomme **mûre** tombe.
+- La fleur **jaune** pousse.
 
-### DEV08
-
+### Devoir 8
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV08-01** Un **grand** chien aboie.
-- **DEV08-02** La chèvre longe un mur **bas**.
-- **DEV08-03** La porte **verte** grince.
-- **DEV08-04** Une écharpe **douce** tombe.
-- **DEV08-05** Cette pomme **mûre** tombe.
+- Un **grand** chien aboie.
+- La chèvre longe un mur **bas**.
+- La porte **verte** grince.
+- Une écharpe **douce** tombe.
+- Cette pomme **mûre** tombe.
 
-### DEV09
-
+### Devoir 9
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV09-01** La **nouvelle** voiture démarre.
-- **DEV09-02** La maîtresse déplace un carton **plein**.
-- **DEV09-03** Le camion **bleu** avance.
-- **DEV09-04** Un livre **épais** repose ici.
-- **DEV09-05** Cette **petite** souris grignote.
+- La **nouvelle** voiture démarre.
+- La maîtresse déplace un carton **plein**.
+- Le camion **bleu** avance.
+- Un livre **épais** repose ici.
+- Cette **petite** souris grignote.
 
-### DEV10
-
+### Devoir 10
 Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 
-- **DEV10-01** Papa pose le panier **lourd**.
-- **DEV10-02** Un lapin **blanc** saute.
-- **DEV10-03** Ce ballon **rond** roule.
-- **DEV10-04** Ce camion **bleu** avance.
-- **DEV10-05** Un **jeune** renard avance.
+- Papa pose le panier **lourd**.
+- Un lapin **blanc** saute.
+- Ce ballon **rond** roule.
+- Ce camion **bleu** avance.
+- Un **jeune** renard avance.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — robe
-2. **IMM02** — lapin
-3. **IMM03** — souris
-4. **IMM04** — bateau
-5. **IMM05** — balle
-6. **IMM06** — chapeau
-7. **IMM07** — mur
+1. — robe
+2. — lapin
+3. — souris
+4. — bateau
+5. — balle
+6. — chapeau
+7. — mur
 
 ### Corrections des entraînements
 
 
-#### ENT01
-1. **ENT01-01** — chat
-2. **ENT01-02** — robe
-3. **ENT01-03** — lapin
-4. **ENT01-04** — porte
-5. **ENT01-05** — ballon
-6. **ENT01-06** — écharpe
-7. **ENT01-07** — camion
-8. **ENT01-08** — pomme
+#### Entraînement 11. **ENT01-01** — chat
+2. — robe
+3. — lapin
+4. — porte
+5. — ballon
+6. — écharpe
+7. — camion
+8. — pomme
 
-#### ENT02
-1. **ENT02-01** — porte
-2. **ENT02-02** — ballon
-3. **ENT02-03** — écharpe
-4. **ENT02-04** — camion
-5. **ENT02-05** — pomme
-6. **ENT02-06** — livre
-7. **ENT02-07** — fleur
-8. **ENT02-08** — souris
+#### Entraînement 21. **ENT02-01** — porte
+2. — ballon
+3. — écharpe
+4. — camion
+5. — pomme
+6. — livre
+7. — fleur
+8. — souris
 
-#### ENT03
-1. **ENT03-01** — camion
-2. **ENT03-02** — pomme
-3. **ENT03-03** — livre
-4. **ENT03-04** — fleur
-5. **ENT03-05** — souris
-6. **ENT03-06** — chien
-7. **ENT03-07** — bateau
-8. **ENT03-08** — renard
+#### Entraînement 31. **ENT03-01** — camion
+2. — pomme
+3. — livre
+4. — fleur
+5. — souris
+6. — chien
+7. — bateau
+8. — renard
 
-#### ENT04
-1. **ENT04-01** — voiture
-2. **ENT04-02** — balle
-3. **ENT04-03** — chapeau
-4. **ENT04-04** — panier
-5. **ENT04-05** — mur
-6. **ENT04-06** — crayon
-7. **ENT04-07** — couverture
-8. **ENT04-08** — carton
+#### Entraînement 41. **ENT04-01** — voiture
+2. — balle
+3. — chapeau
+4. — panier
+5. — mur
+6. — crayon
+7. — couverture
+8. — carton
 
-#### ENT05
-1. **ENT05-01** — panier
-2. **ENT05-02** — mur
-3. **ENT05-03** — crayon
-4. **ENT05-04** — couverture
-5. **ENT05-05** — carton
-6. **ENT05-06** — tasse
-7. **ENT05-07** — branche
-8. **ENT05-08** — poche
+#### Entraînement 51. **ENT05-01** — panier
+2. — mur
+3. — crayon
+4. — couverture
+5. — carton
+6. — tasse
+7. — branche
+8. — poche
 
-#### ENT06
-1. **ENT06-01** — couverture
-2. **ENT06-02** — carton
-3. **ENT06-03** — tasse
-4. **ENT06-04** — branche
-5. **ENT06-05** — poche
-6. **ENT06-06** — souris
-7. **ENT06-07** — chien
-8. **ENT06-08** — bateau
+#### Entraînement 61. **ENT06-01** — couverture
+2. — carton
+3. — tasse
+4. — branche
+5. — poche
+6. — souris
+7. — chien
+8. — bateau
 
-#### ENT07
-1. **ENT07-01** — branche
-2. **ENT07-02** — poche
-3. **ENT07-03** — souris
-4. **ENT07-04** — chien
-5. **ENT07-05** — bateau
-6. **ENT07-06** — renard
-7. **ENT07-07** — maison
-8. **ENT07-08** — oiseau
+#### Entraînement 71. **ENT07-01** — branche
+2. — poche
+3. — souris
+4. — chien
+5. — bateau
+6. — renard
+7. — maison
+8. — oiseau
 
-#### ENT08
-1. **ENT08-01** — chaise
-2. **ENT08-02** — nuage
-3. **ENT08-03** — soleil
-4. **ENT08-04** — veste
-5. **ENT08-05** — cartable
-6. **ENT08-06** — chèvre
-7. **ENT08-07** — pré
-8. **ENT08-08** — boîte
+#### Entraînement 81. **ENT08-01** — chaise
+2. — nuage
+3. — soleil
+4. — veste
+5. — cartable
+6. — chèvre
+7. — pré
+8. — boîte
 
-#### ENT09
-1. **ENT09-01** — veste
-2. **ENT09-02** — cartable
-3. **ENT09-03** — chèvre
-4. **ENT09-04** — pré
-5. **ENT09-05** — boîte
-6. **ENT09-06** — perles
-7. **ENT09-07** — balle
-8. **ENT09-08** — chapeau
+#### Entraînement 91. **ENT09-01** — veste
+2. — cartable
+3. — chèvre
+4. — pré
+5. — boîte
+6. — perles
+7. — balle
+8. — chapeau
 
-#### ENT10
-1. **ENT10-01** — pré
-2. **ENT10-02** — boîte
-3. **ENT10-03** — perles
-4. **ENT10-04** — balle
-5. **ENT10-05** — chapeau
-6. **ENT10-06** — panier
-7. **ENT10-07** — mur
-8. **ENT10-08** — crayon
+#### Entraînement 101. **ENT10-01** — pré
+2. — boîte
+3. — perles
+4. — balle
+5. — chapeau
+6. — panier
+7. — mur
+8. — crayon
 
 ### Corrections des évaluations
 
 
-#### EVAL01
-1. **EVAL01-01** — chat
-2. **EVAL01-02** — fleur
-3. **EVAL01-03** — branche
-4. **EVAL01-04** — balle
-5. **EVAL01-05** — plante
+#### Évaluation 11. **EVAL01-01** — chat
+2. — fleur
+3. — branche
+4. — balle
+5. — plante
 
-#### EVAL02
-1. **EVAL02-01** — pomme
-2. **EVAL02-02** — chapeau
-3. **EVAL02-03** — souris
-4. **EVAL02-04** — chapeau
-5. **EVAL02-05** — plante
+#### Évaluation 21. **EVAL02-01** — pomme
+2. — chapeau
+3. — souris
+4. — chapeau
+5. — plante
 
-#### EVAL03
-1. **EVAL03-01** — fleur
-2. **EVAL03-02** — mur
-3. **EVAL03-03** — bateau
-4. **EVAL03-04** — panier
-5. **EVAL03-05** — plante
+#### Évaluation 31. **EVAL03-01** — fleur
+2. — mur
+3. — bateau
+4. — panier
+5. — plante
 
-#### EVAL04
-1. **EVAL04-01** — chien
-2. **EVAL04-02** — couverture
-3. **EVAL04-03** — veste
-4. **EVAL04-04** — mur
-5. **EVAL04-05** — plante
+#### Évaluation 41. **EVAL04-01** — chien
+2. — couverture
+3. — veste
+4. — mur
+5. — plante
 
-#### EVAL05
-1. **EVAL05-01** — mur
-2. **EVAL05-02** — bateau
-3. **EVAL05-03** — chèvre
-4. **EVAL05-04** — crayon
-5. **EVAL05-05** — plante
+#### Évaluation 51. **EVAL05-01** — mur
+2. — bateau
+3. — chèvre
+4. — crayon
+5. — plante
 
-#### EVAL06
-1. **EVAL06-01** — couverture
-2. **EVAL06-02** — maison
-3. **EVAL06-03** — boîte
-4. **EVAL06-04** — couverture
-5. **EVAL06-05** — plante
+#### Évaluation 61. **EVAL06-01** — couverture
+2. — maison
+3. — boîte
+4. — couverture
+5. — plante
 
-#### EVAL07
-1. **EVAL07-01** — tasse
-2. **EVAL07-02** — chèvre
-3. **EVAL07-03** — chat
-4. **EVAL07-04** — carton
-5. **EVAL07-05** — plante
+#### Évaluation 71. **EVAL07-01** — tasse
+2. — chèvre
+3. — chat
+4. — carton
+5. — plante
 
-#### EVAL08
-1. **EVAL08-01** — poche
-2. **EVAL08-02** — boîte
-3. **EVAL08-03** — pomme
-4. **EVAL08-04** — tasse
-5. **EVAL08-05** — plante
+#### Évaluation 81. **EVAL08-01** — poche
+2. — boîte
+3. — pomme
+4. — tasse
+5. — plante
 
-#### EVAL09
-1. **EVAL09-01** — chaise
-2. **EVAL09-02** — balle
-3. **EVAL09-03** — fleur
-4. **EVAL09-04** — branche
-5. **EVAL09-05** — plante
+#### Évaluation 91. **EVAL09-01** — chaise
+2. — balle
+3. — fleur
+4. — branche
+5. — plante
 
-#### EVAL10
-1. **EVAL10-01** — boîte
-2. **EVAL10-02** — lapin
-3. **EVAL10-03** — chien
-4. **EVAL10-04** — poche
-5. **EVAL10-05** — plante
+#### Évaluation 101. **EVAL10-01** — boîte
+2. — lapin
+3. — chien
+4. — poche
+5. — plante
 
 ### Corrections des devoirs
 
 
-#### DEV01
-1. **DEV01-01** — chat
-2. **DEV01-02** — pomme
-3. **DEV01-03** — fleur
-4. **DEV01-04** — chien
-5. **DEV01-05** — mur
+#### Devoir 11. **DEV01-01** — chat
+2. — pomme
+3. — fleur
+4. — chien
+5. — mur
 
-#### DEV02
-1. **DEV02-01** — porte
-2. **DEV02-02** — écharpe
-3. **DEV02-03** — pomme
-4. **DEV02-04** — voiture
-5. **DEV02-05** — carton
+#### Devoir 21. **DEV02-01** — porte
+2. — écharpe
+3. — pomme
+4. — voiture
+5. — carton
 
-#### DEV03
-1. **DEV03-01** — camion
-2. **DEV03-02** — livre
-3. **DEV03-03** — souris
-4. **DEV03-04** — panier
-5. **DEV03-05** — lapin
+#### Devoir 31. **DEV03-01** — camion
+2. — livre
+3. — souris
+4. — panier
+5. — lapin
 
-#### DEV04
-1. **DEV04-01** — ballon
-2. **DEV04-02** — camion
-3. **DEV04-03** — renard
-4. **DEV04-04** — couverture
-5. **DEV04-05** — écharpe
+#### Devoir 41. **DEV04-01** — ballon
+2. — camion
+3. — renard
+4. — couverture
+5. — écharpe
 
-#### DEV05
-1. **DEV05-01** — pomme
-2. **DEV05-02** — fleur
-3. **DEV05-03** — chapeau
-4. **DEV05-04** — robe
-5. **DEV05-05** — porte
+#### Devoir 51. **DEV05-01** — pomme
+2. — fleur
+3. — chapeau
+4. — robe
+5. — porte
 
-#### DEV06
-1. **DEV06-01** — souris
-2. **DEV06-02** — bateau
-3. **DEV06-03** — crayon
-4. **DEV06-04** — ballon
-5. **DEV06-05** — camion
+#### Devoir 61. **DEV06-01** — souris
+2. — bateau
+3. — crayon
+4. — ballon
+5. — camion
 
-#### DEV07
-1. **DEV07-01** — livre
-2. **DEV07-02** — balle
-3. **DEV07-03** — chat
-4. **DEV07-04** — pomme
-5. **DEV07-05** — fleur
+#### Devoir 71. **DEV07-01** — livre
+2. — balle
+3. — chat
+4. — pomme
+5. — fleur
 
-#### DEV08
-1. **DEV08-01** — chien
-2. **DEV08-02** — mur
-3. **DEV08-03** — porte
-4. **DEV08-04** — écharpe
-5. **DEV08-05** — pomme
+#### Devoir 81. **DEV08-01** — chien
+2. — mur
+3. — porte
+4. — écharpe
+5. — pomme
 
-#### DEV09
-1. **DEV09-01** — voiture
-2. **DEV09-02** — carton
-3. **DEV09-03** — camion
-4. **DEV09-04** — livre
-5. **DEV09-05** — souris
+#### Devoir 91. **DEV09-01** — voiture
+2. — carton
+3. — camion
+4. — livre
+5. — souris
 
-#### DEV10
-1. **DEV10-01** — panier
-2. **DEV10-02** — lapin
-3. **DEV10-03** — ballon
-4. **DEV10-04** — camion
-5. **DEV10-05** — renard
+#### Devoir 101. **DEV10-01** — panier
+2. — lapin
+3. — ballon
+4. — camion
+5. — renard
 
 ## Traçabilité des évaluations et devoirs
 

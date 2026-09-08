@@ -58,24 +58,21 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** tracé exact en B avec codage.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **IMM02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **IMM03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **IMM04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **IMM05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **IMM06** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **IMM07** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
 
-- **ENT01-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **ENT01-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **ENT01-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **ENT01-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **ENT01-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+### Entraînement 2
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
 
-### ENT02
+### Entraînement 3
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
 
-- **ENT02-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **ENT02-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **ENT02-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **ENT02-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **ENT02-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+### Entraînement 4
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
 
-### ENT03
+### Entraînement 5
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
 
-- **ENT03-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **ENT03-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **ENT03-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **ENT03-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **ENT03-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+### Entraînement 6
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
 
-### ENT04
+### Entraînement 7
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
 
-- **ENT04-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
-- **ENT04-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
-- **ENT04-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
-- **ENT04-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
-- **ENT04-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
+### Entraînement 8
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] oblique de 4 cm ; angle droit en A du côté où il reste le plus de place.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] oblique de 7 cm ; angle droit en B ; second côté de 3 cm.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
 
-### ENT05
+### Entraînement 9
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
 
-- **ENT05-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
-- **ENT05-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
-- **ENT05-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
-- **ENT05-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
-- **ENT05-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
-
-### ENT06
-
-- **ENT06-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
-- **ENT06-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
-- **ENT06-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
-- **ENT06-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
-- **ENT06-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
-
-### ENT07
-
-- **ENT07-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
-- **ENT07-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
-- **ENT07-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
-- **ENT07-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
-- **ENT07-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
-
-### ENT08
-
-- **ENT08-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] oblique de 4 cm ; angle droit en A du côté où il reste le plus de place.
-- **ENT08-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] oblique de 7 cm ; angle droit en B ; second côté de 3 cm.
-- **ENT08-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
-- **ENT08-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
-- **ENT08-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
-
-### ENT09
-
-- **ENT09-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
-- **ENT09-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
-- **ENT09-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
-- **ENT09-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
-- **ENT09-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
-
-### ENT10
-
-- **ENT10-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
-- **ENT10-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
-- **ENT10-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
-- **ENT10-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] oblique de 4 cm ; angle droit en A du côté où il reste le plus de place.
-- **ENT10-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] oblique de 7 cm ; angle droit en B ; second côté de 3 cm.
+### Entraînement 10
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] oblique de 4 cm ; angle droit en A du côté où il reste le plus de place.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] oblique de 7 cm ; angle droit en B ; second côté de 3 cm.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [RS] vertical de 5 cm ; angle droit en R vers la droite.
 
-- **EVAL01-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **EVAL01-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
-- **EVAL01-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
-- **EVAL01-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
-- **EVAL01-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [RS] vertical de 5 cm ; angle droit en R vers la droite.
+### Évaluation 2
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [TU] oblique de 6 cm ; angle droit en U.
 
-### EVAL02
+### Évaluation 3
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [VW] horizontal de 7 cm ; angle droit en W vers le bas.
 
-- **EVAL02-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **EVAL02-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
-- **EVAL02-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
-- **EVAL02-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
-- **EVAL02-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [TU] oblique de 6 cm ; angle droit en U.
+### Évaluation 4
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [XY] oblique de 5 cm ; angle droit en X ; second côté 3 cm.
 
-### EVAL03
+### Évaluation 5
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [RS] vertical de 5 cm ; angle droit en R vers la droite.
 
-- **EVAL03-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **EVAL03-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
-- **EVAL03-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
-- **EVAL03-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
-- **EVAL03-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [VW] horizontal de 7 cm ; angle droit en W vers le bas.
+### Évaluation 6
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [TU] oblique de 6 cm ; angle droit en U.
 
-### EVAL04
+### Évaluation 7
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [VW] horizontal de 7 cm ; angle droit en W vers le bas.
 
-- **EVAL04-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **EVAL04-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
-- **EVAL04-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
-- **EVAL04-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
-- **EVAL04-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [XY] oblique de 5 cm ; angle droit en X ; second côté 3 cm.
+### Évaluation 8
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [XY] oblique de 5 cm ; angle droit en X ; second côté 3 cm.
 
-### EVAL05
+### Évaluation 9
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [RS] vertical de 5 cm ; angle droit en R vers la droite.
 
-- **EVAL05-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **EVAL05-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
-- **EVAL05-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
-- **EVAL05-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
-- **EVAL05-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [RS] vertical de 5 cm ; angle droit en R vers la droite.
-
-### EVAL06
-
-- **EVAL06-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **EVAL06-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
-- **EVAL06-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] vertical de 5 cm ; angle droit en O vers la droite.
-- **EVAL06-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 5 cm ; angle droit en K ; second côté de 4 cm.
-- **EVAL06-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [TU] oblique de 6 cm ; angle droit en U.
-
-### EVAL07
-
-- **EVAL07-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **EVAL07-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique de 5 cm ; angle droit en G, d’un côté au choix.
-- **EVAL07-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
-- **EVAL07-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical près du bord gauche ; angle droit en L vers la droite.
-- **EVAL07-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [VW] horizontal de 7 cm ; angle droit en W vers le bas.
-
-### EVAL08
-
-- **EVAL08-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **EVAL08-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] vertical de 8 cm ; angle droit en H vers la gauche.
-- **EVAL08-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] oblique de 6 cm ; angle droit en D, d’un côté au choix.
-- **EVAL08-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] vertical près du bord droit ; angle droit en E vers la gauche.
-- **EVAL08-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [XY] oblique de 5 cm ; angle droit en X ; second côté 3 cm.
-
-### EVAL09
-
-- **EVAL09-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **EVAL09-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
-- **EVAL09-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] oblique de 7 cm ; angle droit en J.
-- **EVAL09-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] oblique ; angle droit en G sans prolonger [FG].
-- **EVAL09-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [RS] vertical de 5 cm ; angle droit en R vers la droite.
-
-### EVAL10
-
-- **EVAL10-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **EVAL10-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
-- **EVAL10-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
-- **EVAL10-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
-- **EVAL10-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [TU] oblique de 6 cm ; angle droit en U.
+### Évaluation 10
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] vertical de 6 cm ; angle droit en C vers la gauche.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] vertical de 4 cm ; angle droit en M vers la droite.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] horizontal avec H à droite de I ; angle droit en H.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [TU] oblique de 6 cm ; angle droit en U.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
 
-- **DEV01-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **DEV01-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **DEV01-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **DEV01-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **DEV01-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+### Devoir 2
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
 
-### DEV02
+### Devoir 3
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
 
-- **DEV02-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **DEV02-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV02-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **DEV02-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV02-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+### Devoir 4
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
 
-### DEV03
+### Devoir 5
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
 
-- **DEV03-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **DEV03-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **DEV03-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **DEV03-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **DEV03-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+### Devoir 6
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
 
-### DEV04
+### Devoir 7
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
 
-- **DEV04-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **DEV04-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **DEV04-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV04-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **DEV04-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+### Devoir 8
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
 
-### DEV05
+### Devoir 9
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
 
-- **DEV05-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV05-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **DEV05-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **DEV05-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **DEV05-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-
-### DEV06
-
-- **DEV06-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **DEV06-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **DEV06-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **DEV06-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **DEV06-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-
-### DEV07
-
-- **DEV07-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **DEV07-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV07-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **DEV07-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV07-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-
-### DEV08
-
-- **DEV08-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **DEV08-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **DEV08-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **DEV08-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [OA] mesure 5 cm ; angle droit en O, second côté vers le haut.
-- **DEV08-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-
-### DEV09
-
-- **DEV09-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [FG] mesure 7 cm ; angle droit en F, second côté vers le haut.
-- **DEV09-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [LM] mesure 6 cm ; angle droit en M, second côté vers le bas.
-- **DEV09-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV09-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [BC] mesure 6 cm ; angle droit en B, second côté vers le haut.
-- **DEV09-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-
-### DEV10
-
-- **DEV10-01** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
-- **DEV10-02** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **DEV10-03** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
-- **DEV10-04** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
-- **DEV10-05** Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+### Devoir 10
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [HI] mesure 5 cm ; angle droit en I, second côté vers le haut.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [DE] mesure 4 cm ; angle droit en D, second côté vers le bas.
+- Trace le segment demandé puis, au point indiqué, trace un second côté formant un angle droit et ajoute le petit carré du codage. [JK] mesure 8 cm ; angle droit en J, second côté vers le bas.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** tracé exact en F avec codage
-2. **IMM02** tracé exact en I avec codage
-3. **IMM03** tracé exact en J avec codage
-4. **IMM04** tracé exact en M avec codage
-5. **IMM05** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-6. **IMM06** tracé exact en B avec codage
-7. **IMM07** tracé exact en D avec codage
+1. tracé exact en F avec codage
+2. tracé exact en I avec codage
+3. tracé exact en J avec codage
+4. tracé exact en M avec codage
+5. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+6. tracé exact en B avec codage
+7. tracé exact en D avec codage
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+2. tracé exact en B avec codage
+3. tracé exact en D avec codage
+4. tracé exact en F avec codage
+5. tracé exact en I avec codage
 
-1. **ENT01-01** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-2. **ENT01-02** tracé exact en B avec codage
-3. **ENT01-03** tracé exact en D avec codage
-4. **ENT01-04** tracé exact en F avec codage
-5. **ENT01-05** tracé exact en I avec codage
+#### Entraînement 2
+1. tracé exact en D avec codage
+2. tracé exact en F avec codage
+3. tracé exact en I avec codage
+4. tracé exact en J avec codage
+5. tracé exact en M avec codage
 
-#### ENT02
+#### Entraînement 3
+1. tracé exact en I avec codage
+2. tracé exact en J avec codage
+3. tracé exact en M avec codage
+4. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+5. tracé exact en B avec codage
 
-1. **ENT02-01** tracé exact en D avec codage
-2. **ENT02-02** tracé exact en F avec codage
-3. **ENT02-03** tracé exact en I avec codage
-4. **ENT02-04** tracé exact en J avec codage
-5. **ENT02-05** tracé exact en M avec codage
+#### Entraînement 4
+1. tracé perpendiculaire en M et codage
+2. tracé perpendiculaire en O et codage
+3. tracé perpendiculaire en C et codage
+4. tracé perpendiculaire en D et codage
+5. tracé perpendiculaire en G et codage
 
-#### ENT03
+#### Entraînement 5
+1. tracé perpendiculaire en C et codage
+2. tracé perpendiculaire en D et codage
+3. tracé perpendiculaire en G et codage
+4. tracé perpendiculaire en H et codage
+5. tracé perpendiculaire en J et codage
 
-1. **ENT03-01** tracé exact en I avec codage
-2. **ENT03-02** tracé exact en J avec codage
-3. **ENT03-03** tracé exact en M avec codage
-4. **ENT03-04** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-5. **ENT03-05** tracé exact en B avec codage
+#### Entraînement 6
+1. tracé perpendiculaire en G et codage
+2. tracé perpendiculaire en H et codage
+3. tracé perpendiculaire en J et codage
+4. tracé perpendiculaire en M et codage
+5. tracé perpendiculaire en O et codage
 
-#### ENT04
+#### Entraînement 7
+1. tracé perpendiculaire en J et codage
+2. tracé perpendiculaire en M et codage
+3. tracé perpendiculaire en O et codage
+4. tracé perpendiculaire en C et codage
+5. tracé perpendiculaire en D et codage
 
-1. **ENT04-01** tracé perpendiculaire en M et codage
-2. **ENT04-02** tracé perpendiculaire en O et codage
-3. **ENT04-03** tracé perpendiculaire en C et codage
-4. **ENT04-04** tracé perpendiculaire en D et codage
-5. **ENT04-05** tracé perpendiculaire en G et codage
+#### Entraînement 8
+1. tracé perpendiculaire en A, entièrement sur la feuille, codé
+2. tracé perpendiculaire en B, longueur 3 cm, codé
+3. tracé perpendiculaire en E vers l’intérieur, codé
+4. tracé partant exactement de G, codé
+5. tracé perpendiculaire en H, ordre des lettres respecté, codé
 
-#### ENT05
+#### Entraînement 9
+1. tracé perpendiculaire en E vers l’intérieur, codé
+2. tracé partant exactement de G, codé
+3. tracé perpendiculaire en H, ordre des lettres respecté, codé
+4. tracé perpendiculaire en K, longueur 4 cm, codé
+5. tracé perpendiculaire en L vers l’intérieur, codé
 
-1. **ENT05-01** tracé perpendiculaire en C et codage
-2. **ENT05-02** tracé perpendiculaire en D et codage
-3. **ENT05-03** tracé perpendiculaire en G et codage
-4. **ENT05-04** tracé perpendiculaire en H et codage
-5. **ENT05-05** tracé perpendiculaire en J et codage
-
-#### ENT06
-
-1. **ENT06-01** tracé perpendiculaire en G et codage
-2. **ENT06-02** tracé perpendiculaire en H et codage
-3. **ENT06-03** tracé perpendiculaire en J et codage
-4. **ENT06-04** tracé perpendiculaire en M et codage
-5. **ENT06-05** tracé perpendiculaire en O et codage
-
-#### ENT07
-
-1. **ENT07-01** tracé perpendiculaire en J et codage
-2. **ENT07-02** tracé perpendiculaire en M et codage
-3. **ENT07-03** tracé perpendiculaire en O et codage
-4. **ENT07-04** tracé perpendiculaire en C et codage
-5. **ENT07-05** tracé perpendiculaire en D et codage
-
-#### ENT08
-
-1. **ENT08-01** tracé perpendiculaire en A, entièrement sur la feuille, codé
-2. **ENT08-02** tracé perpendiculaire en B, longueur 3 cm, codé
-3. **ENT08-03** tracé perpendiculaire en E vers l’intérieur, codé
-4. **ENT08-04** tracé partant exactement de G, codé
-5. **ENT08-05** tracé perpendiculaire en H, ordre des lettres respecté, codé
-
-#### ENT09
-
-1. **ENT09-01** tracé perpendiculaire en E vers l’intérieur, codé
-2. **ENT09-02** tracé partant exactement de G, codé
-3. **ENT09-03** tracé perpendiculaire en H, ordre des lettres respecté, codé
-4. **ENT09-04** tracé perpendiculaire en K, longueur 4 cm, codé
-5. **ENT09-05** tracé perpendiculaire en L vers l’intérieur, codé
-
-#### ENT10
-
-1. **ENT10-01** tracé perpendiculaire en H, ordre des lettres respecté, codé
-2. **ENT10-02** tracé perpendiculaire en K, longueur 4 cm, codé
-3. **ENT10-03** tracé perpendiculaire en L vers l’intérieur, codé
-4. **ENT10-04** tracé perpendiculaire en A, entièrement sur la feuille, codé
-5. **ENT10-05** tracé perpendiculaire en B, longueur 3 cm, codé
+#### Entraînement 10
+1. tracé perpendiculaire en H, ordre des lettres respecté, codé
+2. tracé perpendiculaire en K, longueur 4 cm, codé
+3. tracé perpendiculaire en L vers l’intérieur, codé
+4. tracé perpendiculaire en A, entièrement sur la feuille, codé
+5. tracé perpendiculaire en B, longueur 3 cm, codé
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. tracé exact en I avec codage
+2. tracé perpendiculaire en D et codage
+3. tracé perpendiculaire en O et codage
+4. tracé perpendiculaire en K, longueur 4 cm, codé
+5. tracé perpendiculaire en R et codage
 
-1. **EVAL01-01** tracé exact en I avec codage
-2. **EVAL01-02** tracé perpendiculaire en D et codage
-3. **EVAL01-03** tracé perpendiculaire en O et codage
-4. **EVAL01-04** tracé perpendiculaire en K, longueur 4 cm, codé
-5. **EVAL01-05** tracé perpendiculaire en R et codage
+#### Évaluation 2
+1. tracé exact en J avec codage
+2. tracé perpendiculaire en G et codage
+3. tracé perpendiculaire en C et codage
+4. tracé perpendiculaire en L vers l’intérieur, codé
+5. tracé perpendiculaire en U et codage
 
-#### EVAL02
+#### Évaluation 3
+1. tracé exact en M avec codage
+2. tracé perpendiculaire en H et codage
+3. tracé perpendiculaire en D et codage
+4. tracé perpendiculaire en E vers l’intérieur, codé
+5. tracé perpendiculaire en W et codage
 
-1. **EVAL02-01** tracé exact en J avec codage
-2. **EVAL02-02** tracé perpendiculaire en G et codage
-3. **EVAL02-03** tracé perpendiculaire en C et codage
-4. **EVAL02-04** tracé perpendiculaire en L vers l’intérieur, codé
-5. **EVAL02-05** tracé perpendiculaire en U et codage
+#### Évaluation 4
+1. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+2. tracé perpendiculaire en J et codage
+3. tracé perpendiculaire en J et codage
+4. tracé partant exactement de G, codé
+5. tracé perpendiculaire en X, longueur 3 cm, codé
 
-#### EVAL03
+#### Évaluation 5
+1. tracé exact en B avec codage
+2. tracé perpendiculaire en C et codage
+3. tracé perpendiculaire en M et codage
+4. tracé perpendiculaire en H, ordre des lettres respecté, codé
+5. tracé perpendiculaire en R et codage
 
-1. **EVAL03-01** tracé exact en M avec codage
-2. **EVAL03-02** tracé perpendiculaire en H et codage
-3. **EVAL03-03** tracé perpendiculaire en D et codage
-4. **EVAL03-04** tracé perpendiculaire en E vers l’intérieur, codé
-5. **EVAL03-05** tracé perpendiculaire en W et codage
+#### Évaluation 6
+1. tracé exact en I avec codage
+2. tracé perpendiculaire en D et codage
+3. tracé perpendiculaire en O et codage
+4. tracé perpendiculaire en K, longueur 4 cm, codé
+5. tracé perpendiculaire en U et codage
 
-#### EVAL04
+#### Évaluation 7
+1. tracé exact en J avec codage
+2. tracé perpendiculaire en G et codage
+3. tracé perpendiculaire en C et codage
+4. tracé perpendiculaire en L vers l’intérieur, codé
+5. tracé perpendiculaire en W et codage
 
-1. **EVAL04-01** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-2. **EVAL04-02** tracé perpendiculaire en J et codage
-3. **EVAL04-03** tracé perpendiculaire en J et codage
-4. **EVAL04-04** tracé partant exactement de G, codé
-5. **EVAL04-05** tracé perpendiculaire en X, longueur 3 cm, codé
+#### Évaluation 8
+1. tracé exact en M avec codage
+2. tracé perpendiculaire en H et codage
+3. tracé perpendiculaire en D et codage
+4. tracé perpendiculaire en E vers l’intérieur, codé
+5. tracé perpendiculaire en X, longueur 3 cm, codé
 
-#### EVAL05
+#### Évaluation 9
+1. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+2. tracé perpendiculaire en J et codage
+3. tracé perpendiculaire en J et codage
+4. tracé partant exactement de G, codé
+5. tracé perpendiculaire en R et codage
 
-1. **EVAL05-01** tracé exact en B avec codage
-2. **EVAL05-02** tracé perpendiculaire en C et codage
-3. **EVAL05-03** tracé perpendiculaire en M et codage
-4. **EVAL05-04** tracé perpendiculaire en H, ordre des lettres respecté, codé
-5. **EVAL05-05** tracé perpendiculaire en R et codage
-
-#### EVAL06
-
-1. **EVAL06-01** tracé exact en I avec codage
-2. **EVAL06-02** tracé perpendiculaire en D et codage
-3. **EVAL06-03** tracé perpendiculaire en O et codage
-4. **EVAL06-04** tracé perpendiculaire en K, longueur 4 cm, codé
-5. **EVAL06-05** tracé perpendiculaire en U et codage
-
-#### EVAL07
-
-1. **EVAL07-01** tracé exact en J avec codage
-2. **EVAL07-02** tracé perpendiculaire en G et codage
-3. **EVAL07-03** tracé perpendiculaire en C et codage
-4. **EVAL07-04** tracé perpendiculaire en L vers l’intérieur, codé
-5. **EVAL07-05** tracé perpendiculaire en W et codage
-
-#### EVAL08
-
-1. **EVAL08-01** tracé exact en M avec codage
-2. **EVAL08-02** tracé perpendiculaire en H et codage
-3. **EVAL08-03** tracé perpendiculaire en D et codage
-4. **EVAL08-04** tracé perpendiculaire en E vers l’intérieur, codé
-5. **EVAL08-05** tracé perpendiculaire en X, longueur 3 cm, codé
-
-#### EVAL09
-
-1. **EVAL09-01** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-2. **EVAL09-02** tracé perpendiculaire en J et codage
-3. **EVAL09-03** tracé perpendiculaire en J et codage
-4. **EVAL09-04** tracé partant exactement de G, codé
-5. **EVAL09-05** tracé perpendiculaire en R et codage
-
-#### EVAL10
-
-1. **EVAL10-01** tracé exact en B avec codage
-2. **EVAL10-02** tracé perpendiculaire en C et codage
-3. **EVAL10-03** tracé perpendiculaire en M et codage
-4. **EVAL10-04** tracé perpendiculaire en H, ordre des lettres respecté, codé
-5. **EVAL10-05** tracé perpendiculaire en U et codage
+#### Évaluation 10
+1. tracé exact en B avec codage
+2. tracé perpendiculaire en C et codage
+3. tracé perpendiculaire en M et codage
+4. tracé perpendiculaire en H, ordre des lettres respecté, codé
+5. tracé perpendiculaire en U et codage
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+2. tracé exact en F avec codage
+3. tracé exact en M avec codage
+4. tracé exact en F avec codage
+5. tracé exact en M avec codage
 
-1. **DEV01-01** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-2. **DEV01-02** tracé exact en F avec codage
-3. **DEV01-03** tracé exact en M avec codage
-4. **DEV01-04** tracé exact en F avec codage
-5. **DEV01-05** tracé exact en M avec codage
+#### Devoir 2
+1. tracé exact en B avec codage
+2. tracé exact en I avec codage
+3. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+4. tracé exact en I avec codage
+5. tracé exact en D avec codage
 
-#### DEV02
+#### Devoir 3
+1. tracé exact en D avec codage
+2. tracé exact en J avec codage
+3. tracé exact en B avec codage
+4. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+5. tracé exact en F avec codage
 
-1. **DEV02-01** tracé exact en B avec codage
-2. **DEV02-02** tracé exact en I avec codage
-3. **DEV02-03** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-4. **DEV02-04** tracé exact en I avec codage
-5. **DEV02-05** tracé exact en D avec codage
+#### Devoir 4
+1. tracé exact en F avec codage
+2. tracé exact en M avec codage
+3. tracé exact en I avec codage
+4. tracé exact en B avec codage
+5. tracé exact en I avec codage
 
-#### DEV03
+#### Devoir 5
+1. tracé exact en I avec codage
+2. tracé exact en D avec codage
+3. tracé exact en J avec codage
+4. tracé exact en D avec codage
+5. tracé exact en J avec codage
 
-1. **DEV03-01** tracé exact en D avec codage
-2. **DEV03-02** tracé exact en J avec codage
-3. **DEV03-03** tracé exact en B avec codage
-4. **DEV03-04** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-5. **DEV03-05** tracé exact en F avec codage
+#### Devoir 6
+1. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+2. tracé exact en F avec codage
+3. tracé exact en M avec codage
+4. tracé exact en F avec codage
+5. tracé exact en M avec codage
 
-#### DEV04
+#### Devoir 7
+1. tracé exact en B avec codage
+2. tracé exact en I avec codage
+3. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+4. tracé exact en I avec codage
+5. tracé exact en D avec codage
 
-1. **DEV04-01** tracé exact en F avec codage
-2. **DEV04-02** tracé exact en M avec codage
-3. **DEV04-03** tracé exact en I avec codage
-4. **DEV04-04** tracé exact en B avec codage
-5. **DEV04-05** tracé exact en I avec codage
+#### Devoir 8
+1. tracé exact en D avec codage
+2. tracé exact en J avec codage
+3. tracé exact en B avec codage
+4. tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
+5. tracé exact en F avec codage
 
-#### DEV05
+#### Devoir 9
+1. tracé exact en F avec codage
+2. tracé exact en M avec codage
+3. tracé exact en I avec codage
+4. tracé exact en B avec codage
+5. tracé exact en I avec codage
 
-1. **DEV05-01** tracé exact en I avec codage
-2. **DEV05-02** tracé exact en D avec codage
-3. **DEV05-03** tracé exact en J avec codage
-4. **DEV05-04** tracé exact en D avec codage
-5. **DEV05-05** tracé exact en J avec codage
-
-#### DEV06
-
-1. **DEV06-01** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-2. **DEV06-02** tracé exact en F avec codage
-3. **DEV06-03** tracé exact en M avec codage
-4. **DEV06-04** tracé exact en F avec codage
-5. **DEV06-05** tracé exact en M avec codage
-
-#### DEV07
-
-1. **DEV07-01** tracé exact en B avec codage
-2. **DEV07-02** tracé exact en I avec codage
-3. **DEV07-03** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-4. **DEV07-04** tracé exact en I avec codage
-5. **DEV07-05** tracé exact en D avec codage
-
-#### DEV08
-
-1. **DEV08-01** tracé exact en D avec codage
-2. **DEV08-02** tracé exact en J avec codage
-3. **DEV08-03** tracé exact en B avec codage
-4. **DEV08-04** tracé ouvert : O est le sommet, le second côté suit le bord perpendiculaire de l’équerre et le code est présent
-5. **DEV08-05** tracé exact en F avec codage
-
-#### DEV09
-
-1. **DEV09-01** tracé exact en F avec codage
-2. **DEV09-02** tracé exact en M avec codage
-3. **DEV09-03** tracé exact en I avec codage
-4. **DEV09-04** tracé exact en B avec codage
-5. **DEV09-05** tracé exact en I avec codage
-
-#### DEV10
-
-1. **DEV10-01** tracé exact en I avec codage
-2. **DEV10-02** tracé exact en D avec codage
-3. **DEV10-03** tracé exact en J avec codage
-4. **DEV10-04** tracé exact en D avec codage
-5. **DEV10-05** tracé exact en J avec codage
+#### Devoir 10
+1. tracé exact en I avec codage
+2. tracé exact en D avec codage
+3. tracé exact en J avec codage
+4. tracé exact en D avec codage
+5. tracé exact en J avec codage
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

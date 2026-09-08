@@ -70,17 +70,17 @@ Chaque question oblige à prélever ou comparer une donnée visible, sans calcul
 A = Chat ; B = Chien ; C = Poisson ; D = Lapin
 ```
 
-- **MOD01** Combien d’élèves ont choisi le chat ?
+- Combien d’élèves ont choisi le chat ?
   - **Attention :** pointer « Chat », puis suivre uniquement cette barre.
   - **Verbalisation :** « Je pars de Chat, je monte jusqu’au sommet de sa barre, puis je lis 4 sur l’axe. »
   - **Réponse :** 4 élèves.
   - **Contrôle final :** la barre du chat atteint bien la graduation 4.
-- **MOD02** Quel animal a été choisi par 3 élèves ?
+- Quel animal a été choisi par 3 élèves ?
   - **Attention :** demander de partir de la graduation 3 et de regarder horizontalement.
   - **Verbalisation :** « À la hauteur 3, le sommet de la barre est au-dessus de Poisson. »
   - **Réponse :** le poisson.
   - **Contrôle final :** la réponse est un animal, comme le demande la question.
-- **MOD03** Quel animal est le plus choisi ?
+- Quel animal est le plus choisi ?
   - **Attention :** laisser les élèves comparer les quatre sommets.
   - **Verbalisation :** « Je cherche la barre la plus haute. Elle atteint 5 et appartient au lapin. »
   - **Réponse :** le lapin.
@@ -102,13 +102,13 @@ A = Chat ; B = Chien ; C = Poisson ; D = Lapin
 A = Pomme ; B = Poire ; C = Kiwi ; D = Banane
 ```
 
-- **IMM01** Combien d’élèves ont choisi la pomme ?
-- **IMM02** Combien d’élèves ont choisi la poire ?
-- **IMM03** Quel fruit a été choisi par 2 élèves ?
-- **IMM04** Quel fruit est le plus choisi ?
-- **IMM05** Quel fruit est le moins choisi ?
-- **IMM06** La barre « banane » est-elle plus haute que la barre « kiwi » ?
-- **IMM07** Écris les quatre effectifs dans l’ordre : pomme, poire, kiwi, banane.
+- Combien d’élèves ont choisi la pomme ?
+- Combien d’élèves ont choisi la poire ?
+- Quel fruit a été choisi par 2 élèves ?
+- Quel fruit est le plus choisi ?
+- Quel fruit est le moins choisi ?
+- La barre « banane » est-elle plus haute que la barre « kiwi » ?
+- Écris les quatre effectifs dans l’ordre : pomme, poire, kiwi, banane.
 
 ## Variables didactiques
 
@@ -118,8 +118,7 @@ A = Pomme ; B = Poire ; C = Kiwi ; D = Banane
 
 ## Entraînements
 
-### ENT01 — D1 : animaux
-
+### Entraînement 1 — D1 : animaux
 ```text
 4 | ■  ·  ·  ·
 3 | ■  ·  ■  ·
@@ -130,14 +129,13 @@ A = Pomme ; B = Poire ; C = Kiwi ; D = Banane
 A = Chat ; B = Chien ; C = Lapin ; D = Poisson
 ```
 
-- **ENT01-01** Combien ont choisi le chat ?
-- **ENT01-02** Combien ont choisi le chien ?
-- **ENT01-03** Quel animal est le plus choisi ?
-- **ENT01-04** Quels animaux sont les moins choisis ?
-- **ENT01-05** Le lapin est-il plus choisi que le chien ?
+- Combien ont choisi le chat ?
+- Combien ont choisi le chien ?
+- Quel animal est le plus choisi ?
+- Quels animaux sont les moins choisis ?
+- Le lapin est-il plus choisi que le chien ?
 
-### ENT02 — D2 : fruits
-
+### Entraînement 2 — D2 : fruits
 ```text
 5 | ■  ·  ·  ·
 4 | ■  ·  ·  ■
@@ -149,14 +147,13 @@ A = Chat ; B = Chien ; C = Lapin ; D = Poisson
 A = Pomme ; B = Poire ; C = Kiwi ; D = Banane
 ```
 
-- **ENT02-01** Combien ont choisi la pomme ?
-- **ENT02-02** Combien ont choisi la banane ?
-- **ENT02-03** Quel fruit est le plus choisi ?
-- **ENT02-04** Quel fruit est le moins choisi ?
-- **ENT02-05** La poire est-elle moins choisie que la banane ?
+- Combien ont choisi la pomme ?
+- Combien ont choisi la banane ?
+- Quel fruit est le plus choisi ?
+- Quel fruit est le moins choisi ?
+- La poire est-elle moins choisie que la banane ?
 
-### ENT03 — D3 : jeux
-
+### Entraînement 3 — D3 : jeux
 ```text
 6 | ■  ·  ·  ·
 5 | ■  ·  ■  ·
@@ -169,14 +166,13 @@ A = Pomme ; B = Poire ; C = Kiwi ; D = Banane
 A = Cartes ; B = Billes ; C = Corde ; D = Quilles
 ```
 
-- **ENT03-01** Combien ont choisi les cartes ?
-- **ENT03-02** Combien ont choisi la corde ?
-- **ENT03-03** Quel jeu est le plus choisi ?
-- **ENT03-04** Quel jeu est le moins choisi ?
-- **ENT03-05** Les billes sont-elles plus choisies que les quilles ?
+- Combien ont choisi les cartes ?
+- Combien ont choisi la corde ?
+- Quel jeu est le plus choisi ?
+- Quel jeu est le moins choisi ?
+- Les billes sont-elles plus choisies que les quilles ?
 
-### ENT04 — D4 : couleurs
-
+### Entraînement 4 — D4 : couleurs
 ```text
 5 | ■  ■  ·  ·
 4 | ■  ■  ·  ■
@@ -188,14 +184,13 @@ A = Cartes ; B = Billes ; C = Corde ; D = Quilles
 A = Bleu ; B = Vert ; C = Rouge ; D = Jaune
 ```
 
-- **ENT04-01** Combien ont choisi le bleu ?
-- **ENT04-02** Combien ont choisi le rouge ?
-- **ENT04-03** Quelles couleurs sont les plus choisies ?
-- **ENT04-04** Quelle couleur est la moins choisie ?
-- **ENT04-05** Le jaune est-il moins choisi que le vert ?
+- Combien ont choisi le bleu ?
+- Combien ont choisi le rouge ?
+- Quelles couleurs sont les plus choisies ?
+- Quelle couleur est la moins choisie ?
+- Le jaune est-il moins choisi que le vert ?
 
-### ENT05 — D5 : sports
-
+### Entraînement 5 — D5 : sports
 ```text
 7 | ■  ·  ·  ·
 6 | ■  ·  ■  ·
@@ -209,14 +204,13 @@ A = Bleu ; B = Vert ; C = Rouge ; D = Jaune
 A = Vélo ; B = Danse ; C = Foot ; D = Judo
 ```
 
-- **ENT05-01** Combien ont choisi le vélo ?
-- **ENT05-02** Combien ont choisi la danse ?
-- **ENT05-03** Quel sport est le plus choisi ?
-- **ENT05-04** Quel sport est le moins choisi ?
-- **ENT05-05** Le foot est-il plus choisi que le judo ?
+- Combien ont choisi le vélo ?
+- Combien ont choisi la danse ?
+- Quel sport est le plus choisi ?
+- Quel sport est le moins choisi ?
+- Le foot est-il plus choisi que le judo ?
 
-### ENT06 — D6 : livres
-
+### Entraînement 6 — D6 : livres
 ```text
 7 | ·  ■  ·  ·
 6 | ■  ■  ·  ·
@@ -230,14 +224,13 @@ A = Vélo ; B = Danse ; C = Foot ; D = Judo
 A = Conte ; B = BD ; C = Album ; D = Documentaire
 ```
 
-- **ENT06-01** Combien ont choisi le conte ?
-- **ENT06-02** Combien ont choisi la BD ?
-- **ENT06-03** Quel type de livre est le plus choisi ?
-- **ENT06-04** Quel type est le moins choisi ?
-- **ENT06-05** L’album est-il plus choisi que le documentaire ?
+- Combien ont choisi le conte ?
+- Combien ont choisi la BD ?
+- Quel type de livre est le plus choisi ?
+- Quel type est le moins choisi ?
+- L’album est-il plus choisi que le documentaire ?
 
-### ENT07 — D7 : transports
-
+### Entraînement 7 — D7 : transports
 ```text
 8 | ■  ·  ·  ·
 7 | ■  ·  ■  ·
@@ -252,14 +245,13 @@ A = Conte ; B = BD ; C = Album ; D = Documentaire
 A = À pied ; B = Bus ; C = Vélo ; D = Voiture
 ```
 
-- **ENT07-01** Combien viennent à pied ?
-- **ENT07-02** Combien viennent en voiture ?
-- **ENT07-03** Quel transport est le plus utilisé ?
-- **ENT07-04** Quel transport est le moins utilisé ?
-- **ENT07-05** Le vélo est-il plus utilisé que le bus ?
+- Combien viennent à pied ?
+- Combien viennent en voiture ?
+- Quel transport est le plus utilisé ?
+- Quel transport est le moins utilisé ?
+- Le vélo est-il plus utilisé que le bus ?
 
-### ENT08 — D8 : ateliers
-
+### Entraînement 8 — D8 : ateliers
 ```text
 7 | ■  ■  ·  ·
 6 | ■  ■  ■  ·
@@ -273,14 +265,13 @@ A = À pied ; B = Bus ; C = Vélo ; D = Voiture
 A = Peinture ; B = Pliage ; C = Collage ; D = Modelage
 ```
 
-- **ENT08-01** Combien ont choisi peinture ?
-- **ENT08-02** Combien ont choisi collage ?
-- **ENT08-03** Quels ateliers sont les plus choisis ?
-- **ENT08-04** Quel atelier est le moins choisi ?
-- **ENT08-05** Le collage est-il plus choisi que modelage ?
+- Combien ont choisi peinture ?
+- Combien ont choisi collage ?
+- Quels ateliers sont les plus choisis ?
+- Quel atelier est le moins choisi ?
+- Le collage est-il plus choisi que modelage ?
 
-### ENT09 — D9 : goûters
-
+### Entraînement 9 — D9 : goûters
 ```text
 9 | ■  ·  ·  ·
 8 | ■  ·  ■  ·
@@ -296,14 +287,13 @@ A = Peinture ; B = Pliage ; C = Collage ; D = Modelage
 A = Pain ; B = Fruit ; C = Yaourt ; D = Compote
 ```
 
-- **ENT09-01** Combien ont choisi le pain ?
-- **ENT09-02** Combien ont choisi le fruit ?
-- **ENT09-03** Quel goûter est le plus choisi ?
-- **ENT09-04** Quel goûter est le moins choisi ?
-- **ENT09-05** Le yaourt est-il plus choisi que le fruit ?
+- Combien ont choisi le pain ?
+- Combien ont choisi le fruit ?
+- Quel goûter est le plus choisi ?
+- Quel goûter est le moins choisi ?
+- Le yaourt est-il plus choisi que le fruit ?
 
-### ENT10 — D10 : activités
-
+### Entraînement 10 — D10 : activités
 ```text
 9 | ·  ■  ·  ·
 8 | ■  ■  ·  ■
@@ -319,234 +309,184 @@ A = Pain ; B = Fruit ; C = Yaourt ; D = Compote
 A = Lecture ; B = Dessin ; C = Musique ; D = Jardinage
 ```
 
-- **ENT10-01** Combien ont choisi la lecture ?
-- **ENT10-02** Combien ont choisi le dessin ?
-- **ENT10-03** Quelle activité est la plus choisie ?
-- **ENT10-04** Quelle activité est la moins choisie ?
-- **ENT10-05** La lecture et le jardin ont-ils le même effectif ?
+- Combien ont choisi la lecture ?
+- Combien ont choisi le dessin ?
+- Quelle activité est la plus choisie ?
+- Quelle activité est la moins choisie ?
+- La lecture et le jardin ont-ils le même effectif ?
 
 ## Évaluations
 
 Le diagramme indiqué dans le titre de chaque forme est entièrement fourni dans les entraînements ; il est à reproduire sur la feuille d’évaluation. Chaque forme reste composée de cinq lectures courtes.
 
-### EVAL01 — support D5
-- **EVAL01-01** Combien ont choisi le vélo ?
-- **EVAL01-02** Combien ont choisi la danse ?
-- **EVAL01-03** Quel sport est le plus choisi ?
-- **EVAL01-04** Quel sport est le moins choisi ?
-- **EVAL01-05** Nouveau : le judo est-il moins choisi que le foot ?
+### Évaluation 1 — support D5- **EVAL01-01** Combien ont choisi le vélo ?
+- Combien ont choisi la danse ?
+- Quel sport est le plus choisi ?
+- Quel sport est le moins choisi ?
+- Nouveau : le judo est-il moins choisi que le foot ?
 
-### EVAL02 — support D6
-- **EVAL02-01** Combien ont choisi le conte ?
-- **EVAL02-02** Combien ont choisi la BD ?
-- **EVAL02-03** Quel type de livre est le plus choisi ?
-- **EVAL02-04** Quel type est le moins choisi ?
-- **EVAL02-05** Nouveau : le documentaire est-il moins choisi que l’album ?
+### Évaluation 2 — support D6- **EVAL02-01** Combien ont choisi le conte ?
+- Combien ont choisi la BD ?
+- Quel type de livre est le plus choisi ?
+- Quel type est le moins choisi ?
+- Nouveau : le documentaire est-il moins choisi que l’album ?
 
-### EVAL03 — support D7
-- **EVAL03-01** Combien viennent à pied ?
-- **EVAL03-02** Combien viennent en voiture ?
-- **EVAL03-03** Quel transport est le plus utilisé ?
-- **EVAL03-04** Quel transport est le moins utilisé ?
-- **EVAL03-05** Nouveau : le bus est-il moins utilisé que le vélo ?
+### Évaluation 3 — support D7- **EVAL03-01** Combien viennent à pied ?
+- Combien viennent en voiture ?
+- Quel transport est le plus utilisé ?
+- Quel transport est le moins utilisé ?
+- Nouveau : le bus est-il moins utilisé que le vélo ?
 
-### EVAL04 — support D8
-- **EVAL04-01** Combien ont choisi peinture ?
-- **EVAL04-02** Combien ont choisi collage ?
-- **EVAL04-03** Quels ateliers sont les plus choisis ?
-- **EVAL04-04** Quel atelier est le moins choisi ?
-- **EVAL04-05** Nouveau : peinture et pliage ont-ils le même effectif ?
+### Évaluation 4 — support D8- **EVAL04-01** Combien ont choisi peinture ?
+- Combien ont choisi collage ?
+- Quels ateliers sont les plus choisis ?
+- Quel atelier est le moins choisi ?
+- Nouveau : peinture et pliage ont-ils le même effectif ?
 
-### EVAL05 — support D9
-- **EVAL05-01** Combien ont choisi le pain ?
-- **EVAL05-02** Combien ont choisi le fruit ?
-- **EVAL05-03** Quel goûter est le plus choisi ?
-- **EVAL05-04** Quel goûter est le moins choisi ?
-- **EVAL05-05** Nouveau : le fruit est-il moins choisi que le yaourt ?
+### Évaluation 5 — support D9- **EVAL05-01** Combien ont choisi le pain ?
+- Combien ont choisi le fruit ?
+- Quel goûter est le plus choisi ?
+- Quel goûter est le moins choisi ?
+- Nouveau : le fruit est-il moins choisi que le yaourt ?
 
-### EVAL06 — support D10
-- **EVAL06-01** Combien ont choisi la lecture ?
-- **EVAL06-02** Combien ont choisi le dessin ?
-- **EVAL06-03** Quelle activité est la plus choisie ?
-- **EVAL06-04** Quelle activité est la moins choisie ?
-- **EVAL06-05** Nouveau : le jardin est-il plus choisi que la musique ?
+### Évaluation 6 — support D10- **EVAL06-01** Combien ont choisi la lecture ?
+- Combien ont choisi le dessin ?
+- Quelle activité est la plus choisie ?
+- Quelle activité est la moins choisie ?
+- Nouveau : le jardin est-il plus choisi que la musique ?
 
-### EVAL07 — support D5
-- **EVAL07-01** Combien ont choisi le vélo ?
-- **EVAL07-02** Combien ont choisi la danse ?
-- **EVAL07-03** Quel sport est le plus choisi ?
-- **EVAL07-04** Quel sport est le moins choisi ?
-- **EVAL07-05** Nouveau : le foot a-t-il un effectif de 6 ?
+### Évaluation 7 — support D5- **EVAL07-01** Combien ont choisi le vélo ?
+- Combien ont choisi la danse ?
+- Quel sport est le plus choisi ?
+- Quel sport est le moins choisi ?
+- Nouveau : le foot a-t-il un effectif de 6 ?
 
-### EVAL08 — support D6
-- **EVAL08-01** Combien ont choisi le conte ?
-- **EVAL08-02** Combien ont choisi la BD ?
-- **EVAL08-03** Quel type de livre est le plus choisi ?
-- **EVAL08-04** Quel type est le moins choisi ?
-- **EVAL08-05** Nouveau : l’album a-t-il un effectif de 5 ?
+### Évaluation 8 — support D6- **EVAL08-01** Combien ont choisi le conte ?
+- Combien ont choisi la BD ?
+- Quel type de livre est le plus choisi ?
+- Quel type est le moins choisi ?
+- Nouveau : l’album a-t-il un effectif de 5 ?
 
-### EVAL09 — support D7
-- **EVAL09-01** Combien viennent à pied ?
-- **EVAL09-02** Combien viennent en voiture ?
-- **EVAL09-03** Quel transport est le plus utilisé ?
-- **EVAL09-04** Quel transport est le moins utilisé ?
-- **EVAL09-05** Nouveau : la barre du vélo atteint-elle 7 ?
+### Évaluation 9 — support D7- **EVAL09-01** Combien viennent à pied ?
+- Combien viennent en voiture ?
+- Quel transport est le plus utilisé ?
+- Quel transport est le moins utilisé ?
+- Nouveau : la barre du vélo atteint-elle 7 ?
 
-### EVAL10 — support D8
-- **EVAL10-01** Combien ont choisi peinture ?
-- **EVAL10-02** Combien ont choisi collage ?
-- **EVAL10-03** Quels ateliers sont les plus choisis ?
-- **EVAL10-04** Quel atelier est le moins choisi ?
-- **EVAL10-05** Nouveau : la barre du modelage atteint-elle 5 ?
+### Évaluation 10 — support D8- **EVAL10-01** Combien ont choisi peinture ?
+- Combien ont choisi collage ?
+- Quels ateliers sont les plus choisis ?
+- Quel atelier est le moins choisi ?
+- Nouveau : la barre du modelage atteint-elle 5 ?
 
 ## Devoirs
 
 Les supports D1 à D4, déjà étudiés et entièrement fournis dans ce dossier, sont à reproduire avec le devoir.
 
-### DEV01 — support D1
-- **DEV01-01** Combien ont choisi le chat ?
-- **DEV01-02** Combien ont choisi le chien ?
-- **DEV01-03** Quel animal est le plus choisi ?
-- **DEV01-04** Quels animaux sont les moins choisis ?
-- **DEV01-05** Le lapin est-il plus choisi que le chien ?
+### Devoir 1 — support D1- **DEV01-01** Combien ont choisi le chat ?
+- Combien ont choisi le chien ?
+- Quel animal est le plus choisi ?
+- Quels animaux sont les moins choisis ?
+- Le lapin est-il plus choisi que le chien ?
 
-### DEV02 — support D2
-- **DEV02-01** Combien ont choisi la pomme ?
-- **DEV02-02** Combien ont choisi la banane ?
-- **DEV02-03** Quel fruit est le plus choisi ?
-- **DEV02-04** Quel fruit est le moins choisi ?
-- **DEV02-05** La poire est-elle moins choisie que la banane ?
+### Devoir 2 — support D2- **DEV02-01** Combien ont choisi la pomme ?
+- Combien ont choisi la banane ?
+- Quel fruit est le plus choisi ?
+- Quel fruit est le moins choisi ?
+- La poire est-elle moins choisie que la banane ?
 
-### DEV03 — support D3
-- **DEV03-01** Combien ont choisi les cartes ?
-- **DEV03-02** Combien ont choisi la corde ?
-- **DEV03-03** Quel jeu est le plus choisi ?
-- **DEV03-04** Quel jeu est le moins choisi ?
-- **DEV03-05** Les billes sont-elles plus choisies que les quilles ?
+### Devoir 3 — support D3- **DEV03-01** Combien ont choisi les cartes ?
+- Combien ont choisi la corde ?
+- Quel jeu est le plus choisi ?
+- Quel jeu est le moins choisi ?
+- Les billes sont-elles plus choisies que les quilles ?
 
-### DEV04 — support D4
-- **DEV04-01** Combien ont choisi le bleu ?
-- **DEV04-02** Combien ont choisi le rouge ?
-- **DEV04-03** Quelles couleurs sont les plus choisies ?
-- **DEV04-04** Quelle couleur est la moins choisie ?
-- **DEV04-05** Le jaune est-il moins choisi que le vert ?
+### Devoir 4 — support D4- **DEV04-01** Combien ont choisi le bleu ?
+- Combien ont choisi le rouge ?
+- Quelles couleurs sont les plus choisies ?
+- Quelle couleur est la moins choisie ?
+- Le jaune est-il moins choisi que le vert ?
 
-### DEV05 — support D1
-- **DEV05-01** Combien ont choisi le chat ?
-- **DEV05-02** Combien ont choisi le chien ?
-- **DEV05-03** Quel animal est le plus choisi ?
-- **DEV05-04** Quels animaux sont les moins choisis ?
-- **DEV05-05** Le lapin est-il plus choisi que le chien ?
+### Devoir 5 — support D1- **DEV05-01** Combien ont choisi le chat ?
+- Combien ont choisi le chien ?
+- Quel animal est le plus choisi ?
+- Quels animaux sont les moins choisis ?
+- Le lapin est-il plus choisi que le chien ?
 
-### DEV06 — support D2
-- **DEV06-01** Combien ont choisi la pomme ?
-- **DEV06-02** Combien ont choisi la banane ?
-- **DEV06-03** Quel fruit est le plus choisi ?
-- **DEV06-04** Quel fruit est le moins choisi ?
-- **DEV06-05** La poire est-elle moins choisie que la banane ?
+### Devoir 6 — support D2- **DEV06-01** Combien ont choisi la pomme ?
+- Combien ont choisi la banane ?
+- Quel fruit est le plus choisi ?
+- Quel fruit est le moins choisi ?
+- La poire est-elle moins choisie que la banane ?
 
-### DEV07 — support D3
-- **DEV07-01** Combien ont choisi les cartes ?
-- **DEV07-02** Combien ont choisi la corde ?
-- **DEV07-03** Quel jeu est le plus choisi ?
-- **DEV07-04** Quel jeu est le moins choisi ?
-- **DEV07-05** Les billes sont-elles plus choisies que les quilles ?
+### Devoir 7 — support D3- **DEV07-01** Combien ont choisi les cartes ?
+- Combien ont choisi la corde ?
+- Quel jeu est le plus choisi ?
+- Quel jeu est le moins choisi ?
+- Les billes sont-elles plus choisies que les quilles ?
 
-### DEV08 — support D4
-- **DEV08-01** Combien ont choisi le bleu ?
-- **DEV08-02** Combien ont choisi le rouge ?
-- **DEV08-03** Quelles couleurs sont les plus choisies ?
-- **DEV08-04** Quelle couleur est la moins choisie ?
-- **DEV08-05** Le jaune est-il moins choisi que le vert ?
+### Devoir 8 — support D4- **DEV08-01** Combien ont choisi le bleu ?
+- Combien ont choisi le rouge ?
+- Quelles couleurs sont les plus choisies ?
+- Quelle couleur est la moins choisie ?
+- Le jaune est-il moins choisi que le vert ?
 
-### DEV09 — support D1
-- **DEV09-01** Combien ont choisi le chat ?
-- **DEV09-02** Combien ont choisi le chien ?
-- **DEV09-03** Quel animal est le plus choisi ?
-- **DEV09-04** Quels animaux sont les moins choisis ?
-- **DEV09-05** Le lapin est-il plus choisi que le chien ?
+### Devoir 9 — support D1- **DEV09-01** Combien ont choisi le chat ?
+- Combien ont choisi le chien ?
+- Quel animal est le plus choisi ?
+- Quels animaux sont les moins choisis ?
+- Le lapin est-il plus choisi que le chien ?
 
-### DEV10 — support D2
-- **DEV10-01** Combien ont choisi la pomme ?
-- **DEV10-02** Combien ont choisi la banane ?
-- **DEV10-03** Quel fruit est le plus choisi ?
-- **DEV10-04** Quel fruit est le moins choisi ?
-- **DEV10-05** La poire est-elle moins choisie que la banane ?
+### Devoir 10 — support D2- **DEV10-01** Combien ont choisi la pomme ?
+- Combien ont choisi la banane ?
+- Quel fruit est le plus choisi ?
+- Quel fruit est le moins choisi ?
+- La poire est-elle moins choisie que la banane ?
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01 :** 4. 2. **IMM02 :** 6. 3. **IMM03 :** kiwi. 4. **IMM04 :** poire. 5. **IMM05 :** kiwi. 6. **IMM06 :** oui. 7. **IMM07 :** 4 ; 6 ; 2 ; 3.
+1. :** 4. 2. **IMM02 :** 6. 3. **IMM03 :** kiwi. 4. **IMM04 :** poire. 5. **IMM05 :** kiwi. 6. **IMM06 :** oui. 7. **IMM07 :** 4 ; 6 ; 2 ; 3.
 
 ### Corrections des entraînements
 
-#### ENT01
-1. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
-#### ENT02
-1. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
-#### ENT03
-1. 6. 2. 5. 3. Cartes. 4. Quilles. 5. Oui.
-#### ENT04
-1. 5. 2. 3. 3. Bleu et vert. 4. Rouge. 5. Oui.
-#### ENT05
-1. 7. 2. 4. 3. Vélo. 4. Danse. 5. Oui.
-#### ENT06
-1. 6. 2. 7. 3. BD. 4. Documentaire. 5. Oui.
-#### ENT07
-1. 8. 2. 5. 3. Pied. 4. Voiture. 5. Oui.
-#### ENT08
-1. 7. 2. 6. 3. Peinture et pliage. 4. Modelage. 5. Oui.
-#### ENT09
-1. 9. 2. 7. 3. Pain. 4. Compote. 5. Oui.
-#### ENT10
-1. 8. 2. 9. 3. Dessin. 4. Musique. 5. Oui.
+#### Entraînement 11. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
+#### Entraînement 21. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
+#### Entraînement 31. 6. 2. 5. 3. Cartes. 4. Quilles. 5. Oui.
+#### Entraînement 41. 5. 2. 3. 3. Bleu et vert. 4. Rouge. 5. Oui.
+#### Entraînement 51. 7. 2. 4. 3. Vélo. 4. Danse. 5. Oui.
+#### Entraînement 61. 6. 2. 7. 3. BD. 4. Documentaire. 5. Oui.
+#### Entraînement 71. 8. 2. 5. 3. Pied. 4. Voiture. 5. Oui.
+#### Entraînement 81. 7. 2. 6. 3. Peinture et pliage. 4. Modelage. 5. Oui.
+#### Entraînement 91. 9. 2. 7. 3. Pain. 4. Compote. 5. Oui.
+#### Entraînement 101. 8. 2. 9. 3. Dessin. 4. Musique. 5. Oui.
 
 ### Corrections des évaluations
 
-#### EVAL01
-1. 7. 2. 4. 3. Vélo. 4. Danse. 5. Oui.
-#### EVAL02
-1. 6. 2. 7. 3. BD. 4. Documentaire. 5. Oui.
-#### EVAL03
-1. 8. 2. 5. 3. Pied. 4. Voiture. 5. Oui.
-#### EVAL04
-1. 7. 2. 6. 3. Peinture et pliage. 4. Modelage. 5. Oui.
-#### EVAL05
-1. 9. 2. 7. 3. Pain. 4. Compote. 5. Oui.
-#### EVAL06
-1. 8. 2. 9. 3. Dessin. 4. Musique. 5. Oui.
-#### EVAL07
-1. 7. 2. 4. 3. Vélo. 4. Danse. 5. Oui.
-#### EVAL08
-1. 6. 2. 7. 3. BD. 4. Documentaire. 5. Oui.
-#### EVAL09
-1. 8. 2. 5. 3. Pied. 4. Voiture. 5. Oui.
-#### EVAL10
-1. 7. 2. 6. 3. Peinture et pliage. 4. Modelage. 5. Oui.
+#### Évaluation 11. 7. 2. 4. 3. Vélo. 4. Danse. 5. Oui.
+#### Évaluation 21. 6. 2. 7. 3. BD. 4. Documentaire. 5. Oui.
+#### Évaluation 31. 8. 2. 5. 3. Pied. 4. Voiture. 5. Oui.
+#### Évaluation 41. 7. 2. 6. 3. Peinture et pliage. 4. Modelage. 5. Oui.
+#### Évaluation 51. 9. 2. 7. 3. Pain. 4. Compote. 5. Oui.
+#### Évaluation 61. 8. 2. 9. 3. Dessin. 4. Musique. 5. Oui.
+#### Évaluation 71. 7. 2. 4. 3. Vélo. 4. Danse. 5. Oui.
+#### Évaluation 81. 6. 2. 7. 3. BD. 4. Documentaire. 5. Oui.
+#### Évaluation 91. 8. 2. 5. 3. Pied. 4. Voiture. 5. Oui.
+#### Évaluation 101. 7. 2. 6. 3. Peinture et pliage. 4. Modelage. 5. Oui.
 
 ### Corrections des devoirs
 
-#### DEV01
-1. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
-#### DEV02
-1. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
-#### DEV03
-1. 6. 2. 5. 3. Cartes. 4. Quilles. 5. Oui.
-#### DEV04
-1. 5. 2. 3. 3. Bleu et vert. 4. Rouge. 5. Oui.
-#### DEV05
-1. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
-#### DEV06
-1. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
-#### DEV07
-1. 6. 2. 5. 3. Cartes. 4. Quilles. 5. Oui.
-#### DEV08
-1. 5. 2. 3. 3. Bleu et vert. 4. Rouge. 5. Oui.
-#### DEV09
-1. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
-#### DEV10
-1. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
+#### Devoir 11. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
+#### Devoir 21. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
+#### Devoir 31. 6. 2. 5. 3. Cartes. 4. Quilles. 5. Oui.
+#### Devoir 41. 5. 2. 3. 3. Bleu et vert. 4. Rouge. 5. Oui.
+#### Devoir 51. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
+#### Devoir 61. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
+#### Devoir 71. 6. 2. 5. 3. Cartes. 4. Quilles. 5. Oui.
+#### Devoir 81. 5. 2. 3. 3. Bleu et vert. 4. Rouge. 5. Oui.
+#### Devoir 91. 4. 2. 2. 3. Chat. 4. Chien et poisson. 5. Oui.
+#### Devoir 101. 5. 2. 4. 3. Pomme. 4. Kiwi. 5. Oui.
 
 Pour les questions « vrai/faux », accepter aussi « oui/non » si le choix est correct. Pour les maxima ou minima ex æquo, toutes les catégories attendues doivent être citées, dans n’importe quel ordre.
 

@@ -58,24 +58,21 @@ Chaque description ci-dessous constitue un modèle à tracer par l’enseignant 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** un carré de 2 carreaux de côté.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** un rectangle de 3 carreaux sur 2.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Chaque description ci-dessous constitue un modèle à tracer par l’enseignant 
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **IMM02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **IMM03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **IMM04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **IMM05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **IMM06** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **IMM07** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Chaque description ci-dessous constitue un modèle à tracer par l’enseignant 
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
 
-- **ENT01-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **ENT01-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **ENT01-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **ENT01-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **ENT01-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+### Entraînement 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
 
-### ENT02
+### Entraînement 3
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
 
-- **ENT02-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **ENT02-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **ENT02-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **ENT02-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **ENT02-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+### Entraînement 4
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
 
-### ENT03
+### Entraînement 5
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
 
-- **ENT03-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **ENT03-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **ENT03-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **ENT03-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **ENT03-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+### Entraînement 6
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
 
-### ENT04
+### Entraînement 7
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
 
-- **ENT04-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **ENT04-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **ENT04-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **ENT04-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **ENT04-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+### Entraînement 8
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
 
-### ENT05
+### Entraînement 9
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
 
-- **ENT05-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **ENT05-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **ENT05-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **ENT05-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
-- **ENT05-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-
-### ENT06
-
-- **ENT06-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **ENT06-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
-- **ENT06-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **ENT06-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **ENT06-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-
-### ENT07
-
-- **ENT07-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **ENT07-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **ENT07-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **ENT07-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **ENT07-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-
-### ENT08
-
-- **ENT08-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **ENT08-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
-- **ENT08-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **ENT08-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **ENT08-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-
-### ENT09
-
-- **ENT09-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **ENT09-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **ENT09-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **ENT09-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **ENT09-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-
-### ENT10
-
-- **ENT10-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **ENT10-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **ENT10-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **ENT10-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **ENT10-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
+### Entraînement 10
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un cerf-volant : deux triangles partageant un côté vertical de 4 carreaux
 
-- **EVAL01-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL01-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **EVAL01-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **EVAL01-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **EVAL01-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un cerf-volant : deux triangles partageant un côté vertical de 4 carreaux
+### Évaluation 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une tour : rectangle 2 × 5 surmonté d’un triangle de hauteur 2
 
-### EVAL02
+### Évaluation 3
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. trois carrés de 2 carreaux disposés en L
 
-- **EVAL02-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **EVAL02-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **EVAL02-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL02-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL02-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une tour : rectangle 2 × 5 surmonté d’un triangle de hauteur 2
+### Évaluation 4
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle 5 × 3 partagé par ses deux diagonales
 
-### EVAL03
+### Évaluation 5
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un cerf-volant : deux triangles partageant un côté vertical de 4 carreaux
 
-- **EVAL03-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **EVAL03-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
-- **EVAL03-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **EVAL03-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **EVAL03-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. trois carrés de 2 carreaux disposés en L
+### Évaluation 6
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une tour : rectangle 2 × 5 surmonté d’un triangle de hauteur 2
 
-### EVAL04
+### Évaluation 7
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. trois carrés de 2 carreaux disposés en L
 
-- **EVAL04-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **EVAL04-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **EVAL04-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **EVAL04-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **EVAL04-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle 5 × 3 partagé par ses deux diagonales
+### Évaluation 8
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle 5 × 3 partagé par ses deux diagonales
 
-### EVAL05
+### Évaluation 9
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un cerf-volant : deux triangles partageant un côté vertical de 4 carreaux
 
-- **EVAL05-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **EVAL05-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL05-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **EVAL05-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **EVAL05-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un cerf-volant : deux triangles partageant un côté vertical de 4 carreaux
-
-### EVAL06
-
-- **EVAL06-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL06-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **EVAL06-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **EVAL06-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **EVAL06-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une tour : rectangle 2 × 5 surmonté d’un triangle de hauteur 2
-
-### EVAL07
-
-- **EVAL07-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **EVAL07-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **EVAL07-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL07-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL07-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. trois carrés de 2 carreaux disposés en L
-
-### EVAL08
-
-- **EVAL08-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **EVAL08-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un drapeau : mât vertical de 5 carreaux et rectangle de 3 × 2 à sa droite en haut
-- **EVAL08-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **EVAL08-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **EVAL08-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle 5 × 3 partagé par ses deux diagonales
-
-### EVAL09
-
-- **EVAL09-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **EVAL09-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **EVAL09-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un bateau : trapèze de hauteur 2 carreaux surmonté d’un mât de 3 carreaux et d’un triangle
-- **EVAL09-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **EVAL09-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un cerf-volant : deux triangles partageant un côté vertical de 4 carreaux
-
-### EVAL10
-
-- **EVAL10-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **EVAL10-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **EVAL10-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
-- **EVAL10-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **EVAL10-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une tour : rectangle 2 × 5 surmonté d’un triangle de hauteur 2
+### Évaluation 10
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un assemblage : carré 3 × 3, une diagonale, puis un triangle extérieur sur le côté droit
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une tour : rectangle 2 × 5 surmonté d’un triangle de hauteur 2
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
 
-- **DEV01-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **DEV01-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **DEV01-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **DEV01-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **DEV01-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+### Devoir 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
 
-### DEV02
+### Devoir 3
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
 
-- **DEV02-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **DEV02-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV02-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **DEV02-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV02-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+### Devoir 4
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
 
-### DEV03
+### Devoir 5
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
 
-- **DEV03-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **DEV03-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **DEV03-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **DEV03-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **DEV03-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+### Devoir 6
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
 
-### DEV04
+### Devoir 7
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
 
-- **DEV04-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **DEV04-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **DEV04-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV04-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **DEV04-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+### Devoir 8
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
 
-### DEV05
+### Devoir 9
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
 
-- **DEV05-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV05-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **DEV05-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **DEV05-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **DEV05-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-
-### DEV06
-
-- **DEV06-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **DEV06-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **DEV06-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **DEV06-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **DEV06-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-
-### DEV07
-
-- **DEV07-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **DEV07-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV07-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **DEV07-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV07-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-
-### DEV08
-
-- **DEV08-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **DEV08-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **DEV08-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **DEV08-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un carré de 2 carreaux de côté
-- **DEV08-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-
-### DEV09
-
-- **DEV09-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. une maison : carré de 2 carreaux surmonté d’un triangle
-- **DEV09-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. deux carrés de 2 carreaux partageant un côté
-- **DEV09-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV09-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 3 carreaux sur 2
-- **DEV09-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-
-### DEV10
-
-- **DEV10-01** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
-- **DEV10-02** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **DEV10-03** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
-- **DEV10-04** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
-- **DEV10-05** Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+### Devoir 10
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un escalier de trois marches : →2, ↑1, →2, ↑1, →2, ↑1
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un triangle rectangle dont les côtés de l’angle droit mesurent 2 et 3 carreaux
+- Reproduis le modèle sur un quadrillage identique, en partant du point marqué A. un rectangle de 4 carreaux sur 2 partagé par une diagonale
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** la maison, avec mêmes formes, dimensions et positions relatives
-2. **IMM02** le même escalier de trois marches
-3. **IMM03** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-4. **IMM04** deux carrés congruents partageant exactement un côté
-5. **IMM05** un carré de 2 carreaux de côté
-6. **IMM06** un rectangle de 3 carreaux sur 2
-7. **IMM07** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+1. la maison, avec mêmes formes, dimensions et positions relatives
+2. le même escalier de trois marches
+3. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+4. deux carrés congruents partageant exactement un côté
+5. un carré de 2 carreaux de côté
+6. un rectangle de 3 carreaux sur 2
+7. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. un carré de 2 carreaux de côté
+2. un rectangle de 3 carreaux sur 2
+3. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+4. la maison, avec mêmes formes, dimensions et positions relatives
+5. le même escalier de trois marches
 
-1. **ENT01-01** un carré de 2 carreaux de côté
-2. **ENT01-02** un rectangle de 3 carreaux sur 2
-3. **ENT01-03** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-4. **ENT01-04** la maison, avec mêmes formes, dimensions et positions relatives
-5. **ENT01-05** le même escalier de trois marches
+#### Entraînement 2
+1. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+2. la maison, avec mêmes formes, dimensions et positions relatives
+3. le même escalier de trois marches
+4. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+5. deux carrés congruents partageant exactement un côté
 
-#### ENT02
+#### Entraînement 3
+1. le même escalier de trois marches
+2. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+3. deux carrés congruents partageant exactement un côté
+4. un carré de 2 carreaux de côté
+5. un rectangle de 3 carreaux sur 2
 
-1. **ENT02-01** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-2. **ENT02-02** la maison, avec mêmes formes, dimensions et positions relatives
-3. **ENT02-03** le même escalier de trois marches
-4. **ENT02-04** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-5. **ENT02-05** deux carrés congruents partageant exactement un côté
+#### Entraînement 4
+1. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+2. la maison, avec mêmes formes, dimensions et positions relatives
+3. le même escalier de trois marches
+4. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+5. deux carrés congruents partageant exactement un côté
 
-#### ENT03
+#### Entraînement 5
+1. le même escalier de trois marches
+2. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+3. deux carrés congruents partageant exactement un côté
+4. mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
+5. mêmes sommets, longueurs en carreaux et positions relatives
 
-1. **ENT03-01** le même escalier de trois marches
-2. **ENT03-02** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-3. **ENT03-03** deux carrés congruents partageant exactement un côté
-4. **ENT03-04** un carré de 2 carreaux de côté
-5. **ENT03-05** un rectangle de 3 carreaux sur 2
+#### Entraînement 6
+1. deux carrés congruents partageant exactement un côté
+2. mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
+3. mêmes sommets, longueurs en carreaux et positions relatives
+4. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+5. la maison, avec mêmes formes, dimensions et positions relatives
 
-#### ENT04
+#### Entraînement 7
+1. mêmes sommets, longueurs en carreaux et positions relatives
+2. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+3. la maison, avec mêmes formes, dimensions et positions relatives
+4. le même escalier de trois marches
+5. rectangle 4 × 2 et diagonale joignant les mêmes sommets
 
-1. **ENT04-01** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-2. **ENT04-02** la maison, avec mêmes formes, dimensions et positions relatives
-3. **ENT04-03** le même escalier de trois marches
-4. **ENT04-04** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-5. **ENT04-05** deux carrés congruents partageant exactement un côté
+#### Entraînement 8
+1. deux carrés congruents partageant exactement un côté
+2. mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
+3. mêmes sommets, longueurs en carreaux et positions relatives
+4. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+5. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
 
-#### ENT05
+#### Entraînement 9
+1. mêmes sommets, longueurs en carreaux et positions relatives
+2. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+3. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+4. la maison, avec mêmes formes, dimensions et positions relatives
+5. le même escalier de trois marches
 
-1. **ENT05-01** le même escalier de trois marches
-2. **ENT05-02** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-3. **ENT05-03** deux carrés congruents partageant exactement un côté
-4. **ENT05-04** mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
-5. **ENT05-05** mêmes sommets, longueurs en carreaux et positions relatives
-
-#### ENT06
-
-1. **ENT06-01** deux carrés congruents partageant exactement un côté
-2. **ENT06-02** mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
-3. **ENT06-03** mêmes sommets, longueurs en carreaux et positions relatives
-4. **ENT06-04** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-5. **ENT06-05** la maison, avec mêmes formes, dimensions et positions relatives
-
-#### ENT07
-
-1. **ENT07-01** mêmes sommets, longueurs en carreaux et positions relatives
-2. **ENT07-02** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-3. **ENT07-03** la maison, avec mêmes formes, dimensions et positions relatives
-4. **ENT07-04** le même escalier de trois marches
-5. **ENT07-05** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-
-#### ENT08
-
-1. **ENT08-01** deux carrés congruents partageant exactement un côté
-2. **ENT08-02** mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
-3. **ENT08-03** mêmes sommets, longueurs en carreaux et positions relatives
-4. **ENT08-04** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-5. **ENT08-05** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-
-#### ENT09
-
-1. **ENT09-01** mêmes sommets, longueurs en carreaux et positions relatives
-2. **ENT09-02** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-3. **ENT09-03** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-4. **ENT09-04** la maison, avec mêmes formes, dimensions et positions relatives
-5. **ENT09-05** le même escalier de trois marches
-
-#### ENT10
-
-1. **ENT10-01** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-2. **ENT10-02** la maison, avec mêmes formes, dimensions et positions relatives
-3. **ENT10-03** le même escalier de trois marches
-4. **ENT10-04** deux carrés congruents partageant exactement un côté
-5. **ENT10-05** mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
+#### Entraînement 10
+1. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+2. la maison, avec mêmes formes, dimensions et positions relatives
+3. le même escalier de trois marches
+4. deux carrés congruents partageant exactement un côté
+5. mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. le même escalier de trois marches
+2. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+3. la maison, avec mêmes formes, dimensions et positions relatives
+4. la maison, avec mêmes formes, dimensions et positions relatives
+5. deux triangles ayant exactement le côté vertical commun
 
-1. **EVAL01-01** le même escalier de trois marches
-2. **EVAL01-02** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-3. **EVAL01-03** la maison, avec mêmes formes, dimensions et positions relatives
-4. **EVAL01-04** la maison, avec mêmes formes, dimensions et positions relatives
-5. **EVAL01-05** deux triangles ayant exactement le côté vertical commun
+#### Évaluation 2
+1. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+2. deux carrés congruents partageant exactement un côté
+3. le même escalier de trois marches
+4. le même escalier de trois marches
+5. rectangle et triangle avec mêmes dimensions et position
 
-#### EVAL02
+#### Évaluation 3
+1. deux carrés congruents partageant exactement un côté
+2. mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
+3. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+4. mêmes sommets, longueurs en carreaux et positions relatives
+5. trois carrés congruents partageant des côtés et formant un L
 
-1. **EVAL02-01** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-2. **EVAL02-02** deux carrés congruents partageant exactement un côté
-3. **EVAL02-03** le même escalier de trois marches
-4. **EVAL02-04** le même escalier de trois marches
-5. **EVAL02-05** rectangle et triangle avec mêmes dimensions et position
+#### Évaluation 4
+1. un carré de 2 carreaux de côté
+2. mêmes sommets, longueurs en carreaux et positions relatives
+3. mêmes sommets, longueurs en carreaux et positions relatives
+4. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+5. rectangle 5 × 3 avec les deux diagonales
 
-#### EVAL03
+#### Évaluation 5
+1. un rectangle de 3 carreaux sur 2
+2. le même escalier de trois marches
+3. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+4. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+5. deux triangles ayant exactement le côté vertical commun
 
-1. **EVAL03-01** deux carrés congruents partageant exactement un côté
-2. **EVAL03-02** mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
-3. **EVAL03-03** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-4. **EVAL03-04** mêmes sommets, longueurs en carreaux et positions relatives
-5. **EVAL03-05** trois carrés congruents partageant des côtés et formant un L
+#### Évaluation 6
+1. le même escalier de trois marches
+2. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+3. la maison, avec mêmes formes, dimensions et positions relatives
+4. la maison, avec mêmes formes, dimensions et positions relatives
+5. rectangle et triangle avec mêmes dimensions et position
 
-#### EVAL04
+#### Évaluation 7
+1. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+2. deux carrés congruents partageant exactement un côté
+3. le même escalier de trois marches
+4. le même escalier de trois marches
+5. trois carrés congruents partageant des côtés et formant un L
 
-1. **EVAL04-01** un carré de 2 carreaux de côté
-2. **EVAL04-02** mêmes sommets, longueurs en carreaux et positions relatives
-3. **EVAL04-03** mêmes sommets, longueurs en carreaux et positions relatives
-4. **EVAL04-04** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-5. **EVAL04-05** rectangle 5 × 3 avec les deux diagonales
+#### Évaluation 8
+1. deux carrés congruents partageant exactement un côté
+2. mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
+3. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+4. mêmes sommets, longueurs en carreaux et positions relatives
+5. rectangle 5 × 3 avec les deux diagonales
 
-#### EVAL05
+#### Évaluation 9
+1. un carré de 2 carreaux de côté
+2. mêmes sommets, longueurs en carreaux et positions relatives
+3. mêmes sommets, longueurs en carreaux et positions relatives
+4. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+5. deux triangles ayant exactement le côté vertical commun
 
-1. **EVAL05-01** un rectangle de 3 carreaux sur 2
-2. **EVAL05-02** le même escalier de trois marches
-3. **EVAL05-03** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-4. **EVAL05-04** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-5. **EVAL05-05** deux triangles ayant exactement le côté vertical commun
-
-#### EVAL06
-
-1. **EVAL06-01** le même escalier de trois marches
-2. **EVAL06-02** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-3. **EVAL06-03** la maison, avec mêmes formes, dimensions et positions relatives
-4. **EVAL06-04** la maison, avec mêmes formes, dimensions et positions relatives
-5. **EVAL06-05** rectangle et triangle avec mêmes dimensions et position
-
-#### EVAL07
-
-1. **EVAL07-01** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-2. **EVAL07-02** deux carrés congruents partageant exactement un côté
-3. **EVAL07-03** le même escalier de trois marches
-4. **EVAL07-04** le même escalier de trois marches
-5. **EVAL07-05** trois carrés congruents partageant des côtés et formant un L
-
-#### EVAL08
-
-1. **EVAL08-01** deux carrés congruents partageant exactement un côté
-2. **EVAL08-02** mât de 5 carreaux et rectangle 3 × 2 placé en haut à droite
-3. **EVAL08-03** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-4. **EVAL08-04** mêmes sommets, longueurs en carreaux et positions relatives
-5. **EVAL08-05** rectangle 5 × 3 avec les deux diagonales
-
-#### EVAL09
-
-1. **EVAL09-01** un carré de 2 carreaux de côté
-2. **EVAL09-02** mêmes sommets, longueurs en carreaux et positions relatives
-3. **EVAL09-03** mêmes sommets, longueurs en carreaux et positions relatives
-4. **EVAL09-04** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-5. **EVAL09-05** deux triangles ayant exactement le côté vertical commun
-
-#### EVAL10
-
-1. **EVAL10-01** un rectangle de 3 carreaux sur 2
-2. **EVAL10-02** le même escalier de trois marches
-3. **EVAL10-03** assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
-4. **EVAL10-04** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-5. **EVAL10-05** rectangle et triangle avec mêmes dimensions et position
+#### Évaluation 10
+1. un rectangle de 3 carreaux sur 2
+2. le même escalier de trois marches
+3. assemblage complet avec carré 3 × 3, diagonale et triangle extérieur à droite
+4. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+5. rectangle et triangle avec mêmes dimensions et position
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. un carré de 2 carreaux de côté
+2. la maison, avec mêmes formes, dimensions et positions relatives
+3. deux carrés congruents partageant exactement un côté
+4. la maison, avec mêmes formes, dimensions et positions relatives
+5. deux carrés congruents partageant exactement un côté
 
-1. **DEV01-01** un carré de 2 carreaux de côté
-2. **DEV01-02** la maison, avec mêmes formes, dimensions et positions relatives
-3. **DEV01-03** deux carrés congruents partageant exactement un côté
-4. **DEV01-04** la maison, avec mêmes formes, dimensions et positions relatives
-5. **DEV01-05** deux carrés congruents partageant exactement un côté
+#### Devoir 2
+1. un rectangle de 3 carreaux sur 2
+2. le même escalier de trois marches
+3. un carré de 2 carreaux de côté
+4. le même escalier de trois marches
+5. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
 
-#### DEV02
+#### Devoir 3
+1. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+2. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+3. un rectangle de 3 carreaux sur 2
+4. un carré de 2 carreaux de côté
+5. la maison, avec mêmes formes, dimensions et positions relatives
 
-1. **DEV02-01** un rectangle de 3 carreaux sur 2
-2. **DEV02-02** le même escalier de trois marches
-3. **DEV02-03** un carré de 2 carreaux de côté
-4. **DEV02-04** le même escalier de trois marches
-5. **DEV02-05** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+#### Devoir 4
+1. la maison, avec mêmes formes, dimensions et positions relatives
+2. deux carrés congruents partageant exactement un côté
+3. le même escalier de trois marches
+4. un rectangle de 3 carreaux sur 2
+5. le même escalier de trois marches
 
-#### DEV03
+#### Devoir 5
+1. le même escalier de trois marches
+2. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+3. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+4. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+5. rectangle 4 × 2 et diagonale joignant les mêmes sommets
 
-1. **DEV03-01** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-2. **DEV03-02** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-3. **DEV03-03** un rectangle de 3 carreaux sur 2
-4. **DEV03-04** un carré de 2 carreaux de côté
-5. **DEV03-05** la maison, avec mêmes formes, dimensions et positions relatives
+#### Devoir 6
+1. un carré de 2 carreaux de côté
+2. la maison, avec mêmes formes, dimensions et positions relatives
+3. deux carrés congruents partageant exactement un côté
+4. la maison, avec mêmes formes, dimensions et positions relatives
+5. deux carrés congruents partageant exactement un côté
 
-#### DEV04
+#### Devoir 7
+1. un rectangle de 3 carreaux sur 2
+2. le même escalier de trois marches
+3. un carré de 2 carreaux de côté
+4. le même escalier de trois marches
+5. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
 
-1. **DEV04-01** la maison, avec mêmes formes, dimensions et positions relatives
-2. **DEV04-02** deux carrés congruents partageant exactement un côté
-3. **DEV04-03** le même escalier de trois marches
-4. **DEV04-04** un rectangle de 3 carreaux sur 2
-5. **DEV04-05** le même escalier de trois marches
+#### Devoir 8
+1. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+2. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+3. un rectangle de 3 carreaux sur 2
+4. un carré de 2 carreaux de côté
+5. la maison, avec mêmes formes, dimensions et positions relatives
 
-#### DEV05
+#### Devoir 9
+1. la maison, avec mêmes formes, dimensions et positions relatives
+2. deux carrés congruents partageant exactement un côté
+3. le même escalier de trois marches
+4. un rectangle de 3 carreaux sur 2
+5. le même escalier de trois marches
 
-1. **DEV05-01** le même escalier de trois marches
-2. **DEV05-02** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-3. **DEV05-03** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-4. **DEV05-04** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-5. **DEV05-05** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-
-#### DEV06
-
-1. **DEV06-01** un carré de 2 carreaux de côté
-2. **DEV06-02** la maison, avec mêmes formes, dimensions et positions relatives
-3. **DEV06-03** deux carrés congruents partageant exactement un côté
-4. **DEV06-04** la maison, avec mêmes formes, dimensions et positions relatives
-5. **DEV06-05** deux carrés congruents partageant exactement un côté
-
-#### DEV07
-
-1. **DEV07-01** un rectangle de 3 carreaux sur 2
-2. **DEV07-02** le même escalier de trois marches
-3. **DEV07-03** un carré de 2 carreaux de côté
-4. **DEV07-04** le même escalier de trois marches
-5. **DEV07-05** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-
-#### DEV08
-
-1. **DEV08-01** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-2. **DEV08-02** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-3. **DEV08-03** un rectangle de 3 carreaux sur 2
-4. **DEV08-04** un carré de 2 carreaux de côté
-5. **DEV08-05** la maison, avec mêmes formes, dimensions et positions relatives
-
-#### DEV09
-
-1. **DEV09-01** la maison, avec mêmes formes, dimensions et positions relatives
-2. **DEV09-02** deux carrés congruents partageant exactement un côté
-3. **DEV09-03** le même escalier de trois marches
-4. **DEV09-04** un rectangle de 3 carreaux sur 2
-5. **DEV09-05** le même escalier de trois marches
-
-#### DEV10
-
-1. **DEV10-01** le même escalier de trois marches
-2. **DEV10-02** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-3. **DEV10-03** rectangle 4 × 2 et diagonale joignant les mêmes sommets
-4. **DEV10-04** un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
-5. **DEV10-05** rectangle 4 × 2 et diagonale joignant les mêmes sommets
+#### Devoir 10
+1. le même escalier de trois marches
+2. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+3. rectangle 4 × 2 et diagonale joignant les mêmes sommets
+4. un triangle rectangle fidèle : côtés de 2 et 3 carreaux et angle droit conservé
+5. rectangle 4 × 2 et diagonale joignant les mêmes sommets
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

@@ -60,8 +60,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Une classe prépare 2 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
 - **Attention portée :** Je lis la question, je nomme chaque quantité et je montre leur relation avant de choisir le calcul.
@@ -69,8 +68,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 2 × 3 = 6, puis 6 + 3 = 9. La classe prépare 9 crayons.
 - **Contrôle final :** une étape est multiplicative, l’autre additive, le résultat intermédiaire est réutilisé et la réponse finale est vraisemblable.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Un magasin reçoit 2 cartons de 3 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
 
 - **Attention portée :** Demander : « Que connaît-on ? Que cherche-t-on ? Que doivent montrer les barres ou les groupes ? »
@@ -78,8 +76,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 2 × 3 = 6, puis 6 - 4 = 2. Il reste 2 ballons.
 - **Contrôle final :** une étape est multiplicative, l’autre additive, le résultat intermédiaire est réutilisé et la réponse finale est vraisemblable.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Un lot contient 3 crayons et 5 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
 
 - **Attention portée :** Laisser les élèves reformuler et choisir le premier geste ; demander seulement de justifier.
@@ -91,13 +88,13 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne :** Résous le problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-- **IMM01** Un lot contient 5 crayons et 5 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
-- **IMM02** Une classe prépare 2 boites de 6 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **IMM03** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
-- **IMM04** Un lot contient 6 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
-- **IMM05** Une classe prépare 2 boites de 6 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **IMM06** Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
-- **IMM07** Un lot contient 3 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 5 crayons et 5 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 2 boites de 6 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 6 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 2 boites de 6 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 3 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
 
 ## Variables didactiques
 
@@ -111,253 +108,223 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne pour toutes les séries :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### ENT01
+### Entraînement 1
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 5 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
 
-- **ENT01-01** Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT01-02** Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
-- **ENT01-03** Un lot contient 5 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT01-04** Une classe prépare 2 boites de 5 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT01-05** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+### Entraînement 2
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 5 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 3 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
 
-### ENT02
+### Entraînement 3
+- Un lot contient 4 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 3 boites de 4 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 3 cartons de 5 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-- **ENT02-01** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 5 ballons. Combien lui reste-t-il de ballons ?
-- **ENT02-02** Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT02-03** Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT02-04** Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
-- **ENT02-05** Un lot contient 3 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+### Entraînement 4
+- Une classe prépare 5 boites de 6 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 5 cartons de 7 ballons. Il vend ensuite 6 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 6 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 6 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
 
-### ENT03
+### Entraînement 5
+- Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 7 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 7 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 7 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 7 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
 
-- **ENT03-01** Un lot contient 4 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT03-02** Une classe prépare 3 boites de 4 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT03-03** Un magasin reçoit 3 cartons de 5 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
-- **ENT03-04** Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT03-05** Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+### Entraînement 6
+- Un lot contient 8 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 8 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 8 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 8 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 8 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-### ENT04
+### Entraînement 7
+- Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 9 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 9 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
 
-- **ENT04-01** Une classe prépare 5 boites de 6 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT04-02** Un magasin reçoit 5 cartons de 7 ballons. Il vend ensuite 6 ballons. Combien lui reste-t-il de ballons ?
-- **ENT04-03** Un lot contient 6 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT04-04** Une classe prépare 4 boites de 6 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT04-05** Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+### Entraînement 8
+- Un magasin reçoit 7 cartons de 8 ballons. Il vend ensuite 14 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 8 crayons et 15 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 7 boites de 8 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 7 cartons de 8 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 8 crayons et 18 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
 
-### ENT05
+### Entraînement 9
+- Un lot contient 8 crayons et 14 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 6 boites de 8 crayons, puis ajoute 15 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 6 cartons de 8 ballons. Il vend ensuite 16 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 8 crayons et 17 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 6 boites de 8 crayons, puis ajoute 18 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-- **ENT05-01** Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
-- **ENT05-02** Un lot contient 7 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT05-03** Une classe prépare 4 boites de 7 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT05-04** Un magasin reçoit 4 cartons de 7 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-- **ENT05-05** Un lot contient 7 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-
-### ENT06
-
-- **ENT06-01** Un lot contient 8 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT06-02** Une classe prépare 4 boites de 8 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT06-03** Un magasin reçoit 4 cartons de 8 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-- **ENT06-04** Un lot contient 8 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT06-05** Une classe prépare 4 boites de 8 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-
-### ENT07
-
-- **ENT07-01** Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT07-02** Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-- **ENT07-03** Un lot contient 9 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT07-04** Une classe prépare 4 boites de 9 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT07-05** Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
-
-### ENT08
-
-- **ENT08-01** Un magasin reçoit 7 cartons de 8 ballons. Il vend ensuite 14 ballons. Combien lui reste-t-il de ballons ?
-- **ENT08-02** Un lot contient 8 crayons et 15 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT08-03** Une classe prépare 7 boites de 8 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT08-04** Un magasin reçoit 7 cartons de 8 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
-- **ENT08-05** Un lot contient 8 crayons et 18 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
-
-### ENT09
-
-- **ENT09-01** Un lot contient 8 crayons et 14 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT09-02** Une classe prépare 6 boites de 8 crayons, puis ajoute 15 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT09-03** Un magasin reçoit 6 cartons de 8 ballons. Il vend ensuite 16 ballons. Combien lui reste-t-il de ballons ?
-- **ENT09-04** Un lot contient 8 crayons et 17 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT09-05** Une classe prépare 6 boites de 8 crayons, puis ajoute 18 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-
-### ENT10
-
-- **ENT10-01** Une classe prépare 6 boites de 9 crayons, puis ajoute 13 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT10-02** Un magasin reçoit 6 cartons de 9 ballons. Il vend ensuite 14 ballons. Combien lui reste-t-il de ballons ?
-- **ENT10-03** Un lot contient 9 crayons et 15 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
-- **ENT10-04** Une classe prépare 6 boites de 9 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **ENT10-05** Un magasin reçoit 6 cartons de 9 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
+### Entraînement 10
+- Une classe prépare 6 boites de 9 crayons, puis ajoute 13 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 6 cartons de 9 ballons. Il vend ensuite 14 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 9 crayons et 15 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 6 boites de 9 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 6 cartons de 9 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
 
 ## Évaluations
 
 **Consigne pour toutes les formes :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### EVAL01
+### Évaluation 1
+- Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 6 boites de 8 crayons, puis ajoute 15 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 6 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 10 crayons, puis ajoute 8 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 8 ballons. Il vend ensuite 9 ballons. Combien lui reste-t-il de ballons ?
 
-- **EVAL01-01** Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL01-02** Une classe prépare 6 boites de 8 crayons, puis ajoute 15 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL01-03** Un lot contient 6 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL01-04** Une classe prépare 4 boites de 10 crayons, puis ajoute 8 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL01-05** Un magasin reçoit 4 cartons de 8 ballons. Il vend ensuite 9 ballons. Combien lui reste-t-il de ballons ?
+### Évaluation 2
+- Un lot contient 8 crayons et 15 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 9 crayons et 15 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
+- Un magasin reçoit 4 cartons de 7 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 9 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 8 crayons et 10 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
 
-### EVAL02
+### Évaluation 3
+- Un magasin reçoit 6 cartons de 8 ballons. Il vend ensuite 16 ballons. Combien lui reste-t-il de ballons ?
+- Une classe prépare 4 boites de 6 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 4 boites de 8 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 10 crayons et 10 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 8 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-- **EVAL02-01** Un lot contient 8 crayons et 15 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL02-02** Un lot contient 9 crayons et 15 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL02-03** Un magasin reçoit 4 cartons de 7 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL02-04** Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 9 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL02-05** Un lot contient 8 crayons et 10 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+### Évaluation 4
+- Une classe prépare 6 boites de 9 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 7 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 4 boites de 10 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 9 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
 
-### EVAL03
+### Évaluation 5
+- Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 8 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 8 crayons et 15 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
+- Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 12 ballons. Combien lui reste-t-il de ballons ?
+- Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-- **EVAL03-01** Un magasin reçoit 6 cartons de 8 ballons. Il vend ensuite 16 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL03-02** Une classe prépare 4 boites de 6 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL03-03** Une classe prépare 4 boites de 8 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL03-04** Un lot contient 10 crayons et 10 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL03-05** Une classe prépare 4 boites de 8 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+### Évaluation 6
+- Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 6 cartons de 8 ballons. Il vend ensuite 16 ballons. Combien lui reste-t-il de ballons ?
+- Une classe prépare 4 boites de 10 crayons, puis ajoute 8 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
 
-### EVAL04
+### Évaluation 7
+- Une classe prépare 4 boites de 8 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 7 boites de 8 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 6 boites de 9 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 9 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 9 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
 
-- **EVAL04-01** Une classe prépare 6 boites de 9 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL04-02** Un lot contient 7 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL04-03** Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL04-04** Une classe prépare 4 boites de 10 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL04-05** Un lot contient 9 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+### Évaluation 8
+- Un lot contient 9 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 8 crayons et 17 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
+- Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 10 crayons et 10 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 4 boites de 9 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-### EVAL05
+### Évaluation 9
+- Un magasin reçoit 7 cartons de 8 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 6 cartons de 9 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
+- Une classe prépare 4 boites de 10 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 9 crayons et 11 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
 
-- **EVAL05-01** Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL05-02** Un lot contient 8 crayons et 6 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL05-03** Un lot contient 8 crayons et 15 gommes. La classe achète 7 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL05-04** Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 12 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL05-05** Une classe prépare 4 boites de 9 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-
-### EVAL06
-
-- **EVAL06-01** Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL06-02** Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL06-03** Un magasin reçoit 6 cartons de 8 ballons. Il vend ensuite 16 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL06-04** Une classe prépare 4 boites de 10 crayons, puis ajoute 8 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL06-05** Un magasin reçoit 4 cartons de 9 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-
-### EVAL07
-
-- **EVAL07-01** Une classe prépare 4 boites de 8 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL07-02** Une classe prépare 7 boites de 8 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL07-03** Une classe prépare 6 boites de 9 crayons, puis ajoute 16 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL07-04** Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 9 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL07-05** Un lot contient 9 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-
-### EVAL08
-
-- **EVAL08-01** Un lot contient 9 crayons et 9 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL08-02** Un lot contient 8 crayons et 17 gommes. La classe achète 6 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL08-03** Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 8 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL08-04** Un lot contient 10 crayons et 10 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-- **EVAL08-05** Une classe prépare 4 boites de 9 crayons, puis ajoute 10 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-
-### EVAL09
-
-- **EVAL09-01** Un magasin reçoit 7 cartons de 8 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL09-02** Un magasin reçoit 6 cartons de 9 ballons. Il vend ensuite 17 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL09-03** Un magasin reçoit 4 cartons de 6 ballons. Il vend ensuite 11 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL09-04** Une classe prépare 4 boites de 10 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL09-05** Un lot contient 9 crayons et 11 gommes. La classe achète 4 lots identiques. Combien d’objets achète-t-elle ?
-
-### EVAL10
-
-- **EVAL10-01** Une classe prépare 6 boites de 8 crayons, puis ajoute 18 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL10-02** Une classe prépare 5 boites de 6 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL10-03** Une classe prépare 4 boites de 8 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **EVAL10-04** Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 12 ballons. Combien lui reste-t-il de ballons ?
-- **EVAL10-05** Une classe prépare 5 boites de 6 crayons, puis ajoute 6 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+### Évaluation 10
+- Une classe prépare 6 boites de 8 crayons, puis ajoute 18 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 5 boites de 6 crayons, puis ajoute 11 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 4 boites de 8 crayons, puis ajoute 7 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 4 cartons de 10 ballons. Il vend ensuite 12 ballons. Combien lui reste-t-il de ballons ?
+- Une classe prépare 5 boites de 6 crayons, puis ajoute 6 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
 ## Devoirs
 
 **Consigne pour tous les devoirs :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### DEV01
+### Devoir 1
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
+- Une classe prépare 2 boites de 6 crayons, puis ajoute 6 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-- **DEV01-01** Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV01-02** Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV01-03** Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV01-04** Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
-- **DEV01-05** Une classe prépare 2 boites de 6 crayons, puis ajoute 6 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+### Devoir 2
+- Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 4 crayons et 6 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
 
-### DEV02
+### Devoir 3
+- Un magasin reçoit 3 cartons de 5 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 5 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
 
-- **DEV02-01** Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV02-02** Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV02-03** Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV02-04** Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV02-05** Un lot contient 4 crayons et 6 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+### Devoir 4
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 5 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 3 cartons de 5 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
 
-### DEV03
+### Devoir 5
+- Un lot contient 3 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 3 boites de 4 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 5 ballons. Combien lui reste-t-il de ballons ?
+- Une classe prépare 3 boites de 4 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-- **DEV03-01** Un magasin reçoit 3 cartons de 5 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
-- **DEV03-02** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
-- **DEV03-03** Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV03-04** Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV03-05** Un lot contient 5 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+### Devoir 6
+- Un lot contient 4 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 5 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 3 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 3 boites de 4 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 6 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
 
-### DEV04
+### Devoir 7
+- Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 4 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 5 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
+- Un magasin reçoit 2 cartons de 7 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
 
-- **DEV04-01** Une classe prépare 2 boites de 5 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV04-02** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 5 ballons. Combien lui reste-t-il de ballons ?
-- **DEV04-03** Un magasin reçoit 3 cartons de 5 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
-- **DEV04-04** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
-- **DEV04-05** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
+### Devoir 8
+- Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
+- Un magasin reçoit 2 cartons de 7 ballons. Il vend ensuite 6 ballons. Combien lui reste-t-il de ballons ?
 
-### DEV05
+### Devoir 9
+- Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Une classe prépare 3 boites de 5 crayons, puis ajoute 6 crayons seuls. Combien de crayons prépare-t-elle en tout ?
 
-- **DEV05-01** Un lot contient 3 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV05-02** Une classe prépare 3 boites de 4 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV05-03** Une classe prépare 2 boites de 5 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV05-04** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 5 ballons. Combien lui reste-t-il de ballons ?
-- **DEV05-05** Une classe prépare 3 boites de 4 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-
-### DEV06
-
-- **DEV06-01** Un lot contient 4 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV06-02** Un lot contient 5 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV06-03** Un lot contient 3 crayons et 5 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV06-04** Une classe prépare 3 boites de 4 crayons, puis ajoute 5 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV06-05** Un lot contient 6 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-
-### DEV07
-
-- **DEV07-01** Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
-- **DEV07-02** Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
-- **DEV07-03** Un lot contient 4 crayons et 4 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV07-04** Un lot contient 5 crayons et 4 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV07-05** Un magasin reçoit 2 cartons de 7 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
-
-### DEV08
-
-- **DEV08-01** Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV08-02** Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV08-03** Un magasin reçoit 2 cartons de 5 ballons. Il vend ensuite 3 ballons. Combien lui reste-t-il de ballons ?
-- **DEV08-04** Un magasin reçoit 3 cartons de 3 ballons. Il vend ensuite 4 ballons. Combien lui reste-t-il de ballons ?
-- **DEV08-05** Un magasin reçoit 2 cartons de 7 ballons. Il vend ensuite 6 ballons. Combien lui reste-t-il de ballons ?
-
-### DEV09
-
-- **DEV09-01** Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV09-02** Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV09-03** Une classe prépare 3 boites de 3 crayons, puis ajoute 3 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV09-04** Une classe prépare 3 boites de 5 crayons, puis ajoute 4 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV09-05** Une classe prépare 3 boites de 5 crayons, puis ajoute 6 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-
-### DEV10
-
-- **DEV10-01** Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
-- **DEV10-02** Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV10-03** Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
-- **DEV10-04** Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
-- **DEV10-05** Un lot contient 6 crayons et 5 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
+### Devoir 10
+- Un magasin reçoit 2 cartons de 6 ballons. Il vend ensuite 2 ballons. Combien lui reste-t-il de ballons ?
+- Un lot contient 3 crayons et 2 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Un lot contient 5 crayons et 3 gommes. La classe achète 3 lots identiques. Combien d’objets achète-t-elle ?
+- Une classe prépare 2 boites de 5 crayons, puis ajoute 2 crayons seuls. Combien de crayons prépare-t-elle en tout ?
+- Un lot contient 6 crayons et 5 gommes. La classe achète 2 lots identiques. Combien d’objets achète-t-elle ?
 
 ## Corrections
 
@@ -365,259 +332,229 @@ La formulation de la phrase peut varier. Accepter toute phrase qui donne le rés
 
 ### Correction — À toi de jouer
 
-- **IMM01** 5 + 5 = 10, puis 2 × 10 = 20. La classe achète 20 objets.
-- **IMM02** 2 × 6 = 12, puis 12 + 2 = 14. La classe prépare 14 crayons.
-- **IMM03** 2 × 6 = 12, puis 12 - 3 = 9. Il reste 9 ballons.
-- **IMM04** 6 + 4 = 10, puis 2 × 10 = 20. La classe achète 20 objets.
-- **IMM05** 2 × 6 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
-- **IMM06** 3 × 3 = 9, puis 9 - 2 = 7. Il reste 7 ballons.
-- **IMM07** 3 + 3 = 6, puis 3 × 6 = 18. La classe achète 18 objets.
+- 5 + 5 = 10, puis 2 × 10 = 20. La classe achète 20 objets.
+- 2 × 6 = 12, puis 12 + 2 = 14. La classe prépare 14 crayons.
+- 2 × 6 = 12, puis 12 - 3 = 9. Il reste 9 ballons.
+- 6 + 4 = 10, puis 2 × 10 = 20. La classe achète 20 objets.
+- 2 × 6 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
+- 3 × 3 = 9, puis 9 - 2 = 7. Il reste 7 ballons.
+- 3 + 3 = 6, puis 3 × 6 = 18. La classe achète 18 objets.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
+- 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
+- 5 + 4 = 9, puis 2 × 9 = 18. La classe achète 18 objets.
+- 2 × 5 = 10, puis 10 + 5 = 15. La classe prépare 15 crayons.
+- 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
 
-- **ENT01-01** 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
-- **ENT01-02** 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
-- **ENT01-03** 5 + 4 = 9, puis 2 × 9 = 18. La classe achète 18 objets.
-- **ENT01-04** 2 × 5 = 10, puis 10 + 5 = 15. La classe prépare 15 crayons.
-- **ENT01-05** 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
+#### Entraînement 2
+- 2 × 6 = 12, puis 12 - 5 = 7. Il reste 7 ballons.
+- 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
+- 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
+- 3 × 3 = 9, puis 9 - 4 = 5. Il reste 5 ballons.
+- 3 + 5 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
 
-#### ENT02
+#### Entraînement 3
+- 4 + 4 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 3 × 4 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
+- 3 × 5 = 15, puis 15 - 2 = 13. Il reste 13 ballons.
+- 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
 
-- **ENT02-01** 2 × 6 = 12, puis 12 - 5 = 7. Il reste 7 ballons.
-- **ENT02-02** 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
-- **ENT02-03** 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
-- **ENT02-04** 3 × 3 = 9, puis 9 - 4 = 5. Il reste 5 ballons.
-- **ENT02-05** 3 + 5 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+#### Entraînement 4
+- 5 × 6 = 30, puis 30 + 11 = 41. La classe prépare 41 crayons.
+- 5 × 7 = 35, puis 35 - 6 = 29. Il reste 29 ballons.
+- 6 + 6 = 12, puis 4 × 12 = 48. La classe achète 48 objets.
+- 4 × 6 = 24, puis 24 + 7 = 31. La classe prépare 31 crayons.
+- 4 × 6 = 24, puis 24 - 8 = 16. Il reste 16 ballons.
 
-#### ENT03
+#### Entraînement 5
+- 4 × 6 = 24, puis 24 - 11 = 13. Il reste 13 ballons.
+- 7 + 6 = 13, puis 4 × 13 = 52. La classe achète 52 objets.
+- 4 × 7 = 28, puis 28 + 7 = 35. La classe prépare 35 crayons.
+- 4 × 7 = 28, puis 28 - 8 = 20. Il reste 20 ballons.
+- 7 + 9 = 16, puis 4 × 16 = 64. La classe achète 64 objets.
 
-- **ENT03-01** 4 + 4 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **ENT03-02** 3 × 4 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
-- **ENT03-03** 3 × 5 = 15, puis 15 - 2 = 13. Il reste 13 ballons.
-- **ENT03-04** 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **ENT03-05** 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
+#### Entraînement 6
+- 8 + 6 = 14, puis 4 × 14 = 56. La classe achète 56 objets.
+- 4 × 8 = 32, puis 32 + 7 = 39. La classe prépare 39 crayons.
+- 4 × 8 = 32, puis 32 - 8 = 24. Il reste 24 ballons.
+- 8 + 9 = 17, puis 4 × 17 = 68. La classe achète 68 objets.
+- 4 × 8 = 32, puis 32 + 10 = 42. La classe prépare 42 crayons.
 
-#### ENT04
+#### Entraînement 7
+- 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
+- 4 × 9 = 36, puis 36 - 8 = 28. Il reste 28 ballons.
+- 9 + 9 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
+- 4 × 9 = 36, puis 36 + 10 = 46. La classe prépare 46 crayons.
+- 4 × 9 = 36, puis 36 - 11 = 25. Il reste 25 ballons.
 
-- **ENT04-01** 5 × 6 = 30, puis 30 + 11 = 41. La classe prépare 41 crayons.
-- **ENT04-02** 5 × 7 = 35, puis 35 - 6 = 29. Il reste 29 ballons.
-- **ENT04-03** 6 + 6 = 12, puis 4 × 12 = 48. La classe achète 48 objets.
-- **ENT04-04** 4 × 6 = 24, puis 24 + 7 = 31. La classe prépare 31 crayons.
-- **ENT04-05** 4 × 6 = 24, puis 24 - 8 = 16. Il reste 16 ballons.
+#### Entraînement 8
+- 7 × 8 = 56, puis 56 - 14 = 42. Il reste 42 ballons.
+- 8 + 15 = 23, puis 7 × 23 = 161. La classe achète 161 objets.
+- 7 × 8 = 56, puis 56 + 16 = 72. La classe prépare 72 crayons.
+- 7 × 8 = 56, puis 56 - 17 = 39. Il reste 39 ballons.
+- 8 + 18 = 26, puis 7 × 26 = 182. La classe achète 182 objets.
 
-#### ENT05
+#### Entraînement 9
+- 8 + 14 = 22, puis 6 × 22 = 132. La classe achète 132 objets.
+- 6 × 8 = 48, puis 48 + 15 = 63. La classe prépare 63 crayons.
+- 6 × 8 = 48, puis 48 - 16 = 32. Il reste 32 ballons.
+- 8 + 17 = 25, puis 6 × 25 = 150. La classe achète 150 objets.
+- 6 × 8 = 48, puis 48 + 18 = 66. La classe prépare 66 crayons.
 
-- **ENT05-01** 4 × 6 = 24, puis 24 - 11 = 13. Il reste 13 ballons.
-- **ENT05-02** 7 + 6 = 13, puis 4 × 13 = 52. La classe achète 52 objets.
-- **ENT05-03** 4 × 7 = 28, puis 28 + 7 = 35. La classe prépare 35 crayons.
-- **ENT05-04** 4 × 7 = 28, puis 28 - 8 = 20. Il reste 20 ballons.
-- **ENT05-05** 7 + 9 = 16, puis 4 × 16 = 64. La classe achète 64 objets.
-
-#### ENT06
-
-- **ENT06-01** 8 + 6 = 14, puis 4 × 14 = 56. La classe achète 56 objets.
-- **ENT06-02** 4 × 8 = 32, puis 32 + 7 = 39. La classe prépare 39 crayons.
-- **ENT06-03** 4 × 8 = 32, puis 32 - 8 = 24. Il reste 24 ballons.
-- **ENT06-04** 8 + 9 = 17, puis 4 × 17 = 68. La classe achète 68 objets.
-- **ENT06-05** 4 × 8 = 32, puis 32 + 10 = 42. La classe prépare 42 crayons.
-
-#### ENT07
-
-- **ENT07-01** 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
-- **ENT07-02** 4 × 9 = 36, puis 36 - 8 = 28. Il reste 28 ballons.
-- **ENT07-03** 9 + 9 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
-- **ENT07-04** 4 × 9 = 36, puis 36 + 10 = 46. La classe prépare 46 crayons.
-- **ENT07-05** 4 × 9 = 36, puis 36 - 11 = 25. Il reste 25 ballons.
-
-#### ENT08
-
-- **ENT08-01** 7 × 8 = 56, puis 56 - 14 = 42. Il reste 42 ballons.
-- **ENT08-02** 8 + 15 = 23, puis 7 × 23 = 161. La classe achète 161 objets.
-- **ENT08-03** 7 × 8 = 56, puis 56 + 16 = 72. La classe prépare 72 crayons.
-- **ENT08-04** 7 × 8 = 56, puis 56 - 17 = 39. Il reste 39 ballons.
-- **ENT08-05** 8 + 18 = 26, puis 7 × 26 = 182. La classe achète 182 objets.
-
-#### ENT09
-
-- **ENT09-01** 8 + 14 = 22, puis 6 × 22 = 132. La classe achète 132 objets.
-- **ENT09-02** 6 × 8 = 48, puis 48 + 15 = 63. La classe prépare 63 crayons.
-- **ENT09-03** 6 × 8 = 48, puis 48 - 16 = 32. Il reste 32 ballons.
-- **ENT09-04** 8 + 17 = 25, puis 6 × 25 = 150. La classe achète 150 objets.
-- **ENT09-05** 6 × 8 = 48, puis 48 + 18 = 66. La classe prépare 66 crayons.
-
-#### ENT10
-
-- **ENT10-01** 6 × 9 = 54, puis 54 + 13 = 67. La classe prépare 67 crayons.
-- **ENT10-02** 6 × 9 = 54, puis 54 - 14 = 40. Il reste 40 ballons.
-- **ENT10-03** 9 + 15 = 24, puis 6 × 24 = 144. La classe achète 144 objets.
-- **ENT10-04** 6 × 9 = 54, puis 54 + 16 = 70. La classe prépare 70 crayons.
-- **ENT10-05** 6 × 9 = 54, puis 54 - 17 = 37. Il reste 37 ballons.
+#### Entraînement 10
+- 6 × 9 = 54, puis 54 + 13 = 67. La classe prépare 67 crayons.
+- 6 × 9 = 54, puis 54 - 14 = 40. Il reste 40 ballons.
+- 9 + 15 = 24, puis 6 × 24 = 144. La classe achète 144 objets.
+- 6 × 9 = 54, puis 54 + 16 = 70. La classe prépare 70 crayons.
+- 6 × 9 = 54, puis 54 - 17 = 37. Il reste 37 ballons.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
+- 6 × 8 = 48, puis 48 + 15 = 63. La classe prépare 63 crayons.
+- 6 + 6 = 12, puis 4 × 12 = 48. La classe achète 48 objets.
+- 4 × 10 = 40, puis 40 + 8 = 48. La classe prépare 48 crayons.
+- 4 × 8 = 32, puis 32 - 9 = 23. Il reste 23 ballons.
 
-- **EVAL01-01** 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
-- **EVAL01-02** 6 × 8 = 48, puis 48 + 15 = 63. La classe prépare 63 crayons.
-- **EVAL01-03** 6 + 6 = 12, puis 4 × 12 = 48. La classe achète 48 objets.
-- **EVAL01-04** 4 × 10 = 40, puis 40 + 8 = 48. La classe prépare 48 crayons.
-- **EVAL01-05** 4 × 8 = 32, puis 32 - 9 = 23. Il reste 23 ballons.
+#### Évaluation 2
+- 8 + 15 = 23, puis 7 × 23 = 161. La classe achète 161 objets.
+- 9 + 15 = 24, puis 6 × 24 = 144. La classe achète 144 objets.
+- 4 × 7 = 28, puis 28 - 8 = 20. Il reste 20 ballons.
+- 4 × 10 = 40, puis 40 - 9 = 31. Il reste 31 ballons.
+- 8 + 10 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
 
-#### EVAL02
+#### Évaluation 3
+- 6 × 8 = 48, puis 48 - 16 = 32. Il reste 32 ballons.
+- 4 × 6 = 24, puis 24 + 7 = 31. La classe prépare 31 crayons.
+- 4 × 8 = 32, puis 32 + 10 = 42. La classe prépare 42 crayons.
+- 10 + 10 = 20, puis 4 × 20 = 80. La classe achète 80 objets.
+- 4 × 8 = 32, puis 32 + 11 = 43. La classe prépare 43 crayons.
 
-- **EVAL02-01** 8 + 15 = 23, puis 7 × 23 = 161. La classe achète 161 objets.
-- **EVAL02-02** 9 + 15 = 24, puis 6 × 24 = 144. La classe achète 144 objets.
-- **EVAL02-03** 4 × 7 = 28, puis 28 - 8 = 20. Il reste 20 ballons.
-- **EVAL02-04** 4 × 10 = 40, puis 40 - 9 = 31. Il reste 31 ballons.
-- **EVAL02-05** 8 + 10 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
+#### Évaluation 4
+- 6 × 9 = 54, puis 54 + 16 = 70. La classe prépare 70 crayons.
+- 7 + 9 = 16, puis 4 × 16 = 64. La classe achète 64 objets.
+- 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
+- 4 × 10 = 40, puis 40 + 11 = 51. La classe prépare 51 crayons.
+- 9 + 6 = 15, puis 4 × 15 = 60. La classe achète 60 objets.
 
-#### EVAL03
+#### Évaluation 5
+- 4 × 6 = 24, puis 24 - 8 = 16. Il reste 16 ballons.
+- 8 + 6 = 14, puis 4 × 14 = 56. La classe achète 56 objets.
+- 8 + 15 = 23, puis 7 × 23 = 161. La classe achète 161 objets.
+- 4 × 10 = 40, puis 40 - 12 = 28. Il reste 28 ballons.
+- 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
 
-- **EVAL03-01** 6 × 8 = 48, puis 48 - 16 = 32. Il reste 32 ballons.
-- **EVAL03-02** 4 × 6 = 24, puis 24 + 7 = 31. La classe prépare 31 crayons.
-- **EVAL03-03** 4 × 8 = 32, puis 32 + 10 = 42. La classe prépare 42 crayons.
-- **EVAL03-04** 10 + 10 = 20, puis 4 × 20 = 80. La classe achète 80 objets.
-- **EVAL03-05** 4 × 8 = 32, puis 32 + 11 = 43. La classe prépare 43 crayons.
+#### Évaluation 6
+- 4 × 6 = 24, puis 24 - 11 = 13. Il reste 13 ballons.
+- 4 × 9 = 36, puis 36 - 8 = 28. Il reste 28 ballons.
+- 6 × 8 = 48, puis 48 - 16 = 32. Il reste 32 ballons.
+- 4 × 10 = 40, puis 40 + 8 = 48. La classe prépare 48 crayons.
+- 4 × 9 = 36, puis 36 - 8 = 28. Il reste 28 ballons.
 
-#### EVAL04
+#### Évaluation 7
+- 4 × 8 = 32, puis 32 + 7 = 39. La classe prépare 39 crayons.
+- 7 × 8 = 56, puis 56 + 16 = 72. La classe prépare 72 crayons.
+- 6 × 9 = 54, puis 54 + 16 = 70. La classe prépare 70 crayons.
+- 4 × 10 = 40, puis 40 - 9 = 31. Il reste 31 ballons.
+- 9 + 9 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
 
-- **EVAL04-01** 6 × 9 = 54, puis 54 + 16 = 70. La classe prépare 70 crayons.
-- **EVAL04-02** 7 + 9 = 16, puis 4 × 16 = 64. La classe achète 64 objets.
-- **EVAL04-03** 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
-- **EVAL04-04** 4 × 10 = 40, puis 40 + 11 = 51. La classe prépare 51 crayons.
-- **EVAL04-05** 9 + 6 = 15, puis 4 × 15 = 60. La classe achète 60 objets.
+#### Évaluation 8
+- 9 + 9 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
+- 8 + 17 = 25, puis 6 × 25 = 150. La classe achète 150 objets.
+- 4 × 6 = 24, puis 24 - 8 = 16. Il reste 16 ballons.
+- 10 + 10 = 20, puis 4 × 20 = 80. La classe achète 80 objets.
+- 4 × 9 = 36, puis 36 + 10 = 46. La classe prépare 46 crayons.
 
-#### EVAL05
+#### Évaluation 9
+- 7 × 8 = 56, puis 56 - 17 = 39. Il reste 39 ballons.
+- 6 × 9 = 54, puis 54 - 17 = 37. Il reste 37 ballons.
+- 4 × 6 = 24, puis 24 - 11 = 13. Il reste 13 ballons.
+- 4 × 10 = 40, puis 40 + 11 = 51. La classe prépare 51 crayons.
+- 9 + 11 = 20, puis 4 × 20 = 80. La classe achète 80 objets.
 
-- **EVAL05-01** 4 × 6 = 24, puis 24 - 8 = 16. Il reste 16 ballons.
-- **EVAL05-02** 8 + 6 = 14, puis 4 × 14 = 56. La classe achète 56 objets.
-- **EVAL05-03** 8 + 15 = 23, puis 7 × 23 = 161. La classe achète 161 objets.
-- **EVAL05-04** 4 × 10 = 40, puis 40 - 12 = 28. Il reste 28 ballons.
-- **EVAL05-05** 4 × 9 = 36, puis 36 + 7 = 43. La classe prépare 43 crayons.
-
-#### EVAL06
-
-- **EVAL06-01** 4 × 6 = 24, puis 24 - 11 = 13. Il reste 13 ballons.
-- **EVAL06-02** 4 × 9 = 36, puis 36 - 8 = 28. Il reste 28 ballons.
-- **EVAL06-03** 6 × 8 = 48, puis 48 - 16 = 32. Il reste 32 ballons.
-- **EVAL06-04** 4 × 10 = 40, puis 40 + 8 = 48. La classe prépare 48 crayons.
-- **EVAL06-05** 4 × 9 = 36, puis 36 - 8 = 28. Il reste 28 ballons.
-
-#### EVAL07
-
-- **EVAL07-01** 4 × 8 = 32, puis 32 + 7 = 39. La classe prépare 39 crayons.
-- **EVAL07-02** 7 × 8 = 56, puis 56 + 16 = 72. La classe prépare 72 crayons.
-- **EVAL07-03** 6 × 9 = 54, puis 54 + 16 = 70. La classe prépare 70 crayons.
-- **EVAL07-04** 4 × 10 = 40, puis 40 - 9 = 31. Il reste 31 ballons.
-- **EVAL07-05** 9 + 9 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
-
-#### EVAL08
-
-- **EVAL08-01** 9 + 9 = 18, puis 4 × 18 = 72. La classe achète 72 objets.
-- **EVAL08-02** 8 + 17 = 25, puis 6 × 25 = 150. La classe achète 150 objets.
-- **EVAL08-03** 4 × 6 = 24, puis 24 - 8 = 16. Il reste 16 ballons.
-- **EVAL08-04** 10 + 10 = 20, puis 4 × 20 = 80. La classe achète 80 objets.
-- **EVAL08-05** 4 × 9 = 36, puis 36 + 10 = 46. La classe prépare 46 crayons.
-
-#### EVAL09
-
-- **EVAL09-01** 7 × 8 = 56, puis 56 - 17 = 39. Il reste 39 ballons.
-- **EVAL09-02** 6 × 9 = 54, puis 54 - 17 = 37. Il reste 37 ballons.
-- **EVAL09-03** 4 × 6 = 24, puis 24 - 11 = 13. Il reste 13 ballons.
-- **EVAL09-04** 4 × 10 = 40, puis 40 + 11 = 51. La classe prépare 51 crayons.
-- **EVAL09-05** 9 + 11 = 20, puis 4 × 20 = 80. La classe achète 80 objets.
-
-#### EVAL10
-
-- **EVAL10-01** 6 × 8 = 48, puis 48 + 18 = 66. La classe prépare 66 crayons.
-- **EVAL10-02** 5 × 6 = 30, puis 30 + 11 = 41. La classe prépare 41 crayons.
-- **EVAL10-03** 4 × 8 = 32, puis 32 + 7 = 39. La classe prépare 39 crayons.
-- **EVAL10-04** 4 × 10 = 40, puis 40 - 12 = 28. Il reste 28 ballons.
-- **EVAL10-05** 5 × 6 = 30, puis 30 + 6 = 36. La classe prépare 36 crayons.
+#### Évaluation 10
+- 6 × 8 = 48, puis 48 + 18 = 66. La classe prépare 66 crayons.
+- 5 × 6 = 30, puis 30 + 11 = 41. La classe prépare 41 crayons.
+- 4 × 8 = 32, puis 32 + 7 = 39. La classe prépare 39 crayons.
+- 4 × 10 = 40, puis 40 - 12 = 28. Il reste 28 ballons.
+- 5 × 6 = 30, puis 30 + 6 = 36. La classe prépare 36 crayons.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
+- 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
+- 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
+- 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
+- 2 × 6 = 12, puis 12 + 6 = 18. La classe prépare 18 crayons.
 
-- **DEV01-01** 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
-- **DEV01-02** 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
-- **DEV01-03** 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
-- **DEV01-04** 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
-- **DEV01-05** 2 × 6 = 12, puis 12 + 6 = 18. La classe prépare 18 crayons.
+#### Devoir 2
+- 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
+- 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
+- 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
+- 4 + 6 = 10, puis 3 × 10 = 30. La classe achète 30 objets.
 
-#### DEV02
+#### Devoir 3
+- 3 × 5 = 15, puis 15 - 2 = 13. Il reste 13 ballons.
+- 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
+- 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
+- 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 5 + 5 = 10, puis 3 × 10 = 30. La classe achète 30 objets.
 
-- **DEV02-01** 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
-- **DEV02-02** 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV02-03** 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
-- **DEV02-04** 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
-- **DEV02-05** 4 + 6 = 10, puis 3 × 10 = 30. La classe achète 30 objets.
+#### Devoir 4
+- 2 × 5 = 10, puis 10 + 5 = 15. La classe prépare 15 crayons.
+- 2 × 6 = 12, puis 12 - 5 = 7. Il reste 7 ballons.
+- 3 × 5 = 15, puis 15 - 2 = 13. Il reste 13 ballons.
+- 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
+- 2 × 6 = 12, puis 12 - 4 = 8. Il reste 8 ballons.
 
-#### DEV03
+#### Devoir 5
+- 3 + 5 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 3 × 4 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
+- 2 × 5 = 10, puis 10 + 5 = 15. La classe prépare 15 crayons.
+- 2 × 6 = 12, puis 12 - 5 = 7. Il reste 7 ballons.
+- 3 × 4 = 12, puis 12 + 4 = 16. La classe prépare 16 crayons.
 
-- **DEV03-01** 3 × 5 = 15, puis 15 - 2 = 13. Il reste 13 ballons.
-- **DEV03-02** 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
-- **DEV03-03** 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
-- **DEV03-04** 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV03-05** 5 + 5 = 10, puis 3 × 10 = 30. La classe achète 30 objets.
+#### Devoir 6
+- 4 + 4 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 5 + 4 = 9, puis 2 × 9 = 18. La classe achète 18 objets.
+- 3 + 5 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 3 × 4 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
+- 6 + 4 = 10, puis 3 × 10 = 30. La classe achète 30 objets.
 
-#### DEV04
+#### Devoir 7
+- 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
+- 3 × 3 = 9, puis 9 - 4 = 5. Il reste 5 ballons.
+- 4 + 4 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 5 + 4 = 9, puis 2 × 9 = 18. La classe achète 18 objets.
+- 2 × 7 = 14, puis 14 - 3 = 11. Il reste 11 ballons.
 
-- **DEV04-01** 2 × 5 = 10, puis 10 + 5 = 15. La classe prépare 15 crayons.
-- **DEV04-02** 2 × 6 = 12, puis 12 - 5 = 7. Il reste 7 ballons.
-- **DEV04-03** 3 × 5 = 15, puis 15 - 2 = 13. Il reste 13 ballons.
-- **DEV04-04** 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
-- **DEV04-05** 2 × 6 = 12, puis 12 - 4 = 8. Il reste 8 ballons.
+#### Devoir 8
+- 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
+- 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
+- 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
+- 3 × 3 = 9, puis 9 - 4 = 5. Il reste 5 ballons.
+- 2 × 7 = 14, puis 14 - 6 = 8. Il reste 8 ballons.
 
-#### DEV05
+#### Devoir 9
+- 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
+- 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
+- 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
+- 3 × 5 = 15, puis 15 + 6 = 21. La classe prépare 21 crayons.
 
-- **DEV05-01** 3 + 5 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV05-02** 3 × 4 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
-- **DEV05-03** 2 × 5 = 10, puis 10 + 5 = 15. La classe prépare 15 crayons.
-- **DEV05-04** 2 × 6 = 12, puis 12 - 5 = 7. Il reste 7 ballons.
-- **DEV05-05** 3 × 4 = 12, puis 12 + 4 = 16. La classe prépare 16 crayons.
-
-#### DEV06
-
-- **DEV06-01** 4 + 4 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV06-02** 5 + 4 = 9, puis 2 × 9 = 18. La classe achète 18 objets.
-- **DEV06-03** 3 + 5 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV06-04** 3 × 4 = 12, puis 12 + 5 = 17. La classe prépare 17 crayons.
-- **DEV06-05** 6 + 4 = 10, puis 3 × 10 = 30. La classe achète 30 objets.
-
-#### DEV07
-
-- **DEV07-01** 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
-- **DEV07-02** 3 × 3 = 9, puis 9 - 4 = 5. Il reste 5 ballons.
-- **DEV07-03** 4 + 4 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV07-04** 5 + 4 = 9, puis 2 × 9 = 18. La classe achète 18 objets.
-- **DEV07-05** 2 × 7 = 14, puis 14 - 3 = 11. Il reste 11 ballons.
-
-#### DEV08
-
-- **DEV08-01** 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
-- **DEV08-02** 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
-- **DEV08-03** 2 × 5 = 10, puis 10 - 3 = 7. Il reste 7 ballons.
-- **DEV08-04** 3 × 3 = 9, puis 9 - 4 = 5. Il reste 5 ballons.
-- **DEV08-05** 2 × 7 = 14, puis 14 - 6 = 8. Il reste 8 ballons.
-
-#### DEV09
-
-- **DEV09-01** 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV09-02** 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
-- **DEV09-03** 3 × 3 = 9, puis 9 + 3 = 12. La classe prépare 12 crayons.
-- **DEV09-04** 3 × 5 = 15, puis 15 + 4 = 19. La classe prépare 19 crayons.
-- **DEV09-05** 3 × 5 = 15, puis 15 + 6 = 21. La classe prépare 21 crayons.
-
-#### DEV10
-
-- **DEV10-01** 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
-- **DEV10-02** 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
-- **DEV10-03** 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
-- **DEV10-04** 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
-- **DEV10-05** 6 + 5 = 11, puis 2 × 11 = 22. La classe achète 22 objets.
+#### Devoir 10
+- 2 × 6 = 12, puis 12 - 2 = 10. Il reste 10 ballons.
+- 3 + 2 = 5, puis 3 × 5 = 15. La classe achète 15 objets.
+- 5 + 3 = 8, puis 3 × 8 = 24. La classe achète 24 objets.
+- 2 × 5 = 10, puis 10 + 2 = 12. La classe prépare 12 crayons.
+- 6 + 5 = 11, puis 2 × 11 = 22. La classe achète 22 objets.
 
 ## Traçabilité des évaluations et devoirs
 

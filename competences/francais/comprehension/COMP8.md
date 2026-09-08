@@ -52,8 +52,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** **Adapté de Jean de La Fontaine, *Le Lièvre et la Tortue*, livre VI, fable 10 (texte modernisé et abrégé).** La tortue franchit la ligne d'arrivée. Le lièvre est encore loin derrière.
 - **Source de consultation :** Bibliothèque nationale de France, Catalogue général/Gallica, Jean de La Fontaine, *Fables choisies, mises en vers par M. de La Fontaine*, édition H. Charpentier, 1709, [notice bibliographique exacte](https://catalogue.bnf.fr/ark:/12148/cb307158188).
 - **Question :** Qui gagne la course ? Donne un indice.
@@ -62,8 +61,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** La tortue ; indice : elle franchit la ligne alors que le lièvre est encore derrière. Accepter toute formulation équivalente.
 - **Contrôle final :** La réponse est confrontée mot à mot au support.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
 - **Question :** Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 - **Attention :** L'enseignant demande : « Que cherchons-nous ? Quels mots du texte nous aident ? »
@@ -71,8 +69,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** Il pleut. Indice attendu : un détail cohérent du texte.
 - **Contrôle final :** La classe vérifie que la réponse utilise bien l'indice retenu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
 - **Question :** Que fête Noé ? Donne l'indice qui t'aide.
 - **Attention :** Les élèves choisissent les indices ; l'enseignant ne relance qu'avec : « Comment peux-tu le vérifier ? »
@@ -84,25 +81,25 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Textes créés pour l'exercice.*
 
-1. **IMM01** « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
+1. « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-2. **IMM02** « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+2. « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-3. **IMM03** « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
+3. « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-4. **IMM04** « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
+4. « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-5. **IMM05** « Sami pose une enveloppe timbrée dans la boîte jaune. »
+5. « Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-6. **IMM06** « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
+6. « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
    Est-ce un jour d'école ? Donne l'indice qui t'aide.
 
-7. **IMM07** « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
+7. « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
    Qu'est-ce qui vient de cuire ? Donne l'indice qui t'aide.
 
 ## Variables didactiques
@@ -115,781 +112,721 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Tous les supports de cette section sont des textes créés pour l'exercice. La consigne reste : « Lis le petit texte. Réponds à la question et vérifie dans le texte. »*
 
-### ENT01
-
-1. **ENT01-01** « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
+### Entraînement 1
+1. « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-2. **ENT01-02** « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+2. « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-3. **ENT01-03** « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
+3. « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-4. **ENT01-04** « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
+4. « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-5. **ENT01-05** « Sami pose une enveloppe timbrée dans la boîte jaune. »
+5. « Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-### ENT02
-
-1. **ENT02-01** « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
+### Entraînement 2
+1. « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
    Est-ce un jour d'école ? Donne l'indice qui t'aide.
 
-2. **ENT02-02** « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
+2. « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
    Qu'est-ce qui vient de cuire ? Donne l'indice qui t'aide.
 
-3. **ENT02-03** « Nora chuchote entre les rayonnages et choisit deux romans. »
+3. « Nora chuchote entre les rayonnages et choisit deux romans. »
    Où se trouve Nora ? Donne l'indice qui t'aide.
 
-4. **ENT02-04** « Hugo gratte le pare-brise blanc avant de démarrer. »
+4. « Hugo gratte le pare-brise blanc avant de démarrer. »
    A-t-il fait froid ? Donne l'indice qui t'aide.
 
-5. **ENT02-05** « Zoé tient une laisse. Au bout, Oslo remue la queue. »
+5. « Zoé tient une laisse. Au bout, Oslo remue la queue. »
    Quel animal est Oslo ? Donne l'indice qui t'aide.
 
-### ENT03
-
-1. **ENT03-01** « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
+### Entraînement 3
+1. « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
    Où va-t-il dormir ? Donne l'indice qui t'aide.
 
-2. **ENT03-02** « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+2. « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-3. **ENT03-03** « Le serveur apporte les menus, puis pose une carafe sur la table. »
+3. « Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-4. **ENT03-04** « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+4. « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-5. **ENT03-05** « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+5. « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-### ENT04
-
-1. **ENT04-01** « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
+### Entraînement 4
+1. « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
    Que vont-ils regarder ? Donne l'indice qui t'aide.
 
-2. **ENT04-02** « Un instant passe. Eva étale sa serviette sur le sable et entend les vagues. »
+2. « Un instant passe. Eva étale sa serviette sur le sable et entend les vagues. »
    Où est Eva ? Donne l'indice qui t'aide.
 
-3. **ENT04-03** « Le train ralentit. Un instant passe. Des voyageurs prennent leurs valises et se dirigent vers les portes. »
+3. « Le train ralentit. Un instant passe. Des voyageurs prennent leurs valises et se dirigent vers les portes. »
    Que va faire le train ? Donne l'indice qui t'aide.
 
-4. **ENT04-04** « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
+4. « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
    Que prépare Ali ? Donne l'indice qui t'aide.
 
-5. **ENT04-05** « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
+5. « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
    Que vont faire les élèves ? Donne l'indice qui t'aide.
 
-### ENT05
-
-1. **ENT05-01** « Lina entre en classe avec son parapluie mouillé. Un instant passe. Des gouttes brillent sur son manteau. »
+### Entraînement 5
+1. « Lina entre en classe avec son parapluie mouillé. Un instant passe. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-2. **ENT05-02** « Un instant passe. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+2. « Un instant passe. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-3. **ENT05-03** « Maya met son maillot, ses lunettes et son bonnet. Un instant passe. Elle rejoint le bord du bassin. »
+3. « Maya met son maillot, ses lunettes et son bonnet. Un instant passe. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-4. **ENT05-04** « Le sol est couvert de feuilles jaunes et rousses. Un instant passe. Les marrons tombent des arbres. »
+4. « Le sol est couvert de feuilles jaunes et rousses. Un instant passe. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-5. **ENT05-05** « Un instant passe. Sami pose une enveloppe timbrée dans la boîte jaune. »
+5. « Un instant passe. Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-### ENT06
-
-1. **ENT06-01** « Le réveil indique sept heures. Un instant passe. Inès enfile son cartable et part vers l'école. »
+### Entraînement 6
+1. « Le réveil indique sept heures. Un instant passe. Inès enfile son cartable et part vers l'école. »
    Est-ce un jour d'école ? Donne l'indice qui t'aide.
 
-2. **ENT06-02** « Léo ouvre le four avec un gant. Un instant passe. Une bonne odeur de pain emplit la cuisine. »
+2. « Léo ouvre le four avec un gant. Un instant passe. Une bonne odeur de pain emplit la cuisine. »
    Qu'est-ce qui vient de cuire ? Donne l'indice qui t'aide.
 
-3. **ENT06-03** « Un instant passe. Nora chuchote entre les rayonnages et choisit deux romans. »
+3. « Un instant passe. Nora chuchote entre les rayonnages et choisit deux romans. »
    Où se trouve Nora ? Donne l'indice qui t'aide.
 
-4. **ENT06-04** « Un instant passe. Hugo gratte le pare-brise blanc avant de démarrer. »
+4. « Un instant passe. Hugo gratte le pare-brise blanc avant de démarrer. »
    A-t-il fait froid ? Donne l'indice qui t'aide.
 
-5. **ENT06-05** « Zoé tient une laisse. Un instant passe. Au bout, Oslo remue la queue. »
+5. « Zoé tient une laisse. Un instant passe. Au bout, Oslo remue la queue. »
    Quel animal est Oslo ? Donne l'indice qui t'aide.
 
-### ENT07
-
-1. **ENT07-01** « Adam plante les piquets puis tend la toile. Un instant passe. Il glisse les sacs de couchage à l'intérieur. »
+### Entraînement 7
+1. « Adam plante les piquets puis tend la toile. Un instant passe. Il glisse les sacs de couchage à l'intérieur. »
    Où va-t-il dormir ? Donne l'indice qui t'aide.
 
-2. **ENT07-02** « Un instant passe. Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+2. « Un instant passe. Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-3. **ENT07-03** « Un instant passe. Le serveur apporte les menus, puis pose une carafe sur la table. »
+3. « Un instant passe. Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-4. **ENT07-04** « Un instant passe. Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+4. « Un instant passe. Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-5. **ENT07-05** « Un instant passe. Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+5. « Un instant passe. Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-### ENT08
-
-1. **ENT08-01** « Les spectateurs s'installent. Un bruit lointain détourne brièvement l'attention. La lumière s'éteint et le rideau se lève. »
+### Entraînement 8
+1. « Les spectateurs s'installent. Un bruit lointain détourne brièvement l'attention. La lumière s'éteint et le rideau se lève. »
    Que vont-ils regarder ? Donne l'indice qui t'aide.
 
-2. **ENT08-02** « Un bruit lointain détourne brièvement l'attention. Eva étale sa serviette sur le sable et entend les vagues. »
+2. « Un bruit lointain détourne brièvement l'attention. Eva étale sa serviette sur le sable et entend les vagues. »
    Où est Eva ? Donne l'indice qui t'aide.
 
-3. **ENT08-03** « Le train ralentit. Un bruit lointain détourne brièvement l'attention. Des voyageurs prennent leurs valises et se dirigent vers les portes. »
+3. « Le train ralentit. Un bruit lointain détourne brièvement l'attention. Des voyageurs prennent leurs valises et se dirigent vers les portes. »
    Que va faire le train ? Donne l'indice qui t'aide.
 
-4. **ENT08-04** « Un bruit lointain détourne brièvement l'attention. Ali pose les assiettes, les verres et les couverts autour de la table. »
+4. « Un bruit lointain détourne brièvement l'attention. Ali pose les assiettes, les verres et les couverts autour de la table. »
    Que prépare Ali ? Donne l'indice qui t'aide.
 
-5. **ENT08-05** « La maîtresse distribue les feuilles. Un bruit lointain détourne brièvement l'attention. Les élèves prennent leur crayon et le silence se fait. »
+5. « La maîtresse distribue les feuilles. Un bruit lointain détourne brièvement l'attention. Les élèves prennent leur crayon et le silence se fait. »
    Que vont faire les élèves ? Donne l'indice qui t'aide.
 
-### ENT09
-
-1. **ENT09-01** « Lina entre en classe avec son parapluie mouillé. Un bruit lointain détourne brièvement l'attention. Des gouttes brillent sur son manteau. »
+### Entraînement 9
+1. « Lina entre en classe avec son parapluie mouillé. Un bruit lointain détourne brièvement l'attention. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-2. **ENT09-02** « Un bruit lointain détourne brièvement l'attention. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+2. « Un bruit lointain détourne brièvement l'attention. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-3. **ENT09-03** « Maya met son maillot, ses lunettes et son bonnet. Un bruit lointain détourne brièvement l'attention. Elle rejoint le bord du bassin. »
+3. « Maya met son maillot, ses lunettes et son bonnet. Un bruit lointain détourne brièvement l'attention. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-4. **ENT09-04** « Le sol est couvert de feuilles jaunes et rousses. Un bruit lointain détourne brièvement l'attention. Les marrons tombent des arbres. »
+4. « Le sol est couvert de feuilles jaunes et rousses. Un bruit lointain détourne brièvement l'attention. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-5. **ENT09-05** « Un bruit lointain détourne brièvement l'attention. Sami pose une enveloppe timbrée dans la boîte jaune. »
+5. « Un bruit lointain détourne brièvement l'attention. Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-### ENT10
-
-1. **ENT10-01** « Le réveil indique sept heures. Un bruit lointain détourne brièvement l'attention. Inès enfile son cartable et part vers l'école. »
+### Entraînement 10
+1. « Le réveil indique sept heures. Un bruit lointain détourne brièvement l'attention. Inès enfile son cartable et part vers l'école. »
    Est-ce un jour d'école ? Donne l'indice qui t'aide.
 
-2. **ENT10-02** « Léo ouvre le four avec un gant. Un bruit lointain détourne brièvement l'attention. Une bonne odeur de pain emplit la cuisine. »
+2. « Léo ouvre le four avec un gant. Un bruit lointain détourne brièvement l'attention. Une bonne odeur de pain emplit la cuisine. »
    Qu'est-ce qui vient de cuire ? Donne l'indice qui t'aide.
 
-3. **ENT10-03** « Un bruit lointain détourne brièvement l'attention. Nora chuchote entre les rayonnages et choisit deux romans. »
+3. « Un bruit lointain détourne brièvement l'attention. Nora chuchote entre les rayonnages et choisit deux romans. »
    Où se trouve Nora ? Donne l'indice qui t'aide.
 
-4. **ENT10-04** « Un bruit lointain détourne brièvement l'attention. Hugo gratte le pare-brise blanc avant de démarrer. »
+4. « Un bruit lointain détourne brièvement l'attention. Hugo gratte le pare-brise blanc avant de démarrer. »
    A-t-il fait froid ? Donne l'indice qui t'aide.
 
-5. **ENT10-05** « Zoé tient une laisse. Un bruit lointain détourne brièvement l'attention. Au bout, Oslo remue la queue. »
+5. « Zoé tient une laisse. Un bruit lointain détourne brièvement l'attention. Au bout, Oslo remue la queue. »
    Quel animal est Oslo ? Donne l'indice qui t'aide.
 
 ## Évaluations
 
 *Tous les supports sont créés pour l'exercice. Chaque forme comporte quatre items déjà entraînés et un item nouveau isomorphe ; les dix formes échantillonnent les mêmes niveaux de difficulté.*
 
-### EVAL01
-
-1. **EVAL01-01** « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
+### Évaluation 1
+1. « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
    Où va-t-il dormir ? Donne l'indice qui t'aide.
 
-2. **EVAL01-02** « Un instant passe. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+2. « Un instant passe. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-3. **EVAL01-03** « Un instant passe. Le serveur apporte les menus, puis pose une carafe sur la table. »
+3. « Un instant passe. Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-4. **EVAL01-04** « Le sol est couvert de feuilles jaunes et rousses. Un bruit lointain détourne brièvement l'attention. Les marrons tombent des arbres. »
+4. « Le sol est couvert de feuilles jaunes et rousses. Un bruit lointain détourne brièvement l'attention. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-5. **EVAL01-05** « Aya secoue son manteau couvert de flocons et pose ses gants près du radiateur. »
+5. « Aya secoue son manteau couvert de flocons et pose ses gants près du radiateur. »
    Quel temps fait-il dehors ? Donne un indice.
 
-### EVAL02
-
-1. **EVAL02-01** « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+### Évaluation 2
+1. « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-2. **EVAL02-02** « Maya met son maillot, ses lunettes et son bonnet. Un instant passe. Elle rejoint le bord du bassin. »
+2. « Maya met son maillot, ses lunettes et son bonnet. Un instant passe. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-3. **EVAL02-03** « Un instant passe. Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+3. « Un instant passe. Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-4. **EVAL02-04** « Un bruit lointain détourne brièvement l'attention. Sami pose une enveloppe timbrée dans la boîte jaune. »
+4. « Un bruit lointain détourne brièvement l'attention. Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-5. **EVAL02-05** « Tom entend les vagues et ramasse un coquillage dans le sable. »
+5. « Tom entend les vagues et ramasse un coquillage dans le sable. »
    Où se trouve Tom ? Donne un indice.
 
-### EVAL03
-
-1. **EVAL03-01** « Le serveur apporte les menus, puis pose une carafe sur la table. »
+### Évaluation 3
+1. « Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-2. **EVAL03-02** « Le sol est couvert de feuilles jaunes et rousses. Un instant passe. Les marrons tombent des arbres. »
+2. « Le sol est couvert de feuilles jaunes et rousses. Un instant passe. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-3. **EVAL03-03** « Un instant passe. Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+3. « Un instant passe. Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-4. **EVAL03-04** « Lina entre en classe avec son parapluie mouillé. Un bruit lointain détourne brièvement l'attention. Des gouttes brillent sur son manteau. »
+4. « Lina entre en classe avec son parapluie mouillé. Un bruit lointain détourne brièvement l'attention. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-5. **EVAL03-05** « Eva attache sa ceinture tandis que le pilote annonce le décollage. »
+5. « Eva attache sa ceinture tandis que le pilote annonce le décollage. »
    Dans quel moyen de transport est Eva ? Donne un indice.
 
-### EVAL04
-
-1. **EVAL04-01** « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+### Évaluation 4
+1. « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-2. **EVAL04-02** « Un instant passe. Sami pose une enveloppe timbrée dans la boîte jaune. »
+2. « Un instant passe. Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-3. **EVAL04-03** « Adam plante les piquets puis tend la toile. Un instant passe. Il glisse les sacs de couchage à l'intérieur. »
+3. « Adam plante les piquets puis tend la toile. Un instant passe. Il glisse les sacs de couchage à l'intérieur. »
    Où va-t-il dormir ? Donne l'indice qui t'aide.
 
-4. **EVAL04-04** « Un bruit lointain détourne brièvement l'attention. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+4. « Un bruit lointain détourne brièvement l'attention. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-5. **EVAL04-05** « Ali place une bougie sur la table car toute la maison est sombre. »
+5. « Ali place une bougie sur la table car toute la maison est sombre. »
    Que s'est-il probablement passé ? Donne un indice.
 
-### EVAL05
-
-1. **EVAL05-01** « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+### Évaluation 5
+1. « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-2. **EVAL05-02** « Lina entre en classe avec son parapluie mouillé. Un instant passe. Des gouttes brillent sur son manteau. »
+2. « Lina entre en classe avec son parapluie mouillé. Un instant passe. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-3. **EVAL05-03** « Un instant passe. Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+3. « Un instant passe. Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-4. **EVAL05-04** « Maya met son maillot, ses lunettes et son bonnet. Un bruit lointain détourne brièvement l'attention. Elle rejoint le bord du bassin. »
+4. « Maya met son maillot, ses lunettes et son bonnet. Un bruit lointain détourne brièvement l'attention. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-5. **EVAL05-05** « Ana rend le livre et montre sa carte au bureau d'accueil. »
+5. « Ana rend le livre et montre sa carte au bureau d'accueil. »
    Où est Ana ? Donne un indice.
 
-### EVAL06
-
-1. **EVAL06-01** « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
+### Évaluation 6
+1. « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
    Où va-t-il dormir ? Donne l'indice qui t'aide.
 
-2. **EVAL06-02** « Un instant passe. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+2. « Un instant passe. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-3. **EVAL06-03** « Un instant passe. Le serveur apporte les menus, puis pose une carafe sur la table. »
+3. « Un instant passe. Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-4. **EVAL06-04** « Le sol est couvert de feuilles jaunes et rousses. Un bruit lointain détourne brièvement l'attention. Les marrons tombent des arbres. »
+4. « Le sol est couvert de feuilles jaunes et rousses. Un bruit lointain détourne brièvement l'attention. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-5. **EVAL06-05** « Paul pousse un chariot entre les rayons et pose du riz dans son panier. »
+5. « Paul pousse un chariot entre les rayons et pose du riz dans son panier. »
    Où est Paul ? Donne un indice.
 
-### EVAL07
-
-1. **EVAL07-01** « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+### Évaluation 7
+1. « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-2. **EVAL07-02** « Maya met son maillot, ses lunettes et son bonnet. Un instant passe. Elle rejoint le bord du bassin. »
+2. « Maya met son maillot, ses lunettes et son bonnet. Un instant passe. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-3. **EVAL07-03** « Un instant passe. Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+3. « Un instant passe. Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-4. **EVAL07-04** « Un bruit lointain détourne brièvement l'attention. Sami pose une enveloppe timbrée dans la boîte jaune. »
+4. « Un bruit lointain détourne brièvement l'attention. Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-5. **EVAL07-05** « Iris met de la terre dans un pot, y place une graine puis arrose. »
+5. « Iris met de la terre dans un pot, y place une graine puis arrose. »
    Que veut-elle faire pousser ? Donne un indice.
 
-### EVAL08
-
-1. **EVAL08-01** « Le serveur apporte les menus, puis pose une carafe sur la table. »
+### Évaluation 8
+1. « Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-2. **EVAL08-02** « Le sol est couvert de feuilles jaunes et rousses. Un instant passe. Les marrons tombent des arbres. »
+2. « Le sol est couvert de feuilles jaunes et rousses. Un instant passe. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-3. **EVAL08-03** « Un instant passe. Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+3. « Un instant passe. Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-4. **EVAL08-04** « Lina entre en classe avec son parapluie mouillé. Un bruit lointain détourne brièvement l'attention. Des gouttes brillent sur son manteau. »
+4. « Lina entre en classe avec son parapluie mouillé. Un bruit lointain détourne brièvement l'attention. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-5. **EVAL08-05** « Yanis voit les arbres défiler derrière la vitre. Le contrôleur passe dans l'allée. »
+5. « Yanis voit les arbres défiler derrière la vitre. Le contrôleur passe dans l'allée. »
    Dans quel transport est Yanis ? Donne un indice.
 
-### EVAL09
-
-1. **EVAL09-01** « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+### Évaluation 9
+1. « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-2. **EVAL09-02** « Un instant passe. Sami pose une enveloppe timbrée dans la boîte jaune. »
+2. « Un instant passe. Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-3. **EVAL09-03** « Adam plante les piquets puis tend la toile. Un instant passe. Il glisse les sacs de couchage à l'intérieur. »
+3. « Adam plante les piquets puis tend la toile. Un instant passe. Il glisse les sacs de couchage à l'intérieur. »
    Où va-t-il dormir ? Donne l'indice qui t'aide.
 
-4. **EVAL09-04** « Un bruit lointain détourne brièvement l'attention. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+4. « Un bruit lointain détourne brièvement l'attention. Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-5. **EVAL09-05** « Mila met un tablier, verse de la farine et casse deux œufs dans un saladier. »
+5. « Mila met un tablier, verse de la farine et casse deux œufs dans un saladier. »
    Que prépare probablement Mila ? Donne un indice.
 
-### EVAL10
-
-1. **EVAL10-01** « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+### Évaluation 10
+1. « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-2. **EVAL10-02** « Lina entre en classe avec son parapluie mouillé. Un instant passe. Des gouttes brillent sur son manteau. »
+2. « Lina entre en classe avec son parapluie mouillé. Un instant passe. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-3. **EVAL10-03** « Un instant passe. Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+3. « Un instant passe. Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-4. **EVAL10-04** « Maya met son maillot, ses lunettes et son bonnet. Un bruit lointain détourne brièvement l'attention. Elle rejoint le bord du bassin. »
+4. « Maya met son maillot, ses lunettes et son bonnet. Un bruit lointain détourne brièvement l'attention. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-5. **EVAL10-05** « Oscar regarde le numéro de son vol et pousse sa valise vers la porte d'embarquement. »
+5. « Oscar regarde le numéro de son vol et pousse sa valise vers la porte d'embarquement. »
    Où est Oscar ? Donne un indice.
 
 ## Devoirs
 
 *Tous les supports sont créés pour l'exercice et reprennent uniquement ENT01 à ENT04. Même consigne, sans matériel particulier.*
 
-### DEV01
-
-1. **DEV01-01** « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
+### Devoir 1
+1. « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-2. **DEV01-02** « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
+2. « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
    Qu'est-ce qui vient de cuire ? Donne l'indice qui t'aide.
 
-3. **DEV01-03** « Le serveur apporte les menus, puis pose une carafe sur la table. »
+3. « Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-4. **DEV01-04** « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
+4. « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
    Que prépare Ali ? Donne l'indice qui t'aide.
 
-5. **DEV01-05** « Sami pose une enveloppe timbrée dans la boîte jaune. »
+5. « Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-### DEV02
-
-1. **DEV02-01** « Nora chuchote entre les rayonnages et choisit deux romans. »
+### Devoir 2
+1. « Nora chuchote entre les rayonnages et choisit deux romans. »
    Où se trouve Nora ? Donne l'indice qui t'aide.
 
-2. **DEV02-02** « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+2. « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-3. **DEV02-03** « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
+3. « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
    Que vont faire les élèves ? Donne l'indice qui t'aide.
 
-4. **DEV02-04** « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
+4. « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-5. **DEV02-05** « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
+5. « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
    Qu'est-ce qui vient de cuire ? Donne l'indice qui t'aide.
 
-### DEV03
-
-1. **DEV03-01** « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+### Devoir 3
+1. « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-2. **DEV03-02** « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
+2. « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
    Que vont-ils regarder ? Donne l'indice qui t'aide.
 
-3. **DEV03-03** « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+3. « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-4. **DEV03-04** « Nora chuchote entre les rayonnages et choisit deux romans. »
+4. « Nora chuchote entre les rayonnages et choisit deux romans. »
    Où se trouve Nora ? Donne l'indice qui t'aide.
 
-5. **DEV03-05** « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+5. « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-### DEV04
-
-1. **DEV04-01** « Un instant passe. Eva étale sa serviette sur le sable et entend les vagues. »
+### Devoir 4
+1. « Un instant passe. Eva étale sa serviette sur le sable et entend les vagues. »
    Où est Eva ? Donne l'indice qui t'aide.
 
-2. **DEV04-02** « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
+2. « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-3. **DEV04-03** « Hugo gratte le pare-brise blanc avant de démarrer. »
+3. « Hugo gratte le pare-brise blanc avant de démarrer. »
    A-t-il fait froid ? Donne l'indice qui t'aide.
 
-4. **DEV04-04** « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+4. « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-5. **DEV04-05** « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
+5. « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
    Que vont-ils regarder ? Donne l'indice qui t'aide.
 
-### DEV05
-
-1. **DEV05-01** « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
+### Devoir 5
+1. « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-2. **DEV05-02** « Zoé tient une laisse. Au bout, Oslo remue la queue. »
+2. « Zoé tient une laisse. Au bout, Oslo remue la queue. »
    Quel animal est Oslo ? Donne l'indice qui t'aide.
 
-3. **DEV05-03** « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
+3. « Adam plante les piquets puis tend la toile. Il glisse les sacs de couchage à l'intérieur. »
    Où va-t-il dormir ? Donne l'indice qui t'aide.
 
-4. **DEV05-04** « Un instant passe. Eva étale sa serviette sur le sable et entend les vagues. »
+4. « Un instant passe. Eva étale sa serviette sur le sable et entend les vagues. »
    Où est Eva ? Donne l'indice qui t'aide.
 
-5. **DEV05-05** « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
+5. « Maya met son maillot, ses lunettes et son bonnet. Elle rejoint le bord du bassin. »
    Quelle activité va-t-elle pratiquer ? Donne l'indice qui t'aide.
 
-### DEV06
-
-1. **DEV06-01** « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
+### Devoir 6
+1. « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
    Est-ce un jour d'école ? Donne l'indice qui t'aide.
 
-2. **DEV06-02** « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+2. « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-3. **DEV06-03** « Le train ralentit. Un instant passe. Des voyageurs prennent leurs valises et se dirigent vers les portes. »
+3. « Le train ralentit. Un instant passe. Des voyageurs prennent leurs valises et se dirigent vers les portes. »
    Que va faire le train ? Donne l'indice qui t'aide.
 
-4. **DEV06-04** « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
+4. « Le sol est couvert de feuilles jaunes et rousses. Les marrons tombent des arbres. »
    En quelle saison sommes-nous ? Donne l'indice qui t'aide.
 
-5. **DEV06-05** « Zoé tient une laisse. Au bout, Oslo remue la queue. »
+5. « Zoé tient une laisse. Au bout, Oslo remue la queue. »
    Quel animal est Oslo ? Donne l'indice qui t'aide.
 
-### DEV07
-
-1. **DEV07-01** « Le serveur apporte les menus, puis pose une carafe sur la table. »
+### Devoir 7
+1. « Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-2. **DEV07-02** « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
+2. « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
    Que prépare Ali ? Donne l'indice qui t'aide.
 
-3. **DEV07-03** « Sami pose une enveloppe timbrée dans la boîte jaune. »
+3. « Sami pose une enveloppe timbrée dans la boîte jaune. »
    Que veut-il envoyer ? Donne l'indice qui t'aide.
 
-4. **DEV07-04** « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
+4. « Le réveil indique sept heures. Inès enfile son cartable et part vers l'école. »
    Est-ce un jour d'école ? Donne l'indice qui t'aide.
 
-5. **DEV07-05** « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
+5. « Lou entend la sonnerie, range sa trousse et rejoint la cour. »
    Que commence-t-il ? Donne l'indice qui t'aide.
 
-### DEV08
-
-1. **DEV08-01** « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
+### Devoir 8
+1. « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
    Que vont faire les élèves ? Donne l'indice qui t'aide.
 
-2. **DEV08-02** « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
+2. « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-3. **DEV08-03** « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
+3. « Léo ouvre le four avec un gant. Une bonne odeur de pain emplit la cuisine. »
    Qu'est-ce qui vient de cuire ? Donne l'indice qui t'aide.
 
-4. **DEV08-04** « Le serveur apporte les menus, puis pose une carafe sur la table. »
+4. « Le serveur apporte les menus, puis pose une carafe sur la table. »
    Où se déroule la scène ? Donne l'indice qui t'aide.
 
-5. **DEV08-05** « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
+5. « Un instant passe. Ali pose les assiettes, les verres et les couverts autour de la table. »
    Que prépare Ali ? Donne l'indice qui t'aide.
 
-### DEV09
-
-1. **DEV09-01** « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+### Devoir 9
+1. « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-2. **DEV09-02** « Nora chuchote entre les rayonnages et choisit deux romans. »
+2. « Nora chuchote entre les rayonnages et choisit deux romans. »
    Où se trouve Nora ? Donne l'indice qui t'aide.
 
-3. **DEV09-03** « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
+3. « Aya colle un timbre, écrit une adresse et ferme l'enveloppe. »
    Que prépare Aya ? Donne l'indice qui t'aide.
 
-4. **DEV09-04** « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
+4. « La maîtresse distribue les feuilles. Un instant passe. Les élèves prennent leur crayon et le silence se fait. »
    Que vont faire les élèves ? Donne l'indice qui t'aide.
 
-5. **DEV09-05** « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
+5. « Lina entre en classe avec son parapluie mouillé. Des gouttes brillent sur son manteau. »
    Quel temps fait-il dehors ? Donne l'indice qui t'aide.
 
-### DEV10
-
-1. **DEV10-01** « Hugo gratte le pare-brise blanc avant de démarrer. »
+### Devoir 10
+1. « Hugo gratte le pare-brise blanc avant de démarrer. »
    A-t-il fait froid ? Donne l'indice qui t'aide.
 
-2. **DEV10-02** « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
+2. « Tom enfile un casque, monte en selle et pose les pieds sur les pédales. »
    Quel véhicule va-t-il utiliser ? Donne l'indice qui t'aide.
 
-3. **DEV10-03** « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
+3. « Les spectateurs s'installent. Un instant passe. La lumière s'éteint et le rideau se lève. »
    Que vont-ils regarder ? Donne l'indice qui t'aide.
 
-4. **DEV10-04** « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
+4. « Noé souffle les bougies pendant que ses amis chantent autour du gâteau. »
    Que fête Noé ? Donne l'indice qui t'aide.
 
-5. **DEV10-05** « Nora chuchote entre les rayonnages et choisit deux romans. »
+5. « Nora chuchote entre les rayonnages et choisit deux romans. »
    Où se trouve Nora ? Donne l'indice qui t'aide.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** Il pleut. Indice attendu : un détail cohérent du texte.
-2. **IMM02** Son anniversaire. Indice attendu : un détail cohérent du texte.
-3. **IMM03** La natation. Indice attendu : un détail cohérent du texte.
-4. **IMM04** En automne. Indice attendu : un détail cohérent du texte.
-5. **IMM05** Une lettre. Indice attendu : un détail cohérent du texte.
-6. **IMM06** Oui. Indice attendu : un détail cohérent du texte.
-7. **IMM07** Du pain. Indice attendu : un détail cohérent du texte.
+1. Il pleut. Indice attendu : un détail cohérent du texte.
+2. Son anniversaire. Indice attendu : un détail cohérent du texte.
+3. La natation. Indice attendu : un détail cohérent du texte.
+4. En automne. Indice attendu : un détail cohérent du texte.
+5. Une lettre. Indice attendu : un détail cohérent du texte.
+6. Oui. Indice attendu : un détail cohérent du texte.
+7. Du pain. Indice attendu : un détail cohérent du texte.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. Il pleut. Indice attendu : un détail cohérent du texte.
+2. Son anniversaire. Indice attendu : un détail cohérent du texte.
+3. La natation. Indice attendu : un détail cohérent du texte.
+4. En automne. Indice attendu : un détail cohérent du texte.
+5. Une lettre. Indice attendu : un détail cohérent du texte.
 
-1. **ENT01-01** Il pleut. Indice attendu : un détail cohérent du texte.
-2. **ENT01-02** Son anniversaire. Indice attendu : un détail cohérent du texte.
-3. **ENT01-03** La natation. Indice attendu : un détail cohérent du texte.
-4. **ENT01-04** En automne. Indice attendu : un détail cohérent du texte.
-5. **ENT01-05** Une lettre. Indice attendu : un détail cohérent du texte.
+#### Entraînement 2
+1. Oui. Indice attendu : un détail cohérent du texte.
+2. Du pain. Indice attendu : un détail cohérent du texte.
+3. Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
+4. Oui, il a gelé. Indice attendu : un détail cohérent du texte.
+5. Un chien. Indice attendu : un détail cohérent du texte.
 
-#### ENT02
+#### Entraînement 3
+1. Dans une tente. Indice attendu : un détail cohérent du texte.
+2. La récréation. Indice attendu : un détail cohérent du texte.
+3. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+4. Une lettre. Indice attendu : un détail cohérent du texte.
+5. Un vélo. Indice attendu : un détail cohérent du texte.
 
-1. **ENT02-01** Oui. Indice attendu : un détail cohérent du texte.
-2. **ENT02-02** Du pain. Indice attendu : un détail cohérent du texte.
-3. **ENT02-03** Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
-4. **ENT02-04** Oui, il a gelé. Indice attendu : un détail cohérent du texte.
-5. **ENT02-05** Un chien. Indice attendu : un détail cohérent du texte.
+#### Entraînement 4
+1. Un spectacle. Indice attendu : un détail cohérent du texte.
+2. À la plage. Indice attendu : un détail cohérent du texte.
+3. S'arrêter en gare. Indice attendu : un détail cohérent du texte.
+4. Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
+5. Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
 
-#### ENT03
+#### Entraînement 5
+1. Il pleut. Indice attendu : un détail cohérent du texte.
+2. Son anniversaire. Indice attendu : un détail cohérent du texte.
+3. La natation. Indice attendu : un détail cohérent du texte.
+4. En automne. Indice attendu : un détail cohérent du texte.
+5. Une lettre. Indice attendu : un détail cohérent du texte.
 
-1. **ENT03-01** Dans une tente. Indice attendu : un détail cohérent du texte.
-2. **ENT03-02** La récréation. Indice attendu : un détail cohérent du texte.
-3. **ENT03-03** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-4. **ENT03-04** Une lettre. Indice attendu : un détail cohérent du texte.
-5. **ENT03-05** Un vélo. Indice attendu : un détail cohérent du texte.
+#### Entraînement 6
+1. Oui. Indice attendu : un détail cohérent du texte.
+2. Du pain. Indice attendu : un détail cohérent du texte.
+3. Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
+4. Oui, il a gelé. Indice attendu : un détail cohérent du texte.
+5. Un chien. Indice attendu : un détail cohérent du texte.
 
-#### ENT04
+#### Entraînement 7
+1. Dans une tente. Indice attendu : un détail cohérent du texte.
+2. La récréation. Indice attendu : un détail cohérent du texte.
+3. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+4. Une lettre. Indice attendu : un détail cohérent du texte.
+5. Un vélo. Indice attendu : un détail cohérent du texte.
 
-1. **ENT04-01** Un spectacle. Indice attendu : un détail cohérent du texte.
-2. **ENT04-02** À la plage. Indice attendu : un détail cohérent du texte.
-3. **ENT04-03** S'arrêter en gare. Indice attendu : un détail cohérent du texte.
-4. **ENT04-04** Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
-5. **ENT04-05** Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
+#### Entraînement 8
+1. Un spectacle. Indice attendu : un détail cohérent du texte.
+2. À la plage. Indice attendu : un détail cohérent du texte.
+3. S'arrêter en gare. Indice attendu : un détail cohérent du texte.
+4. Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
+5. Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
 
-#### ENT05
+#### Entraînement 9
+1. Il pleut. Indice attendu : un détail cohérent du texte.
+2. Son anniversaire. Indice attendu : un détail cohérent du texte.
+3. La natation. Indice attendu : un détail cohérent du texte.
+4. En automne. Indice attendu : un détail cohérent du texte.
+5. Une lettre. Indice attendu : un détail cohérent du texte.
 
-1. **ENT05-01** Il pleut. Indice attendu : un détail cohérent du texte.
-2. **ENT05-02** Son anniversaire. Indice attendu : un détail cohérent du texte.
-3. **ENT05-03** La natation. Indice attendu : un détail cohérent du texte.
-4. **ENT05-04** En automne. Indice attendu : un détail cohérent du texte.
-5. **ENT05-05** Une lettre. Indice attendu : un détail cohérent du texte.
-
-#### ENT06
-
-1. **ENT06-01** Oui. Indice attendu : un détail cohérent du texte.
-2. **ENT06-02** Du pain. Indice attendu : un détail cohérent du texte.
-3. **ENT06-03** Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
-4. **ENT06-04** Oui, il a gelé. Indice attendu : un détail cohérent du texte.
-5. **ENT06-05** Un chien. Indice attendu : un détail cohérent du texte.
-
-#### ENT07
-
-1. **ENT07-01** Dans une tente. Indice attendu : un détail cohérent du texte.
-2. **ENT07-02** La récréation. Indice attendu : un détail cohérent du texte.
-3. **ENT07-03** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-4. **ENT07-04** Une lettre. Indice attendu : un détail cohérent du texte.
-5. **ENT07-05** Un vélo. Indice attendu : un détail cohérent du texte.
-
-#### ENT08
-
-1. **ENT08-01** Un spectacle. Indice attendu : un détail cohérent du texte.
-2. **ENT08-02** À la plage. Indice attendu : un détail cohérent du texte.
-3. **ENT08-03** S'arrêter en gare. Indice attendu : un détail cohérent du texte.
-4. **ENT08-04** Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
-5. **ENT08-05** Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
-
-#### ENT09
-
-1. **ENT09-01** Il pleut. Indice attendu : un détail cohérent du texte.
-2. **ENT09-02** Son anniversaire. Indice attendu : un détail cohérent du texte.
-3. **ENT09-03** La natation. Indice attendu : un détail cohérent du texte.
-4. **ENT09-04** En automne. Indice attendu : un détail cohérent du texte.
-5. **ENT09-05** Une lettre. Indice attendu : un détail cohérent du texte.
-
-#### ENT10
-
-1. **ENT10-01** Oui. Indice attendu : un détail cohérent du texte.
-2. **ENT10-02** Du pain. Indice attendu : un détail cohérent du texte.
-3. **ENT10-03** Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
-4. **ENT10-04** Oui, il a gelé. Indice attendu : un détail cohérent du texte.
-5. **ENT10-05** Un chien. Indice attendu : un détail cohérent du texte.
+#### Entraînement 10
+1. Oui. Indice attendu : un détail cohérent du texte.
+2. Du pain. Indice attendu : un détail cohérent du texte.
+3. Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
+4. Oui, il a gelé. Indice attendu : un détail cohérent du texte.
+5. Un chien. Indice attendu : un détail cohérent du texte.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. Dans une tente. Indice attendu : un détail cohérent du texte.
+2. Son anniversaire. Indice attendu : un détail cohérent du texte.
+3. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+4. En automne. Indice attendu : un détail cohérent du texte.
+5. Il neige ; indice : les flocons et les gants. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-1. **EVAL01-01** Dans une tente. Indice attendu : un détail cohérent du texte.
-2. **EVAL01-02** Son anniversaire. Indice attendu : un détail cohérent du texte.
-3. **EVAL01-03** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-4. **EVAL01-04** En automne. Indice attendu : un détail cohérent du texte.
-5. **EVAL01-05** Il neige ; indice : les flocons et les gants. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
+#### Évaluation 2
+1. La récréation. Indice attendu : un détail cohérent du texte.
+2. La natation. Indice attendu : un détail cohérent du texte.
+3. Une lettre. Indice attendu : un détail cohérent du texte.
+4. Une lettre. Indice attendu : un détail cohérent du texte.
+5. À la plage ; indice : les vagues, le coquillage ou le sable. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-#### EVAL02
+#### Évaluation 3
+1. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+2. En automne. Indice attendu : un détail cohérent du texte.
+3. Un vélo. Indice attendu : un détail cohérent du texte.
+4. Il pleut. Indice attendu : un détail cohérent du texte.
+5. Dans un avion ; indice : le pilote et le décollage. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-1. **EVAL02-01** La récréation. Indice attendu : un détail cohérent du texte.
-2. **EVAL02-02** La natation. Indice attendu : un détail cohérent du texte.
-3. **EVAL02-03** Une lettre. Indice attendu : un détail cohérent du texte.
-4. **EVAL02-04** Une lettre. Indice attendu : un détail cohérent du texte.
-5. **EVAL02-05** À la plage ; indice : les vagues, le coquillage ou le sable. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
+#### Évaluation 4
+1. Une lettre. Indice attendu : un détail cohérent du texte.
+2. Une lettre. Indice attendu : un détail cohérent du texte.
+3. Dans une tente. Indice attendu : un détail cohérent du texte.
+4. Son anniversaire. Indice attendu : un détail cohérent du texte.
+5. Une coupure de courant ; indice : la maison sombre et la bougie. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-#### EVAL03
+#### Évaluation 5
+1. Un vélo. Indice attendu : un détail cohérent du texte.
+2. Il pleut. Indice attendu : un détail cohérent du texte.
+3. La récréation. Indice attendu : un détail cohérent du texte.
+4. La natation. Indice attendu : un détail cohérent du texte.
+5. À la bibliothèque ; indice : elle rend un livre et montre sa carte. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-1. **EVAL03-01** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-2. **EVAL03-02** En automne. Indice attendu : un détail cohérent du texte.
-3. **EVAL03-03** Un vélo. Indice attendu : un détail cohérent du texte.
-4. **EVAL03-04** Il pleut. Indice attendu : un détail cohérent du texte.
-5. **EVAL03-05** Dans un avion ; indice : le pilote et le décollage. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
+#### Évaluation 6
+1. Dans une tente. Indice attendu : un détail cohérent du texte.
+2. Son anniversaire. Indice attendu : un détail cohérent du texte.
+3. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+4. En automne. Indice attendu : un détail cohérent du texte.
+5. Dans un magasin ; indice : le chariot et les rayons. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-#### EVAL04
+#### Évaluation 7
+1. La récréation. Indice attendu : un détail cohérent du texte.
+2. La natation. Indice attendu : un détail cohérent du texte.
+3. Une lettre. Indice attendu : un détail cohérent du texte.
+4. Une lettre. Indice attendu : un détail cohérent du texte.
+5. Une plante ; indice : la terre, la graine et l'eau. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-1. **EVAL04-01** Une lettre. Indice attendu : un détail cohérent du texte.
-2. **EVAL04-02** Une lettre. Indice attendu : un détail cohérent du texte.
-3. **EVAL04-03** Dans une tente. Indice attendu : un détail cohérent du texte.
-4. **EVAL04-04** Son anniversaire. Indice attendu : un détail cohérent du texte.
-5. **EVAL04-05** Une coupure de courant ; indice : la maison sombre et la bougie. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
+#### Évaluation 8
+1. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+2. En automne. Indice attendu : un détail cohérent du texte.
+3. Un vélo. Indice attendu : un détail cohérent du texte.
+4. Il pleut. Indice attendu : un détail cohérent du texte.
+5. Dans un train ; indice : le contrôleur, l'allée ou les arbres qui défilent. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-#### EVAL05
+#### Évaluation 9
+1. Une lettre. Indice attendu : un détail cohérent du texte.
+2. Une lettre. Indice attendu : un détail cohérent du texte.
+3. Dans une tente. Indice attendu : un détail cohérent du texte.
+4. Son anniversaire. Indice attendu : un détail cohérent du texte.
+5. Un gâteau ou une pâte ; indice : le tablier, la farine, les œufs et le saladier. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
-1. **EVAL05-01** Un vélo. Indice attendu : un détail cohérent du texte.
-2. **EVAL05-02** Il pleut. Indice attendu : un détail cohérent du texte.
-3. **EVAL05-03** La récréation. Indice attendu : un détail cohérent du texte.
-4. **EVAL05-04** La natation. Indice attendu : un détail cohérent du texte.
-5. **EVAL05-05** À la bibliothèque ; indice : elle rend un livre et montre sa carte. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
-
-#### EVAL06
-
-1. **EVAL06-01** Dans une tente. Indice attendu : un détail cohérent du texte.
-2. **EVAL06-02** Son anniversaire. Indice attendu : un détail cohérent du texte.
-3. **EVAL06-03** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-4. **EVAL06-04** En automne. Indice attendu : un détail cohérent du texte.
-5. **EVAL06-05** Dans un magasin ; indice : le chariot et les rayons. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
-
-#### EVAL07
-
-1. **EVAL07-01** La récréation. Indice attendu : un détail cohérent du texte.
-2. **EVAL07-02** La natation. Indice attendu : un détail cohérent du texte.
-3. **EVAL07-03** Une lettre. Indice attendu : un détail cohérent du texte.
-4. **EVAL07-04** Une lettre. Indice attendu : un détail cohérent du texte.
-5. **EVAL07-05** Une plante ; indice : la terre, la graine et l'eau. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
-
-#### EVAL08
-
-1. **EVAL08-01** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-2. **EVAL08-02** En automne. Indice attendu : un détail cohérent du texte.
-3. **EVAL08-03** Un vélo. Indice attendu : un détail cohérent du texte.
-4. **EVAL08-04** Il pleut. Indice attendu : un détail cohérent du texte.
-5. **EVAL08-05** Dans un train ; indice : le contrôleur, l'allée ou les arbres qui défilent. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
-
-#### EVAL09
-
-1. **EVAL09-01** Une lettre. Indice attendu : un détail cohérent du texte.
-2. **EVAL09-02** Une lettre. Indice attendu : un détail cohérent du texte.
-3. **EVAL09-03** Dans une tente. Indice attendu : un détail cohérent du texte.
-4. **EVAL09-04** Son anniversaire. Indice attendu : un détail cohérent du texte.
-5. **EVAL09-05** Un gâteau ou une pâte ; indice : le tablier, la farine, les œufs et le saladier. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
-
-#### EVAL10
-
-1. **EVAL10-01** Un vélo. Indice attendu : un détail cohérent du texte.
-2. **EVAL10-02** Il pleut. Indice attendu : un détail cohérent du texte.
-3. **EVAL10-03** La récréation. Indice attendu : un détail cohérent du texte.
-4. **EVAL10-04** La natation. Indice attendu : un détail cohérent du texte.
-5. **EVAL10-05** Dans un aéroport ; indice : le numéro du vol ou la porte d'embarquement. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
+#### Évaluation 10
+1. Un vélo. Indice attendu : un détail cohérent du texte.
+2. Il pleut. Indice attendu : un détail cohérent du texte.
+3. La récréation. Indice attendu : un détail cohérent du texte.
+4. La natation. Indice attendu : un détail cohérent du texte.
+5. Dans un aéroport ; indice : le numéro du vol ou la porte d'embarquement. Accepter toute réponse équivalente appuyée sur au moins un indice prévu.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. Il pleut. Indice attendu : un détail cohérent du texte.
+2. Du pain. Indice attendu : un détail cohérent du texte.
+3. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+4. Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
+5. Une lettre. Indice attendu : un détail cohérent du texte.
 
-1. **DEV01-01** Il pleut. Indice attendu : un détail cohérent du texte.
-2. **DEV01-02** Du pain. Indice attendu : un détail cohérent du texte.
-3. **DEV01-03** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-4. **DEV01-04** Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
-5. **DEV01-05** Une lettre. Indice attendu : un détail cohérent du texte.
+#### Devoir 2
+1. Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
+2. Une lettre. Indice attendu : un détail cohérent du texte.
+3. Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
+4. Il pleut. Indice attendu : un détail cohérent du texte.
+5. Du pain. Indice attendu : un détail cohérent du texte.
 
-#### DEV02
+#### Devoir 3
+1. Un vélo. Indice attendu : un détail cohérent du texte.
+2. Un spectacle. Indice attendu : un détail cohérent du texte.
+3. Son anniversaire. Indice attendu : un détail cohérent du texte.
+4. Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
+5. Une lettre. Indice attendu : un détail cohérent du texte.
 
-1. **DEV02-01** Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
-2. **DEV02-02** Une lettre. Indice attendu : un détail cohérent du texte.
-3. **DEV02-03** Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
-4. **DEV02-04** Il pleut. Indice attendu : un détail cohérent du texte.
-5. **DEV02-05** Du pain. Indice attendu : un détail cohérent du texte.
+#### Devoir 4
+1. À la plage. Indice attendu : un détail cohérent du texte.
+2. La natation. Indice attendu : un détail cohérent du texte.
+3. Oui, il a gelé. Indice attendu : un détail cohérent du texte.
+4. Un vélo. Indice attendu : un détail cohérent du texte.
+5. Un spectacle. Indice attendu : un détail cohérent du texte.
 
-#### DEV03
+#### Devoir 5
+1. En automne. Indice attendu : un détail cohérent du texte.
+2. Un chien. Indice attendu : un détail cohérent du texte.
+3. Dans une tente. Indice attendu : un détail cohérent du texte.
+4. À la plage. Indice attendu : un détail cohérent du texte.
+5. La natation. Indice attendu : un détail cohérent du texte.
 
-1. **DEV03-01** Un vélo. Indice attendu : un détail cohérent du texte.
-2. **DEV03-02** Un spectacle. Indice attendu : un détail cohérent du texte.
-3. **DEV03-03** Son anniversaire. Indice attendu : un détail cohérent du texte.
-4. **DEV03-04** Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
-5. **DEV03-05** Une lettre. Indice attendu : un détail cohérent du texte.
+#### Devoir 6
+1. Oui. Indice attendu : un détail cohérent du texte.
+2. La récréation. Indice attendu : un détail cohérent du texte.
+3. S'arrêter en gare. Indice attendu : un détail cohérent du texte.
+4. En automne. Indice attendu : un détail cohérent du texte.
+5. Un chien. Indice attendu : un détail cohérent du texte.
 
-#### DEV04
+#### Devoir 7
+1. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+2. Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
+3. Une lettre. Indice attendu : un détail cohérent du texte.
+4. Oui. Indice attendu : un détail cohérent du texte.
+5. La récréation. Indice attendu : un détail cohérent du texte.
 
-1. **DEV04-01** À la plage. Indice attendu : un détail cohérent du texte.
-2. **DEV04-02** La natation. Indice attendu : un détail cohérent du texte.
-3. **DEV04-03** Oui, il a gelé. Indice attendu : un détail cohérent du texte.
-4. **DEV04-04** Un vélo. Indice attendu : un détail cohérent du texte.
-5. **DEV04-05** Un spectacle. Indice attendu : un détail cohérent du texte.
+#### Devoir 8
+1. Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
+2. Il pleut. Indice attendu : un détail cohérent du texte.
+3. Du pain. Indice attendu : un détail cohérent du texte.
+4. Dans un restaurant. Indice attendu : un détail cohérent du texte.
+5. Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
 
-#### DEV05
+#### Devoir 9
+1. Son anniversaire. Indice attendu : un détail cohérent du texte.
+2. Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
+3. Une lettre. Indice attendu : un détail cohérent du texte.
+4. Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
+5. Il pleut. Indice attendu : un détail cohérent du texte.
 
-1. **DEV05-01** En automne. Indice attendu : un détail cohérent du texte.
-2. **DEV05-02** Un chien. Indice attendu : un détail cohérent du texte.
-3. **DEV05-03** Dans une tente. Indice attendu : un détail cohérent du texte.
-4. **DEV05-04** À la plage. Indice attendu : un détail cohérent du texte.
-5. **DEV05-05** La natation. Indice attendu : un détail cohérent du texte.
-
-#### DEV06
-
-1. **DEV06-01** Oui. Indice attendu : un détail cohérent du texte.
-2. **DEV06-02** La récréation. Indice attendu : un détail cohérent du texte.
-3. **DEV06-03** S'arrêter en gare. Indice attendu : un détail cohérent du texte.
-4. **DEV06-04** En automne. Indice attendu : un détail cohérent du texte.
-5. **DEV06-05** Un chien. Indice attendu : un détail cohérent du texte.
-
-#### DEV07
-
-1. **DEV07-01** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-2. **DEV07-02** Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
-3. **DEV07-03** Une lettre. Indice attendu : un détail cohérent du texte.
-4. **DEV07-04** Oui. Indice attendu : un détail cohérent du texte.
-5. **DEV07-05** La récréation. Indice attendu : un détail cohérent du texte.
-
-#### DEV08
-
-1. **DEV08-01** Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
-2. **DEV08-02** Il pleut. Indice attendu : un détail cohérent du texte.
-3. **DEV08-03** Du pain. Indice attendu : un détail cohérent du texte.
-4. **DEV08-04** Dans un restaurant. Indice attendu : un détail cohérent du texte.
-5. **DEV08-05** Le repas ou la table pour manger. Indice attendu : un détail cohérent du texte.
-
-#### DEV09
-
-1. **DEV09-01** Son anniversaire. Indice attendu : un détail cohérent du texte.
-2. **DEV09-02** Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
-3. **DEV09-03** Une lettre. Indice attendu : un détail cohérent du texte.
-4. **DEV09-04** Un travail écrit ou un exercice. Indice attendu : un détail cohérent du texte.
-5. **DEV09-05** Il pleut. Indice attendu : un détail cohérent du texte.
-
-#### DEV10
-
-1. **DEV10-01** Oui, il a gelé. Indice attendu : un détail cohérent du texte.
-2. **DEV10-02** Un vélo. Indice attendu : un détail cohérent du texte.
-3. **DEV10-03** Un spectacle. Indice attendu : un détail cohérent du texte.
-4. **DEV10-04** Son anniversaire. Indice attendu : un détail cohérent du texte.
-5. **DEV10-05** Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
+#### Devoir 10
+1. Oui, il a gelé. Indice attendu : un détail cohérent du texte.
+2. Un vélo. Indice attendu : un détail cohérent du texte.
+3. Un spectacle. Indice attendu : un détail cohérent du texte.
+4. Son anniversaire. Indice attendu : un détail cohérent du texte.
+5. Dans une bibliothèque. Indice attendu : un détail cohérent du texte.
 
 ## Traçabilité des évaluations et devoirs
 

@@ -52,8 +52,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** **Adapté de Jean de La Fontaine, *Le Corbeau et le Renard*, livre I, fable 2 (texte modernisé et abrégé).** Après avoir laissé tomber son fromage, le corbeau baisse la tête tandis que le renard s'éloigne avec son butin.
 - **Source de consultation :** Bibliothèque nationale de France, Catalogue général/Gallica, Jean de La Fontaine, *Fables choisies, mises en vers par M. de La Fontaine*, édition H. Charpentier, 1709, [notice bibliographique exacte](https://catalogue.bnf.fr/ark:/12148/cb307158188).
 - **Question :** Que peut ressentir le corbeau ? Explique avec un indice.
@@ -62,8 +61,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** Du regret, de la honte ou de la tristesse ; indice : il a perdu son fromage et baisse la tête. Accepter toute émotion proche correctement justifiée.
 - **Contrôle final :** La réponse est confrontée mot à mot au support.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
 - **Question :** Que ressent Lina ? Explique avec un indice du texte.
 - **Attention :** L'enseignant demande : « Que cherchons-nous ? Quels mots du texte nous aident ? »
@@ -71,8 +69,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
 - **Contrôle final :** La classe vérifie que la réponse utilise bien l'indice retenu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** « Noé recule devant le chien qui grogne et se place derrière son père. »
 - **Question :** Que ressent Noé ? Explique avec un indice du texte.
 - **Attention :** Les élèves choisissent les indices ; l'enseignant ne relance qu'avec : « Comment peux-tu le vérifier ? »
@@ -84,25 +81,25 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Textes créés pour l'exercice.*
 
-1. **IMM01** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+1. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-2. **IMM02** « Noé recule devant le chien qui grogne et se place derrière son père. »
+2. « Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-3. **IMM03** « Maya lève les bras en découvrant qu'elle a gagné la course. »
+3. « Maya lève les bras en découvrant qu'elle a gagné la course. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-4. **IMM04** « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
+4. « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
    Que veut Sami ? Explique avec un indice du texte.
 
-5. **IMM05** « Inès relit sa poésie et la récite encore devant le miroir. »
+5. « Inès relit sa poésie et la récite encore devant le miroir. »
    Que veut Inès ? Explique avec un indice du texte.
 
-6. **IMM06** « Léo fronce les sourcils : son frère a pris sa place sans demander. »
+6. « Léo fronce les sourcils : son frère a pris sa place sans demander. »
    Que ressent Léo ? Explique avec un indice du texte.
 
-7. **IMM07** « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
+7. « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
    Que ressent Nora ? Explique avec un indice du texte.
 
 ## Variables didactiques
@@ -115,781 +112,721 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Tous les supports de cette section sont des textes créés pour l'exercice. La consigne reste : « Lis le petit texte. Réponds à la question et vérifie dans le texte. »*
 
-### ENT01
-
-1. **ENT01-01** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+### Entraînement 1
+1. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-2. **ENT01-02** « Noé recule devant le chien qui grogne et se place derrière son père. »
+2. « Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-3. **ENT01-03** « Maya lève les bras en découvrant qu'elle a gagné la course. »
+3. « Maya lève les bras en découvrant qu'elle a gagné la course. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-4. **ENT01-04** « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
+4. « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
    Que veut Sami ? Explique avec un indice du texte.
 
-5. **ENT01-05** « Inès relit sa poésie et la récite encore devant le miroir. »
+5. « Inès relit sa poésie et la récite encore devant le miroir. »
    Que veut Inès ? Explique avec un indice du texte.
 
-### ENT02
-
-1. **ENT02-01** « Léo fronce les sourcils : son frère a pris sa place sans demander. »
+### Entraînement 2
+1. « Léo fronce les sourcils : son frère a pris sa place sans demander. »
    Que ressent Léo ? Explique avec un indice du texte.
 
-2. **ENT02-02** « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
+2. « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
    Que ressent Nora ? Explique avec un indice du texte.
 
-3. **ENT02-03** « Hugo cache la carte derrière son dos quand sa mère entre. »
+3. « Hugo cache la carte derrière son dos quand sa mère entre. »
    Que veut Hugo ? Explique avec un indice du texte.
 
-4. **ENT02-04** « Zoé tend son goûter à l'enfant qui n'en a pas. »
+4. « Zoé tend son goûter à l'enfant qui n'en a pas. »
    Que veut Zoé ? Explique avec un indice du texte.
 
-5. **ENT02-05** « Adam vérifie deux fois la fermeture de la cage avant de sortir. »
+5. « Adam vérifie deux fois la fermeture de la cage avant de sortir. »
    Que veut Adam ? Explique avec un indice du texte.
 
-### ENT03
-
-1. **ENT03-01** « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
+### Entraînement 3
+1. « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
    Que ressent Lou ? Explique avec un indice du texte.
 
-2. **ENT03-02** « Émile applaudit très fort quand sa sœur termine son spectacle. »
+2. « Émile applaudit très fort quand sa sœur termine son spectacle. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-3. **ENT03-03** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
+3. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
    Que veut Aya ? Explique avec un indice du texte.
 
-4. **ENT03-04** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
+4. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-5. **ENT03-05** « Eva place son dessin bien en vue avant l'arrivée de son père. »
+5. « Eva place son dessin bien en vue avant l'arrivée de son père. »
    Que veut Eva ? Explique avec un indice du texte.
 
-### ENT04
-
-1. **ENT04-01** « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
+### Entraînement 4
+1. « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
    Que ressent Ali ? Explique avec un indice du texte.
 
-2. **ENT04-02** « Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. Un instant passe. »
+2. « Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. Un instant passe. »
    Que veut Ana ? Explique avec un indice du texte.
 
-3. **ENT04-03** « Paul compte les minutes avant le départ et regarde sans cesse par la fenêtre. Un instant passe. »
+3. « Paul compte les minutes avant le départ et regarde sans cesse par la fenêtre. Un instant passe. »
    Que ressent Paul ? Explique avec un indice du texte.
 
-4. **ENT04-04** « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
+4. « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
    Que veut Iris ? Explique avec un indice du texte.
 
-5. **ENT04-05** « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
+5. « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
    Que veut Yanis ? Explique avec un indice du texte.
 
-### ENT05
-
-1. **ENT05-01** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. Un instant passe. »
+### Entraînement 5
+1. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. Un instant passe. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-2. **ENT05-02** « Noé recule devant le chien qui grogne et se place derrière son père. Un instant passe. »
+2. « Noé recule devant le chien qui grogne et se place derrière son père. Un instant passe. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-3. **ENT05-03** « Maya lève les bras en découvrant qu'elle a gagné la course. Un instant passe. »
+3. « Maya lève les bras en découvrant qu'elle a gagné la course. Un instant passe. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-4. **ENT05-04** « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. Un instant passe. »
+4. « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. Un instant passe. »
    Que veut Sami ? Explique avec un indice du texte.
 
-5. **ENT05-05** « Inès relit sa poésie et la récite encore devant le miroir. Un instant passe. »
+5. « Inès relit sa poésie et la récite encore devant le miroir. Un instant passe. »
    Que veut Inès ? Explique avec un indice du texte.
 
-### ENT06
-
-1. **ENT06-01** « Léo fronce les sourcils : son frère a pris sa place sans demander. Un instant passe. »
+### Entraînement 6
+1. « Léo fronce les sourcils : son frère a pris sa place sans demander. Un instant passe. »
    Que ressent Léo ? Explique avec un indice du texte.
 
-2. **ENT06-02** « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. Un instant passe. »
+2. « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. Un instant passe. »
    Que ressent Nora ? Explique avec un indice du texte.
 
-3. **ENT06-03** « Hugo cache la carte derrière son dos quand sa mère entre. Un instant passe. »
+3. « Hugo cache la carte derrière son dos quand sa mère entre. Un instant passe. »
    Que veut Hugo ? Explique avec un indice du texte.
 
-4. **ENT06-04** « Zoé tend son goûter à l'enfant qui n'en a pas. Un instant passe. »
+4. « Zoé tend son goûter à l'enfant qui n'en a pas. Un instant passe. »
    Que veut Zoé ? Explique avec un indice du texte.
 
-5. **ENT06-05** « Adam vérifie deux fois la fermeture de la cage avant de sortir. Un instant passe. »
+5. « Adam vérifie deux fois la fermeture de la cage avant de sortir. Un instant passe. »
    Que veut Adam ? Explique avec un indice du texte.
 
-### ENT07
-
-1. **ENT07-01** « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. Un instant passe. »
+### Entraînement 7
+1. « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. Un instant passe. »
    Que ressent Lou ? Explique avec un indice du texte.
 
-2. **ENT07-02** « Émile applaudit très fort quand sa sœur termine son spectacle. Un instant passe. »
+2. « Émile applaudit très fort quand sa sœur termine son spectacle. Un instant passe. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-3. **ENT07-03** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. Un instant passe. »
+3. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. Un instant passe. »
    Que veut Aya ? Explique avec un indice du texte.
 
-4. **ENT07-04** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. Un instant passe. »
+4. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. Un instant passe. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-5. **ENT07-05** « Eva place son dessin bien en vue avant l'arrivée de son père. Un instant passe. »
+5. « Eva place son dessin bien en vue avant l'arrivée de son père. Un instant passe. »
    Que veut Eva ? Explique avec un indice du texte.
 
-### ENT08
-
-1. **ENT08-01** « Une cloche sonne au loin. Ali serre les poings quand un joueur se moque de son équipe. »
+### Entraînement 8
+1. « Une cloche sonne au loin. Ali serre les poings quand un joueur se moque de son équipe. »
    Que ressent Ali ? Explique avec un indice du texte.
 
-2. **ENT08-02** « Une cloche sonne au loin. Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. »
+2. « Une cloche sonne au loin. Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. »
    Que veut Ana ? Explique avec un indice du texte.
 
-3. **ENT08-03** « Une cloche sonne au loin. Paul compte les minutes avant le départ et regarde sans cesse par la fenêtre. »
+3. « Une cloche sonne au loin. Paul compte les minutes avant le départ et regarde sans cesse par la fenêtre. »
    Que ressent Paul ? Explique avec un indice du texte.
 
-4. **ENT08-04** « Une cloche sonne au loin. Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. »
+4. « Une cloche sonne au loin. Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. »
    Que veut Iris ? Explique avec un indice du texte.
 
-5. **ENT08-05** « Une cloche sonne au loin. Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. »
+5. « Une cloche sonne au loin. Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. »
    Que veut Yanis ? Explique avec un indice du texte.
 
-### ENT09
-
-1. **ENT09-01** « Une cloche sonne au loin. Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+### Entraînement 9
+1. « Une cloche sonne au loin. Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-2. **ENT09-02** « Une cloche sonne au loin. Noé recule devant le chien qui grogne et se place derrière son père. »
+2. « Une cloche sonne au loin. Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-3. **ENT09-03** « Une cloche sonne au loin. Maya lève les bras en découvrant qu'elle a gagné la course. »
+3. « Une cloche sonne au loin. Maya lève les bras en découvrant qu'elle a gagné la course. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-4. **ENT09-04** « Une cloche sonne au loin. Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
+4. « Une cloche sonne au loin. Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
    Que veut Sami ? Explique avec un indice du texte.
 
-5. **ENT09-05** « Une cloche sonne au loin. Inès relit sa poésie et la récite encore devant le miroir. »
+5. « Une cloche sonne au loin. Inès relit sa poésie et la récite encore devant le miroir. »
    Que veut Inès ? Explique avec un indice du texte.
 
-### ENT10
-
-1. **ENT10-01** « Une cloche sonne au loin. Léo fronce les sourcils : son frère a pris sa place sans demander. »
+### Entraînement 10
+1. « Une cloche sonne au loin. Léo fronce les sourcils : son frère a pris sa place sans demander. »
    Que ressent Léo ? Explique avec un indice du texte.
 
-2. **ENT10-02** « Une cloche sonne au loin. Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
+2. « Une cloche sonne au loin. Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
    Que ressent Nora ? Explique avec un indice du texte.
 
-3. **ENT10-03** « Une cloche sonne au loin. Hugo cache la carte derrière son dos quand sa mère entre. »
+3. « Une cloche sonne au loin. Hugo cache la carte derrière son dos quand sa mère entre. »
    Que veut Hugo ? Explique avec un indice du texte.
 
-4. **ENT10-04** « Une cloche sonne au loin. Zoé tend son goûter à l'enfant qui n'en a pas. »
+4. « Une cloche sonne au loin. Zoé tend son goûter à l'enfant qui n'en a pas. »
    Que veut Zoé ? Explique avec un indice du texte.
 
-5. **ENT10-05** « Une cloche sonne au loin. Adam vérifie deux fois la fermeture de la cage avant de sortir. »
+5. « Une cloche sonne au loin. Adam vérifie deux fois la fermeture de la cage avant de sortir. »
    Que veut Adam ? Explique avec un indice du texte.
 
 ## Évaluations
 
 *Tous les supports sont créés pour l'exercice. Chaque forme comporte quatre items déjà entraînés et un item nouveau isomorphe ; les dix formes échantillonnent les mêmes niveaux de difficulté.*
 
-### EVAL01
-
-1. **EVAL01-01** « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
+### Évaluation 1
+1. « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
    Que ressent Lou ? Explique avec un indice du texte.
 
-2. **EVAL01-02** « Noé recule devant le chien qui grogne et se place derrière son père. Un instant passe. »
+2. « Noé recule devant le chien qui grogne et se place derrière son père. Un instant passe. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-3. **EVAL01-03** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. Un instant passe. »
+3. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. Un instant passe. »
    Que veut Aya ? Explique avec un indice du texte.
 
-4. **EVAL01-04** « Une cloche sonne au loin. Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
+4. « Une cloche sonne au loin. Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
    Que veut Sami ? Explique avec un indice du texte.
 
-5. **EVAL01-05** « Aya cache le cadeau et guette l'arrivée de sa sœur. »
+5. « Aya cache le cadeau et guette l'arrivée de sa sœur. »
    Que veut Aya ? Explique avec un indice.
 
-### EVAL02
-
-1. **EVAL02-01** « Émile applaudit très fort quand sa sœur termine son spectacle. »
+### Évaluation 2
+1. « Émile applaudit très fort quand sa sœur termine son spectacle. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-2. **EVAL02-02** « Maya lève les bras en découvrant qu'elle a gagné la course. Un instant passe. »
+2. « Maya lève les bras en découvrant qu'elle a gagné la course. Un instant passe. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-3. **EVAL02-03** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. Un instant passe. »
+3. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. Un instant passe. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-4. **EVAL02-04** « Une cloche sonne au loin. Inès relit sa poésie et la récite encore devant le miroir. »
+4. « Une cloche sonne au loin. Inès relit sa poésie et la récite encore devant le miroir. »
    Que veut Inès ? Explique avec un indice du texte.
 
-5. **EVAL02-05** « Tom retrouve son chien après une longue recherche et le serre dans ses bras. »
+5. « Tom retrouve son chien après une longue recherche et le serre dans ses bras. »
    Que ressent Tom ? Explique avec un indice.
 
-### EVAL03
-
-1. **EVAL03-01** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
+### Évaluation 3
+1. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
    Que veut Aya ? Explique avec un indice du texte.
 
-2. **EVAL03-02** « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. Un instant passe. »
+2. « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. Un instant passe. »
    Que veut Sami ? Explique avec un indice du texte.
 
-3. **EVAL03-03** « Eva place son dessin bien en vue avant l'arrivée de son père. Un instant passe. »
+3. « Eva place son dessin bien en vue avant l'arrivée de son père. Un instant passe. »
    Que veut Eva ? Explique avec un indice du texte.
 
-4. **EVAL03-04** « Une cloche sonne au loin. Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+4. « Une cloche sonne au loin. Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-5. **EVAL03-05** « Eva recommence son dessin trois fois pour que chaque détail soit juste. »
+5. « Eva recommence son dessin trois fois pour que chaque détail soit juste. »
    Que veut Eva ? Explique avec un indice.
 
-### EVAL04
-
-1. **EVAL04-01** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
+### Évaluation 4
+1. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-2. **EVAL04-02** « Inès relit sa poésie et la récite encore devant le miroir. Un instant passe. »
+2. « Inès relit sa poésie et la récite encore devant le miroir. Un instant passe. »
    Que veut Inès ? Explique avec un indice du texte.
 
-3. **EVAL04-03** « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. Un instant passe. »
+3. « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. Un instant passe. »
    Que ressent Lou ? Explique avec un indice du texte.
 
-4. **EVAL04-04** « Une cloche sonne au loin. Noé recule devant le chien qui grogne et se place derrière son père. »
+4. « Une cloche sonne au loin. Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-5. **EVAL04-05** « Ali reste seul pendant que les autres jouent sans l'appeler. Il baisse les yeux. »
+5. « Ali reste seul pendant que les autres jouent sans l'appeler. Il baisse les yeux. »
    Que ressent Ali ? Explique avec un indice.
 
-### EVAL05
-
-1. **EVAL05-01** « Eva place son dessin bien en vue avant l'arrivée de son père. »
+### Évaluation 5
+1. « Eva place son dessin bien en vue avant l'arrivée de son père. »
    Que veut Eva ? Explique avec un indice du texte.
 
-2. **EVAL05-02** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. Un instant passe. »
+2. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. Un instant passe. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-3. **EVAL05-03** « Émile applaudit très fort quand sa sœur termine son spectacle. Un instant passe. »
+3. « Émile applaudit très fort quand sa sœur termine son spectacle. Un instant passe. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-4. **EVAL05-04** « Une cloche sonne au loin. Maya lève les bras en découvrant qu'elle a gagné la course. »
+4. « Une cloche sonne au loin. Maya lève les bras en découvrant qu'elle a gagné la course. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-5. **EVAL05-05** « Ana prépare deux bols avant que son amie arrive. »
+5. « Ana prépare deux bols avant que son amie arrive. »
    Que veut Ana ? Explique avec un indice.
 
-### EVAL06
-
-1. **EVAL06-01** « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
+### Évaluation 6
+1. « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
    Que ressent Lou ? Explique avec un indice du texte.
 
-2. **EVAL06-02** « Noé recule devant le chien qui grogne et se place derrière son père. Un instant passe. »
+2. « Noé recule devant le chien qui grogne et se place derrière son père. Un instant passe. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-3. **EVAL06-03** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. Un instant passe. »
+3. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. Un instant passe. »
    Que veut Aya ? Explique avec un indice du texte.
 
-4. **EVAL06-04** « Une cloche sonne au loin. Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
+4. « Une cloche sonne au loin. Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
    Que veut Sami ? Explique avec un indice du texte.
 
-5. **EVAL06-05** « Paul recule en entendant le tonnerre et bouche ses oreilles. »
+5. « Paul recule en entendant le tonnerre et bouche ses oreilles. »
    Que ressent Paul ? Explique avec un indice.
 
-### EVAL07
-
-1. **EVAL07-01** « Émile applaudit très fort quand sa sœur termine son spectacle. »
+### Évaluation 7
+1. « Émile applaudit très fort quand sa sœur termine son spectacle. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-2. **EVAL07-02** « Maya lève les bras en découvrant qu'elle a gagné la course. Un instant passe. »
+2. « Maya lève les bras en découvrant qu'elle a gagné la course. Un instant passe. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-3. **EVAL07-03** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. Un instant passe. »
+3. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. Un instant passe. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-4. **EVAL07-04** « Une cloche sonne au loin. Inès relit sa poésie et la récite encore devant le miroir. »
+4. « Une cloche sonne au loin. Inès relit sa poésie et la récite encore devant le miroir. »
    Que veut Inès ? Explique avec un indice du texte.
 
-5. **EVAL07-05** « Iris range vite la cuisine avant le retour de ses parents. »
+5. « Iris range vite la cuisine avant le retour de ses parents. »
    Que veut Iris ? Explique avec un indice.
 
-### EVAL08
-
-1. **EVAL08-01** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
+### Évaluation 8
+1. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
    Que veut Aya ? Explique avec un indice du texte.
 
-2. **EVAL08-02** « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. Un instant passe. »
+2. « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. Un instant passe. »
    Que veut Sami ? Explique avec un indice du texte.
 
-3. **EVAL08-03** « Eva place son dessin bien en vue avant l'arrivée de son père. Un instant passe. »
+3. « Eva place son dessin bien en vue avant l'arrivée de son père. Un instant passe. »
    Que veut Eva ? Explique avec un indice du texte.
 
-4. **EVAL08-04** « Une cloche sonne au loin. Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+4. « Une cloche sonne au loin. Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-5. **EVAL08-05** « Yanis sourit en lisant le message de félicitations. »
+5. « Yanis sourit en lisant le message de félicitations. »
    Que ressent Yanis ? Explique avec un indice.
 
-### EVAL09
-
-1. **EVAL09-01** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
+### Évaluation 9
+1. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-2. **EVAL09-02** « Inès relit sa poésie et la récite encore devant le miroir. Un instant passe. »
+2. « Inès relit sa poésie et la récite encore devant le miroir. Un instant passe. »
    Que veut Inès ? Explique avec un indice du texte.
 
-3. **EVAL09-03** « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. Un instant passe. »
+3. « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. Un instant passe. »
    Que ressent Lou ? Explique avec un indice du texte.
 
-4. **EVAL09-04** « Une cloche sonne au loin. Noé recule devant le chien qui grogne et se place derrière son père. »
+4. « Une cloche sonne au loin. Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-5. **EVAL09-05** « Mila compare les deux chemins et choisit celui qui évite la pente. »
+5. « Mila compare les deux chemins et choisit celui qui évite la pente. »
    Que veut Mila ? Explique avec un indice.
 
-### EVAL10
-
-1. **EVAL10-01** « Eva place son dessin bien en vue avant l'arrivée de son père. »
+### Évaluation 10
+1. « Eva place son dessin bien en vue avant l'arrivée de son père. »
    Que veut Eva ? Explique avec un indice du texte.
 
-2. **EVAL10-02** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. Un instant passe. »
+2. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. Un instant passe. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-3. **EVAL10-03** « Émile applaudit très fort quand sa sœur termine son spectacle. Un instant passe. »
+3. « Émile applaudit très fort quand sa sœur termine son spectacle. Un instant passe. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-4. **EVAL10-04** « Une cloche sonne au loin. Maya lève les bras en découvrant qu'elle a gagné la course. »
+4. « Une cloche sonne au loin. Maya lève les bras en découvrant qu'elle a gagné la course. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-5. **EVAL10-05** « Oscar serre son billet et vérifie plusieurs fois l'heure du départ. »
+5. « Oscar serre son billet et vérifie plusieurs fois l'heure du départ. »
    Que ressent Oscar ? Explique avec un indice.
 
 ## Devoirs
 
 *Tous les supports sont créés pour l'exercice et reprennent uniquement ENT01 à ENT04. Même consigne, sans matériel particulier.*
 
-### DEV01
-
-1. **DEV01-01** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+### Devoir 1
+1. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-2. **DEV01-02** « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
+2. « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
    Que ressent Nora ? Explique avec un indice du texte.
 
-3. **DEV01-03** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
+3. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
    Que veut Aya ? Explique avec un indice du texte.
 
-4. **DEV01-04** « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
+4. « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
    Que veut Iris ? Explique avec un indice du texte.
 
-5. **DEV01-05** « Inès relit sa poésie et la récite encore devant le miroir. »
+5. « Inès relit sa poésie et la récite encore devant le miroir. »
    Que veut Inès ? Explique avec un indice du texte.
 
-### DEV02
-
-1. **DEV02-01** « Hugo cache la carte derrière son dos quand sa mère entre. »
+### Devoir 2
+1. « Hugo cache la carte derrière son dos quand sa mère entre. »
    Que veut Hugo ? Explique avec un indice du texte.
 
-2. **DEV02-02** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
+2. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-3. **DEV02-03** « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
+3. « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
    Que veut Yanis ? Explique avec un indice du texte.
 
-4. **DEV02-04** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+4. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-5. **DEV02-05** « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
+5. « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
    Que ressent Nora ? Explique avec un indice du texte.
 
-### DEV03
-
-1. **DEV03-01** « Eva place son dessin bien en vue avant l'arrivée de son père. »
+### Devoir 3
+1. « Eva place son dessin bien en vue avant l'arrivée de son père. »
    Que veut Eva ? Explique avec un indice du texte.
 
-2. **DEV03-02** « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
+2. « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
    Que ressent Ali ? Explique avec un indice du texte.
 
-3. **DEV03-03** « Noé recule devant le chien qui grogne et se place derrière son père. »
+3. « Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-4. **DEV03-04** « Hugo cache la carte derrière son dos quand sa mère entre. »
+4. « Hugo cache la carte derrière son dos quand sa mère entre. »
    Que veut Hugo ? Explique avec un indice du texte.
 
-5. **DEV03-05** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
+5. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-### DEV04
-
-1. **DEV04-01** « Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. Un instant passe. »
+### Devoir 4
+1. « Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. Un instant passe. »
    Que veut Ana ? Explique avec un indice du texte.
 
-2. **DEV04-02** « Maya lève les bras en découvrant qu'elle a gagné la course. »
+2. « Maya lève les bras en découvrant qu'elle a gagné la course. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-3. **DEV04-03** « Zoé tend son goûter à l'enfant qui n'en a pas. »
+3. « Zoé tend son goûter à l'enfant qui n'en a pas. »
    Que veut Zoé ? Explique avec un indice du texte.
 
-4. **DEV04-04** « Eva place son dessin bien en vue avant l'arrivée de son père. »
+4. « Eva place son dessin bien en vue avant l'arrivée de son père. »
    Que veut Eva ? Explique avec un indice du texte.
 
-5. **DEV04-05** « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
+5. « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
    Que ressent Ali ? Explique avec un indice du texte.
 
-### DEV05
-
-1. **DEV05-01** « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
+### Devoir 5
+1. « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
    Que veut Sami ? Explique avec un indice du texte.
 
-2. **DEV05-02** « Adam vérifie deux fois la fermeture de la cage avant de sortir. »
+2. « Adam vérifie deux fois la fermeture de la cage avant de sortir. »
    Que veut Adam ? Explique avec un indice du texte.
 
-3. **DEV05-03** « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
+3. « Lou baisse la tête après avoir renversé le pot qu'on lui avait confié. »
    Que ressent Lou ? Explique avec un indice du texte.
 
-4. **DEV05-04** « Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. Un instant passe. »
+4. « Ana tient la main de son petit frère au moment d'entrer dans la salle sombre. Un instant passe. »
    Que veut Ana ? Explique avec un indice du texte.
 
-5. **DEV05-05** « Maya lève les bras en découvrant qu'elle a gagné la course. »
+5. « Maya lève les bras en découvrant qu'elle a gagné la course. »
    Que ressent Maya ? Explique avec un indice du texte.
 
-### DEV06
-
-1. **DEV06-01** « Léo fronce les sourcils : son frère a pris sa place sans demander. »
+### Devoir 6
+1. « Léo fronce les sourcils : son frère a pris sa place sans demander. »
    Que ressent Léo ? Explique avec un indice du texte.
 
-2. **DEV06-02** « Émile applaudit très fort quand sa sœur termine son spectacle. »
+2. « Émile applaudit très fort quand sa sœur termine son spectacle. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-3. **DEV06-03** « Paul compte les minutes avant le départ et regarde sans cesse par la fenêtre. Un instant passe. »
+3. « Paul compte les minutes avant le départ et regarde sans cesse par la fenêtre. Un instant passe. »
    Que ressent Paul ? Explique avec un indice du texte.
 
-4. **DEV06-04** « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
+4. « Sami regarde le paquet fermé et demande trois fois quand il pourra l'ouvrir. »
    Que veut Sami ? Explique avec un indice du texte.
 
-5. **DEV06-05** « Adam vérifie deux fois la fermeture de la cage avant de sortir. »
+5. « Adam vérifie deux fois la fermeture de la cage avant de sortir. »
    Que veut Adam ? Explique avec un indice du texte.
 
-### DEV07
-
-1. **DEV07-01** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
+### Devoir 7
+1. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
    Que veut Aya ? Explique avec un indice du texte.
 
-2. **DEV07-02** « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
+2. « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
    Que veut Iris ? Explique avec un indice du texte.
 
-3. **DEV07-03** « Inès relit sa poésie et la récite encore devant le miroir. »
+3. « Inès relit sa poésie et la récite encore devant le miroir. »
    Que veut Inès ? Explique avec un indice du texte.
 
-4. **DEV07-04** « Léo fronce les sourcils : son frère a pris sa place sans demander. »
+4. « Léo fronce les sourcils : son frère a pris sa place sans demander. »
    Que ressent Léo ? Explique avec un indice du texte.
 
-5. **DEV07-05** « Émile applaudit très fort quand sa sœur termine son spectacle. »
+5. « Émile applaudit très fort quand sa sœur termine son spectacle. »
    Que ressent Émile ? Explique avec un indice du texte.
 
-### DEV08
-
-1. **DEV08-01** « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
+### Devoir 8
+1. « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
    Que veut Yanis ? Explique avec un indice du texte.
 
-2. **DEV08-02** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+2. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-3. **DEV08-03** « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
+3. « Nora ouvre de grands yeux devant le tour de magie et reste bouche bée. »
    Que ressent Nora ? Explique avec un indice du texte.
 
-4. **DEV08-04** « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
+4. « Aya tourne autour du vélo neuf et demande quand elle pourra l'essayer. »
    Que veut Aya ? Explique avec un indice du texte.
 
-5. **DEV08-05** « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
+5. « Iris efface discrètement le trait qu'elle a fait sur le cahier de sa voisine. Un instant passe. »
    Que veut Iris ? Explique avec un indice du texte.
 
-### DEV09
-
-1. **DEV09-01** « Noé recule devant le chien qui grogne et se place derrière son père. »
+### Devoir 9
+1. « Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-2. **DEV09-02** « Hugo cache la carte derrière son dos quand sa mère entre. »
+2. « Hugo cache la carte derrière son dos quand sa mère entre. »
    Que veut Hugo ? Explique avec un indice du texte.
 
-3. **DEV09-03** « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
+3. « Tom retrouve enfin sa trousse perdue et pousse un grand soupir. »
    Que ressent Tom ? Explique avec un indice du texte.
 
-4. **DEV09-04** « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
+4. « Yanis s'approche lentement de l'oiseau blessé avec une petite boîte. Un instant passe. »
    Que veut Yanis ? Explique avec un indice du texte.
 
-5. **DEV09-05** « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
+5. « Lina serre contre elle le dessin déchiré et ses yeux se remplissent de larmes. »
    Que ressent Lina ? Explique avec un indice du texte.
 
-### DEV10
-
-1. **DEV10-01** « Zoé tend son goûter à l'enfant qui n'en a pas. »
+### Devoir 10
+1. « Zoé tend son goûter à l'enfant qui n'en a pas. »
    Que veut Zoé ? Explique avec un indice du texte.
 
-2. **DEV10-02** « Eva place son dessin bien en vue avant l'arrivée de son père. »
+2. « Eva place son dessin bien en vue avant l'arrivée de son père. »
    Que veut Eva ? Explique avec un indice du texte.
 
-3. **DEV10-03** « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
+3. « Ali serre les poings quand un joueur se moque de son équipe. Un instant passe. »
    Que ressent Ali ? Explique avec un indice du texte.
 
-4. **DEV10-04** « Noé recule devant le chien qui grogne et se place derrière son père. »
+4. « Noé recule devant le chien qui grogne et se place derrière son père. »
    Que ressent Noé ? Explique avec un indice du texte.
 
-5. **DEV10-05** « Hugo cache la carte derrière son dos quand sa mère entre. »
+5. « Hugo cache la carte derrière son dos quand sa mère entre. »
    Que veut Hugo ? Explique avec un indice du texte.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **IMM02** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **IMM03** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **IMM04** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **IMM05** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-6. **IMM06** de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
-7. **IMM07** de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
+1. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+4. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+5. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+6. de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
+7. de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+4. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+5. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **ENT01-01** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT01-02** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT01-03** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT01-04** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT01-05** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Entraînement 2
+1. de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
+3. garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
+4. partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
+5. empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### ENT02
+#### Entraînement 3
+1. de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
+3. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+4. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+5. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **ENT02-01** de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT02-02** de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT02-03** garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT02-04** partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT02-05** empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Entraînement 4
+1. de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
+2. rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de l'impatience ; indice : il compte les minutes et regarde sans cesse. Accepter toute formulation équivalente appuyée sur cet indice.
+4. cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
+5. aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### ENT03
+#### Entraînement 5
+1. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+4. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+5. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **ENT03-01** de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT03-02** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT03-03** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT03-04** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT03-05** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Entraînement 6
+1. de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
+3. garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
+4. partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
+5. empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### ENT04
+#### Entraînement 7
+1. de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
+3. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+4. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+5. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **ENT04-01** de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT04-02** rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT04-03** de l'impatience ; indice : il compte les minutes et regarde sans cesse. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT04-04** cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT04-05** aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Entraînement 8
+1. de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
+2. rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de l'impatience ; indice : il compte les minutes et regarde sans cesse. Accepter toute formulation équivalente appuyée sur cet indice.
+4. cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
+5. aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### ENT05
+#### Entraînement 9
+1. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+4. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+5. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **ENT05-01** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT05-02** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT05-03** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT05-04** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT05-05** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### ENT06
-
-1. **ENT06-01** de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT06-02** de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT06-03** garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT06-04** partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT06-05** empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### ENT07
-
-1. **ENT07-01** de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT07-02** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT07-03** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT07-04** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT07-05** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### ENT08
-
-1. **ENT08-01** de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT08-02** rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT08-03** de l'impatience ; indice : il compte les minutes et regarde sans cesse. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT08-04** cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT08-05** aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### ENT09
-
-1. **ENT09-01** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT09-02** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT09-03** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT09-04** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT09-05** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### ENT10
-
-1. **ENT10-01** de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **ENT10-02** de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **ENT10-03** garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **ENT10-04** partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **ENT10-05** empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Entraînement 10
+1. de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
+3. garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
+4. partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
+5. empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+3. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+4. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+5. Faire une surprise à sa sœur ; indice : elle cache le cadeau et attend son arrivée. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-1. **EVAL01-01** de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL01-02** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL01-03** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL01-04** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL01-05** Faire une surprise à sa sœur ; indice : elle cache le cadeau et attend son arrivée. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
+#### Évaluation 2
+1. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+3. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+4. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+5. Du soulagement ou de la joie ; indice : il retrouve son chien et le serre. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-#### EVAL02
+#### Évaluation 3
+1. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+2. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+3. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+5. Réussir ou soigner son dessin ; indice : elle recommence pour corriger les détails. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-1. **EVAL02-01** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL02-02** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL02-03** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL02-04** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL02-05** Du soulagement ou de la joie ; indice : il retrouve son chien et le serre. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
+#### Évaluation 4
+1. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+2. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+5. De la tristesse ; indice : il est laissé seul et baisse les yeux. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-#### EVAL03
+#### Évaluation 5
+1. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+5. Accueillir ou partager avec son amie ; indice : elle prépare deux bols. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-1. **EVAL03-01** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL03-02** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL03-03** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL03-04** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL03-05** Réussir ou soigner son dessin ; indice : elle recommence pour corriger les détails. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
+#### Évaluation 6
+1. de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+3. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+4. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+5. De la peur ; indice : il recule et bouche ses oreilles. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-#### EVAL04
+#### Évaluation 7
+1. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+3. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+4. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+5. Que la cuisine soit rangée avant leur retour ; indice : elle se dépêche de ranger. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-1. **EVAL04-01** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL04-02** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL04-03** de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL04-04** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL04-05** De la tristesse ; indice : il est laissé seul et baisse les yeux. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
+#### Évaluation 8
+1. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+2. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+3. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+5. De la joie ou de la fierté ; indice : il sourit après des félicitations. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-#### EVAL05
+#### Évaluation 9
+1. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+2. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+5. Éviter la pente ou choisir le chemin le plus facile ; indice : elle choisit celui sans pente. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
-1. **EVAL05-01** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL05-02** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL05-03** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL05-04** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL05-05** Accueillir ou partager avec son amie ; indice : elle prépare deux bols. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
-
-#### EVAL06
-
-1. **EVAL06-01** de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL06-02** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL06-03** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL06-04** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL06-05** De la peur ; indice : il recule et bouche ses oreilles. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
-
-#### EVAL07
-
-1. **EVAL07-01** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL07-02** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL07-03** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL07-04** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL07-05** Que la cuisine soit rangée avant leur retour ; indice : elle se dépêche de ranger. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
-
-#### EVAL08
-
-1. **EVAL08-01** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL08-02** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL08-03** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL08-04** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL08-05** De la joie ou de la fierté ; indice : il sourit après des félicitations. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
-
-#### EVAL09
-
-1. **EVAL09-01** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL09-02** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL09-03** de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL09-04** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL09-05** Éviter la pente ou choisir le chemin le plus facile ; indice : elle choisit celui sans pente. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
-
-#### EVAL10
-
-1. **EVAL10-01** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **EVAL10-02** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **EVAL10-03** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **EVAL10-04** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **EVAL10-05** De l'inquiétude ou de l'impatience ; indice : il vérifie plusieurs fois l'heure. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
+#### Évaluation 10
+1. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+5. De l'inquiétude ou de l'impatience ; indice : il vérifie plusieurs fois l'heure. Accepter toute émotion ou intention proche si elle est cohérente et justifiée par le texte.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
+3. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+4. cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
+5. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **DEV01-01** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV01-02** de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV01-03** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV01-04** cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV01-05** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Devoir 2
+1. garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
+2. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+3. aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+5. de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### DEV02
+#### Devoir 3
+1. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+4. garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
+5. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **DEV02-01** garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV02-02** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV02-03** aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV02-04** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV02-05** de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Devoir 4
+1. rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
+3. partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
+4. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+5. de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### DEV03
+#### Devoir 5
+1. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+2. empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
+4. rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
+5. de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **DEV03-01** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV03-02** de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV03-03** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV03-04** garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV03-05** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Devoir 6
+1. de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de l'impatience ; indice : il compte les minutes et regarde sans cesse. Accepter toute formulation équivalente appuyée sur cet indice.
+4. ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
+5. empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### DEV04
+#### Devoir 7
+1. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+2. cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
+3. bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
+5. de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **DEV04-01** rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV04-02** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV04-03** partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV04-04** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV04-05** de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Devoir 8
+1. aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
+2. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
+4. essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
+5. cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
 
-#### DEV05
+#### Devoir 9
+1. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+2. garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
+3. du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
+4. aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
+5. de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
 
-1. **DEV05-01** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV05-02** empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV05-03** de la honte, du regret ou de la tristesse ; indice : elle baisse la tête après sa maladresse. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV05-04** rassurer ou accompagner son frère ; indice : elle lui tient la main dans un lieu sombre. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV05-05** de la joie ; indice : elle a gagné et lève les bras. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### DEV06
-
-1. **DEV06-01** de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV06-02** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV06-03** de l'impatience ; indice : il compte les minutes et regarde sans cesse. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV06-04** ouvrir le paquet ; indice : il demande quand il pourra l'ouvrir. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV06-05** empêcher l'animal de sortir ; indice : il vérifie la fermeture. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### DEV07
-
-1. **DEV07-01** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV07-02** cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV07-03** bien connaître ou réussir sa poésie ; indice : elle la relit et s'entraîne. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV07-04** de la colère ; indice : il fronce les sourcils et sa place a été prise. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV07-05** de la fierté ou de la joie ; indice : il applaudit sa sœur. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### DEV08
-
-1. **DEV08-01** aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV08-02** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV08-03** de la surprise ; indice : elle ouvre de grands yeux et reste bouche bée. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV08-04** essayer le vélo ; indice : elle tourne autour et demande quand elle pourra l'essayer. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV08-05** cacher ou réparer sa maladresse ; indice : elle efface discrètement le trait. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### DEV09
-
-1. **DEV09-01** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV09-02** garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV09-03** du soulagement ; indice : il retrouve ce qu'il avait perdu et soupire. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV09-04** aider ou recueillir l'oiseau ; indice : il s'approche avec une boîte. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV09-05** de la tristesse ; indice : le dessin déchiré et les larmes. Accepter toute formulation équivalente appuyée sur cet indice.
-
-#### DEV10
-
-1. **DEV10-01** partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
-2. **DEV10-02** montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
-3. **DEV10-03** de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
-4. **DEV10-04** de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
-5. **DEV10-05** garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
+#### Devoir 10
+1. partager ou aider l'enfant ; indice : elle lui tend son goûter. Accepter toute formulation équivalente appuyée sur cet indice.
+2. montrer son dessin à son père ; indice : elle le place en vue avant son arrivée. Accepter toute formulation équivalente appuyée sur cet indice.
+3. de la colère ; indice : il serre les poings après la moquerie. Accepter toute formulation équivalente appuyée sur cet indice.
+4. de la peur ; indice : il recule et se cache derrière son père. Accepter toute formulation équivalente appuyée sur cet indice.
+5. garder la carte secrète ; indice : il la cache. Accepter toute formulation équivalente appuyée sur cet indice.
 
 ## Traçabilité des évaluations et devoirs
 

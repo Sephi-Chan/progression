@@ -61,8 +61,7 @@ Le format sollicite directement la compétence et produit une réponse corrigeab
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
 
 - **Attention portée :** mobiliser une référence connue puis vérifier l’unité.
@@ -70,8 +69,7 @@ Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
 - **Réponse :** 3 cm.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
 
 - **Attention portée :** mobiliser une référence connue puis vérifier l’unité.
@@ -79,8 +77,7 @@ Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
 - **Réponse :** 15 cm.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
 
 - **Attention portée :** mobiliser une référence connue puis vérifier l’unité.
@@ -90,13 +87,13 @@ Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
-- **IMM02** Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
-- **IMM03** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
-- **IMM04** Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
-- **IMM05** Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
-- **IMM06** Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
-- **IMM07** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
+- Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
+- Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
+- Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
+- Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
 
 ## Variables didactiques
 
@@ -106,507 +103,447 @@ Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
+- Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
+- Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
+- Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
+- Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
 
-- **ENT01-01** Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
-- **ENT01-02** Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
-- **ENT01-03** Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
-- **ENT01-04** Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
-- **ENT01-05** Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
+### Entraînement 2
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
+- Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
+- Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
 
-### ENT02
+### Entraînement 3
+- Pour un lit, entoure l’estimation vraisemblable : **2 cm ; 20 m ; 2 m**.
+- Pour un doigt, entoure l’estimation vraisemblable : **7 m ; 7 cm ; 70 cm**.
+- Pour un autobus, entoure l’estimation vraisemblable : **10 m ; 10 cm ; 10 km**.
+- Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **2 m ; 20 m ; 20 cm**.
+- Pour un stade, entoure l’estimation vraisemblable : **100 km ; 100 m ; 100 cm**.
 
-- **ENT02-01** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
-- **ENT02-02** Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
-- **ENT02-03** Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
-- **ENT02-04** Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
-- **ENT02-05** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
+### Entraînement 4
+- Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
+- Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
+- Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
+- Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
+- Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
 
-### ENT03
+### Entraînement 5
+- Pour un trombone, entoure l’estimation vraisemblable : **3 km ; 3 cm ; 3 m**.
+- Pour un crayon, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 15 km**.
+- Pour une trousse, entoure l’estimation vraisemblable : **2 cm ; 2 m ; 20 cm**.
+- Pour une porte, entoure l’estimation vraisemblable : **2 km ; 2 m ; 2 cm**.
+- Pour une table d’élève, entoure l’estimation vraisemblable : **60 cm ; 6 cm ; 6 m**.
 
-- **ENT03-01** Pour un lit, entoure l’estimation vraisemblable : **2 cm ; 20 m ; 2 m**.
-- **ENT03-02** Pour un doigt, entoure l’estimation vraisemblable : **7 m ; 7 cm ; 70 cm**.
-- **ENT03-03** Pour un autobus, entoure l’estimation vraisemblable : **10 m ; 10 cm ; 10 km**.
-- **ENT03-04** Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **2 m ; 20 m ; 20 cm**.
-- **ENT03-05** Pour un stade, entoure l’estimation vraisemblable : **100 km ; 100 m ; 100 cm**.
+### Entraînement 6
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 cm ; 20 km ; 20 m**.
+- Pour un cahier, entoure l’estimation vraisemblable : **30 m ; 30 cm ; 3 m**.
+- Pour une gomme, entoure l’estimation vraisemblable : **5 cm ; 50 cm ; 5 m**.
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 cm ; 8 km ; 8 m**.
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 m ; 1 km ; 1 cm**.
 
-### ENT04
+### Entraînement 7
+- Pour un lit, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 20 m**.
+- Pour un doigt, entoure l’estimation vraisemblable : **70 cm ; 7 m ; 7 cm**.
+- Pour un autobus, entoure l’estimation vraisemblable : **10 km ; 10 m ; 10 cm**.
+- Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **20 cm ; 2 m ; 20 m**.
+- Pour un stade, entoure l’estimation vraisemblable : **100 cm ; 100 km ; 100 m**.
 
-- **ENT04-01** Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
-- **ENT04-02** Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
-- **ENT04-03** Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
-- **ENT04-04** Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
-- **ENT04-05** Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
+### Entraînement 8
+- Pour une cuillère, entoure l’estimation vraisemblable : **1 km ; 15 cm ; 15 m**.
+- Pour une armoire, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 20 m**.
+- Pour un livre, entoure l’estimation vraisemblable : **25 m ; 2 km ; 25 cm**.
+- Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 m ; 2 km ; 2 cm**.
+- Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 m ; 6 cm ; 6 km**.
 
-### ENT05
+### Entraînement 9
+- Pour un trombone, entoure l’estimation vraisemblable : **3 m ; 3 km ; 3 cm**.
+- Pour un crayon, entoure l’estimation vraisemblable : **15 km ; 15 cm ; 15 m**.
+- Pour une trousse, entoure l’estimation vraisemblable : **20 cm ; 2 cm ; 2 m**.
+- Pour une porte, entoure l’estimation vraisemblable : **2 cm ; 2 km ; 2 m**.
+- Pour une table d’élève, entoure l’estimation vraisemblable : **6 m ; 60 cm ; 6 cm**.
 
-- **ENT05-01** Pour un trombone, entoure l’estimation vraisemblable : **3 km ; 3 cm ; 3 m**.
-- **ENT05-02** Pour un crayon, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 15 km**.
-- **ENT05-03** Pour une trousse, entoure l’estimation vraisemblable : **2 cm ; 2 m ; 20 cm**.
-- **ENT05-04** Pour une porte, entoure l’estimation vraisemblable : **2 km ; 2 m ; 2 cm**.
-- **ENT05-05** Pour une table d’élève, entoure l’estimation vraisemblable : **60 cm ; 6 cm ; 6 m**.
-
-### ENT06
-
-- **ENT06-01** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 cm ; 20 km ; 20 m**.
-- **ENT06-02** Pour un cahier, entoure l’estimation vraisemblable : **30 m ; 30 cm ; 3 m**.
-- **ENT06-03** Pour une gomme, entoure l’estimation vraisemblable : **5 cm ; 50 cm ; 5 m**.
-- **ENT06-04** Pour une salle de classe, entoure l’estimation vraisemblable : **8 cm ; 8 km ; 8 m**.
-- **ENT06-05** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 m ; 1 km ; 1 cm**.
-
-### ENT07
-
-- **ENT07-01** Pour un lit, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 20 m**.
-- **ENT07-02** Pour un doigt, entoure l’estimation vraisemblable : **70 cm ; 7 m ; 7 cm**.
-- **ENT07-03** Pour un autobus, entoure l’estimation vraisemblable : **10 km ; 10 m ; 10 cm**.
-- **ENT07-04** Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **20 cm ; 2 m ; 20 m**.
-- **ENT07-05** Pour un stade, entoure l’estimation vraisemblable : **100 cm ; 100 km ; 100 m**.
-
-### ENT08
-
-- **ENT08-01** Pour une cuillère, entoure l’estimation vraisemblable : **1 km ; 15 cm ; 15 m**.
-- **ENT08-02** Pour une armoire, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 20 m**.
-- **ENT08-03** Pour un livre, entoure l’estimation vraisemblable : **25 m ; 2 km ; 25 cm**.
-- **ENT08-04** Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 m ; 2 km ; 2 cm**.
-- **ENT08-05** Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 m ; 6 cm ; 6 km**.
-
-### ENT09
-
-- **ENT09-01** Pour un trombone, entoure l’estimation vraisemblable : **3 m ; 3 km ; 3 cm**.
-- **ENT09-02** Pour un crayon, entoure l’estimation vraisemblable : **15 km ; 15 cm ; 15 m**.
-- **ENT09-03** Pour une trousse, entoure l’estimation vraisemblable : **20 cm ; 2 cm ; 2 m**.
-- **ENT09-04** Pour une porte, entoure l’estimation vraisemblable : **2 cm ; 2 km ; 2 m**.
-- **ENT09-05** Pour une table d’élève, entoure l’estimation vraisemblable : **6 m ; 60 cm ; 6 cm**.
-
-### ENT10
-
-- **ENT10-01** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 m ; 20 cm ; 20 km**.
-- **ENT10-02** Pour un cahier, entoure l’estimation vraisemblable : **3 m ; 30 m ; 30 cm**.
-- **ENT10-03** Pour une gomme, entoure l’estimation vraisemblable : **5 m ; 5 cm ; 50 cm**.
-- **ENT10-04** Pour une salle de classe, entoure l’estimation vraisemblable : **8 m ; 8 cm ; 8 km**.
-- **ENT10-05** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 cm ; 1 m ; 1 km**.
+### Entraînement 10
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 m ; 20 cm ; 20 km**.
+- Pour un cahier, entoure l’estimation vraisemblable : **3 m ; 30 m ; 30 cm**.
+- Pour une gomme, entoure l’estimation vraisemblable : **5 m ; 5 cm ; 50 cm**.
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 m ; 8 cm ; 8 km**.
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 cm ; 1 m ; 1 km**.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
+- Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
+- Pour un stade, entoure l’estimation vraisemblable : **100 cm ; 100 km ; 100 m**.
+- Pour une salle de classe, choisis l’estimation vraisemblable : **8 cm ; 8 km ; 8 m**.
+- Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
 
-- **EVAL01-01** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
-- **EVAL01-02** Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
-- **EVAL01-03** Pour un stade, entoure l’estimation vraisemblable : **100 cm ; 100 km ; 100 m**.
-- **EVAL01-04** Pour une salle de classe, choisis l’estimation vraisemblable : **8 cm ; 8 km ; 8 m**.
-- **EVAL01-05** Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
+### Évaluation 2
+- Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
+- Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
+- Pour un lit, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 20 m**.
+- Pour le trajet école-piscine, choisis l’estimation vraisemblable : **1 m ; 1 km ; 1 cm**.
+- Pour un trajet entre deux villages, entoure l’estimation vraisemblable : **5 km ; 5 cm ; 5 m**.
 
-### EVAL02
+### Évaluation 3
+- Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
+- Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
+- Pour un doigt, entoure l’estimation vraisemblable : **70 cm ; 7 m ; 7 cm**.
+- Pour un couloir d’école, choisis l’estimation vraisemblable : **20 cm ; 20 km ; 20 m**.
+- Pour un feutre, entoure l’estimation vraisemblable : **14 cm ; 14 m ; 14 km**.
 
-- **EVAL02-01** Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
-- **EVAL02-02** Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
-- **EVAL02-03** Pour un lit, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 20 m**.
-- **EVAL02-04** Pour le trajet école-piscine, choisis l’estimation vraisemblable : **1 m ; 1 km ; 1 cm**.
-- **EVAL02-05** Pour un trajet entre deux villages, entoure l’estimation vraisemblable : **5 km ; 5 cm ; 5 m**.
+### Évaluation 4
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
+- Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
+- Pour un autobus, entoure l’estimation vraisemblable : **10 km ; 10 m ; 10 cm**.
+- Pour un cahier, choisis l’estimation vraisemblable : **30 m ; 30 cm ; 3 m**.
+- Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
 
-### EVAL03
+### Évaluation 5
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
+- Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
+- Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **20 cm ; 2 m ; 20 m**.
+- Pour une gomme, choisis l’estimation vraisemblable : **5 cm ; 50 cm ; 5 m**.
+- Pour un trajet entre deux villages, entoure l’estimation vraisemblable : **5 km ; 5 cm ; 5 m**.
 
-- **EVAL03-01** Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
-- **EVAL03-02** Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
-- **EVAL03-03** Pour un doigt, entoure l’estimation vraisemblable : **70 cm ; 7 m ; 7 cm**.
-- **EVAL03-04** Pour un couloir d’école, choisis l’estimation vraisemblable : **20 cm ; 20 km ; 20 m**.
-- **EVAL03-05** Pour un feutre, entoure l’estimation vraisemblable : **14 cm ; 14 m ; 14 km**.
+### Évaluation 6
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
+- Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
+- Pour un stade, entoure l’estimation vraisemblable : **100 cm ; 100 km ; 100 m**.
+- Pour une salle de classe, choisis l’estimation vraisemblable : **8 cm ; 8 km ; 8 m**.
+- Pour un feutre, entoure l’estimation vraisemblable : **14 cm ; 14 m ; 14 km**.
 
-### EVAL04
+### Évaluation 7
+- Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
+- Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
+- Pour un lit, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 20 m**.
+- Pour le trajet école-piscine, choisis l’estimation vraisemblable : **1 m ; 1 km ; 1 cm**.
+- Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
 
-- **EVAL04-01** Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
-- **EVAL04-02** Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
-- **EVAL04-03** Pour un autobus, entoure l’estimation vraisemblable : **10 km ; 10 m ; 10 cm**.
-- **EVAL04-04** Pour un cahier, choisis l’estimation vraisemblable : **30 m ; 30 cm ; 3 m**.
-- **EVAL04-05** Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
+### Évaluation 8
+- Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
+- Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
+- Pour un doigt, entoure l’estimation vraisemblable : **70 cm ; 7 m ; 7 cm**.
+- Pour un couloir d’école, choisis l’estimation vraisemblable : **20 cm ; 20 km ; 20 m**.
+- Pour un trajet entre deux villages, entoure l’estimation vraisemblable : **5 km ; 5 cm ; 5 m**.
 
-### EVAL05
+### Évaluation 9
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
+- Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
+- Pour un autobus, entoure l’estimation vraisemblable : **10 km ; 10 m ; 10 cm**.
+- Pour un cahier, choisis l’estimation vraisemblable : **30 m ; 30 cm ; 3 m**.
+- Pour un feutre, entoure l’estimation vraisemblable : **14 cm ; 14 m ; 14 km**.
 
-- **EVAL05-01** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
-- **EVAL05-02** Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
-- **EVAL05-03** Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **20 cm ; 2 m ; 20 m**.
-- **EVAL05-04** Pour une gomme, choisis l’estimation vraisemblable : **5 cm ; 50 cm ; 5 m**.
-- **EVAL05-05** Pour un trajet entre deux villages, entoure l’estimation vraisemblable : **5 km ; 5 cm ; 5 m**.
-
-### EVAL06
-
-- **EVAL06-01** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
-- **EVAL06-02** Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
-- **EVAL06-03** Pour un stade, entoure l’estimation vraisemblable : **100 cm ; 100 km ; 100 m**.
-- **EVAL06-04** Pour une salle de classe, choisis l’estimation vraisemblable : **8 cm ; 8 km ; 8 m**.
-- **EVAL06-05** Pour un feutre, entoure l’estimation vraisemblable : **14 cm ; 14 m ; 14 km**.
-
-### EVAL07
-
-- **EVAL07-01** Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
-- **EVAL07-02** Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
-- **EVAL07-03** Pour un lit, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 20 m**.
-- **EVAL07-04** Pour le trajet école-piscine, choisis l’estimation vraisemblable : **1 m ; 1 km ; 1 cm**.
-- **EVAL07-05** Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
-
-### EVAL08
-
-- **EVAL08-01** Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
-- **EVAL08-02** Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
-- **EVAL08-03** Pour un doigt, entoure l’estimation vraisemblable : **70 cm ; 7 m ; 7 cm**.
-- **EVAL08-04** Pour un couloir d’école, choisis l’estimation vraisemblable : **20 cm ; 20 km ; 20 m**.
-- **EVAL08-05** Pour un trajet entre deux villages, entoure l’estimation vraisemblable : **5 km ; 5 cm ; 5 m**.
-
-### EVAL09
-
-- **EVAL09-01** Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
-- **EVAL09-02** Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
-- **EVAL09-03** Pour un autobus, entoure l’estimation vraisemblable : **10 km ; 10 m ; 10 cm**.
-- **EVAL09-04** Pour un cahier, choisis l’estimation vraisemblable : **30 m ; 30 cm ; 3 m**.
-- **EVAL09-05** Pour un feutre, entoure l’estimation vraisemblable : **14 cm ; 14 m ; 14 km**.
-
-### EVAL10
-
-- **EVAL10-01** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
-- **EVAL10-02** Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
-- **EVAL10-03** Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **20 cm ; 2 m ; 20 m**.
-- **EVAL10-04** Pour une gomme, choisis l’estimation vraisemblable : **5 cm ; 50 cm ; 5 m**.
-- **EVAL10-05** Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
+### Évaluation 10
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
+- Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
+- Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **20 cm ; 2 m ; 20 m**.
+- Pour une gomme, choisis l’estimation vraisemblable : **5 cm ; 50 cm ; 5 m**.
+- Pour une cour d’école, entoure l’estimation vraisemblable : **40 m ; 40 cm ; 40 km**.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
+- Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
+- Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **2 m ; 20 m ; 20 cm**.
+- Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
+- Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
 
-- **DEV01-01** Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
-- **DEV01-02** Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
-- **DEV01-03** Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **2 m ; 20 m ; 20 cm**.
-- **DEV01-04** Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
-- **DEV01-05** Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
+### Devoir 2
+- Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
+- Pour un stade, entoure l’estimation vraisemblable : **100 km ; 100 m ; 100 cm**.
+- Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
+- Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
 
-### DEV02
+### Devoir 3
+- Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
+- Pour un lit, entoure l’estimation vraisemblable : **2 cm ; 20 m ; 2 m**.
+- Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
+- Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
 
-- **DEV02-01** Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
-- **DEV02-02** Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
-- **DEV02-03** Pour un stade, entoure l’estimation vraisemblable : **100 km ; 100 m ; 100 cm**.
-- **DEV02-04** Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
-- **DEV02-05** Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
+### Devoir 4
+- Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
+- Pour un doigt, entoure l’estimation vraisemblable : **7 m ; 7 cm ; 70 cm**.
+- Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
+- Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
 
-### DEV03
+### Devoir 5
+- Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
+- Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
+- Pour un autobus, entoure l’estimation vraisemblable : **10 m ; 10 cm ; 10 km**.
+- Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
+- Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
 
-- **DEV03-01** Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
-- **DEV03-02** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
-- **DEV03-03** Pour un lit, entoure l’estimation vraisemblable : **2 cm ; 20 m ; 2 m**.
-- **DEV03-04** Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
-- **DEV03-05** Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
+### Devoir 6
+- Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
+- Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
+- Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **2 m ; 20 m ; 20 cm**.
+- Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
+- Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
 
-### DEV04
+### Devoir 7
+- Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
+- Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
+- Pour un stade, entoure l’estimation vraisemblable : **100 km ; 100 m ; 100 cm**.
+- Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
+- Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
 
-- **DEV04-01** Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
-- **DEV04-02** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
-- **DEV04-03** Pour un doigt, entoure l’estimation vraisemblable : **7 m ; 7 cm ; 70 cm**.
-- **DEV04-04** Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
-- **DEV04-05** Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
+### Devoir 8
+- Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
+- Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
+- Pour un lit, entoure l’estimation vraisemblable : **2 cm ; 20 m ; 2 m**.
+- Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
+- Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
 
-### DEV05
+### Devoir 9
+- Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
+- Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
+- Pour un doigt, entoure l’estimation vraisemblable : **7 m ; 7 cm ; 70 cm**.
+- Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
+- Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
 
-- **DEV05-01** Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
-- **DEV05-02** Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
-- **DEV05-03** Pour un autobus, entoure l’estimation vraisemblable : **10 m ; 10 cm ; 10 km**.
-- **DEV05-04** Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
-- **DEV05-05** Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
-
-### DEV06
-
-- **DEV06-01** Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
-- **DEV06-02** Pour une gomme, entoure l’estimation vraisemblable : **50 cm ; 5 m ; 5 cm**.
-- **DEV06-03** Pour une chaussure d’enfant, entoure l’estimation vraisemblable : **2 m ; 20 m ; 20 cm**.
-- **DEV06-04** Pour la largeur d’une classe, entoure l’estimation vraisemblable : **6 cm ; 6 km ; 6 m**.
-- **DEV06-05** Pour un trombone, entoure l’estimation vraisemblable : **3 cm ; 3 m ; 3 km**.
-
-### DEV07
-
-- **DEV07-01** Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
-- **DEV07-02** Pour une salle de classe, entoure l’estimation vraisemblable : **8 km ; 8 m ; 8 cm**.
-- **DEV07-03** Pour un stade, entoure l’estimation vraisemblable : **100 km ; 100 m ; 100 cm**.
-- **DEV07-04** Pour une cuillère, entoure l’estimation vraisemblable : **15 cm ; 15 m ; 1 km**.
-- **DEV07-05** Pour un crayon, entoure l’estimation vraisemblable : **15 m ; 15 km ; 15 cm**.
-
-### DEV08
-
-- **DEV08-01** Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
-- **DEV08-02** Pour le trajet école-piscine, entoure l’estimation vraisemblable : **1 km ; 1 cm ; 1 m**.
-- **DEV08-03** Pour un lit, entoure l’estimation vraisemblable : **2 cm ; 20 m ; 2 m**.
-- **DEV08-04** Pour une armoire, entoure l’estimation vraisemblable : **20 cm ; 20 m ; 2 m**.
-- **DEV08-05** Pour une trousse, entoure l’estimation vraisemblable : **2 m ; 20 cm ; 2 cm**.
-
-### DEV09
-
-- **DEV09-01** Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
-- **DEV09-02** Pour un couloir d’école, entoure l’estimation vraisemblable : **20 km ; 20 m ; 20 cm**.
-- **DEV09-03** Pour un doigt, entoure l’estimation vraisemblable : **7 m ; 7 cm ; 70 cm**.
-- **DEV09-04** Pour un livre, entoure l’estimation vraisemblable : **2 km ; 25 cm ; 25 m**.
-- **DEV09-05** Pour une porte, entoure l’estimation vraisemblable : **2 m ; 2 cm ; 2 km**.
-
-### DEV10
-
-- **DEV10-01** Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
-- **DEV10-02** Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
-- **DEV10-03** Pour un autobus, entoure l’estimation vraisemblable : **10 m ; 10 cm ; 10 km**.
-- **DEV10-04** Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
-- **DEV10-05** Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
+### Devoir 10
+- Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
+- Pour un cahier, entoure l’estimation vraisemblable : **30 cm ; 3 m ; 30 m**.
+- Pour un autobus, entoure l’estimation vraisemblable : **10 m ; 10 cm ; 10 km**.
+- Pour un quartier traversé à pied, entoure l’estimation vraisemblable : **2 km ; 2 cm ; 2 m**.
+- Pour une table d’élève, entoure l’estimation vraisemblable : **6 cm ; 6 m ; 60 cm**.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — 2 m.
-2. **IMM02** — 60 cm.
-3. **IMM03** — 20 m.
-4. **IMM04** — 30 cm.
-5. **IMM05** — 5 cm.
-6. **IMM06** — 8 m.
-7. **IMM07** — 1 km.
+1. — 2 m.
+2. — 60 cm.
+3. — 20 m.
+4. — 30 cm.
+5. — 5 cm.
+6. — 8 m.
+7. — 1 km.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. — 3 cm.
+2. — 15 cm.
+3. — 20 cm.
+4. — 2 m.
+5. — 60 cm.
 
-1. **ENT01-01** — 3 cm.
-2. **ENT01-02** — 15 cm.
-3. **ENT01-03** — 20 cm.
-4. **ENT01-04** — 2 m.
-5. **ENT01-05** — 60 cm.
+#### Entraînement 2
+1. — 20 m.
+2. — 30 cm.
+3. — 5 cm.
+4. — 8 m.
+5. — 1 km.
 
-#### ENT02
+#### Entraînement 3
+1. — 2 m.
+2. — 7 cm.
+3. — 10 m.
+4. — 20 cm.
+5. — 100 m.
 
-1. **ENT02-01** — 20 m.
-2. **ENT02-02** — 30 cm.
-3. **ENT02-03** — 5 cm.
-4. **ENT02-04** — 8 m.
-5. **ENT02-05** — 1 km.
+#### Entraînement 4
+1. — 15 cm.
+2. — 2 m.
+3. — 25 cm.
+4. — 2 km.
+5. — 6 m.
 
-#### ENT03
+#### Entraînement 5
+1. — 3 cm.
+2. — 15 cm.
+3. — 20 cm.
+4. — 2 m.
+5. — 60 cm.
 
-1. **ENT03-01** — 2 m.
-2. **ENT03-02** — 7 cm.
-3. **ENT03-03** — 10 m.
-4. **ENT03-04** — 20 cm.
-5. **ENT03-05** — 100 m.
+#### Entraînement 6
+1. — 20 m.
+2. — 30 cm.
+3. — 5 cm.
+4. — 8 m.
+5. — 1 km.
 
-#### ENT04
+#### Entraînement 7
+1. — 2 m.
+2. — 7 cm.
+3. — 10 m.
+4. — 20 cm.
+5. — 100 m.
 
-1. **ENT04-01** — 15 cm.
-2. **ENT04-02** — 2 m.
-3. **ENT04-03** — 25 cm.
-4. **ENT04-04** — 2 km.
-5. **ENT04-05** — 6 m.
+#### Entraînement 8
+1. — 15 cm.
+2. — 2 m.
+3. — 25 cm.
+4. — 2 km.
+5. — 6 m.
 
-#### ENT05
+#### Entraînement 9
+1. — 3 cm.
+2. — 15 cm.
+3. — 20 cm.
+4. — 2 m.
+5. — 60 cm.
 
-1. **ENT05-01** — 3 cm.
-2. **ENT05-02** — 15 cm.
-3. **ENT05-03** — 20 cm.
-4. **ENT05-04** — 2 m.
-5. **ENT05-05** — 60 cm.
-
-#### ENT06
-
-1. **ENT06-01** — 20 m.
-2. **ENT06-02** — 30 cm.
-3. **ENT06-03** — 5 cm.
-4. **ENT06-04** — 8 m.
-5. **ENT06-05** — 1 km.
-
-#### ENT07
-
-1. **ENT07-01** — 2 m.
-2. **ENT07-02** — 7 cm.
-3. **ENT07-03** — 10 m.
-4. **ENT07-04** — 20 cm.
-5. **ENT07-05** — 100 m.
-
-#### ENT08
-
-1. **ENT08-01** — 15 cm.
-2. **ENT08-02** — 2 m.
-3. **ENT08-03** — 25 cm.
-4. **ENT08-04** — 2 km.
-5. **ENT08-05** — 6 m.
-
-#### ENT09
-
-1. **ENT09-01** — 3 cm.
-2. **ENT09-02** — 15 cm.
-3. **ENT09-03** — 20 cm.
-4. **ENT09-04** — 2 m.
-5. **ENT09-05** — 60 cm.
-
-#### ENT10
-
-1. **ENT10-01** — 20 m.
-2. **ENT10-02** — 30 cm.
-3. **ENT10-03** — 5 cm.
-4. **ENT10-04** — 8 m.
-5. **ENT10-05** — 1 km.
+#### Entraînement 10
+1. — 20 m.
+2. — 30 cm.
+3. — 5 cm.
+4. — 8 m.
+5. — 1 km.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. — 20 m.
+2. — 25 cm.
+3. — 100 m.
+4. — 8 m.
+5. — 40 m.
 
-1. **EVAL01-01** — 20 m.
-2. **EVAL01-02** — 25 cm.
-3. **EVAL01-03** — 100 m.
-4. **EVAL01-04** — 8 m.
-5. **EVAL01-05** — 40 m.
+#### Évaluation 2
+1. — 30 cm.
+2. — 2 km.
+3. — 2 m.
+4. — 1 km.
+5. — 5 km.
 
-#### EVAL02
+#### Évaluation 3
+1. — 5 cm.
+2. — 6 m.
+3. — 7 cm.
+4. — 20 m.
+5. — 14 cm.
 
-1. **EVAL02-01** — 30 cm.
-2. **EVAL02-02** — 2 km.
-3. **EVAL02-03** — 2 m.
-4. **EVAL02-04** — 1 km.
-5. **EVAL02-05** — 5 km.
+#### Évaluation 4
+1. — 8 m.
+2. — 15 cm.
+3. — 10 m.
+4. — 30 cm.
+5. — 40 m.
 
-#### EVAL03
+#### Évaluation 5
+1. — 1 km.
+2. — 2 m.
+3. — 20 cm.
+4. — 5 cm.
+5. — 5 km.
 
-1. **EVAL03-01** — 5 cm.
-2. **EVAL03-02** — 6 m.
-3. **EVAL03-03** — 7 cm.
-4. **EVAL03-04** — 20 m.
-5. **EVAL03-05** — 14 cm.
+#### Évaluation 6
+1. — 20 m.
+2. — 25 cm.
+3. — 100 m.
+4. — 8 m.
+5. — 14 cm.
 
-#### EVAL04
+#### Évaluation 7
+1. — 30 cm.
+2. — 2 km.
+3. — 2 m.
+4. — 1 km.
+5. — 40 m.
 
-1. **EVAL04-01** — 8 m.
-2. **EVAL04-02** — 15 cm.
-3. **EVAL04-03** — 10 m.
-4. **EVAL04-04** — 30 cm.
-5. **EVAL04-05** — 40 m.
+#### Évaluation 8
+1. — 5 cm.
+2. — 6 m.
+3. — 7 cm.
+4. — 20 m.
+5. — 5 km.
 
-#### EVAL05
+#### Évaluation 9
+1. — 8 m.
+2. — 15 cm.
+3. — 10 m.
+4. — 30 cm.
+5. — 14 cm.
 
-1. **EVAL05-01** — 1 km.
-2. **EVAL05-02** — 2 m.
-3. **EVAL05-03** — 20 cm.
-4. **EVAL05-04** — 5 cm.
-5. **EVAL05-05** — 5 km.
-
-#### EVAL06
-
-1. **EVAL06-01** — 20 m.
-2. **EVAL06-02** — 25 cm.
-3. **EVAL06-03** — 100 m.
-4. **EVAL06-04** — 8 m.
-5. **EVAL06-05** — 14 cm.
-
-#### EVAL07
-
-1. **EVAL07-01** — 30 cm.
-2. **EVAL07-02** — 2 km.
-3. **EVAL07-03** — 2 m.
-4. **EVAL07-04** — 1 km.
-5. **EVAL07-05** — 40 m.
-
-#### EVAL08
-
-1. **EVAL08-01** — 5 cm.
-2. **EVAL08-02** — 6 m.
-3. **EVAL08-03** — 7 cm.
-4. **EVAL08-04** — 20 m.
-5. **EVAL08-05** — 5 km.
-
-#### EVAL09
-
-1. **EVAL09-01** — 8 m.
-2. **EVAL09-02** — 15 cm.
-3. **EVAL09-03** — 10 m.
-4. **EVAL09-04** — 30 cm.
-5. **EVAL09-05** — 14 cm.
-
-#### EVAL10
-
-1. **EVAL10-01** — 1 km.
-2. **EVAL10-02** — 2 m.
-3. **EVAL10-03** — 20 cm.
-4. **EVAL10-04** — 5 cm.
-5. **EVAL10-05** — 40 m.
+#### Évaluation 10
+1. — 1 km.
+2. — 2 m.
+3. — 20 cm.
+4. — 5 cm.
+5. — 40 m.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. — 3 cm.
+2. — 5 cm.
+3. — 20 cm.
+4. — 6 m.
+5. — 3 cm.
 
-1. **DEV01-01** — 3 cm.
-2. **DEV01-02** — 5 cm.
-3. **DEV01-03** — 20 cm.
-4. **DEV01-04** — 6 m.
-5. **DEV01-05** — 3 cm.
+#### Devoir 2
+1. — 15 cm.
+2. — 8 m.
+3. — 100 m.
+4. — 15 cm.
+5. — 15 cm.
 
-#### DEV02
+#### Devoir 3
+1. — 20 cm.
+2. — 1 km.
+3. — 2 m.
+4. — 2 m.
+5. — 20 cm.
 
-1. **DEV02-01** — 15 cm.
-2. **DEV02-02** — 8 m.
-3. **DEV02-03** — 100 m.
-4. **DEV02-04** — 15 cm.
-5. **DEV02-05** — 15 cm.
+#### Devoir 4
+1. — 2 m.
+2. — 20 m.
+3. — 7 cm.
+4. — 25 cm.
+5. — 2 m.
 
-#### DEV03
+#### Devoir 5
+1. — 60 cm.
+2. — 30 cm.
+3. — 10 m.
+4. — 2 km.
+5. — 60 cm.
 
-1. **DEV03-01** — 20 cm.
-2. **DEV03-02** — 1 km.
-3. **DEV03-03** — 2 m.
-4. **DEV03-04** — 2 m.
-5. **DEV03-05** — 20 cm.
+#### Devoir 6
+1. — 3 cm.
+2. — 5 cm.
+3. — 20 cm.
+4. — 6 m.
+5. — 3 cm.
 
-#### DEV04
+#### Devoir 7
+1. — 15 cm.
+2. — 8 m.
+3. — 100 m.
+4. — 15 cm.
+5. — 15 cm.
 
-1. **DEV04-01** — 2 m.
-2. **DEV04-02** — 20 m.
-3. **DEV04-03** — 7 cm.
-4. **DEV04-04** — 25 cm.
-5. **DEV04-05** — 2 m.
+#### Devoir 8
+1. — 20 cm.
+2. — 1 km.
+3. — 2 m.
+4. — 2 m.
+5. — 20 cm.
 
-#### DEV05
+#### Devoir 9
+1. — 2 m.
+2. — 20 m.
+3. — 7 cm.
+4. — 25 cm.
+5. — 2 m.
 
-1. **DEV05-01** — 60 cm.
-2. **DEV05-02** — 30 cm.
-3. **DEV05-03** — 10 m.
-4. **DEV05-04** — 2 km.
-5. **DEV05-05** — 60 cm.
-
-#### DEV06
-
-1. **DEV06-01** — 3 cm.
-2. **DEV06-02** — 5 cm.
-3. **DEV06-03** — 20 cm.
-4. **DEV06-04** — 6 m.
-5. **DEV06-05** — 3 cm.
-
-#### DEV07
-
-1. **DEV07-01** — 15 cm.
-2. **DEV07-02** — 8 m.
-3. **DEV07-03** — 100 m.
-4. **DEV07-04** — 15 cm.
-5. **DEV07-05** — 15 cm.
-
-#### DEV08
-
-1. **DEV08-01** — 20 cm.
-2. **DEV08-02** — 1 km.
-3. **DEV08-03** — 2 m.
-4. **DEV08-04** — 2 m.
-5. **DEV08-05** — 20 cm.
-
-#### DEV09
-
-1. **DEV09-01** — 2 m.
-2. **DEV09-02** — 20 m.
-3. **DEV09-03** — 7 cm.
-4. **DEV09-04** — 25 cm.
-5. **DEV09-05** — 2 m.
-
-#### DEV10
-
-1. **DEV10-01** — 60 cm.
-2. **DEV10-02** — 30 cm.
-3. **DEV10-03** — 10 m.
-4. **DEV10-04** — 2 km.
-5. **DEV10-05** — 60 cm.
+#### Devoir 10
+1. — 60 cm.
+2. — 30 cm.
+3. — 10 m.
+4. — 2 km.
+5. — 60 cm.
 
 ## Traçabilité des évaluations et devoirs
 

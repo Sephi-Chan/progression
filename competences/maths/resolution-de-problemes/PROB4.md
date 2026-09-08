@@ -60,8 +60,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** La classe prépare 2 boites. Elle met 3 crayons dans chaque boite. Combien faut-il de crayons ?
 
 - **Attention portée :** Je lis la question, je nomme chaque quantité et je montre leur relation avant de choisir le calcul.
@@ -69,8 +68,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 2 × 3 = 6. Il y a 6 éléments en tout.
 - **Contrôle final :** le total correspond au nombre de groupes multiplié par la taille commune.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Un jardinier plante 2 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
 
 - **Attention portée :** Demander : « Que connaît-on ? Que cherche-t-on ? Que doivent montrer les barres ou les groupes ? »
@@ -78,8 +76,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 2 × 4 = 8. Il y a 8 éléments en tout.
 - **Contrôle final :** le total correspond au nombre de groupes multiplié par la taille commune.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Il y a 2 équipes de 5 élèves. Combien d’élèves participent ?
 
 - **Attention portée :** Laisser les élèves reformuler et choisir le premier geste ; demander seulement de justifier.
@@ -91,13 +88,13 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne :** Résous le problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-- **IMM01** Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
-- **IMM02** Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
-- **IMM03** La classe prépare 4 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
-- **IMM04** Un jardinier plante 4 rangées de 6 fleurs. Combien plante-t-il de fleurs ?
-- **IMM05** Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
-- **IMM06** Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
-- **IMM07** La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
+- Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 4 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 4 rangées de 6 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
+- Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
 
 ## Variables didactiques
 
@@ -111,253 +108,223 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne pour toutes les séries :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### ENT01
+### Entraînement 1
+- Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 4 rangées de 2 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
+- Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
 
-- **ENT01-01** Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT01-02** La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT01-03** Un jardinier plante 4 rangées de 2 fleurs. Combien plante-t-il de fleurs ?
-- **ENT01-04** Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
-- **ENT01-05** Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
+### Entraînement 2
+- Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
+- Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 5 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 5 équipes de 6 élèves. Combien d’élèves participent ?
 
-### ENT02
+### Entraînement 3
+- Un jardinier plante 6 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 6 équipes de 5 élèves. Combien d’élèves participent ?
+- Il y a 6 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
 
-- **ENT02-01** Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
-- **ENT02-02** Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT02-03** La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT02-04** Un jardinier plante 5 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
-- **ENT02-05** Il y a 5 équipes de 6 élèves. Combien d’élèves participent ?
+### Entraînement 4
+- La classe prépare 9 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 9 rangées de 7 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 9 équipes de 8 élèves. Combien d’élèves participent ?
+- Il y a 9 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
 
-### ENT03
+### Entraînement 5
+- Il y a 4 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 4 boites. Elle met 8 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 4 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 5 équipes de 7 élèves. Combien d’élèves participent ?
+- Il y a 5 sachets de 8 billes chacun. Combien y a-t-il de billes en tout ?
 
-- **ENT03-01** Un jardinier plante 6 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
-- **ENT03-02** Il y a 6 équipes de 5 élèves. Combien d’élèves participent ?
-- **ENT03-03** Il y a 6 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT03-04** La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT03-05** Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
+### Entraînement 6
+- Il y a 6 équipes de 8 élèves. Combien d’élèves participent ?
+- Il y a 6 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 7 boites. Elle met 3 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 7 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 7 équipes de 5 élèves. Combien d’élèves participent ?
 
-### ENT04
+### Entraînement 7
+- Un jardinier plante 7 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 7 équipes de 9 élèves. Combien d’élèves participent ?
+- Il y a 8 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 8 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 8 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
 
-- **ENT04-01** La classe prépare 9 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT04-02** Un jardinier plante 9 rangées de 7 fleurs. Combien plante-t-il de fleurs ?
-- **ENT04-03** Il y a 9 équipes de 8 élèves. Combien d’élèves participent ?
-- **ENT04-04** Il y a 9 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT04-05** La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
+### Entraînement 8
+- La classe prépare 5 boites. Elle met 20 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 20 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 20 équipes de 4 élèves. Combien d’élèves participent ?
+- Il y a 10 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 10 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
 
-### ENT05
+### Entraînement 9
+- Il y a 10 sachets de 10 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 6 boites. Elle met 10 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 7 rangées de 10 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 8 équipes de 10 élèves. Combien d’élèves participent ?
+- Il y a 9 sachets de 10 billes chacun. Combien y a-t-il de billes en tout ?
 
-- **ENT05-01** Il y a 4 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT05-02** La classe prépare 4 boites. Elle met 8 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT05-03** Un jardinier plante 4 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
-- **ENT05-04** Il y a 5 équipes de 7 élèves. Combien d’élèves participent ?
-- **ENT05-05** Il y a 5 sachets de 8 billes chacun. Combien y a-t-il de billes en tout ?
-
-### ENT06
-
-- **ENT06-01** Il y a 6 équipes de 8 élèves. Combien d’élèves participent ?
-- **ENT06-02** Il y a 6 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT06-03** La classe prépare 7 boites. Elle met 3 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT06-04** Un jardinier plante 7 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
-- **ENT06-05** Il y a 7 équipes de 5 élèves. Combien d’élèves participent ?
-
-### ENT07
-
-- **ENT07-01** Un jardinier plante 7 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
-- **ENT07-02** Il y a 7 équipes de 9 élèves. Combien d’élèves participent ?
-- **ENT07-03** Il y a 8 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT07-04** La classe prépare 8 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT07-05** Un jardinier plante 8 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
-
-### ENT08
-
-- **ENT08-01** La classe prépare 5 boites. Elle met 20 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT08-02** Un jardinier plante 20 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
-- **ENT08-03** Il y a 20 équipes de 4 élèves. Combien d’élèves participent ?
-- **ENT08-04** Il y a 10 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT08-05** La classe prépare 10 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
-
-### ENT09
-
-- **ENT09-01** Il y a 10 sachets de 10 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT09-02** La classe prépare 6 boites. Elle met 10 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT09-03** Un jardinier plante 7 rangées de 10 fleurs. Combien plante-t-il de fleurs ?
-- **ENT09-04** Il y a 8 équipes de 10 élèves. Combien d’élèves participent ?
-- **ENT09-05** Il y a 9 sachets de 10 billes chacun. Combien y a-t-il de billes en tout ?
-
-### ENT10
-
-- **ENT10-01** Il y a 25 équipes de 4 élèves. Combien d’élèves participent ?
-- **ENT10-02** Il y a 5 sachets de 20 billes chacun. Combien y a-t-il de billes en tout ?
-- **ENT10-03** La classe prépare 20 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
-- **ENT10-04** Un jardinier plante 20 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
-- **ENT10-05** Il y a 10 équipes de 6 élèves. Combien d’élèves participent ?
+### Entraînement 10
+- Il y a 25 équipes de 4 élèves. Combien d’élèves participent ?
+- Il y a 5 sachets de 20 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 20 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 20 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 10 équipes de 6 élèves. Combien d’élèves participent ?
 
 ## Évaluations
 
 **Consigne pour toutes les formes :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### EVAL01
+### Évaluation 1
+- Un jardinier plante 7 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
+- La classe prépare 6 boites. Elle met 10 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 9 équipes de 8 élèves. Combien d’élèves participent ?
+- Un jardinier plante 7 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
+- La classe prépare 4 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
 
-- **EVAL01-01** Un jardinier plante 7 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL01-02** La classe prépare 6 boites. Elle met 10 crayons dans chaque boite. Combien faut-il de crayons ?
-- **EVAL01-03** Il y a 9 équipes de 8 élèves. Combien d’élèves participent ?
-- **EVAL01-04** Un jardinier plante 7 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL01-05** La classe prépare 4 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
+### Évaluation 2
+- Un jardinier plante 20 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
+- La classe prépare 20 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 5 équipes de 7 élèves. Combien d’élèves participent ?
+- Il y a 7 équipes de 10 élèves. Combien d’élèves participent ?
+- Un jardinier plante 4 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
 
-### EVAL02
+### Évaluation 3
+- Un jardinier plante 7 rangées de 10 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 9 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 7 équipes de 5 élèves. Combien d’élèves participent ?
+- Il y a 8 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 4 équipes de 9 élèves. Combien d’élèves participent ?
 
-- **EVAL02-01** Un jardinier plante 20 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL02-02** La classe prépare 20 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
-- **EVAL02-03** Il y a 5 équipes de 7 élèves. Combien d’élèves participent ?
-- **EVAL02-04** Il y a 7 équipes de 10 élèves. Combien d’élèves participent ?
-- **EVAL02-05** Un jardinier plante 4 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
+### Évaluation 4
+- Un jardinier plante 20 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 5 sachets de 8 billes chacun. Combien y a-t-il de billes en tout ?
+- Un jardinier plante 7 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
+- La classe prépare 8 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 5 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
 
-### EVAL03
+### Évaluation 5
+- La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 6 équipes de 8 élèves. Combien d’élèves participent ?
+- Un jardinier plante 20 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
+- Un jardinier plante 8 rangées de 6 fleurs. Combien plante-t-il de fleurs ?
+- La classe prépare 5 boites. Elle met 8 crayons dans chaque boite. Combien faut-il de crayons ?
 
-- **EVAL03-01** Un jardinier plante 7 rangées de 10 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL03-02** Il y a 9 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL03-03** Il y a 7 équipes de 5 élèves. Combien d’élèves participent ?
-- **EVAL03-04** Il y a 8 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL03-05** Il y a 4 équipes de 9 élèves. Combien d’élèves participent ?
+### Évaluation 6
+- Il y a 4 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 7 équipes de 9 élèves. Combien d’élèves participent ?
+- Un jardinier plante 7 rangées de 10 fleurs. Combien plante-t-il de fleurs ?
+- Un jardinier plante 7 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
+- Un jardinier plante 5 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
 
-### EVAL04
+### Évaluation 7
+- Il y a 6 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 20 équipes de 4 élèves. Combien d’élèves participent ?
+- Un jardinier plante 20 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 7 équipes de 10 élèves. Combien d’élèves participent ?
+- Il y a 6 équipes de 7 élèves. Combien d’élèves participent ?
 
-- **EVAL04-01** Un jardinier plante 20 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL04-02** Il y a 5 sachets de 8 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL04-03** Un jardinier plante 7 rangées de 8 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL04-04** La classe prépare 8 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
-- **EVAL04-05** Il y a 5 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
+### Évaluation 8
+- Il y a 8 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 8 équipes de 10 élèves. Combien d’élèves participent ?
+- La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 8 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 6 sachets de 8 billes chacun. Combien y a-t-il de billes en tout ?
 
-### EVAL05
+### Évaluation 9
+- Il y a 10 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 10 équipes de 6 élèves. Combien d’élèves participent ?
+- Il y a 4 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 8 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
+- La classe prépare 6 boites. Elle met 9 crayons dans chaque boite. Combien faut-il de crayons ?
 
-- **EVAL05-01** La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
-- **EVAL05-02** Il y a 6 équipes de 8 élèves. Combien d’élèves participent ?
-- **EVAL05-03** Un jardinier plante 20 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL05-04** Un jardinier plante 8 rangées de 6 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL05-05** La classe prépare 5 boites. Elle met 8 crayons dans chaque boite. Combien faut-il de crayons ?
-
-### EVAL06
-
-- **EVAL06-01** Il y a 4 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL06-02** Il y a 7 équipes de 9 élèves. Combien d’élèves participent ?
-- **EVAL06-03** Un jardinier plante 7 rangées de 10 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL06-04** Un jardinier plante 7 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL06-05** Un jardinier plante 5 rangées de 9 fleurs. Combien plante-t-il de fleurs ?
-
-### EVAL07
-
-- **EVAL07-01** Il y a 6 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL07-02** Il y a 20 équipes de 4 élèves. Combien d’élèves participent ?
-- **EVAL07-03** Un jardinier plante 20 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL07-04** Il y a 7 équipes de 10 élèves. Combien d’élèves participent ?
-- **EVAL07-05** Il y a 6 équipes de 7 élèves. Combien d’élèves participent ?
-
-### EVAL08
-
-- **EVAL08-01** Il y a 8 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL08-02** Il y a 8 équipes de 10 élèves. Combien d’élèves participent ?
-- **EVAL08-03** La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
-- **EVAL08-04** Il y a 8 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL08-05** Il y a 6 sachets de 8 billes chacun. Combien y a-t-il de billes en tout ?
-
-### EVAL09
-
-- **EVAL09-01** Il y a 10 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL09-02** Il y a 10 équipes de 6 élèves. Combien d’élèves participent ?
-- **EVAL09-03** Il y a 4 sachets de 7 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL09-04** La classe prépare 8 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
-- **EVAL09-05** La classe prépare 6 boites. Elle met 9 crayons dans chaque boite. Combien faut-il de crayons ?
-
-### EVAL10
-
-- **EVAL10-01** Il y a 9 sachets de 10 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL10-02** La classe prépare 9 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
-- **EVAL10-03** Il y a 6 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
-- **EVAL10-04** Un jardinier plante 8 rangées de 6 fleurs. Combien plante-t-il de fleurs ?
-- **EVAL10-05** Un jardinier plante 7 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
+### Évaluation 10
+- Il y a 9 sachets de 10 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 9 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 6 sachets de 9 billes chacun. Combien y a-t-il de billes en tout ?
+- Un jardinier plante 8 rangées de 6 fleurs. Combien plante-t-il de fleurs ?
+- Un jardinier plante 7 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
 
 ## Devoirs
 
 **Consigne pour tous les devoirs :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### DEV01
+### Devoir 1
+- Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
+- La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 4 équipes de 4 élèves. Combien d’élèves participent ?
 
-- **DEV01-01** Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV01-02** La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV01-03** Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
-- **DEV01-04** La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV01-05** Il y a 4 équipes de 4 élèves. Combien d’élèves participent ?
+### Devoir 2
+- Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 5 équipes de 7 élèves. Combien d’élèves participent ?
 
-### DEV02
+### Devoir 3
+- Il y a 6 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 6 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
 
-- **DEV02-01** Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV02-02** La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV02-03** Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV02-04** La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV02-05** Il y a 5 équipes de 7 élèves. Combien d’élèves participent ?
+### Devoir 4
+- Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
+- Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
+- Il y a 6 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
 
-### DEV03
+### Devoir 5
+- Il y a 5 équipes de 6 élèves. Combien d’élèves participent ?
+- Il y a 6 équipes de 5 élèves. Combien d’élèves participent ?
+- Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
+- Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
+- La classe prépare 5 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
 
-- **DEV03-01** Il y a 6 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV03-02** Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV03-03** Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV03-04** La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV03-05** Un jardinier plante 6 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
+### Devoir 6
+- Un jardinier plante 6 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
+- Un jardinier plante 4 rangées de 2 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 5 équipes de 6 élèves. Combien d’élèves participent ?
+- Il y a 6 équipes de 5 élèves. Combien d’élèves participent ?
+- La classe prépare 2 boites. Elle met 3 crayons dans chaque boite. Combien faut-il de crayons ?
 
-### DEV04
+### Devoir 7
+- La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 5 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
+- Un jardinier plante 6 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
+- Un jardinier plante 4 rangées de 2 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 4 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
 
-- **DEV04-01** Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
-- **DEV04-02** Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
-- **DEV04-03** Il y a 6 sachets de 6 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV04-04** Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV04-05** La classe prépare 3 boites. Elle met 7 crayons dans chaque boite. Combien faut-il de crayons ?
+### Devoir 8
+- La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
+- La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 5 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 5 équipes de 3 élèves. Combien d’élèves participent ?
 
-### DEV05
+### Devoir 9
+- La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
+- Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
+- Il y a 6 équipes de 6 élèves. Combien d’élèves participent ?
 
-- **DEV05-01** Il y a 5 équipes de 6 élèves. Combien d’élèves participent ?
-- **DEV05-02** Il y a 6 équipes de 5 élèves. Combien d’élèves participent ?
-- **DEV05-03** Il y a 4 équipes de 3 élèves. Combien d’élèves participent ?
-- **DEV05-04** Il y a 5 équipes de 2 élèves. Combien d’élèves participent ?
-- **DEV05-05** La classe prépare 5 boites. Elle met 5 crayons dans chaque boite. Combien faut-il de crayons ?
-
-### DEV06
-
-- **DEV06-01** Un jardinier plante 6 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
-- **DEV06-02** Un jardinier plante 4 rangées de 2 fleurs. Combien plante-t-il de fleurs ?
-- **DEV06-03** Il y a 5 équipes de 6 élèves. Combien d’élèves participent ?
-- **DEV06-04** Il y a 6 équipes de 5 élèves. Combien d’élèves participent ?
-- **DEV06-05** La classe prépare 2 boites. Elle met 3 crayons dans chaque boite. Combien faut-il de crayons ?
-
-### DEV07
-
-- **DEV07-01** La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV07-02** Un jardinier plante 5 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
-- **DEV07-03** Un jardinier plante 6 rangées de 4 fleurs. Combien plante-t-il de fleurs ?
-- **DEV07-04** Un jardinier plante 4 rangées de 2 fleurs. Combien plante-t-il de fleurs ?
-- **DEV07-05** Il y a 4 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
-
-### DEV08
-
-- **DEV08-01** La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV08-02** Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
-- **DEV08-03** La classe prépare 3 boites. Elle met 6 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV08-04** Un jardinier plante 5 rangées de 5 fleurs. Combien plante-t-il de fleurs ?
-- **DEV08-05** Il y a 5 équipes de 3 élèves. Combien d’élèves participent ?
-
-### DEV09
-
-- **DEV09-01** La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV09-02** Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV09-03** La classe prépare 5 boites. Elle met 4 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV09-04** Un jardinier plante 2 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
-- **DEV09-05** Il y a 6 équipes de 6 élèves. Combien d’élèves participent ?
-
-### DEV10
-
-- **DEV10-01** Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV10-02** Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV10-03** La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
-- **DEV10-04** Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
-- **DEV10-05** Un jardinier plante 4 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
+### Devoir 10
+- Il y a 4 sachets de 4 billes chacun. Combien y a-t-il de billes en tout ?
+- Il y a 5 sachets de 3 billes chacun. Combien y a-t-il de billes en tout ?
+- La classe prépare 2 boites. Elle met 2 crayons dans chaque boite. Combien faut-il de crayons ?
+- Il y a 3 sachets de 5 billes chacun. Combien y a-t-il de billes en tout ?
+- Un jardinier plante 4 rangées de 3 fleurs. Combien plante-t-il de fleurs ?
 
 ## Corrections
 
@@ -365,259 +332,229 @@ La formulation de la phrase peut varier. Accepter toute phrase qui donne le rés
 
 ### Correction — À toi de jouer
 
-- **IMM01** 4 × 3 = 12. Il y a 12 éléments en tout.
-- **IMM02** 4 × 4 = 16. Il y a 16 éléments en tout.
-- **IMM03** 4 × 5 = 20. Il y a 20 éléments en tout.
-- **IMM04** 4 × 6 = 24. Il y a 24 éléments en tout.
-- **IMM05** 5 × 2 = 10. Il y a 10 éléments en tout.
-- **IMM06** 5 × 3 = 15. Il y a 15 éléments en tout.
-- **IMM07** 5 × 4 = 20. Il y a 20 éléments en tout.
+- 4 × 3 = 12. Il y a 12 éléments en tout.
+- 4 × 4 = 16. Il y a 16 éléments en tout.
+- 4 × 5 = 20. Il y a 20 éléments en tout.
+- 4 × 6 = 24. Il y a 24 éléments en tout.
+- 5 × 2 = 10. Il y a 10 éléments en tout.
+- 5 × 3 = 15. Il y a 15 éléments en tout.
+- 5 × 4 = 20. Il y a 20 éléments en tout.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- 3 × 5 = 15. Il y a 15 éléments en tout.
+- 3 × 6 = 18. Il y a 18 éléments en tout.
+- 4 × 2 = 8. Il y a 8 éléments en tout.
+- 4 × 3 = 12. Il y a 12 éléments en tout.
+- 4 × 4 = 16. Il y a 16 éléments en tout.
 
-- **ENT01-01** 3 × 5 = 15. Il y a 15 éléments en tout.
-- **ENT01-02** 3 × 6 = 18. Il y a 18 éléments en tout.
-- **ENT01-03** 4 × 2 = 8. Il y a 8 éléments en tout.
-- **ENT01-04** 4 × 3 = 12. Il y a 12 éléments en tout.
-- **ENT01-05** 4 × 4 = 16. Il y a 16 éléments en tout.
+#### Entraînement 2
+- 5 × 2 = 10. Il y a 10 éléments en tout.
+- 5 × 3 = 15. Il y a 15 éléments en tout.
+- 5 × 4 = 20. Il y a 20 éléments en tout.
+- 5 × 5 = 25. Il y a 25 éléments en tout.
+- 5 × 6 = 30. Il y a 30 éléments en tout.
 
-#### ENT02
+#### Entraînement 3
+- 6 × 4 = 24. Il y a 24 éléments en tout.
+- 6 × 5 = 30. Il y a 30 éléments en tout.
+- 6 × 6 = 36. Il y a 36 éléments en tout.
+- 2 × 2 = 4. Il y a 4 éléments en tout.
+- 2 × 3 = 6. Il y a 6 éléments en tout.
 
-- **ENT02-01** 5 × 2 = 10. Il y a 10 éléments en tout.
-- **ENT02-02** 5 × 3 = 15. Il y a 15 éléments en tout.
-- **ENT02-03** 5 × 4 = 20. Il y a 20 éléments en tout.
-- **ENT02-04** 5 × 5 = 25. Il y a 25 éléments en tout.
-- **ENT02-05** 5 × 6 = 30. Il y a 30 éléments en tout.
+#### Entraînement 4
+- 9 × 6 = 54. Il y a 54 éléments en tout.
+- 9 × 7 = 63. Il y a 63 éléments en tout.
+- 9 × 8 = 72. Il y a 72 éléments en tout.
+- 9 × 9 = 81. Il y a 81 éléments en tout.
+- 3 × 7 = 21. Il y a 21 éléments en tout.
 
-#### ENT03
+#### Entraînement 5
+- 4 × 7 = 28. Il y a 28 éléments en tout.
+- 4 × 8 = 32. Il y a 32 éléments en tout.
+- 4 × 9 = 36. Il y a 36 éléments en tout.
+- 5 × 7 = 35. Il y a 35 éléments en tout.
+- 5 × 8 = 40. Il y a 40 éléments en tout.
 
-- **ENT03-01** 6 × 4 = 24. Il y a 24 éléments en tout.
-- **ENT03-02** 6 × 5 = 30. Il y a 30 éléments en tout.
-- **ENT03-03** 6 × 6 = 36. Il y a 36 éléments en tout.
-- **ENT03-04** 2 × 2 = 4. Il y a 4 éléments en tout.
-- **ENT03-05** 2 × 3 = 6. Il y a 6 éléments en tout.
+#### Entraînement 6
+- 6 × 8 = 48. Il y a 48 éléments en tout.
+- 6 × 9 = 54. Il y a 54 éléments en tout.
+- 7 × 3 = 21. Il y a 21 éléments en tout.
+- 7 × 4 = 28. Il y a 28 éléments en tout.
+- 7 × 5 = 35. Il y a 35 éléments en tout.
 
-#### ENT04
+#### Entraînement 7
+- 7 × 8 = 56. Il y a 56 éléments en tout.
+- 7 × 9 = 63. Il y a 63 éléments en tout.
+- 8 × 3 = 24. Il y a 24 éléments en tout.
+- 8 × 4 = 32. Il y a 32 éléments en tout.
+- 8 × 5 = 40. Il y a 40 éléments en tout.
 
-- **ENT04-01** 9 × 6 = 54. Il y a 54 éléments en tout.
-- **ENT04-02** 9 × 7 = 63. Il y a 63 éléments en tout.
-- **ENT04-03** 9 × 8 = 72. Il y a 72 éléments en tout.
-- **ENT04-04** 9 × 9 = 81. Il y a 81 éléments en tout.
-- **ENT04-05** 3 × 7 = 21. Il y a 21 éléments en tout.
+#### Entraînement 8
+- 5 × 20 = 100. Il y a 100 éléments en tout.
+- 20 × 5 = 100. Il y a 100 éléments en tout.
+- 20 × 4 = 80. Il y a 80 éléments en tout.
+- 10 × 6 = 60. Il y a 60 éléments en tout.
+- 10 × 7 = 70. Il y a 70 éléments en tout.
 
-#### ENT05
+#### Entraînement 9
+- 10 × 10 = 100. Il y a 100 éléments en tout.
+- 6 × 10 = 60. Il y a 60 éléments en tout.
+- 7 × 10 = 70. Il y a 70 éléments en tout.
+- 8 × 10 = 80. Il y a 80 éléments en tout.
+- 9 × 10 = 90. Il y a 90 éléments en tout.
 
-- **ENT05-01** 4 × 7 = 28. Il y a 28 éléments en tout.
-- **ENT05-02** 4 × 8 = 32. Il y a 32 éléments en tout.
-- **ENT05-03** 4 × 9 = 36. Il y a 36 éléments en tout.
-- **ENT05-04** 5 × 7 = 35. Il y a 35 éléments en tout.
-- **ENT05-05** 5 × 8 = 40. Il y a 40 éléments en tout.
-
-#### ENT06
-
-- **ENT06-01** 6 × 8 = 48. Il y a 48 éléments en tout.
-- **ENT06-02** 6 × 9 = 54. Il y a 54 éléments en tout.
-- **ENT06-03** 7 × 3 = 21. Il y a 21 éléments en tout.
-- **ENT06-04** 7 × 4 = 28. Il y a 28 éléments en tout.
-- **ENT06-05** 7 × 5 = 35. Il y a 35 éléments en tout.
-
-#### ENT07
-
-- **ENT07-01** 7 × 8 = 56. Il y a 56 éléments en tout.
-- **ENT07-02** 7 × 9 = 63. Il y a 63 éléments en tout.
-- **ENT07-03** 8 × 3 = 24. Il y a 24 éléments en tout.
-- **ENT07-04** 8 × 4 = 32. Il y a 32 éléments en tout.
-- **ENT07-05** 8 × 5 = 40. Il y a 40 éléments en tout.
-
-#### ENT08
-
-- **ENT08-01** 5 × 20 = 100. Il y a 100 éléments en tout.
-- **ENT08-02** 20 × 5 = 100. Il y a 100 éléments en tout.
-- **ENT08-03** 20 × 4 = 80. Il y a 80 éléments en tout.
-- **ENT08-04** 10 × 6 = 60. Il y a 60 éléments en tout.
-- **ENT08-05** 10 × 7 = 70. Il y a 70 éléments en tout.
-
-#### ENT09
-
-- **ENT09-01** 10 × 10 = 100. Il y a 100 éléments en tout.
-- **ENT09-02** 6 × 10 = 60. Il y a 60 éléments en tout.
-- **ENT09-03** 7 × 10 = 70. Il y a 70 éléments en tout.
-- **ENT09-04** 8 × 10 = 80. Il y a 80 éléments en tout.
-- **ENT09-05** 9 × 10 = 90. Il y a 90 éléments en tout.
-
-#### ENT10
-
-- **ENT10-01** 25 × 4 = 100. Il y a 100 éléments en tout.
-- **ENT10-02** 5 × 20 = 100. Il y a 100 éléments en tout.
-- **ENT10-03** 20 × 5 = 100. Il y a 100 éléments en tout.
-- **ENT10-04** 20 × 4 = 80. Il y a 80 éléments en tout.
-- **ENT10-05** 10 × 6 = 60. Il y a 60 éléments en tout.
+#### Entraînement 10
+- 25 × 4 = 100. Il y a 100 éléments en tout.
+- 5 × 20 = 100. Il y a 100 éléments en tout.
+- 20 × 5 = 100. Il y a 100 éléments en tout.
+- 20 × 4 = 80. Il y a 80 éléments en tout.
+- 10 × 6 = 60. Il y a 60 éléments en tout.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- 7 × 8 = 56. Il y a 56 éléments en tout.
+- 6 × 10 = 60. Il y a 60 éléments en tout.
+- 9 × 8 = 72. Il y a 72 éléments en tout.
+- 7 × 9 = 63. Il y a 63 éléments en tout.
+- 4 × 7 = 28. Il y a 28 éléments en tout.
 
-- **EVAL01-01** 7 × 8 = 56. Il y a 56 éléments en tout.
-- **EVAL01-02** 6 × 10 = 60. Il y a 60 éléments en tout.
-- **EVAL01-03** 9 × 8 = 72. Il y a 72 éléments en tout.
-- **EVAL01-04** 7 × 9 = 63. Il y a 63 éléments en tout.
-- **EVAL01-05** 4 × 7 = 28. Il y a 28 éléments en tout.
+#### Évaluation 2
+- 20 × 5 = 100. Il y a 100 éléments en tout.
+- 20 × 5 = 100. Il y a 100 éléments en tout.
+- 5 × 7 = 35. Il y a 35 éléments en tout.
+- 7 × 10 = 70. Il y a 70 éléments en tout.
+- 4 × 8 = 32. Il y a 32 éléments en tout.
 
-#### EVAL02
+#### Évaluation 3
+- 7 × 10 = 70. Il y a 70 éléments en tout.
+- 9 × 9 = 81. Il y a 81 éléments en tout.
+- 7 × 5 = 35. Il y a 35 éléments en tout.
+- 8 × 4 = 32. Il y a 32 éléments en tout.
+- 4 × 9 = 36. Il y a 36 éléments en tout.
 
-- **EVAL02-01** 20 × 5 = 100. Il y a 100 éléments en tout.
-- **EVAL02-02** 20 × 5 = 100. Il y a 100 éléments en tout.
-- **EVAL02-03** 5 × 7 = 35. Il y a 35 éléments en tout.
-- **EVAL02-04** 7 × 10 = 70. Il y a 70 éléments en tout.
-- **EVAL02-05** 4 × 8 = 32. Il y a 32 éléments en tout.
+#### Évaluation 4
+- 20 × 4 = 80. Il y a 80 éléments en tout.
+- 5 × 8 = 40. Il y a 40 éléments en tout.
+- 7 × 8 = 56. Il y a 56 éléments en tout.
+- 8 × 5 = 40. Il y a 40 éléments en tout.
+- 5 × 7 = 35. Il y a 35 éléments en tout.
 
-#### EVAL03
+#### Évaluation 5
+- 3 × 7 = 21. Il y a 21 éléments en tout.
+- 6 × 8 = 48. Il y a 48 éléments en tout.
+- 20 × 5 = 100. Il y a 100 éléments en tout.
+- 8 × 6 = 48. Il y a 48 éléments en tout.
+- 5 × 8 = 40. Il y a 40 éléments en tout.
 
-- **EVAL03-01** 7 × 10 = 70. Il y a 70 éléments en tout.
-- **EVAL03-02** 9 × 9 = 81. Il y a 81 éléments en tout.
-- **EVAL03-03** 7 × 5 = 35. Il y a 35 éléments en tout.
-- **EVAL03-04** 8 × 4 = 32. Il y a 32 éléments en tout.
-- **EVAL03-05** 4 × 9 = 36. Il y a 36 éléments en tout.
+#### Évaluation 6
+- 4 × 7 = 28. Il y a 28 éléments en tout.
+- 7 × 9 = 63. Il y a 63 éléments en tout.
+- 7 × 10 = 70. Il y a 70 éléments en tout.
+- 7 × 9 = 63. Il y a 63 éléments en tout.
+- 5 × 9 = 45. Il y a 45 éléments en tout.
 
-#### EVAL04
+#### Évaluation 7
+- 6 × 9 = 54. Il y a 54 éléments en tout.
+- 20 × 4 = 80. Il y a 80 éléments en tout.
+- 20 × 4 = 80. Il y a 80 éléments en tout.
+- 7 × 10 = 70. Il y a 70 éléments en tout.
+- 6 × 7 = 42. Il y a 42 éléments en tout.
 
-- **EVAL04-01** 20 × 4 = 80. Il y a 80 éléments en tout.
-- **EVAL04-02** 5 × 8 = 40. Il y a 40 éléments en tout.
-- **EVAL04-03** 7 × 8 = 56. Il y a 56 éléments en tout.
-- **EVAL04-04** 8 × 5 = 40. Il y a 40 éléments en tout.
-- **EVAL04-05** 5 × 7 = 35. Il y a 35 éléments en tout.
+#### Évaluation 8
+- 8 × 3 = 24. Il y a 24 éléments en tout.
+- 8 × 10 = 80. Il y a 80 éléments en tout.
+- 3 × 7 = 21. Il y a 21 éléments en tout.
+- 8 × 4 = 32. Il y a 32 éléments en tout.
+- 6 × 8 = 48. Il y a 48 éléments en tout.
 
-#### EVAL05
+#### Évaluation 9
+- 10 × 6 = 60. Il y a 60 éléments en tout.
+- 10 × 6 = 60. Il y a 60 éléments en tout.
+- 4 × 7 = 28. Il y a 28 éléments en tout.
+- 8 × 5 = 40. Il y a 40 éléments en tout.
+- 6 × 9 = 54. Il y a 54 éléments en tout.
 
-- **EVAL05-01** 3 × 7 = 21. Il y a 21 éléments en tout.
-- **EVAL05-02** 6 × 8 = 48. Il y a 48 éléments en tout.
-- **EVAL05-03** 20 × 5 = 100. Il y a 100 éléments en tout.
-- **EVAL05-04** 8 × 6 = 48. Il y a 48 éléments en tout.
-- **EVAL05-05** 5 × 8 = 40. Il y a 40 éléments en tout.
-
-#### EVAL06
-
-- **EVAL06-01** 4 × 7 = 28. Il y a 28 éléments en tout.
-- **EVAL06-02** 7 × 9 = 63. Il y a 63 éléments en tout.
-- **EVAL06-03** 7 × 10 = 70. Il y a 70 éléments en tout.
-- **EVAL06-04** 7 × 9 = 63. Il y a 63 éléments en tout.
-- **EVAL06-05** 5 × 9 = 45. Il y a 45 éléments en tout.
-
-#### EVAL07
-
-- **EVAL07-01** 6 × 9 = 54. Il y a 54 éléments en tout.
-- **EVAL07-02** 20 × 4 = 80. Il y a 80 éléments en tout.
-- **EVAL07-03** 20 × 4 = 80. Il y a 80 éléments en tout.
-- **EVAL07-04** 7 × 10 = 70. Il y a 70 éléments en tout.
-- **EVAL07-05** 6 × 7 = 42. Il y a 42 éléments en tout.
-
-#### EVAL08
-
-- **EVAL08-01** 8 × 3 = 24. Il y a 24 éléments en tout.
-- **EVAL08-02** 8 × 10 = 80. Il y a 80 éléments en tout.
-- **EVAL08-03** 3 × 7 = 21. Il y a 21 éléments en tout.
-- **EVAL08-04** 8 × 4 = 32. Il y a 32 éléments en tout.
-- **EVAL08-05** 6 × 8 = 48. Il y a 48 éléments en tout.
-
-#### EVAL09
-
-- **EVAL09-01** 10 × 6 = 60. Il y a 60 éléments en tout.
-- **EVAL09-02** 10 × 6 = 60. Il y a 60 éléments en tout.
-- **EVAL09-03** 4 × 7 = 28. Il y a 28 éléments en tout.
-- **EVAL09-04** 8 × 5 = 40. Il y a 40 éléments en tout.
-- **EVAL09-05** 6 × 9 = 54. Il y a 54 éléments en tout.
-
-#### EVAL10
-
-- **EVAL10-01** 9 × 10 = 90. Il y a 90 éléments en tout.
-- **EVAL10-02** 9 × 6 = 54. Il y a 54 éléments en tout.
-- **EVAL10-03** 6 × 9 = 54. Il y a 54 éléments en tout.
-- **EVAL10-04** 8 × 6 = 48. Il y a 48 éléments en tout.
-- **EVAL10-05** 7 × 3 = 21. Il y a 21 éléments en tout.
+#### Évaluation 10
+- 9 × 10 = 90. Il y a 90 éléments en tout.
+- 9 × 6 = 54. Il y a 54 éléments en tout.
+- 6 × 9 = 54. Il y a 54 éléments en tout.
+- 8 × 6 = 48. Il y a 48 éléments en tout.
+- 7 × 3 = 21. Il y a 21 éléments en tout.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- 3 × 5 = 15. Il y a 15 éléments en tout.
+- 5 × 4 = 20. Il y a 20 éléments en tout.
+- 2 × 3 = 6. Il y a 6 éléments en tout.
+- 3 × 6 = 18. Il y a 18 éléments en tout.
+- 4 × 4 = 16. Il y a 16 éléments en tout.
 
-- **DEV01-01** 3 × 5 = 15. Il y a 15 éléments en tout.
-- **DEV01-02** 5 × 4 = 20. Il y a 20 éléments en tout.
-- **DEV01-03** 2 × 3 = 6. Il y a 6 éléments en tout.
-- **DEV01-04** 3 × 6 = 18. Il y a 18 éléments en tout.
-- **DEV01-05** 4 × 4 = 16. Il y a 16 éléments en tout.
+#### Devoir 2
+- 5 × 3 = 15. Il y a 15 éléments en tout.
+- 2 × 2 = 4. Il y a 4 éléments en tout.
+- 3 × 5 = 15. Il y a 15 éléments en tout.
+- 5 × 4 = 20. Il y a 20 éléments en tout.
+- 5 × 7 = 35. Il y a 35 éléments en tout.
 
-#### DEV02
+#### Devoir 3
+- 6 × 6 = 36. Il y a 36 éléments en tout.
+- 4 × 4 = 16. Il y a 16 éléments en tout.
+- 5 × 3 = 15. Il y a 15 éléments en tout.
+- 2 × 2 = 4. Il y a 4 éléments en tout.
+- 6 × 5 = 30. Il y a 30 éléments en tout.
 
-- **DEV02-01** 5 × 3 = 15. Il y a 15 éléments en tout.
-- **DEV02-02** 2 × 2 = 4. Il y a 4 éléments en tout.
-- **DEV02-03** 3 × 5 = 15. Il y a 15 éléments en tout.
-- **DEV02-04** 5 × 4 = 20. Il y a 20 éléments en tout.
-- **DEV02-05** 5 × 7 = 35. Il y a 35 éléments en tout.
+#### Devoir 4
+- 4 × 3 = 12. Il y a 12 éléments en tout.
+- 5 × 2 = 10. Il y a 10 éléments en tout.
+- 6 × 6 = 36. Il y a 36 éléments en tout.
+- 4 × 4 = 16. Il y a 16 éléments en tout.
+- 3 × 7 = 21. Il y a 21 éléments en tout.
 
-#### DEV03
+#### Devoir 5
+- 5 × 6 = 30. Il y a 30 éléments en tout.
+- 6 × 5 = 30. Il y a 30 éléments en tout.
+- 4 × 3 = 12. Il y a 12 éléments en tout.
+- 5 × 2 = 10. Il y a 10 éléments en tout.
+- 5 × 5 = 25. Il y a 25 éléments en tout.
 
-- **DEV03-01** 6 × 6 = 36. Il y a 36 éléments en tout.
-- **DEV03-02** 4 × 4 = 16. Il y a 16 éléments en tout.
-- **DEV03-03** 5 × 3 = 15. Il y a 15 éléments en tout.
-- **DEV03-04** 2 × 2 = 4. Il y a 4 éléments en tout.
-- **DEV03-05** 6 × 5 = 30. Il y a 30 éléments en tout.
+#### Devoir 6
+- 6 × 4 = 24. Il y a 24 éléments en tout.
+- 4 × 2 = 8. Il y a 8 éléments en tout.
+- 5 × 6 = 30. Il y a 30 éléments en tout.
+- 6 × 5 = 30. Il y a 30 éléments en tout.
+- 2 × 3 = 6. Il y a 6 éléments en tout.
 
-#### DEV04
+#### Devoir 7
+- 3 × 6 = 18. Il y a 18 éléments en tout.
+- 5 × 5 = 25. Il y a 25 éléments en tout.
+- 6 × 4 = 24. Il y a 24 éléments en tout.
+- 4 × 2 = 8. Il y a 8 éléments en tout.
+- 4 × 5 = 20. Il y a 20 éléments en tout.
 
-- **DEV04-01** 4 × 3 = 12. Il y a 12 éléments en tout.
-- **DEV04-02** 5 × 2 = 10. Il y a 10 éléments en tout.
-- **DEV04-03** 6 × 6 = 36. Il y a 36 éléments en tout.
-- **DEV04-04** 4 × 4 = 16. Il y a 16 éléments en tout.
-- **DEV04-05** 3 × 7 = 21. Il y a 21 éléments en tout.
+#### Devoir 8
+- 5 × 4 = 20. Il y a 20 éléments en tout.
+- 2 × 3 = 6. Il y a 6 éléments en tout.
+- 3 × 6 = 18. Il y a 18 éléments en tout.
+- 5 × 5 = 25. Il y a 25 éléments en tout.
+- 5 × 3 = 15. Il y a 15 éléments en tout.
 
-#### DEV05
+#### Devoir 9
+- 2 × 2 = 4. Il y a 4 éléments en tout.
+- 3 × 5 = 15. Il y a 15 éléments en tout.
+- 5 × 4 = 20. Il y a 20 éléments en tout.
+- 2 × 3 = 6. Il y a 6 éléments en tout.
+- 6 × 6 = 36. Il y a 36 éléments en tout.
 
-- **DEV05-01** 5 × 6 = 30. Il y a 30 éléments en tout.
-- **DEV05-02** 6 × 5 = 30. Il y a 30 éléments en tout.
-- **DEV05-03** 4 × 3 = 12. Il y a 12 éléments en tout.
-- **DEV05-04** 5 × 2 = 10. Il y a 10 éléments en tout.
-- **DEV05-05** 5 × 5 = 25. Il y a 25 éléments en tout.
-
-#### DEV06
-
-- **DEV06-01** 6 × 4 = 24. Il y a 24 éléments en tout.
-- **DEV06-02** 4 × 2 = 8. Il y a 8 éléments en tout.
-- **DEV06-03** 5 × 6 = 30. Il y a 30 éléments en tout.
-- **DEV06-04** 6 × 5 = 30. Il y a 30 éléments en tout.
-- **DEV06-05** 2 × 3 = 6. Il y a 6 éléments en tout.
-
-#### DEV07
-
-- **DEV07-01** 3 × 6 = 18. Il y a 18 éléments en tout.
-- **DEV07-02** 5 × 5 = 25. Il y a 25 éléments en tout.
-- **DEV07-03** 6 × 4 = 24. Il y a 24 éléments en tout.
-- **DEV07-04** 4 × 2 = 8. Il y a 8 éléments en tout.
-- **DEV07-05** 4 × 5 = 20. Il y a 20 éléments en tout.
-
-#### DEV08
-
-- **DEV08-01** 5 × 4 = 20. Il y a 20 éléments en tout.
-- **DEV08-02** 2 × 3 = 6. Il y a 6 éléments en tout.
-- **DEV08-03** 3 × 6 = 18. Il y a 18 éléments en tout.
-- **DEV08-04** 5 × 5 = 25. Il y a 25 éléments en tout.
-- **DEV08-05** 5 × 3 = 15. Il y a 15 éléments en tout.
-
-#### DEV09
-
-- **DEV09-01** 2 × 2 = 4. Il y a 4 éléments en tout.
-- **DEV09-02** 3 × 5 = 15. Il y a 15 éléments en tout.
-- **DEV09-03** 5 × 4 = 20. Il y a 20 éléments en tout.
-- **DEV09-04** 2 × 3 = 6. Il y a 6 éléments en tout.
-- **DEV09-05** 6 × 6 = 36. Il y a 36 éléments en tout.
-
-#### DEV10
-
-- **DEV10-01** 4 × 4 = 16. Il y a 16 éléments en tout.
-- **DEV10-02** 5 × 3 = 15. Il y a 15 éléments en tout.
-- **DEV10-03** 2 × 2 = 4. Il y a 4 éléments en tout.
-- **DEV10-04** 3 × 5 = 15. Il y a 15 éléments en tout.
-- **DEV10-05** 4 × 3 = 12. Il y a 12 éléments en tout.
+#### Devoir 10
+- 4 × 4 = 16. Il y a 16 éléments en tout.
+- 5 × 3 = 15. Il y a 15 éléments en tout.
+- 2 × 2 = 4. Il y a 4 éléments en tout.
+- 3 × 5 = 15. Il y a 15 éléments en tout.
+- 4 × 3 = 12. Il y a 12 éléments en tout.
 
 ## Traçabilité des évaluations et devoirs
 

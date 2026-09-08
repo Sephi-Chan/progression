@@ -55,23 +55,23 @@ La réponse d’un mot isole la relation forme conjuguée–infinitif et se corr
 
 ## Modelage explicite — 3 items
 
-**MOD01 — modelage complet.** « Lina **chante** doucement. » Attirer l’attention sur **chante**. Dire : « Ce mot dit l’action. Je dis *il faut chanter*. *Chanter* nomme la même action et finit par *-er*. » **Réponse :** *chanter*. **Contrôle :** « Il faut chanter » est correct et *chant-* est conservé.
+— modelage complet.** « Lina **chante** doucement. » Attirer l’attention sur **chante**. Dire : « Ce mot dit l’action. Je dis *il faut chanter*. *Chanter* nomme la même action et finit par *-er*. » **Réponse :** *chanter*. **Contrôle :** « Il faut chanter » est correct et *chant-* est conservé.
 
-**MOD02 — modelage interactif.** « Les enfants **jouent** dehors. » Faire pointer **jouent** et demander : « Quelle action ? Que dit-on après *il faut* ? Quelle fin écrit-on ? » **Réponse :** *jouer*. **Contrôle :** même action ; fin *-er*.
+— modelage interactif.** « Les enfants **jouent** dehors. » Faire pointer **jouent** et demander : « Quelle action ? Que dit-on après *il faut* ? Quelle fin écrit-on ? » **Réponse :** *jouer*. **Contrôle :** même action ; fin *-er*.
 
-**MOD03 — guidage allégé.** « Tu **fermes** la porte. » Demander à un élève d’appliquer les quatre gestes : lire, dire *il faut*, écrire, relire. **Réponse :** *fermer*. **Contrôle :** *Il faut fermer* convient à la phrase.
+— guidage allégé.** « Tu **fermes** la porte. » Demander à un élève d’appliquer les quatre gestes : lire, dire *il faut*, écrire, relire. **Réponse :** *fermer*. **Contrôle :** *Il faut fermer* convient à la phrase.
 
 ## À toi de jouer — 7 items
 
 Consigne : **Lis la phrase. Écris l’infinitif du verbe en gras.**
 
-1. **IMM01** Le chat **grimpe** sur le mur.
-2. **IMM02** Nous **lavons** nos mains.
-3. **IMM03** Vous **regardez** le ciel.
-4. **IMM04** Je **dessine** une maison.
-5. **IMM05** Les oiseaux **volent** au-dessus du jardin.
-6. **IMM06** Tu **portes** ton sac.
-7. **IMM07** Mila et Noé **dansent** ensemble.
+1. Le chat **grimpe** sur le mur.
+2. Nous **lavons** nos mains.
+3. Vous **regardez** le ciel.
+4. Je **dessine** une maison.
+5. Les oiseaux **volent** au-dessus du jardin.
+6. Tu **portes** ton sac.
+7. Mila et Noé **dansent** ensemble.
 
 ## Variables didactiques
 
@@ -85,280 +85,249 @@ Consigne : **Lis la phrase. Écris l’infinitif du verbe en gras.**
 
 Consigne pour toutes les séries : **Lis chaque phrase. Écris l’infinitif du verbe en gras.**
 
-### ENT01
+### Entraînement 1
+1. Léa **parle** doucement.
+2. Tom **saute** haut.
+3. Je **chante** juste.
+4. Tu **marches** vite.
+5. Il **dessine** bien.
+6. Elle **ferme** la boîte.
+7. Nous **jouons** dehors.
+8. Vous **lavez** la table.
 
-1. **ENT01-01** Léa **parle** doucement.
-2. **ENT01-02** Tom **saute** haut.
-3. **ENT01-03** Je **chante** juste.
-4. **ENT01-04** Tu **marches** vite.
-5. **ENT01-05** Il **dessine** bien.
-6. **ENT01-06** Elle **ferme** la boîte.
-7. **ENT01-07** Nous **jouons** dehors.
-8. **ENT01-08** Vous **lavez** la table.
+### Entraînement 2
+1. Je **porte** un panier.
+2. Tu **colles** une image.
+3. Il **range** ses cartes.
+4. Elle **tourne** la page.
+5. Nous **gardons** le ballon.
+6. Vous **aidez** Lina.
+7. Ils **dansent** en rond.
+8. Elles **volent** très haut.
 
-### ENT02
+### Entraînement 3
+1. Le chien **cherche** sa balle.
+2. La cloche **sonne** à midi.
+3. Les élèves **copient** la date.
+4. Mon frère **raconte** une histoire.
+5. Nous **visitons** le musée.
+6. Vous **écoutez** la consigne.
+7. Tu **montres** ton cahier.
+8. Je **demande** un crayon.
 
-1. **ENT02-01** Je **porte** un panier.
-2. **ENT02-02** Tu **colles** une image.
-3. **ENT02-03** Il **range** ses cartes.
-4. **ENT02-04** Elle **tourne** la page.
-5. **ENT02-05** Nous **gardons** le ballon.
-6. **ENT02-06** Vous **aidez** Lina.
-7. **ENT02-07** Ils **dansent** en rond.
-8. **ENT02-08** Elles **volent** très haut.
+### Entraînement 4
+1. Dans la cour, Sami **attrape** le ballon.
+2. Le matin, nous **entrons** en classe.
+3. Sur la vitre, la pluie **dessine** des traits.
+4. Après le repas, vous **rangez** les verres.
+5. Les deux amis **partagent** leurs cartes.
+6. Tu **prépares** ton cartable.
+7. Au tableau, je **trace** un cercle.
+8. Sous la table, le chat **observe** nos pieds.
 
-### ENT03
+### Entraînement 5
+1. Chaque soir, papa **raconte** un conte.
+2. Dans le jardin, les enfants **ramassent** les feuilles.
+3. Avec soin, tu **découpes** la forme.
+4. Près du portail, nous **attendons** le car.
+5. La gardienne **allume** la lampe.
+6. Vous **terminez** votre puzzle.
+7. Au loin, je **regarde** la montagne.
+8. Les vagues **effacent** nos traces.
 
-1. **ENT03-01** Le chien **cherche** sa balle.
-2. **ENT03-02** La cloche **sonne** à midi.
-3. **ENT03-03** Les élèves **copient** la date.
-4. **ENT03-04** Mon frère **raconte** une histoire.
-5. **ENT03-05** Nous **visitons** le musée.
-6. **ENT03-06** Vous **écoutez** la consigne.
-7. **ENT03-07** Tu **montres** ton cahier.
-8. **ENT03-08** Je **demande** un crayon.
+### Entraînement 6
+1. Au signal, les coureurs **démarrent** ensemble.
+2. Sans bruit, elle **referme** le livre.
+3. Dans son carnet, Hugo **note** une idée.
+4. Pour la fête, nous **décorons** la salle.
+5. Avec une loupe, vous **observez** la fourmi.
+6. Au bord du chemin, tu **ramasses** un galet.
+7. Chaque matin, le boulanger **prépare** le pain.
+8. Après l’orage, le soleil **éclaire** la cour.
 
-### ENT04
+### Entraînement 7
+1. Dans le couloir, les enfants **avancent** calmement.
+2. Avec sa règle, Inès **mesure** le trait.
+3. Pour répondre, vous **levez** la main.
+4. Avant de sortir, nous **vérifions** nos sacs.
+5. Sur l’affiche, je **repère** la date.
+6. Au fond du jardin, une cabane **abrite** les outils.
+7. Tu **compares** les deux dessins.
+8. Les musiciens **accordent** leurs instruments.
 
-1. **ENT04-01** Dans la cour, Sami **attrape** le ballon.
-2. **ENT04-02** Le matin, nous **entrons** en classe.
-3. **ENT04-03** Sur la vitre, la pluie **dessine** des traits.
-4. **ENT04-04** Après le repas, vous **rangez** les verres.
-5. **ENT04-05** Les deux amis **partagent** leurs cartes.
-6. **ENT04-06** Tu **prépares** ton cartable.
-7. **ENT04-07** Au tableau, je **trace** un cercle.
-8. **ENT04-08** Sous la table, le chat **observe** nos pieds.
+### Entraînement 8
+1. Au milieu de la place, la fontaine **domine** le bassin.
+2. Après la récréation, les élèves **retrouvent** leur calme.
+3. Sans hésiter, vous **acceptez** la mission.
+4. Dans le silence, nous **distinguons** un bruit lointain.
+5. Sous son manteau, Amir **protège** le dessin.
+6. À la fin, tu **complètes** la dernière case.
+7. Devant le groupe, je **présente** notre affiche.
+8. Le vent **transporte** les graines au loin.
 
-### ENT05
+### Entraînement 9
+1. Pendant l’expérience, les enfants **respectent** les consignes.
+2. Au-dessus des arbres, un nuage **cache** le soleil.
+3. Avec patience, nous **assemblons** les pièces.
+4. Sur le plan, vous **localisez** l’école.
+5. Dans sa réponse, Lina **explique** son choix.
+6. Près de la fenêtre, tu **installes** la plante.
+7. Après plusieurs essais, je **termine** le montage.
+8. Le long du sentier, des panneaux **indiquent** la direction.
 
-1. **ENT05-01** Chaque soir, papa **raconte** un conte.
-2. **ENT05-02** Dans le jardin, les enfants **ramassent** les feuilles.
-3. **ENT05-03** Avec soin, tu **découpes** la forme.
-4. **ENT05-04** Près du portail, nous **attendons** le car.
-5. **ENT05-05** La gardienne **allume** la lampe.
-6. **ENT05-06** Vous **terminez** votre puzzle.
-7. **ENT05-07** Au loin, je **regarde** la montagne.
-8. **ENT05-08** Les vagues **effacent** nos traces.
-
-### ENT06
-
-1. **ENT06-01** Au signal, les coureurs **démarrent** ensemble.
-2. **ENT06-02** Sans bruit, elle **referme** le livre.
-3. **ENT06-03** Dans son carnet, Hugo **note** une idée.
-4. **ENT06-04** Pour la fête, nous **décorons** la salle.
-5. **ENT06-05** Avec une loupe, vous **observez** la fourmi.
-6. **ENT06-06** Au bord du chemin, tu **ramasses** un galet.
-7. **ENT06-07** Chaque matin, le boulanger **prépare** le pain.
-8. **ENT06-08** Après l’orage, le soleil **éclaire** la cour.
-
-### ENT07
-
-1. **ENT07-01** Dans le couloir, les enfants **avancent** calmement.
-2. **ENT07-02** Avec sa règle, Inès **mesure** le trait.
-3. **ENT07-03** Pour répondre, vous **levez** la main.
-4. **ENT07-04** Avant de sortir, nous **vérifions** nos sacs.
-5. **ENT07-05** Sur l’affiche, je **repère** la date.
-6. **ENT07-06** Au fond du jardin, une cabane **abrite** les outils.
-7. **ENT07-07** Tu **compares** les deux dessins.
-8. **ENT07-08** Les musiciens **accordent** leurs instruments.
-
-### ENT08
-
-1. **ENT08-01** Au milieu de la place, la fontaine **domine** le bassin.
-2. **ENT08-02** Après la récréation, les élèves **retrouvent** leur calme.
-3. **ENT08-03** Sans hésiter, vous **acceptez** la mission.
-4. **ENT08-04** Dans le silence, nous **distinguons** un bruit lointain.
-5. **ENT08-05** Sous son manteau, Amir **protège** le dessin.
-6. **ENT08-06** À la fin, tu **complètes** la dernière case.
-7. **ENT08-07** Devant le groupe, je **présente** notre affiche.
-8. **ENT08-08** Le vent **transporte** les graines au loin.
-
-### ENT09
-
-1. **ENT09-01** Pendant l’expérience, les enfants **respectent** les consignes.
-2. **ENT09-02** Au-dessus des arbres, un nuage **cache** le soleil.
-3. **ENT09-03** Avec patience, nous **assemblons** les pièces.
-4. **ENT09-04** Sur le plan, vous **localisez** l’école.
-5. **ENT09-05** Dans sa réponse, Lina **explique** son choix.
-6. **ENT09-06** Près de la fenêtre, tu **installes** la plante.
-7. **ENT09-07** Après plusieurs essais, je **termine** le montage.
-8. **ENT09-08** Le long du sentier, des panneaux **indiquent** la direction.
-
-### ENT10
-
-1. **ENT10-01** Avant le départ, la maîtresse **rappelle** les règles.
-2. **ENT10-02** Dans leur exposé, les élèves **présentent** trois animaux.
-3. **ENT10-03** Sans parler, vous **observez** les changements.
-4. **ENT10-04** À l’aide des indices, nous **retrouvons** le chemin.
-5. **ENT10-05** Sur une feuille, tu **représentes** le parcours.
-6. **ENT10-06** Dans la dernière phrase, je **remarque** un détail.
-7. **ENT10-07** Chaque semaine, le groupe **organise** son travail.
-8. **ENT10-08** Malgré le bruit, les enfants **écoutent** attentivement.
+### Entraînement 10
+1. Avant le départ, la maîtresse **rappelle** les règles.
+2. Dans leur exposé, les élèves **présentent** trois animaux.
+3. Sans parler, vous **observez** les changements.
+4. À l’aide des indices, nous **retrouvons** le chemin.
+5. Sur une feuille, tu **représentes** le parcours.
+6. Dans la dernière phrase, je **remarque** un détail.
+7. Chaque semaine, le groupe **organise** son travail.
+8. Malgré le bruit, les enfants **écoutent** attentivement.
 
 ## Évaluations
 
 Consigne pour toutes les formes : **Lis chaque phrase. Écris l’infinitif du verbe en gras.**
 
-### EVAL01
-1. **EVAL01-01** Tu **colles** une image.
-2. **EVAL01-02** Le matin, nous **entrons** dans la salle.
-3. **EVAL01-03** Les vagues **effacent** les traces.
-4. **EVAL01-04** Sur le plan, vous **localisez** la mairie.
-5. **EVAL01-05** Près du banc, Lila **retrouve** son bonnet.
+### Évaluation 11. **EVAL01-01** Tu **colles** une image.
+2. Le matin, nous **entrons** dans la salle.
+3. Les vagues **effacent** les traces.
+4. Sur le plan, vous **localisez** la mairie.
+5. Près du banc, Lila **retrouve** son bonnet.
 
-### EVAL02
-1. **EVAL02-01** Elle **tourne** la page.
-2. **EVAL02-02** Dans la cour, Sami **attrape** la balle.
-3. **EVAL02-03** Vous **terminez** le puzzle.
-4. **EVAL02-04** Sans parler, vous **observez** les changements.
-5. **EVAL02-05** Après la pluie, le jardin **brille** au soleil.
+### Évaluation 21. **EVAL02-01** Elle **tourne** la page.
+2. Dans la cour, Sami **attrape** la balle.
+3. Vous **terminez** le puzzle.
+4. Sans parler, vous **observez** les changements.
+5. Après la pluie, le jardin **brille** au soleil.
 
-### EVAL03
-1. **EVAL03-01** Les élèves **copient** la date.
-2. **EVAL03-02** Tu **prépares** ton sac.
-3. **EVAL03-03** Avec soin, tu **découpes** le carré.
-4. **EVAL03-04** Sur une feuille, tu **représentes** le chemin.
-5. **EVAL03-05** Au signal, Zoé **retourne** sa carte.
+### Évaluation 31. **EVAL03-01** Les élèves **copient** la date.
+2. Tu **prépares** ton sac.
+3. Avec soin, tu **découpes** le carré.
+4. Sur une feuille, tu **représentes** le chemin.
+5. Au signal, Zoé **retourne** sa carte.
 
-### EVAL04
-1. **EVAL04-01** Nous **visitons** le musée.
-2. **EVAL04-02** Au tableau, je **trace** un cercle.
-3. **EVAL04-03** Le soleil **éclaire** la cour.
-4. **EVAL04-04** Dans sa réponse, Lina **explique** son choix.
-5. **EVAL04-05** Dans le bus, Yanis **observe** les maisons.
+### Évaluation 41. **EVAL04-01** Nous **visitons** le musée.
+2. Au tableau, je **trace** un cercle.
+3. Le soleil **éclaire** la cour.
+4. Dans sa réponse, Lina **explique** son choix.
+5. Dans le bus, Yanis **observe** les maisons.
 
-### EVAL05
-1. **EVAL05-01** Je **demande** un crayon.
-2. **EVAL05-02** Les amis **partagent** leurs cartes.
-3. **EVAL05-03** La gardienne **allume** la lampe.
-4. **EVAL05-04** Les enfants **respectent** les consignes.
-5. **EVAL05-05** Sur la table, Nora **dispose** les jetons.
+### Évaluation 51. **EVAL05-01** Je **demande** un crayon.
+2. Les amis **partagent** leurs cartes.
+3. La gardienne **allume** la lampe.
+4. Les enfants **respectent** les consignes.
+5. Sur la table, Nora **dispose** les jetons.
 
-### EVAL06
-1. **EVAL06-01** Le chien **cherche** sa balle.
-2. **EVAL06-02** Tu **prépares** ton cartable.
-3. **EVAL06-03** Nous **assemblons** les pièces.
-4. **EVAL06-04** Les panneaux **indiquent** la direction.
-5. **EVAL06-05** Avant la classe, Malo **aère** la salle.
+### Évaluation 61. **EVAL06-01** Le chien **cherche** sa balle.
+2. Tu **prépares** ton cartable.
+3. Nous **assemblons** les pièces.
+4. Les panneaux **indiquent** la direction.
+5. Avant la classe, Malo **aère** la salle.
 
-### EVAL07
-1. **EVAL07-01** Vous **écoutez** la consigne.
-2. **EVAL07-02** Le chat **observe** nos pieds.
-3. **EVAL07-03** Tu **ramasses** un galet.
-4. **EVAL07-04** Le groupe **organise** son travail.
-5. **EVAL07-05** Au portail, les familles **patientent** calmement.
+### Évaluation 71. **EVAL07-01** Vous **écoutez** la consigne.
+2. Le chat **observe** nos pieds.
+3. Tu **ramasses** un galet.
+4. Le groupe **organise** son travail.
+5. Au portail, les familles **patientent** calmement.
 
-### EVAL08
-1. **EVAL08-01** Mon frère **raconte** une histoire.
-2. **EVAL08-02** Nous **entrons** en classe.
-3. **EVAL08-03** Tu **complètes** la dernière case.
-4. **EVAL08-04** Vous **localisez** l’école.
-5. **EVAL08-05** Dans le sable, Lou **dessine** une étoile.
+### Évaluation 81. **EVAL08-01** Mon frère **raconte** une histoire.
+2. Nous **entrons** en classe.
+3. Tu **complètes** la dernière case.
+4. Vous **localisez** l’école.
+5. Dans le sable, Lou **dessine** une étoile.
 
-### EVAL09
-1. **EVAL09-01** La cloche **sonne** à midi.
-2. **EVAL09-02** Nous **décorons** la salle.
-3. **EVAL09-03** Les enfants **avancent** calmement.
-4. **EVAL09-04** Je **remarque** un détail.
-5. **EVAL09-05** Sous le préau, les élèves **abritent** leurs dessins.
+### Évaluation 91. **EVAL09-01** La cloche **sonne** à midi.
+2. Nous **décorons** la salle.
+3. Les enfants **avancent** calmement.
+4. Je **remarque** un détail.
+5. Sous le préau, les élèves **abritent** leurs dessins.
 
-### EVAL10
-1. **EVAL10-01** Tu **montres** ton cahier.
-2. **EVAL10-02** Je **regarde** la montagne.
-3. **EVAL10-03** Vous **levez** la main.
-4. **EVAL10-04** Nous **retrouvons** le chemin.
-5. **EVAL10-05** Dans le calme, la classe **commence** son travail.
+### Évaluation 101. **EVAL10-01** Tu **montres** ton cahier.
+2. Je **regarde** la montagne.
+3. Vous **levez** la main.
+4. Nous **retrouvons** le chemin.
+5. Dans le calme, la classe **commence** son travail.
 
 ## Devoirs
 
 Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du verbe en gras.**
 
-### DEV01
-1. **DEV01-01** Léa **parle** doucement.
-2. **DEV01-02** Tom **saute** haut.
-3. **DEV01-03** Je **chante** juste.
-4. **DEV01-04** Tu **marches** vite.
-5. **DEV01-05** Il **dessine** bien.
+### Devoir 11. **DEV01-01** Léa **parle** doucement.
+2. Tom **saute** haut.
+3. Je **chante** juste.
+4. Tu **marches** vite.
+5. Il **dessine** bien.
 
-### DEV02
-1. **DEV02-01** Elle **ferme** la boîte.
-2. **DEV02-02** Nous **jouons** dehors.
-3. **DEV02-03** Vous **lavez** la table.
-4. **DEV02-04** Je **porte** un panier.
-5. **DEV02-05** Tu **colles** une image.
+### Devoir 21. **DEV02-01** Elle **ferme** la boîte.
+2. Nous **jouons** dehors.
+3. Vous **lavez** la table.
+4. Je **porte** un panier.
+5. Tu **colles** une image.
 
-### DEV03
-1. **DEV03-01** Il **range** ses cartes.
-2. **DEV03-02** Elle **tourne** la page.
-3. **DEV03-03** Nous **gardons** le ballon.
-4. **DEV03-04** Vous **aidez** Lina.
-5. **DEV03-05** Ils **dansent** en rond.
+### Devoir 31. **DEV03-01** Il **range** ses cartes.
+2. Elle **tourne** la page.
+3. Nous **gardons** le ballon.
+4. Vous **aidez** Lina.
+5. Ils **dansent** en rond.
 
-### DEV04
-1. **DEV04-01** Elles **volent** très haut.
-2. **DEV04-02** Le chien **cherche** sa balle.
-3. **DEV04-03** La cloche **sonne** à midi.
-4. **DEV04-04** Les élèves **copient** la date.
-5. **DEV04-05** Tu **montres** ton cahier.
+### Devoir 41. **DEV04-01** Elles **volent** très haut.
+2. Le chien **cherche** sa balle.
+3. La cloche **sonne** à midi.
+4. Les élèves **copient** la date.
+5. Tu **montres** ton cahier.
 
-### DEV05
-1. **DEV05-01** Je **chante** juste.
-2. **DEV05-02** Nous **gardons** le ballon.
-3. **DEV05-03** Vous **écoutez** la consigne.
-4. **DEV05-04** Elle **ferme** la boîte.
-5. **DEV05-05** Le chien **cherche** sa balle.
+### Devoir 51. **DEV05-01** Je **chante** juste.
+2. Nous **gardons** le ballon.
+3. Vous **écoutez** la consigne.
+4. Elle **ferme** la boîte.
+5. Le chien **cherche** sa balle.
 
-### DEV06
-1. **DEV06-01** Tom **saute** haut.
-2. **DEV06-02** Vous **aidez** Lina.
-3. **DEV06-03** Nous **visitons** le musée.
-4. **DEV06-04** Je **porte** un panier.
-5. **DEV06-05** La cloche **sonne** à midi.
+### Devoir 61. **DEV06-01** Tom **saute** haut.
+2. Vous **aidez** Lina.
+3. Nous **visitons** le musée.
+4. Je **porte** un panier.
+5. La cloche **sonne** à midi.
 
-### DEV07
-1. **DEV07-01** Tu **marches** vite.
-2. **DEV07-02** Ils **dansent** en rond.
-3. **DEV07-03** Mon frère **raconte** une histoire.
-4. **DEV07-04** Nous **jouons** dehors.
-5. **DEV07-05** Il **range** ses cartes.
+### Devoir 71. **DEV07-01** Tu **marches** vite.
+2. Ils **dansent** en rond.
+3. Mon frère **raconte** une histoire.
+4. Nous **jouons** dehors.
+5. Il **range** ses cartes.
 
-### DEV08
-1. **DEV08-01** Léa **parle** doucement.
-2. **DEV08-02** Elles **volent** très haut.
-3. **DEV08-03** Tu **montres** ton cahier.
-4. **DEV08-04** Vous **lavez** la table.
-5. **DEV08-05** Elle **tourne** la page.
+### Devoir 81. **DEV08-01** Léa **parle** doucement.
+2. Elles **volent** très haut.
+3. Tu **montres** ton cahier.
+4. Vous **lavez** la table.
+5. Elle **tourne** la page.
 
-### DEV09
-1. **DEV09-01** Il **dessine** bien.
-2. **DEV09-02** Je **demande** un crayon.
-3. **DEV09-03** Les élèves **copient** la date.
-4. **DEV09-04** Tu **colles** une image.
-5. **DEV09-05** Nous **gardons** le ballon.
+### Devoir 91. **DEV09-01** Il **dessine** bien.
+2. Je **demande** un crayon.
+3. Les élèves **copient** la date.
+4. Tu **colles** une image.
+5. Nous **gardons** le ballon.
 
-### DEV10
-1. **DEV10-01** Elle **ferme** la boîte.
-2. **DEV10-02** Le chien **cherche** sa balle.
-3. **DEV10-03** Vous **écoutez** la consigne.
-4. **DEV10-04** Tom **saute** haut.
-5. **DEV10-05** Ils **dansent** en rond.
+### Devoir 101. **DEV10-01** Elle **ferme** la boîte.
+2. Le chien **cherche** sa balle.
+3. Vous **écoutez** la consigne.
+4. Tom **saute** haut.
+5. Ils **dansent** en rond.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** grimper
-2. **IMM02** laver
-3. **IMM03** regarder
-4. **IMM04** dessiner
-5. **IMM05** voler
-6. **IMM06** porter
-7. **IMM07** danser
+1. grimper
+2. laver
+3. regarder
+4. dessiner
+5. voler
+6. porter
+7. danser
 
 ### Corrections des entraînements
 
-#### ENT01
-1. parler
+#### Entraînement 11. parler
 2. sauter
 3. chanter
 4. marcher
@@ -367,8 +336,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. jouer
 8. laver
 
-#### ENT02
-1. porter
+#### Entraînement 21. porter
 2. coller
 3. ranger
 4. tourner
@@ -377,8 +345,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. danser
 8. voler
 
-#### ENT03
-1. chercher
+#### Entraînement 31. chercher
 2. sonner
 3. copier
 4. raconter
@@ -387,8 +354,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. montrer
 8. demander
 
-#### ENT04
-1. attraper
+#### Entraînement 41. attraper
 2. entrer
 3. dessiner
 4. ranger
@@ -397,8 +363,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. tracer
 8. observer
 
-#### ENT05
-1. raconter
+#### Entraînement 51. raconter
 2. ramasser
 3. découper
 4. attendre
@@ -407,8 +372,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. regarder
 8. effacer
 
-#### ENT06
-1. démarrer
+#### Entraînement 61. démarrer
 2. refermer
 3. noter
 4. décorer
@@ -417,8 +381,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. préparer
 8. éclairer
 
-#### ENT07
-1. avancer
+#### Entraînement 71. avancer
 2. mesurer
 3. lever
 4. vérifier
@@ -427,8 +390,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. comparer
 8. accorder
 
-#### ENT08
-1. dominer
+#### Entraînement 81. dominer
 2. retrouver
 3. accepter
 4. distinguer
@@ -437,8 +399,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. présenter
 8. transporter
 
-#### ENT09
-1. respecter
+#### Entraînement 91. respecter
 2. cacher
 3. assembler
 4. localiser
@@ -447,8 +408,7 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 7. terminer
 8. indiquer
 
-#### ENT10
-1. rappeler
+#### Entraînement 101. rappeler
 2. présenter
 3. observer
 4. retrouver
@@ -459,71 +419,61 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 
 ### Corrections des évaluations
 
-#### EVAL01
-1. coller
+#### Évaluation 11. coller
 2. entrer
 3. effacer
 4. localiser
 5. retrouver
 
-#### EVAL02
-1. tourner
+#### Évaluation 21. tourner
 2. attraper
 3. terminer
 4. observer
 5. briller
 
-#### EVAL03
-1. copier
+#### Évaluation 31. copier
 2. préparer
 3. découper
 4. représenter
 5. retourner
 
-#### EVAL04
-1. visiter
+#### Évaluation 41. visiter
 2. tracer
 3. éclairer
 4. expliquer
 5. observer
 
-#### EVAL05
-1. demander
+#### Évaluation 51. demander
 2. partager
 3. allumer
 4. respecter
 5. disposer
 
-#### EVAL06
-1. chercher
+#### Évaluation 61. chercher
 2. préparer
 3. assembler
 4. indiquer
 5. aérer
 
-#### EVAL07
-1. écouter
+#### Évaluation 71. écouter
 2. observer
 3. ramasser
 4. organiser
 5. patienter
 
-#### EVAL08
-1. raconter
+#### Évaluation 81. raconter
 2. entrer
 3. compléter
 4. localiser
 5. dessiner
 
-#### EVAL09
-1. sonner
+#### Évaluation 91. sonner
 2. décorer
 3. avancer
 4. remarquer
 5. abriter
 
-#### EVAL10
-1. montrer
+#### Évaluation 101. montrer
 2. regarder
 3. lever
 4. retrouver
@@ -531,71 +481,61 @@ Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du ve
 
 ### Corrections des devoirs
 
-#### DEV01
-1. parler
+#### Devoir 11. parler
 2. sauter
 3. chanter
 4. marcher
 5. dessiner
 
-#### DEV02
-1. fermer
+#### Devoir 21. fermer
 2. jouer
 3. laver
 4. porter
 5. coller
 
-#### DEV03
-1. ranger
+#### Devoir 31. ranger
 2. tourner
 3. garder
 4. aider
 5. danser
 
-#### DEV04
-1. voler
+#### Devoir 41. voler
 2. chercher
 3. sonner
 4. copier
 5. montrer
 
-#### DEV05
-1. chanter
+#### Devoir 51. chanter
 2. garder
 3. écouter
 4. fermer
 5. chercher
 
-#### DEV06
-1. sauter
+#### Devoir 61. sauter
 2. aider
 3. visiter
 4. porter
 5. sonner
 
-#### DEV07
-1. marcher
+#### Devoir 71. marcher
 2. danser
 3. raconter
 4. jouer
 5. ranger
 
-#### DEV08
-1. parler
+#### Devoir 81. parler
 2. voler
 3. montrer
 4. laver
 5. tourner
 
-#### DEV09
-1. dessiner
+#### Devoir 91. dessiner
 2. demander
 3. copier
 4. coller
 5. garder
 
-#### DEV10
-1. fermer
+#### Devoir 101. fermer
 2. chercher
 3. écouter
 4. sauter

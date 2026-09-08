@@ -61,8 +61,7 @@ Le format sollicite directement la compétence et produit une réponse corrigeab
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
 
 - **Attention portée :** lire la hauteur des plateaux, sans se fier à l’apparence.
@@ -70,8 +69,7 @@ Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lo
 - **Réponse :** A.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
 
 - **Attention portée :** lire la hauteur des plateaux, sans se fier à l’apparence.
@@ -79,8 +77,7 @@ Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lo
 - **Réponse :** D.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
 
 - **Attention portée :** lire la hauteur des plateaux, sans se fier à l’apparence.
@@ -90,13 +87,13 @@ Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lo
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **IMM02** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-- **IMM03** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **IMM04** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **IMM05** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **IMM06** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **IMM07** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
 
 ## Variables didactiques
 
@@ -106,507 +103,447 @@ Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lo
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
 
-- **ENT01-01** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **ENT01-02** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **ENT01-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **ENT01-04** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **ENT01-05** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+### Entraînement 2
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
 
-### ENT02
+### Entraînement 3
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
 
-- **ENT02-01** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **ENT02-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **ENT02-03** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **ENT02-04** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **ENT02-05** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+### Entraînement 4
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
 
-### ENT03
+### Entraînement 5
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
 
-- **ENT03-01** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **ENT03-02** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **ENT03-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **ENT03-04** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **ENT03-05** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+### Entraînement 6
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
 
-### ENT04
+### Entraînement 7
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
 
-- **ENT04-01** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **ENT04-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **ENT04-03** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **ENT04-04** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **ENT04-05** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+### Entraînement 8
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
 
-### ENT05
+### Entraînement 9
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
 
-- **ENT05-01** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **ENT05-02** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **ENT05-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **ENT05-04** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **ENT05-05** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-
-### ENT06
-
-- **ENT06-01** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **ENT06-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **ENT06-03** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **ENT06-04** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **ENT06-05** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-
-### ENT07
-
-- **ENT07-01** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **ENT07-02** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **ENT07-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **ENT07-04** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **ENT07-05** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-
-### ENT08
-
-- **ENT08-01** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **ENT08-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **ENT08-03** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **ENT08-04** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **ENT08-05** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-
-### ENT09
-
-- **ENT09-01** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **ENT09-02** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **ENT09-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **ENT09-04** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **ENT09-05** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-
-### ENT10
-
-- **ENT10-01** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **ENT10-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **ENT10-03** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **ENT10-04** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **ENT10-05** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+### Entraînement 10
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Écris le plus lourd.
+- Balance : le plateau de X1 est plus bas que celui de Y1. Quel objet est le plus lourd ?
 
-- **EVAL01-01** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **EVAL01-02** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **EVAL01-03** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-- **EVAL01-04** Balance : les plateaux portant T et U sont au même niveau. Écris le plus lourd.
-- **EVAL01-05** Balance : le plateau de X1 est plus bas que celui de Y1. Quel objet est le plus lourd ?
+### Évaluation 2
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Écris le plus lourd.
+- Balance : le plateau de Y2 est plus bas que celui de X2. Quel objet est le plus lourd ?
 
-### EVAL02
+### Évaluation 3
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Écris le plus lourd.
+- Balance : les plateaux portant X3 et Y3 sont au même niveau. Quel objet est le plus lourd ?
 
-- **EVAL02-01** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **EVAL02-02** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **EVAL02-03** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **EVAL02-04** Balance : le plateau de V est plus bas que celui de W. Écris le plus lourd.
-- **EVAL02-05** Balance : le plateau de Y2 est plus bas que celui de X2. Quel objet est le plus lourd ?
+### Évaluation 4
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Écris le plus lourd.
+- Balance : le plateau de Y4 est plus bas que celui de X4. Quel objet est le plus lourd ?
 
-### EVAL03
+### Évaluation 5
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Écris le plus lourd.
+- Balance : le plateau de X5 est plus bas que celui de Y5. Quel objet est le plus lourd ?
 
-- **EVAL03-01** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **EVAL03-02** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **EVAL03-03** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **EVAL03-04** Balance : le plateau de M est plus bas que celui de L. Écris le plus lourd.
-- **EVAL03-05** Balance : les plateaux portant X3 et Y3 sont au même niveau. Quel objet est le plus lourd ?
+### Évaluation 6
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Écris le plus lourd.
+- Balance : les plateaux portant X6 et Y6 sont au même niveau. Quel objet est le plus lourd ?
 
-### EVAL04
+### Évaluation 7
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Écris le plus lourd.
+- Balance : le plateau de X7 est plus bas que celui de Y7. Quel objet est le plus lourd ?
 
-- **EVAL04-01** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **EVAL04-02** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **EVAL04-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **EVAL04-04** Balance : le plateau de N est plus bas que celui de P. Écris le plus lourd.
-- **EVAL04-05** Balance : le plateau de Y4 est plus bas que celui de X4. Quel objet est le plus lourd ?
+### Évaluation 8
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Écris le plus lourd.
+- Balance : le plateau de Y8 est plus bas que celui de X8. Quel objet est le plus lourd ?
 
-### EVAL05
+### Évaluation 9
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Écris le plus lourd.
+- Balance : les plateaux portant X9 et Y9 sont au même niveau. Quel objet est le plus lourd ?
 
-- **EVAL05-01** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **EVAL05-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **EVAL05-03** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **EVAL05-04** Balance : le plateau de S est plus bas que celui de R. Écris le plus lourd.
-- **EVAL05-05** Balance : le plateau de X5 est plus bas que celui de Y5. Quel objet est le plus lourd ?
-
-### EVAL06
-
-- **EVAL06-01** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **EVAL06-02** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **EVAL06-03** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-- **EVAL06-04** Balance : les plateaux portant T et U sont au même niveau. Écris le plus lourd.
-- **EVAL06-05** Balance : les plateaux portant X6 et Y6 sont au même niveau. Quel objet est le plus lourd ?
-
-### EVAL07
-
-- **EVAL07-01** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **EVAL07-02** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **EVAL07-03** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **EVAL07-04** Balance : le plateau de V est plus bas que celui de W. Écris le plus lourd.
-- **EVAL07-05** Balance : le plateau de X7 est plus bas que celui de Y7. Quel objet est le plus lourd ?
-
-### EVAL08
-
-- **EVAL08-01** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **EVAL08-02** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **EVAL08-03** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **EVAL08-04** Balance : le plateau de M est plus bas que celui de L. Écris le plus lourd.
-- **EVAL08-05** Balance : le plateau de Y8 est plus bas que celui de X8. Quel objet est le plus lourd ?
-
-### EVAL09
-
-- **EVAL09-01** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **EVAL09-02** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **EVAL09-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **EVAL09-04** Balance : le plateau de N est plus bas que celui de P. Écris le plus lourd.
-- **EVAL09-05** Balance : les plateaux portant X9 et Y9 sont au même niveau. Quel objet est le plus lourd ?
-
-### EVAL10
-
-- **EVAL10-01** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **EVAL10-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **EVAL10-03** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **EVAL10-04** Balance : le plateau de S est plus bas que celui de R. Écris le plus lourd.
-- **EVAL10-05** Balance : le plateau de Y10 est plus bas que celui de X10. Quel objet est le plus lourd ?
+### Évaluation 10
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Écris le plus lourd.
+- Balance : le plateau de Y10 est plus bas que celui de X10. Quel objet est le plus lourd ?
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
 
-- **DEV01-01** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **DEV01-02** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **DEV01-03** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **DEV01-04** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **DEV01-05** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+### Devoir 2
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
 
-### DEV02
+### Devoir 3
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
 
-- **DEV02-01** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **DEV02-02** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **DEV02-03** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-- **DEV02-04** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **DEV02-05** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+### Devoir 4
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
 
-### DEV03
+### Devoir 5
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
 
-- **DEV03-01** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **DEV03-02** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **DEV03-03** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **DEV03-04** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **DEV03-05** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+### Devoir 6
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
 
-### DEV04
+### Devoir 7
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
 
-- **DEV04-01** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **DEV04-02** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **DEV04-03** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **DEV04-04** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **DEV04-05** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+### Devoir 8
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
+- Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
 
-### DEV05
+### Devoir 9
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
+- Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
+- Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
+- Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
+- Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
 
-- **DEV05-01** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-- **DEV05-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **DEV05-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **DEV05-04** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **DEV05-05** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-
-### DEV06
-
-- **DEV06-01** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **DEV06-02** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **DEV06-03** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **DEV06-04** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **DEV06-05** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-
-### DEV07
-
-- **DEV07-01** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **DEV07-02** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **DEV07-03** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-- **DEV07-04** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **DEV07-05** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-
-### DEV08
-
-- **DEV08-01** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **DEV08-02** Balance : le plateau de V est plus bas que celui de W. Quel objet est le plus lourd ?
-- **DEV08-03** Balance : le plateau de A est plus bas que celui de B. Quel objet est le plus lourd ?
-- **DEV08-04** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **DEV08-05** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-
-### DEV09
-
-- **DEV09-01** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-- **DEV09-02** Balance : le plateau de M est plus bas que celui de L. Quel objet est le plus lourd ?
-- **DEV09-03** Balance : le plateau de D est plus bas que celui de C. Quel objet est le plus lourd ?
-- **DEV09-04** Balance : le plateau de S est plus bas que celui de R. Quel objet est le plus lourd ?
-- **DEV09-05** Balance : le plateau de H est plus bas que celui de G. Quel objet est le plus lourd ?
-
-### DEV10
-
-- **DEV10-01** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
-- **DEV10-02** Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
-- **DEV10-03** Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
-- **DEV10-04** Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
-- **DEV10-05** Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+### Devoir 10
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
+- Balance : le plateau de N est plus bas que celui de P. Quel objet est le plus lourd ?
+- Balance : le plateau de E est plus bas que celui de F. Quel objet est le plus lourd ?
+- Balance : les plateaux portant T et U sont au même niveau. Quel objet est le plus lourd ?
+- Balance : les plateaux portant J et K sont au même niveau. Quel objet est le plus lourd ?
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — H.
-2. **IMM02** — =.
-3. **IMM03** — M.
-4. **IMM04** — N.
-5. **IMM05** — S.
-6. **IMM06** — =.
-7. **IMM07** — V.
+1. — H.
+2. — =.
+3. — M.
+4. — N.
+5. — S.
+6. — =.
+7. — V.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. — A.
+2. — D.
+3. — E.
+4. — H.
+5. — =.
 
-1. **ENT01-01** — A.
-2. **ENT01-02** — D.
-3. **ENT01-03** — E.
-4. **ENT01-04** — H.
-5. **ENT01-05** — =.
+#### Entraînement 2
+1. — M.
+2. — N.
+3. — S.
+4. — =.
+5. — V.
 
-#### ENT02
+#### Entraînement 3
+1. — A.
+2. — D.
+3. — E.
+4. — H.
+5. — =.
 
-1. **ENT02-01** — M.
-2. **ENT02-02** — N.
-3. **ENT02-03** — S.
-4. **ENT02-04** — =.
-5. **ENT02-05** — V.
+#### Entraînement 4
+1. — M.
+2. — N.
+3. — S.
+4. — =.
+5. — V.
 
-#### ENT03
+#### Entraînement 5
+1. — A.
+2. — D.
+3. — E.
+4. — H.
+5. — =.
 
-1. **ENT03-01** — A.
-2. **ENT03-02** — D.
-3. **ENT03-03** — E.
-4. **ENT03-04** — H.
-5. **ENT03-05** — =.
+#### Entraînement 6
+1. — M.
+2. — N.
+3. — S.
+4. — =.
+5. — V.
 
-#### ENT04
+#### Entraînement 7
+1. — A.
+2. — D.
+3. — E.
+4. — H.
+5. — =.
 
-1. **ENT04-01** — M.
-2. **ENT04-02** — N.
-3. **ENT04-03** — S.
-4. **ENT04-04** — =.
-5. **ENT04-05** — V.
+#### Entraînement 8
+1. — M.
+2. — N.
+3. — S.
+4. — =.
+5. — V.
 
-#### ENT05
+#### Entraînement 9
+1. — A.
+2. — D.
+3. — E.
+4. — H.
+5. — =.
 
-1. **ENT05-01** — A.
-2. **ENT05-02** — D.
-3. **ENT05-03** — E.
-4. **ENT05-04** — H.
-5. **ENT05-05** — =.
-
-#### ENT06
-
-1. **ENT06-01** — M.
-2. **ENT06-02** — N.
-3. **ENT06-03** — S.
-4. **ENT06-04** — =.
-5. **ENT06-05** — V.
-
-#### ENT07
-
-1. **ENT07-01** — A.
-2. **ENT07-02** — D.
-3. **ENT07-03** — E.
-4. **ENT07-04** — H.
-5. **ENT07-05** — =.
-
-#### ENT08
-
-1. **ENT08-01** — M.
-2. **ENT08-02** — N.
-3. **ENT08-03** — S.
-4. **ENT08-04** — =.
-5. **ENT08-05** — V.
-
-#### ENT09
-
-1. **ENT09-01** — A.
-2. **ENT09-02** — D.
-3. **ENT09-03** — E.
-4. **ENT09-04** — H.
-5. **ENT09-05** — =.
-
-#### ENT10
-
-1. **ENT10-01** — M.
-2. **ENT10-02** — N.
-3. **ENT10-03** — S.
-4. **ENT10-04** — =.
-5. **ENT10-05** — V.
+#### Entraînement 10
+1. — M.
+2. — N.
+3. — S.
+4. — =.
+5. — V.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. — M.
+2. — S.
+3. — =.
+4. — =.
+5. — X1.
 
-1. **EVAL01-01** — M.
-2. **EVAL01-02** — S.
-3. **EVAL01-03** — =.
-4. **EVAL01-04** — =.
-5. **EVAL01-05** — X1.
+#### Évaluation 2
+1. — N.
+2. — =.
+3. — A.
+4. — V.
+5. — Y2.
 
-#### EVAL02
+#### Évaluation 3
+1. — S.
+2. — V.
+3. — D.
+4. — M.
+5. — =.
 
-1. **EVAL02-01** — N.
-2. **EVAL02-02** — =.
-3. **EVAL02-03** — A.
-4. **EVAL02-04** — V.
-5. **EVAL02-05** — Y2.
+#### Évaluation 4
+1. — =.
+2. — M.
+3. — E.
+4. — N.
+5. — Y4.
 
-#### EVAL03
+#### Évaluation 5
+1. — V.
+2. — N.
+3. — H.
+4. — S.
+5. — X5.
 
-1. **EVAL03-01** — S.
-2. **EVAL03-02** — V.
-3. **EVAL03-03** — D.
-4. **EVAL03-04** — M.
-5. **EVAL03-05** — =.
+#### Évaluation 6
+1. — M.
+2. — S.
+3. — =.
+4. — =.
+5. — =.
 
-#### EVAL04
+#### Évaluation 7
+1. — N.
+2. — =.
+3. — A.
+4. — V.
+5. — X7.
 
-1. **EVAL04-01** — =.
-2. **EVAL04-02** — M.
-3. **EVAL04-03** — E.
-4. **EVAL04-04** — N.
-5. **EVAL04-05** — Y4.
+#### Évaluation 8
+1. — S.
+2. — V.
+3. — D.
+4. — M.
+5. — Y8.
 
-#### EVAL05
+#### Évaluation 9
+1. — =.
+2. — M.
+3. — E.
+4. — N.
+5. — =.
 
-1. **EVAL05-01** — V.
-2. **EVAL05-02** — N.
-3. **EVAL05-03** — H.
-4. **EVAL05-04** — S.
-5. **EVAL05-05** — X5.
-
-#### EVAL06
-
-1. **EVAL06-01** — M.
-2. **EVAL06-02** — S.
-3. **EVAL06-03** — =.
-4. **EVAL06-04** — =.
-5. **EVAL06-05** — =.
-
-#### EVAL07
-
-1. **EVAL07-01** — N.
-2. **EVAL07-02** — =.
-3. **EVAL07-03** — A.
-4. **EVAL07-04** — V.
-5. **EVAL07-05** — X7.
-
-#### EVAL08
-
-1. **EVAL08-01** — S.
-2. **EVAL08-02** — V.
-3. **EVAL08-03** — D.
-4. **EVAL08-04** — M.
-5. **EVAL08-05** — Y8.
-
-#### EVAL09
-
-1. **EVAL09-01** — =.
-2. **EVAL09-02** — M.
-3. **EVAL09-03** — E.
-4. **EVAL09-04** — N.
-5. **EVAL09-05** — =.
-
-#### EVAL10
-
-1. **EVAL10-01** — V.
-2. **EVAL10-02** — N.
-3. **EVAL10-03** — H.
-4. **EVAL10-04** — S.
-5. **EVAL10-05** — Y10.
+#### Évaluation 10
+1. — V.
+2. — N.
+3. — H.
+4. — S.
+5. — Y10.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. — A.
+2. — S.
+3. — H.
+4. — V.
+5. — A.
 
-1. **DEV01-01** — A.
-2. **DEV01-02** — S.
-3. **DEV01-03** — H.
-4. **DEV01-04** — V.
-5. **DEV01-05** — A.
+#### Devoir 2
+1. — D.
+2. — =.
+3. — =.
+4. — M.
+5. — D.
 
-#### DEV02
+#### Devoir 3
+1. — E.
+2. — V.
+3. — A.
+4. — N.
+5. — E.
 
-1. **DEV02-01** — D.
-2. **DEV02-02** — =.
-3. **DEV02-03** — =.
-4. **DEV02-04** — M.
-5. **DEV02-05** — D.
+#### Devoir 4
+1. — H.
+2. — M.
+3. — D.
+4. — S.
+5. — H.
 
-#### DEV03
+#### Devoir 5
+1. — =.
+2. — N.
+3. — E.
+4. — =.
+5. — =.
 
-1. **DEV03-01** — E.
-2. **DEV03-02** — V.
-3. **DEV03-03** — A.
-4. **DEV03-04** — N.
-5. **DEV03-05** — E.
+#### Devoir 6
+1. — A.
+2. — S.
+3. — H.
+4. — V.
+5. — A.
 
-#### DEV04
+#### Devoir 7
+1. — D.
+2. — =.
+3. — =.
+4. — M.
+5. — D.
 
-1. **DEV04-01** — H.
-2. **DEV04-02** — M.
-3. **DEV04-03** — D.
-4. **DEV04-04** — S.
-5. **DEV04-05** — H.
+#### Devoir 8
+1. — E.
+2. — V.
+3. — A.
+4. — N.
+5. — E.
 
-#### DEV05
+#### Devoir 9
+1. — H.
+2. — M.
+3. — D.
+4. — S.
+5. — H.
 
-1. **DEV05-01** — =.
-2. **DEV05-02** — N.
-3. **DEV05-03** — E.
-4. **DEV05-04** — =.
-5. **DEV05-05** — =.
-
-#### DEV06
-
-1. **DEV06-01** — A.
-2. **DEV06-02** — S.
-3. **DEV06-03** — H.
-4. **DEV06-04** — V.
-5. **DEV06-05** — A.
-
-#### DEV07
-
-1. **DEV07-01** — D.
-2. **DEV07-02** — =.
-3. **DEV07-03** — =.
-4. **DEV07-04** — M.
-5. **DEV07-05** — D.
-
-#### DEV08
-
-1. **DEV08-01** — E.
-2. **DEV08-02** — V.
-3. **DEV08-03** — A.
-4. **DEV08-04** — N.
-5. **DEV08-05** — E.
-
-#### DEV09
-
-1. **DEV09-01** — H.
-2. **DEV09-02** — M.
-3. **DEV09-03** — D.
-4. **DEV09-04** — S.
-5. **DEV09-05** — H.
-
-#### DEV10
-
-1. **DEV10-01** — =.
-2. **DEV10-02** — N.
-3. **DEV10-03** — E.
-4. **DEV10-04** — =.
-5. **DEV10-05** — =.
+#### Devoir 10
+1. — =.
+2. — N.
+3. — E.
+4. — =.
+5. — =.
 
 ## Traçabilité des évaluations et devoirs
 

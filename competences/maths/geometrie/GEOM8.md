@@ -58,24 +58,21 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** carré ; quatre côtés égaux ou quatre angles droits.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** rectangle ; quatre angles droits.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **IMM02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **IMM03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **IMM04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **IMM05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **IMM06** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **IMM07** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
 
-- **ENT01-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **ENT01-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **ENT01-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **ENT01-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **ENT01-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+### Entraînement 2
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
 
-### ENT02
+### Entraînement 3
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
 
-- **ENT02-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **ENT02-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **ENT02-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **ENT02-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **ENT02-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+### Entraînement 4
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
 
-### ENT03
+### Entraînement 5
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
 
-- **ENT03-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **ENT03-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **ENT03-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **ENT03-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **ENT03-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+### Entraînement 6
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
 
-### ENT04
+### Entraînement 7
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
 
-- **ENT04-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
-- **ENT04-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
-- **ENT04-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
-- **ENT04-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
-- **ENT04-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
+### Entraînement 8
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît carré, mais la règle montre deux côtés de 4 cm et deux de 5 cm ; les 4 angles sont droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît rectangle, mais un angle n’est pas droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
 
-### ENT05
+### Entraînement 9
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
 
-- **ENT05-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
-- **ENT05-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
-- **ENT05-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
-- **ENT05-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
-- **ENT05-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
-
-### ENT06
-
-- **ENT06-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
-- **ENT06-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
-- **ENT06-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
-- **ENT06-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
-- **ENT06-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
-
-### ENT07
-
-- **ENT07-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
-- **ENT07-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
-- **ENT07-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
-- **ENT07-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
-- **ENT07-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
-
-### ENT08
-
-- **ENT08-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît carré, mais la règle montre deux côtés de 4 cm et deux de 5 cm ; les 4 angles sont droits.
-- **ENT08-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît rectangle, mais un angle n’est pas droit.
-- **ENT08-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
-- **ENT08-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
-- **ENT08-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
-
-### ENT09
-
-- **ENT09-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
-- **ENT09-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
-- **ENT09-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
-- **ENT09-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
-- **ENT09-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
-
-### ENT10
-
-- **ENT10-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
-- **ENT10-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
-- **ENT10-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
-- **ENT10-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît carré, mais la règle montre deux côtés de 4 cm et deux de 5 cm ; les 4 angles sont droits.
-- **ENT10-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît rectangle, mais un angle n’est pas droit.
+### Entraînement 10
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît carré, mais la règle montre deux côtés de 4 cm et deux de 5 cm ; les 4 angles sont droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Le dessin paraît rectangle, mais un angle n’est pas droit.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés de 6 cm et 4 angles droits.
 
-- **EVAL01-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **EVAL01-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
-- **EVAL01-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
-- **EVAL01-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
-- **EVAL01-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés de 6 cm et 4 angles droits.
+### Évaluation 2
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés et un angle droit codé.
 
-### EVAL02
+### Évaluation 3
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour au compas de centre P.
 
-- **EVAL02-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **EVAL02-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
-- **EVAL02-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
-- **EVAL02-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
-- **EVAL02-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés et un angle droit codé.
+### Évaluation 4
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 angles droits, côtés de 7 cm et 3 cm par paires opposées.
 
-### EVAL03
+### Évaluation 5
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés de 6 cm et 4 angles droits.
 
-- **EVAL03-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **EVAL03-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
-- **EVAL03-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
-- **EVAL03-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
-- **EVAL03-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour au compas de centre P.
+### Évaluation 6
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés et un angle droit codé.
 
-### EVAL04
+### Évaluation 7
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour au compas de centre P.
 
-- **EVAL04-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **EVAL04-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
-- **EVAL04-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
-- **EVAL04-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
-- **EVAL04-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 angles droits, côtés de 7 cm et 3 cm par paires opposées.
+### Évaluation 8
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 angles droits, côtés de 7 cm et 3 cm par paires opposées.
 
-### EVAL05
+### Évaluation 9
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés de 6 cm et 4 angles droits.
 
-- **EVAL05-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **EVAL05-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
-- **EVAL05-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
-- **EVAL05-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
-- **EVAL05-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés de 6 cm et 4 angles droits.
-
-### EVAL06
-
-- **EVAL06-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **EVAL06-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
-- **EVAL06-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 4 côtés, côtés opposés égaux, 4 angles droits.
-- **EVAL06-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure à 3 côtés, sans angle droit, tournée pointe vers le bas.
-- **EVAL06-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés et un angle droit codé.
-
-### EVAL07
-
-- **EVAL07-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **EVAL07-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère : 4 angles droits et 4 côtés de même longueur.
-- **EVAL07-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
-- **EVAL07-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Quadrilatère avec 4 angles droits ; les côtés opposés sont égaux.
-- **EVAL07-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour au compas de centre P.
-
-### EVAL08
-
-- **EVAL08-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **EVAL08-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Polygone à 3 côtés de longueurs différentes, sans angle droit.
-- **EVAL08-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Contour rond tracé au compas, centre M indiqué.
-- **EVAL08-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure très tournée : 4 côtés égaux et 4 angles droits.
-- **EVAL08-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 angles droits, côtés de 7 cm et 3 cm par paires opposées.
-
-### EVAL09
-
-- **EVAL09-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **EVAL09-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
-- **EVAL09-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits, deux côtés longs et deux courts.
-- **EVAL09-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Triangle très aplati avec un angle droit vérifié.
-- **EVAL09-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés de 6 cm et 4 angles droits.
-
-### EVAL10
-
-- **EVAL10-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **EVAL10-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
-- **EVAL10-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
-- **EVAL10-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
-- **EVAL10-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés et un angle droit codé.
+### Évaluation 10
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Figure tournée : 3 côtés et un angle vérifié droit à l’équerre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés ; un petit carré code un angle.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. Ligne fermée arrondie dont certains points ne sont pas à même distance du centre.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés et un angle droit codé.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
 
-- **DEV01-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **DEV01-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **DEV01-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **DEV01-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **DEV01-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+### Devoir 2
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
 
-### DEV02
+### Devoir 3
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
 
-- **DEV02-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **DEV02-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV02-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **DEV02-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV02-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+### Devoir 4
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
 
-### DEV03
+### Devoir 5
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
 
-- **DEV03-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **DEV03-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **DEV03-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **DEV03-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **DEV03-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+### Devoir 6
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
 
-### DEV04
+### Devoir 7
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
 
-- **DEV04-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **DEV04-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **DEV04-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV04-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **DEV04-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+### Devoir 8
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
 
-### DEV05
+### Devoir 9
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
 
-- **DEV05-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV05-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **DEV05-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **DEV05-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **DEV05-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-
-### DEV06
-
-- **DEV06-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **DEV06-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **DEV06-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **DEV06-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **DEV06-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-
-### DEV07
-
-- **DEV07-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **DEV07-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV07-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **DEV07-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV07-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-
-### DEV08
-
-- **DEV08-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **DEV08-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **DEV08-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **DEV08-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés égaux et 4 angles droits.
-- **DEV08-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-
-### DEV09
-
-- **DEV09-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, dont 2 forment un angle droit.
-- **DEV09-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 sommets et 3 côtés.
-- **DEV09-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV09-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 côtés, 4 angles droits ; côtés opposés égaux.
-- **DEV09-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-
-### DEV10
-
-- **DEV10-01** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
-- **DEV10-02** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **DEV10-03** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
-- **DEV10-04** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
-- **DEV10-05** Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+### Devoir 10
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. une ligne courbe fermée dont tous les points sont à la même distance du centre O.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 3 côtés, aucun angle droit.
+- Lis la carte, donne le nom le plus précis de la figure et cite une propriété qui le prouve. 4 sommets, 4 côtés égaux et 4 angles droits.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** triangle rectangle ; trois côtés et un angle droit
-2. **IMM02** cercle ; tous ses points sont à la même distance du centre
-3. **IMM03** carré ; quatre côtés égaux et quatre angles droits
-4. **IMM04** triangle ; trois côtés et trois sommets
-5. **IMM05** carré ; quatre côtés égaux ou quatre angles droits
-6. **IMM06** rectangle ; quatre angles droits
-7. **IMM07** triangle ; trois côtés
+1. triangle rectangle ; trois côtés et un angle droit
+2. cercle ; tous ses points sont à la même distance du centre
+3. carré ; quatre côtés égaux et quatre angles droits
+4. triangle ; trois côtés et trois sommets
+5. carré ; quatre côtés égaux ou quatre angles droits
+6. rectangle ; quatre angles droits
+7. triangle ; trois côtés
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. carré ; quatre côtés égaux ou quatre angles droits
+2. rectangle ; quatre angles droits
+3. triangle ; trois côtés
+4. triangle rectangle ; trois côtés et un angle droit
+5. cercle ; tous ses points sont à la même distance du centre
 
-1. **ENT01-01** carré ; quatre côtés égaux ou quatre angles droits
-2. **ENT01-02** rectangle ; quatre angles droits
-3. **ENT01-03** triangle ; trois côtés
-4. **ENT01-04** triangle rectangle ; trois côtés et un angle droit
-5. **ENT01-05** cercle ; tous ses points sont à la même distance du centre
+#### Entraînement 2
+1. triangle ; trois côtés
+2. triangle rectangle ; trois côtés et un angle droit
+3. cercle ; tous ses points sont à la même distance du centre
+4. carré ; quatre côtés égaux et quatre angles droits
+5. triangle ; trois côtés et trois sommets
 
-#### ENT02
+#### Entraînement 3
+1. cercle ; tous ses points sont à la même distance du centre
+2. carré ; quatre côtés égaux et quatre angles droits
+3. triangle ; trois côtés et trois sommets
+4. carré ; quatre côtés égaux ou quatre angles droits
+5. rectangle ; quatre angles droits
 
-1. **ENT02-01** triangle ; trois côtés
-2. **ENT02-02** triangle rectangle ; trois côtés et un angle droit
-3. **ENT02-03** cercle ; tous ses points sont à la même distance du centre
-4. **ENT02-04** carré ; quatre côtés égaux et quatre angles droits
-5. **ENT02-05** triangle ; trois côtés et trois sommets
+#### Entraînement 4
+1. triangle rectangle ; le petit carré signale l’angle droit
+2. rectangle ; quatre angles droits
+3. triangle rectangle ; un angle droit
+4. cercle ; tracé autour d’un centre
+5. carré ; quatre côtés égaux et quatre angles droits
 
-#### ENT03
+#### Entraînement 5
+1. triangle rectangle ; un angle droit
+2. cercle ; tracé autour d’un centre
+3. carré ; quatre côtés égaux et quatre angles droits
+4. triangle ; trois côtés
+5. rectangle ; quatre angles droits et côtés opposés égaux
 
-1. **ENT03-01** cercle ; tous ses points sont à la même distance du centre
-2. **ENT03-02** carré ; quatre côtés égaux et quatre angles droits
-3. **ENT03-03** triangle ; trois côtés et trois sommets
-4. **ENT03-04** carré ; quatre côtés égaux ou quatre angles droits
-5. **ENT03-05** rectangle ; quatre angles droits
+#### Entraînement 6
+1. carré ; quatre côtés égaux et quatre angles droits
+2. triangle ; trois côtés
+3. rectangle ; quatre angles droits et côtés opposés égaux
+4. triangle rectangle ; le petit carré signale l’angle droit
+5. rectangle ; quatre angles droits
 
-#### ENT04
+#### Entraînement 7
+1. rectangle ; quatre angles droits et côtés opposés égaux
+2. triangle rectangle ; le petit carré signale l’angle droit
+3. rectangle ; quatre angles droits
+4. triangle rectangle ; un angle droit
+5. cercle ; tracé autour d’un centre
 
-1. **ENT04-01** triangle rectangle ; le petit carré signale l’angle droit
-2. **ENT04-02** rectangle ; quatre angles droits
-3. **ENT04-03** triangle rectangle ; un angle droit
-4. **ENT04-04** cercle ; tracé autour d’un centre
-5. **ENT04-05** carré ; quatre côtés égaux et quatre angles droits
+#### Entraînement 8
+1. rectangle, pas carré ; quatre angles droits mais côtés non tous égaux
+2. aucune des figures nommées comme rectangle ; l’absence de quatre angles droits l’exclut
+3. carré ; orientation sans effet
+4. triangle rectangle ; présence d’un angle droit
+5. ce n’est pas un cercle
 
-#### ENT05
+#### Entraînement 9
+1. carré ; orientation sans effet
+2. triangle rectangle ; présence d’un angle droit
+3. ce n’est pas un cercle
+4. triangle ; trois côtés
+5. rectangle ; quatre angles droits
 
-1. **ENT05-01** triangle rectangle ; un angle droit
-2. **ENT05-02** cercle ; tracé autour d’un centre
-3. **ENT05-03** carré ; quatre côtés égaux et quatre angles droits
-4. **ENT05-04** triangle ; trois côtés
-5. **ENT05-05** rectangle ; quatre angles droits et côtés opposés égaux
-
-#### ENT06
-
-1. **ENT06-01** carré ; quatre côtés égaux et quatre angles droits
-2. **ENT06-02** triangle ; trois côtés
-3. **ENT06-03** rectangle ; quatre angles droits et côtés opposés égaux
-4. **ENT06-04** triangle rectangle ; le petit carré signale l’angle droit
-5. **ENT06-05** rectangle ; quatre angles droits
-
-#### ENT07
-
-1. **ENT07-01** rectangle ; quatre angles droits et côtés opposés égaux
-2. **ENT07-02** triangle rectangle ; le petit carré signale l’angle droit
-3. **ENT07-03** rectangle ; quatre angles droits
-4. **ENT07-04** triangle rectangle ; un angle droit
-5. **ENT07-05** cercle ; tracé autour d’un centre
-
-#### ENT08
-
-1. **ENT08-01** rectangle, pas carré ; quatre angles droits mais côtés non tous égaux
-2. **ENT08-02** aucune des figures nommées comme rectangle ; l’absence de quatre angles droits l’exclut
-3. **ENT08-03** carré ; orientation sans effet
-4. **ENT08-04** triangle rectangle ; présence d’un angle droit
-5. **ENT08-05** ce n’est pas un cercle
-
-#### ENT09
-
-1. **ENT09-01** carré ; orientation sans effet
-2. **ENT09-02** triangle rectangle ; présence d’un angle droit
-3. **ENT09-03** ce n’est pas un cercle
-4. **ENT09-04** triangle ; trois côtés
-5. **ENT09-05** rectangle ; quatre angles droits
-
-#### ENT10
-
-1. **ENT10-01** ce n’est pas un cercle
-2. **ENT10-02** triangle ; trois côtés
-3. **ENT10-03** rectangle ; quatre angles droits
-4. **ENT10-04** rectangle, pas carré ; quatre angles droits mais côtés non tous égaux
-5. **ENT10-05** aucune des figures nommées comme rectangle ; l’absence de quatre angles droits l’exclut
+#### Entraînement 10
+1. ce n’est pas un cercle
+2. triangle ; trois côtés
+3. rectangle ; quatre angles droits
+4. rectangle, pas carré ; quatre angles droits mais côtés non tous égaux
+5. aucune des figures nommées comme rectangle ; l’absence de quatre angles droits l’exclut
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. cercle ; tous ses points sont à la même distance du centre
+2. cercle ; tracé autour d’un centre
+3. rectangle ; quatre angles droits
+4. triangle ; trois côtés
+5. carré ; quatre côtés égaux et quatre angles droits
 
-1. **EVAL01-01** cercle ; tous ses points sont à la même distance du centre
-2. **EVAL01-02** cercle ; tracé autour d’un centre
-3. **EVAL01-03** rectangle ; quatre angles droits
-4. **EVAL01-04** triangle ; trois côtés
-5. **EVAL01-05** carré ; quatre côtés égaux et quatre angles droits
+#### Évaluation 2
+1. carré ; quatre côtés égaux et quatre angles droits
+2. carré ; quatre côtés égaux et quatre angles droits
+3. triangle rectangle ; un angle droit
+4. rectangle ; quatre angles droits
+5. triangle rectangle ; angle droit codé
 
-#### EVAL02
+#### Évaluation 3
+1. triangle ; trois côtés et trois sommets
+2. triangle ; trois côtés
+3. cercle ; tracé autour d’un centre
+4. carré ; orientation sans effet
+5. cercle ; tous les points du cercle sont à même distance de P
 
-1. **EVAL02-01** carré ; quatre côtés égaux et quatre angles droits
-2. **EVAL02-02** carré ; quatre côtés égaux et quatre angles droits
-3. **EVAL02-03** triangle rectangle ; un angle droit
-4. **EVAL02-04** rectangle ; quatre angles droits
-5. **EVAL02-05** triangle rectangle ; angle droit codé
+#### Évaluation 4
+1. carré ; quatre côtés égaux ou quatre angles droits
+2. rectangle ; quatre angles droits et côtés opposés égaux
+3. rectangle ; quatre angles droits et côtés opposés égaux
+4. triangle rectangle ; présence d’un angle droit
+5. rectangle ; quatre angles droits
 
-#### EVAL03
+#### Évaluation 5
+1. rectangle ; quatre angles droits
+2. triangle rectangle ; un angle droit
+3. triangle rectangle ; le petit carré signale l’angle droit
+4. ce n’est pas un cercle
+5. carré ; quatre côtés égaux et quatre angles droits
 
-1. **EVAL03-01** triangle ; trois côtés et trois sommets
-2. **EVAL03-02** triangle ; trois côtés
-3. **EVAL03-03** cercle ; tracé autour d’un centre
-4. **EVAL03-04** carré ; orientation sans effet
-5. **EVAL03-05** cercle ; tous les points du cercle sont à même distance de P
+#### Évaluation 6
+1. cercle ; tous ses points sont à la même distance du centre
+2. cercle ; tracé autour d’un centre
+3. rectangle ; quatre angles droits
+4. triangle ; trois côtés
+5. triangle rectangle ; angle droit codé
 
-#### EVAL04
+#### Évaluation 7
+1. carré ; quatre côtés égaux et quatre angles droits
+2. carré ; quatre côtés égaux et quatre angles droits
+3. triangle rectangle ; un angle droit
+4. rectangle ; quatre angles droits
+5. cercle ; tous les points du cercle sont à même distance de P
 
-1. **EVAL04-01** carré ; quatre côtés égaux ou quatre angles droits
-2. **EVAL04-02** rectangle ; quatre angles droits et côtés opposés égaux
-3. **EVAL04-03** rectangle ; quatre angles droits et côtés opposés égaux
-4. **EVAL04-04** triangle rectangle ; présence d’un angle droit
-5. **EVAL04-05** rectangle ; quatre angles droits
+#### Évaluation 8
+1. triangle ; trois côtés et trois sommets
+2. triangle ; trois côtés
+3. cercle ; tracé autour d’un centre
+4. carré ; orientation sans effet
+5. rectangle ; quatre angles droits
 
-#### EVAL05
+#### Évaluation 9
+1. carré ; quatre côtés égaux ou quatre angles droits
+2. rectangle ; quatre angles droits et côtés opposés égaux
+3. rectangle ; quatre angles droits et côtés opposés égaux
+4. triangle rectangle ; présence d’un angle droit
+5. carré ; quatre côtés égaux et quatre angles droits
 
-1. **EVAL05-01** rectangle ; quatre angles droits
-2. **EVAL05-02** triangle rectangle ; un angle droit
-3. **EVAL05-03** triangle rectangle ; le petit carré signale l’angle droit
-4. **EVAL05-04** ce n’est pas un cercle
-5. **EVAL05-05** carré ; quatre côtés égaux et quatre angles droits
-
-#### EVAL06
-
-1. **EVAL06-01** cercle ; tous ses points sont à la même distance du centre
-2. **EVAL06-02** cercle ; tracé autour d’un centre
-3. **EVAL06-03** rectangle ; quatre angles droits
-4. **EVAL06-04** triangle ; trois côtés
-5. **EVAL06-05** triangle rectangle ; angle droit codé
-
-#### EVAL07
-
-1. **EVAL07-01** carré ; quatre côtés égaux et quatre angles droits
-2. **EVAL07-02** carré ; quatre côtés égaux et quatre angles droits
-3. **EVAL07-03** triangle rectangle ; un angle droit
-4. **EVAL07-04** rectangle ; quatre angles droits
-5. **EVAL07-05** cercle ; tous les points du cercle sont à même distance de P
-
-#### EVAL08
-
-1. **EVAL08-01** triangle ; trois côtés et trois sommets
-2. **EVAL08-02** triangle ; trois côtés
-3. **EVAL08-03** cercle ; tracé autour d’un centre
-4. **EVAL08-04** carré ; orientation sans effet
-5. **EVAL08-05** rectangle ; quatre angles droits
-
-#### EVAL09
-
-1. **EVAL09-01** carré ; quatre côtés égaux ou quatre angles droits
-2. **EVAL09-02** rectangle ; quatre angles droits et côtés opposés égaux
-3. **EVAL09-03** rectangle ; quatre angles droits et côtés opposés égaux
-4. **EVAL09-04** triangle rectangle ; présence d’un angle droit
-5. **EVAL09-05** carré ; quatre côtés égaux et quatre angles droits
-
-#### EVAL10
-
-1. **EVAL10-01** rectangle ; quatre angles droits
-2. **EVAL10-02** triangle rectangle ; un angle droit
-3. **EVAL10-03** triangle rectangle ; le petit carré signale l’angle droit
-4. **EVAL10-04** ce n’est pas un cercle
-5. **EVAL10-05** triangle rectangle ; angle droit codé
+#### Évaluation 10
+1. rectangle ; quatre angles droits
+2. triangle rectangle ; un angle droit
+3. triangle rectangle ; le petit carré signale l’angle droit
+4. ce n’est pas un cercle
+5. triangle rectangle ; angle droit codé
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. carré ; quatre côtés égaux ou quatre angles droits
+2. triangle rectangle ; trois côtés et un angle droit
+3. triangle ; trois côtés et trois sommets
+4. triangle rectangle ; trois côtés et un angle droit
+5. triangle ; trois côtés et trois sommets
 
-1. **DEV01-01** carré ; quatre côtés égaux ou quatre angles droits
-2. **DEV01-02** triangle rectangle ; trois côtés et un angle droit
-3. **DEV01-03** triangle ; trois côtés et trois sommets
-4. **DEV01-04** triangle rectangle ; trois côtés et un angle droit
-5. **DEV01-05** triangle ; trois côtés et trois sommets
+#### Devoir 2
+1. rectangle ; quatre angles droits
+2. cercle ; tous ses points sont à la même distance du centre
+3. carré ; quatre côtés égaux ou quatre angles droits
+4. cercle ; tous ses points sont à la même distance du centre
+5. triangle ; trois côtés
 
-#### DEV02
+#### Devoir 3
+1. triangle ; trois côtés
+2. carré ; quatre côtés égaux et quatre angles droits
+3. rectangle ; quatre angles droits
+4. carré ; quatre côtés égaux ou quatre angles droits
+5. triangle rectangle ; trois côtés et un angle droit
 
-1. **DEV02-01** rectangle ; quatre angles droits
-2. **DEV02-02** cercle ; tous ses points sont à la même distance du centre
-3. **DEV02-03** carré ; quatre côtés égaux ou quatre angles droits
-4. **DEV02-04** cercle ; tous ses points sont à la même distance du centre
-5. **DEV02-05** triangle ; trois côtés
+#### Devoir 4
+1. triangle rectangle ; trois côtés et un angle droit
+2. triangle ; trois côtés et trois sommets
+3. cercle ; tous ses points sont à la même distance du centre
+4. rectangle ; quatre angles droits
+5. cercle ; tous ses points sont à la même distance du centre
 
-#### DEV03
+#### Devoir 5
+1. cercle ; tous ses points sont à la même distance du centre
+2. triangle ; trois côtés
+3. carré ; quatre côtés égaux et quatre angles droits
+4. triangle ; trois côtés
+5. carré ; quatre côtés égaux et quatre angles droits
 
-1. **DEV03-01** triangle ; trois côtés
-2. **DEV03-02** carré ; quatre côtés égaux et quatre angles droits
-3. **DEV03-03** rectangle ; quatre angles droits
-4. **DEV03-04** carré ; quatre côtés égaux ou quatre angles droits
-5. **DEV03-05** triangle rectangle ; trois côtés et un angle droit
+#### Devoir 6
+1. carré ; quatre côtés égaux ou quatre angles droits
+2. triangle rectangle ; trois côtés et un angle droit
+3. triangle ; trois côtés et trois sommets
+4. triangle rectangle ; trois côtés et un angle droit
+5. triangle ; trois côtés et trois sommets
 
-#### DEV04
+#### Devoir 7
+1. rectangle ; quatre angles droits
+2. cercle ; tous ses points sont à la même distance du centre
+3. carré ; quatre côtés égaux ou quatre angles droits
+4. cercle ; tous ses points sont à la même distance du centre
+5. triangle ; trois côtés
 
-1. **DEV04-01** triangle rectangle ; trois côtés et un angle droit
-2. **DEV04-02** triangle ; trois côtés et trois sommets
-3. **DEV04-03** cercle ; tous ses points sont à la même distance du centre
-4. **DEV04-04** rectangle ; quatre angles droits
-5. **DEV04-05** cercle ; tous ses points sont à la même distance du centre
+#### Devoir 8
+1. triangle ; trois côtés
+2. carré ; quatre côtés égaux et quatre angles droits
+3. rectangle ; quatre angles droits
+4. carré ; quatre côtés égaux ou quatre angles droits
+5. triangle rectangle ; trois côtés et un angle droit
 
-#### DEV05
+#### Devoir 9
+1. triangle rectangle ; trois côtés et un angle droit
+2. triangle ; trois côtés et trois sommets
+3. cercle ; tous ses points sont à la même distance du centre
+4. rectangle ; quatre angles droits
+5. cercle ; tous ses points sont à la même distance du centre
 
-1. **DEV05-01** cercle ; tous ses points sont à la même distance du centre
-2. **DEV05-02** triangle ; trois côtés
-3. **DEV05-03** carré ; quatre côtés égaux et quatre angles droits
-4. **DEV05-04** triangle ; trois côtés
-5. **DEV05-05** carré ; quatre côtés égaux et quatre angles droits
-
-#### DEV06
-
-1. **DEV06-01** carré ; quatre côtés égaux ou quatre angles droits
-2. **DEV06-02** triangle rectangle ; trois côtés et un angle droit
-3. **DEV06-03** triangle ; trois côtés et trois sommets
-4. **DEV06-04** triangle rectangle ; trois côtés et un angle droit
-5. **DEV06-05** triangle ; trois côtés et trois sommets
-
-#### DEV07
-
-1. **DEV07-01** rectangle ; quatre angles droits
-2. **DEV07-02** cercle ; tous ses points sont à la même distance du centre
-3. **DEV07-03** carré ; quatre côtés égaux ou quatre angles droits
-4. **DEV07-04** cercle ; tous ses points sont à la même distance du centre
-5. **DEV07-05** triangle ; trois côtés
-
-#### DEV08
-
-1. **DEV08-01** triangle ; trois côtés
-2. **DEV08-02** carré ; quatre côtés égaux et quatre angles droits
-3. **DEV08-03** rectangle ; quatre angles droits
-4. **DEV08-04** carré ; quatre côtés égaux ou quatre angles droits
-5. **DEV08-05** triangle rectangle ; trois côtés et un angle droit
-
-#### DEV09
-
-1. **DEV09-01** triangle rectangle ; trois côtés et un angle droit
-2. **DEV09-02** triangle ; trois côtés et trois sommets
-3. **DEV09-03** cercle ; tous ses points sont à la même distance du centre
-4. **DEV09-04** rectangle ; quatre angles droits
-5. **DEV09-05** cercle ; tous ses points sont à la même distance du centre
-
-#### DEV10
-
-1. **DEV10-01** cercle ; tous ses points sont à la même distance du centre
-2. **DEV10-02** triangle ; trois côtés
-3. **DEV10-03** carré ; quatre côtés égaux et quatre angles droits
-4. **DEV10-04** triangle ; trois côtés
-5. **DEV10-05** carré ; quatre côtés égaux et quatre angles droits
+#### Devoir 10
+1. cercle ; tous ses points sont à la même distance du centre
+2. triangle ; trois côtés
+3. carré ; quatre côtés égaux et quatre angles droits
+4. triangle ; trois côtés
+5. carré ; quatre côtés égaux et quatre angles droits
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

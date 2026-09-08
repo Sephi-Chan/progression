@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **IMM02** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **IMM03** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **IMM04** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **IMM05** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **IMM06** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **IMM07** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
 
 ## Variables didactiques
 
@@ -135,511 +132,451 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **ENT01-01** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT01-02** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT01-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT01-04** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT01-05** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Entraînement 2 — accessible
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **ENT02-01** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT02-02** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT02-03** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT02-04** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT02-05** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Entraînement 4 — standard
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **ENT03-01** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT03-02** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT03-03** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT03-04** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT03-05** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Entraînement 6 — standard
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### ENT04 — standard
+### Entraînement 7 — standard
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **ENT04-01** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT04-02** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT04-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT04-04** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT04-05** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Entraînement 8 — plus résistant
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **ENT05-01** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT05-02** — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT05-03** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT05-04** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT05-05** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### ENT06 — standard
-
-- **ENT06-01** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT06-02** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT06-03** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT06-04** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT06-05** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### ENT07 — standard
-
-- **ENT07-01** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT07-02** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT07-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT07-04** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT07-05** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### ENT08 — plus résistant
-
-- **ENT08-01** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT08-02** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT08-03** — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT08-04** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT08-05** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### ENT09 — plus résistant
-
-- **ENT09-01** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT09-02** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT09-03** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT09-04** — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT09-05** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT10-02** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT10-03** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT10-04** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **ENT10-05** — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Entraînement 10 — plus résistant
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune combine quatre items entraînés issus des mêmes niveaux de série et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un port. Contrainte(s) : **utilise le mot bateau**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **EVAL01-01** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL01-02** — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL01-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL01-04** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL01-05** — Écris une phrase sur un port. Contrainte(s) : **utilise le mot bateau**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Évaluation 2
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un verger. Contrainte(s) : **nomme un fruit**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### EVAL02
+### Évaluation 3
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la montagne. Contrainte(s) : **utilise le mot sommet**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **EVAL02-01** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL02-02** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL02-03** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL02-04** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL02-05** — Écris une phrase sur un verger. Contrainte(s) : **nomme un fruit**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Évaluation 4
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un spectacle. Contrainte(s) : **nomme un artiste**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### EVAL03
+### Évaluation 5
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **utilise le mot pont**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **EVAL03-01** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL03-02** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL03-03** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL03-04** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL03-05** — Écris une phrase sur la montagne. Contrainte(s) : **utilise le mot sommet**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Évaluation 6
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur une fête. Contrainte(s) : **nomme deux personnes ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### EVAL04
+### Évaluation 7
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un atelier. Contrainte(s) : **utilise un outil ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **EVAL04-01** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL04-02** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL04-03** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL04-04** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL04-05** — Écris une phrase sur un spectacle. Contrainte(s) : **nomme un artiste**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Évaluation 8
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **nomme un animal ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### EVAL05
+### Évaluation 9
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur une course. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **EVAL05-01** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL05-02** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL05-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL05-04** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL05-05** — Écris une phrase sur un trajet. Contrainte(s) : **utilise le mot pont**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### EVAL06
-
-- **EVAL06-01** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL06-02** — Écris une phrase sur l’école. Contrainte(s) : **utilise le mot cahier ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL06-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL06-04** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL06-05** — Écris une phrase sur une fête. Contrainte(s) : **nomme deux personnes ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### EVAL07
-
-- **EVAL07-01** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL07-02** — Écris une phrase sur un jeu. Contrainte(s) : **nomme deux joueurs ; utilise le mot ensemble**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL07-03** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL07-04** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL07-05** — Écris une phrase sur un atelier. Contrainte(s) : **utilise un outil ; indique un lieu**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### EVAL08
-
-- **EVAL08-01** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL08-02** — Écris une phrase sur le jardin. Contrainte(s) : **utilise un verbe d’action ; nomme une plante**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL08-03** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL08-04** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL08-05** — Écris une phrase sur la mer. Contrainte(s) : **nomme un animal ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### EVAL09
-
-- **EVAL09-01** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL09-02** — Écris une phrase sur un trajet. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL09-03** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL09-04** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL09-05** — Écris une phrase sur une course. Contrainte(s) : **indique le départ ; indique l’arrivée**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### EVAL10
-
-- **EVAL10-01** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL10-02** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL10-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL10-04** — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **EVAL10-05** — Écris une phrase sur l’hiver. Contrainte(s) : **utilise le mot neige ; nomme un vêtement**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Évaluation 10
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la nuit. Contrainte(s) : **utilise le mot lune ; ajoute un adjectif**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur l’hiver. Contrainte(s) : **utilise le mot neige ; nomme un vêtement**. Banque utile : *est, sont, dans, sur, avec, et*.
 
 ## Devoirs
 
 La consigne reste celle de la classe. Tous les items proviennent des quatre premières séries ; aucun matériel particulier n’est requis en dehors du support imprimé et d’un crayon.
 
-### DEV01
+### Devoir 1
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **DEV01-01** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV01-02** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV01-03** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV01-04** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV01-05** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Devoir 2
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### DEV02
+### Devoir 3
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **DEV02-01** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV02-02** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV02-03** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV02-04** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV02-05** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Devoir 4
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### DEV03
+### Devoir 5
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **DEV03-01** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV03-02** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV03-03** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV03-04** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV03-05** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Devoir 6
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### DEV04
+### Devoir 7
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **DEV04-01** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV04-02** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV04-03** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV04-04** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV04-05** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Devoir 8
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-### DEV05
+### Devoir 9
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
 
-- **DEV05-01** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV05-02** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV05-03** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV05-04** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV05-05** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### DEV06
-
-- **DEV06-01** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV06-02** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV06-03** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV06-04** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV06-05** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### DEV07
-
-- **DEV07-01** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV07-02** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV07-03** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV07-04** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV07-05** — Écris une phrase sur la pluie. Contrainte(s) : **utilise le mot parapluie**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### DEV08
-
-- **DEV08-01** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV08-02** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV08-03** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV08-04** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV08-05** — Écris une phrase sur un repas. Contrainte(s) : **nomme un aliment**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### DEV09
-
-- **DEV09-01** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV09-02** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV09-03** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV09-04** — Écris une phrase sur la forêt. Contrainte(s) : **utilise le mot arbre**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV09-05** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-
-### DEV10
-
-- **DEV10-01** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV10-02** — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV10-03** — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV10-04** — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
-- **DEV10-05** — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
+### Devoir 10
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la mer. Contrainte(s) : **utilise le mot vague**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un animal. Contrainte(s) : **nomme un animal**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur la cour. Contrainte(s) : **utilise le mot ballon**. Banque utile : *est, sont, dans, sur, avec, et*.
+- — Écris une phrase sur un livre. Contrainte(s) : **nomme un personnage**. Banque utile : *est, sont, dans, sur, avec, et*.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **IMM02** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **IMM03** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **IMM04** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **IMM05** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **IMM06** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **IMM07** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **ENT01-01** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT01-02** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT01-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT01-04** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT01-05** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Entraînement 2
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### ENT02
+#### Entraînement 3
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **ENT02-01** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT02-02** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT02-03** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT02-04** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT02-05** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Entraînement 4
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### ENT03
+#### Entraînement 5
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
 
-- **ENT03-01** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT03-02** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT03-03** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT03-04** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT03-05** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Entraînement 6
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### ENT04
+#### Entraînement 7
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **ENT04-01** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT04-02** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT04-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT04-04** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT04-05** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Entraînement 8
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
 
-#### ENT05
+#### Entraînement 9
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
 
-- **ENT05-01** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT05-02** — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT05-03** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT05-04** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT05-05** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-
-#### ENT06
-
-- **ENT06-01** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT06-02** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT06-03** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT06-04** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT06-05** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### ENT07
-
-- **ENT07-01** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT07-02** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT07-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT07-04** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT07-05** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### ENT08
-
-- **ENT08-01** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT08-02** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT08-03** — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT08-04** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT08-05** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-
-#### ENT09
-
-- **ENT09-01** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT09-02** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT09-03** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT09-04** — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT09-05** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-
-#### ENT10
-
-- **ENT10-01** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT10-02** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT10-03** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT10-04** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **ENT10-05** — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+#### Entraînement 10
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un bateau quitte le port. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **EVAL01-01** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL01-02** — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL01-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL01-04** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL01-05** — Exemple attendu : « Un bateau quitte le port. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Évaluation 2
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une poire tombe dans le verger. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### EVAL02
+#### Évaluation 3
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Les marcheurs atteignent le sommet. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **EVAL02-01** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL02-02** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL02-03** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL02-04** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL02-05** — Exemple attendu : « Une poire tombe dans le verger. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Évaluation 4
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une danseuse entre sur la scène. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### EVAL03
+#### Évaluation 5
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le car traverse le pont. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **EVAL03-01** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL03-02** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL03-03** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL03-04** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL03-05** — Exemple attendu : « Les marcheurs atteignent le sommet. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Évaluation 6
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Aya et Pablo dansent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### EVAL04
+#### Évaluation 7
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Maëlle pose le marteau sur l’établi. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **EVAL04-01** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL04-02** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL04-03** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL04-04** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL04-05** — Exemple attendu : « Une danseuse entre sur la scène. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Évaluation 8
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un grand dauphin nage dans la mer. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### EVAL05
+#### Évaluation 9
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La course part du parc et arrive à la mairie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **EVAL05-01** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL05-02** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL05-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL05-04** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL05-05** — Exemple attendu : « Le car traverse le pont. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### EVAL06
-
-- **EVAL06-01** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL06-02** — Exemple attendu : « Lina pose son cahier sur la table. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL06-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL06-04** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL06-05** — Exemple attendu : « Aya et Pablo dansent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### EVAL07
-
-- **EVAL07-01** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL07-02** — Exemple attendu : « Noé et Sami jouent ensemble. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL07-03** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL07-04** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL07-05** — Exemple attendu : « Maëlle pose le marteau sur l’établi. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### EVAL08
-
-- **EVAL08-01** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL08-02** — Exemple attendu : « Le jardinier arrose les tomates. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL08-03** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL08-04** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL08-05** — Exemple attendu : « Un grand dauphin nage dans la mer. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### EVAL09
-
-- **EVAL09-01** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL09-02** — Exemple attendu : « Le bus part de l’école et arrive à la piscine. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL09-03** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL09-04** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL09-05** — Exemple attendu : « La course part du parc et arrive à la mairie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### EVAL10
-
-- **EVAL10-01** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL10-02** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL10-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL10-04** — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
-- **EVAL10-05** — Exemple attendu : « Pablo met ses bottes dans la neige. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Évaluation 10
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « La lune ronde éclaire la nuit. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement les deux contraintes. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Pablo met ses bottes dans la neige. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement chaque contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **DEV01-01** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV01-02** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV01-03** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV01-04** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV01-05** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Devoir 2
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### DEV02
+#### Devoir 3
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **DEV02-01** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV02-02** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV02-03** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV02-04** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV02-05** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Devoir 4
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### DEV03
+#### Devoir 5
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **DEV03-01** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV03-02** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV03-03** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV03-04** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV03-05** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Devoir 6
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### DEV04
+#### Devoir 7
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **DEV04-01** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV04-02** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV04-03** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV04-04** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV04-05** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Devoir 8
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-#### DEV05
+#### Devoir 9
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
-- **DEV05-01** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV05-02** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV05-03** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV05-04** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV05-05** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### DEV06
-
-- **DEV06-01** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV06-02** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV06-03** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV06-04** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV06-05** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### DEV07
-
-- **DEV07-01** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV07-02** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV07-03** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV07-04** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV07-05** — Exemple attendu : « Mina ouvre son parapluie sous la pluie. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### DEV08
-
-- **DEV08-01** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV08-02** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV08-03** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV08-04** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV08-05** — Exemple attendu : « Je mange une soupe chaude. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### DEV09
-
-- **DEV09-01** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV09-02** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV09-03** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV09-04** — Exemple attendu : « Un oiseau chante dans un arbre. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV09-05** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-
-#### DEV10
-
-- **DEV10-01** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV10-02** — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV10-03** — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV10-04** — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
-- **DEV10-05** — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+#### Devoir 10
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Une vague arrive sur le sable. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Le lapin grignote une carotte. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un ballon roule dans la cour. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
+- — Exemple attendu : « Un pirate cherche un trésor. » Accepter toute phrase compréhensible qui traite le sujet et respecte explicitement la contrainte. Ne pas ajouter un critère orthographique non annoncé.
 
 ## Traçabilité des évaluations et devoirs
 

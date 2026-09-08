@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **IMM02** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **IMM03** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-- **IMM04** — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
-- **IMM05** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **IMM06** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **IMM07** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
+- — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
 
 ## Variables didactiques
 
@@ -135,511 +132,451 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
+- — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
 
-- **ENT01-01** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **ENT01-02** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **ENT01-03** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-- **ENT01-04** — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
-- **ENT01-05** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+### Entraînement 2 — accessible
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+- — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
 
-- **ENT02-01** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **ENT02-02** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **ENT02-03** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **ENT02-04** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **ENT02-05** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
+### Entraînement 4 — standard
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
 
-- **ENT03-01** — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
-- **ENT03-02** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **ENT03-03** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **ENT03-04** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **ENT03-05** — Copie exactement le modèle : **Le chat dort sur le tapis.**
+### Entraînement 6 — standard
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
 
-### ENT04 — standard
+### Entraînement 7 — standard
+- — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
 
-- **ENT04-01** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **ENT04-02** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
-- **ENT04-03** — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **ENT04-04** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **ENT04-05** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+### Entraînement 8 — plus résistant
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Lina prépare une salade avec des tomates.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ? Attention, le chemin devient glissant !**
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+- — Copie exactement le modèle : **Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Attention, le chemin devient glissant !**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
 
-- **ENT05-01** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **ENT05-02** — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
-- **ENT05-03** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
-- **ENT05-04** — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
-- **ENT05-05** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-
-### ENT06 — standard
-
-- **ENT06-01** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
-- **ENT06-02** — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **ENT06-03** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **ENT06-04** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **ENT06-05** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-
-### ENT07 — standard
-
-- **ENT07-01** — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
-- **ENT07-02** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
-- **ENT07-03** — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
-- **ENT07-04** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **ENT07-05** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
-
-### ENT08 — plus résistant
-
-- **ENT08-01** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Lina prépare une salade avec des tomates.**
-- **ENT08-02** — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Le vieux bateau avance lentement vers le port.**
-- **ENT08-03** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. À midi, nous mangerons sous le grand préau.**
-- **ENT08-04** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **ENT08-05** — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ? Attention, le chemin devient glissant !**
-
-### ENT09 — plus résistant
-
-- **ENT09-01** — Copie exactement le modèle : **Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port.**
-- **ENT09-02** — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau.**
-- **ENT09-03** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **ENT09-04** — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Attention, le chemin devient glissant !**
-- **ENT09-05** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau. À midi, nous mangerons sous le grand préau.**
-- **ENT10-02** — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ? Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **ENT10-03** — Copie exactement le modèle : **Attention, le chemin devient glissant ! Attention, le chemin devient glissant !**
-- **ENT10-04** — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
-- **ENT10-05** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Le chat dort sur le tapis.**
+### Entraînement 10 — plus résistant
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau. À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ? Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Attention, le chemin devient glissant ! Attention, le chemin devient glissant !**
+- — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Le chat dort sur le tapis.**
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune combine quatre items entraînés issus des mêmes niveaux de série et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Attention, le chemin devient glissant !**
+- — Copie exactement le modèle : **Aya suspend son manteau au crochet.**
 
-- **EVAL01-01** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **EVAL01-02** — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
-- **EVAL01-03** — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
-- **EVAL01-04** — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Attention, le chemin devient glissant !**
-- **EVAL01-05** — Copie exactement le modèle : **Aya suspend son manteau au crochet.**
+### Évaluation 2
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
+- — Copie exactement le modèle : **Pablo pose trois prunes dans le panier.**
 
-### EVAL02
+### Évaluation 3
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Un héron blanc marche près de la rive.**
 
-- **EVAL02-01** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **EVAL02-02** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
-- **EVAL02-03** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **EVAL02-04** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
-- **EVAL02-05** — Copie exactement le modèle : **Pablo pose trois prunes dans le panier.**
+### Évaluation 4
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
+- — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Demain, la troupe jouera devant les familles.**
 
-### EVAL03
+### Évaluation 5
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Nous traversons le vieux pont en silence.**
 
-- **EVAL03-01** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **EVAL03-02** — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
-- **EVAL03-03** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
-- **EVAL03-04** — Copie exactement le modèle : **Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port.**
-- **EVAL03-05** — Copie exactement le modèle : **Un héron blanc marche près de la rive.**
+### Évaluation 6
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Attention, le chemin devient glissant !**
+- — Copie exactement le modèle : **La barque rejoint lentement le petit port.**
 
-### EVAL04
+### Évaluation 7
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
+- — Copie exactement le modèle : **Après le déjeuner, Maëlle essuie la table.**
 
-- **EVAL04-01** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **EVAL04-02** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **EVAL04-03** — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
-- **EVAL04-04** — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau.**
-- **EVAL04-05** — Copie exactement le modèle : **Demain, la troupe jouera devant les familles.**
+### Évaluation 8
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Attention, cette marche est vraiment glissante !**
 
-### EVAL05
+### Évaluation 9
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
+- — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **À quelle heure commencera le prochain spectacle ?**
 
-- **EVAL05-01** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-- **EVAL05-02** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **EVAL05-03** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
-- **EVAL05-04** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **EVAL05-05** — Copie exactement le modèle : **Nous traversons le vieux pont en silence.**
-
-### EVAL06
-
-- **EVAL06-01** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **EVAL06-02** — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
-- **EVAL06-03** — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
-- **EVAL06-04** — Copie exactement le modèle : **Lina prépare une salade avec des tomates. Attention, le chemin devient glissant !**
-- **EVAL06-05** — Copie exactement le modèle : **La barque rejoint lentement le petit port.**
-
-### EVAL07
-
-- **EVAL07-01** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **EVAL07-02** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
-- **EVAL07-03** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **EVAL07-04** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque.**
-- **EVAL07-05** — Copie exactement le modèle : **Après le déjeuner, Maëlle essuie la table.**
-
-### EVAL08
-
-- **EVAL08-01** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **EVAL08-02** — Copie exactement le modèle : **Lina prépare une salade avec des tomates.**
-- **EVAL08-03** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
-- **EVAL08-04** — Copie exactement le modèle : **Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port.**
-- **EVAL08-05** — Copie exactement le modèle : **Attention, cette marche est vraiment glissante !**
-
-### EVAL09
-
-- **EVAL09-01** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **EVAL09-02** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **EVAL09-03** — Copie exactement le modèle : **La maîtresse distribue les cahiers bleus.**
-- **EVAL09-04** — Copie exactement le modèle : **Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau.**
-- **EVAL09-05** — Copie exactement le modèle : **À quelle heure commencera le prochain spectacle ?**
-
-### EVAL10
-
-- **EVAL10-01** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-- **EVAL10-02** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **EVAL10-03** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
-- **EVAL10-04** — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **EVAL10-05** — Copie exactement le modèle : **Chaque samedi, le gardien ouvre les grilles du musée.**
+### Évaluation 10
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir.**
+- — Copie exactement le modèle : **Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Chaque samedi, le gardien ouvre les grilles du musée.**
 
 ## Devoirs
 
 La consigne reste celle de la classe. Tous les items proviennent des quatre premières séries ; aucun matériel particulier n’est requis en dehors du support imprimé et d’un crayon.
 
-### DEV01
+### Devoir 1
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
 
-- **DEV01-01** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV01-02** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **DEV01-03** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV01-04** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **DEV01-05** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+### Devoir 2
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
 
-### DEV02
+### Devoir 3
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
 
-- **DEV02-01** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV02-02** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **DEV02-03** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV02-04** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV02-05** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+### Devoir 4
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
 
-### DEV03
+### Devoir 5
+- — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
+- — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
+- — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
 
-- **DEV03-01** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV03-02** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **DEV03-03** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **DEV03-04** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV03-05** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+### Devoir 6
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ?**
+- — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
+- — Copie exactement le modèle : **Trois canards nagent dans la mare.**
 
-### DEV04
+### Devoir 7
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
 
-- **DEV04-01** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
-- **DEV04-02** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-- **DEV04-03** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **DEV04-04** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV04-05** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+### Devoir 8
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
 
-### DEV05
+### Devoir 9
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
+- — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
 
-- **DEV05-01** — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
-- **DEV05-02** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-- **DEV05-03** — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
-- **DEV05-04** — Copie exactement le modèle : **À midi, nous mangerons sous le grand préau.**
-- **DEV05-05** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-
-### DEV06
-
-- **DEV06-01** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV06-02** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **DEV06-03** — Copie exactement le modèle : **Pourquoi le hérisson se cache-t-il sous les feuilles ?**
-- **DEV06-04** — Copie exactement le modèle : **Ce matin, le ciel est très clair.**
-- **DEV06-05** — Copie exactement le modèle : **Trois canards nagent dans la mare.**
-
-### DEV07
-
-- **DEV07-01** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV07-02** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **DEV07-03** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-- **DEV07-04** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV07-05** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-
-### DEV08
-
-- **DEV08-01** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV08-02** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV08-03** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **DEV08-04** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV08-05** — Copie exactement le modèle : **Nous rangeons les livres sur l’étagère.**
-
-### DEV09
-
-- **DEV09-01** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **DEV09-02** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV09-03** — Copie exactement le modèle : **Après la pluie, les enfants sortent.**
-- **DEV09-04** — Copie exactement le modèle : **Un petit écureuil grimpe dans l’arbre.**
-- **DEV09-05** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-
-### DEV10
-
-- **DEV10-01** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **DEV10-02** — Copie exactement le modèle : **Le chat dort sur le tapis.**
-- **DEV10-03** — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
-- **DEV10-04** — Copie exactement le modèle : **Mina ferme doucement la porte.**
-- **DEV10-05** — Copie exactement le modèle : **Le chat dort sur le tapis.**
+### Devoir 10
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
+- — Copie exactement le modèle : **Le vieux bateau avance lentement vers le port.**
+- — Copie exactement le modèle : **Mina ferme doucement la porte.**
+- — Copie exactement le modèle : **Le chat dort sur le tapis.**
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **IMM02** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **IMM03** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **IMM04** — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **IMM05** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **IMM06** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **IMM07** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **ENT01-01** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT01-02** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT01-03** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT01-04** — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT01-05** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Entraînement 2
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### ENT02
+#### Entraînement 3
+- — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **ENT02-01** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT02-02** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT02-03** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT02-04** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT02-05** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Entraînement 4
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### ENT03
+#### Entraînement 5
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **ENT03-01** — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT03-02** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT03-03** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT03-04** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT03-05** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Entraînement 6
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### ENT04
+#### Entraînement 7
+- — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **ENT04-01** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT04-02** — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT04-03** — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT04-04** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT04-05** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Entraînement 8
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### ENT05
+#### Entraînement 9
+- — Copie conforme : « Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **ENT05-01** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT05-02** — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT05-03** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT05-04** — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT05-05** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### ENT06
-
-- **ENT06-01** — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT06-02** — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT06-03** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT06-04** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT06-05** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### ENT07
-
-- **ENT07-01** — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT07-02** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT07-03** — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT07-04** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT07-05** — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### ENT08
-
-- **ENT08-01** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT08-02** — Copie conforme : « Lina prépare une salade avec des tomates. Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT08-03** — Copie conforme : « Le vieux bateau avance lentement vers le port. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT08-04** — Copie conforme : « À midi, nous mangerons sous le grand préau. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT08-05** — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### ENT09
-
-- **ENT09-01** — Copie conforme : « Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT09-02** — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT09-03** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT09-04** — Copie conforme : « Lina prépare une salade avec des tomates. Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT09-05** — Copie conforme : « Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### ENT10
-
-- **ENT10-01** — Copie conforme : « À midi, nous mangerons sous le grand préau. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT10-02** — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT10-03** — Copie conforme : « Attention, le chemin devient glissant ! Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT10-04** — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **ENT10-05** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Entraînement 10
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Attention, le chemin devient glissant ! Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Aya suspend son manteau au crochet. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **EVAL01-01** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL01-02** — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL01-03** — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL01-04** — Copie conforme : « Lina prépare une salade avec des tomates. Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL01-05** — Copie conforme : « Aya suspend son manteau au crochet. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Évaluation 2
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Pablo pose trois prunes dans le panier. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### EVAL02
+#### Évaluation 3
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un héron blanc marche près de la rive. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **EVAL02-01** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL02-02** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL02-03** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL02-04** — Copie conforme : « Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL02-05** — Copie conforme : « Pablo pose trois prunes dans le panier. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Évaluation 4
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Demain, la troupe jouera devant les familles. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### EVAL03
+#### Évaluation 5
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous traversons le vieux pont en silence. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **EVAL03-01** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL03-02** — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL03-03** — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL03-04** — Copie conforme : « Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL03-05** — Copie conforme : « Un héron blanc marche près de la rive. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Évaluation 6
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « La barque rejoint lentement le petit port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### EVAL04
+#### Évaluation 7
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après le déjeuner, Maëlle essuie la table. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **EVAL04-01** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL04-02** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL04-03** — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL04-04** — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL04-05** — Copie conforme : « Demain, la troupe jouera devant les familles. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Évaluation 8
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Attention, cette marche est vraiment glissante ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### EVAL05
+#### Évaluation 9
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « À quelle heure commencera le prochain spectacle ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **EVAL05-01** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL05-02** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL05-03** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL05-04** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL05-05** — Copie conforme : « Nous traversons le vieux pont en silence. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### EVAL06
-
-- **EVAL06-01** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL06-02** — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL06-03** — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL06-04** — Copie conforme : « Lina prépare une salade avec des tomates. Attention, le chemin devient glissant ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL06-05** — Copie conforme : « La barque rejoint lentement le petit port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### EVAL07
-
-- **EVAL07-01** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL07-02** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL07-03** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL07-04** — Copie conforme : « Le vieux bateau avance lentement vers le port. Chaque mercredi, Noé retrouve ses amis à la bibliothèque. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL07-05** — Copie conforme : « Après le déjeuner, Maëlle essuie la table. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### EVAL08
-
-- **EVAL08-01** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL08-02** — Copie conforme : « Lina prépare une salade avec des tomates. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL08-03** — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL08-04** — Copie conforme : « Attention, le chemin devient glissant ! Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL08-05** — Copie conforme : « Attention, cette marche est vraiment glissante ! » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### EVAL09
-
-- **EVAL09-01** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL09-02** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL09-03** — Copie conforme : « La maîtresse distribue les cahiers bleus. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL09-04** — Copie conforme : « Chaque mercredi, Noé retrouve ses amis à la bibliothèque. À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL09-05** — Copie conforme : « À quelle heure commencera le prochain spectacle ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### EVAL10
-
-- **EVAL10-01** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL10-02** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL10-03** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL10-04** — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **EVAL10-05** — Copie conforme : « Chaque samedi, le gardien ouvre les grilles du musée. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Évaluation 10
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Dans le jardin, les roses commencent à fleurir. Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Chaque samedi, le gardien ouvre les grilles du musée. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **DEV01-01** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV01-02** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV01-03** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV01-04** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV01-05** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Devoir 2
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### DEV02
+#### Devoir 3
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **DEV02-01** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV02-02** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV02-03** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV02-04** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV02-05** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Devoir 4
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### DEV03
+#### Devoir 5
+- — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **DEV03-01** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV03-02** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV03-03** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV03-04** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV03-05** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Devoir 6
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### DEV04
+#### Devoir 7
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **DEV04-01** — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV04-02** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV04-03** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV04-04** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV04-05** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Devoir 8
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-#### DEV05
+#### Devoir 9
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
-- **DEV05-01** — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV05-02** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV05-03** — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV05-04** — Copie conforme : « À midi, nous mangerons sous le grand préau. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV05-05** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### DEV06
-
-- **DEV06-01** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV06-02** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV06-03** — Copie conforme : « Pourquoi le hérisson se cache-t-il sous les feuilles ? » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV06-04** — Copie conforme : « Ce matin, le ciel est très clair. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV06-05** — Copie conforme : « Trois canards nagent dans la mare. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### DEV07
-
-- **DEV07-01** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV07-02** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV07-03** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV07-04** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV07-05** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### DEV08
-
-- **DEV08-01** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV08-02** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV08-03** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV08-04** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV08-05** — Copie conforme : « Nous rangeons les livres sur l’étagère. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### DEV09
-
-- **DEV09-01** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV09-02** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV09-03** — Copie conforme : « Après la pluie, les enfants sortent. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV09-04** — Copie conforme : « Un petit écureuil grimpe dans l’arbre. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV09-05** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-
-#### DEV10
-
-- **DEV10-01** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV10-02** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV10-03** — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV10-04** — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
-- **DEV10-05** — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+#### Devoir 10
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le vieux bateau avance lentement vers le port. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Mina ferme doucement la porte. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
+- — Copie conforme : « Le chat dort sur le tapis. » Vérifier mot à mot les lettres, accents, espaces, majuscules et ponctuation ; la qualité graphique relève d’ECR12 et n’est pas le critère principal ici.
 
 ## Traçabilité des évaluations et devoirs
 

@@ -61,8 +61,7 @@ Le format sollicite directement la compétence et produit une réponse corrigeab
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
@@ -74,8 +73,7 @@ Lis la longueur du segment sur la règle.
 - **Réponse :** 2 cm.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
@@ -87,8 +85,7 @@ Lis la longueur du segment sur la règle.
 - **Réponse :** 5 cm.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
@@ -102,37 +99,37 @@ Lis la longueur du segment sur la règle.
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **IMM02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
-- **IMM03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **IMM04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **IMM05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **IMM06** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **IMM07** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
@@ -146,281 +143,271 @@ Lis la longueur du segment sur la règle.
 
 ## Entraînements
 
-### ENT01
-
-- **ENT01-01** Lis la longueur du segment sur la règle.
+### Entraînement 1
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
-- **ENT01-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
-- **ENT01-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
-- **ENT01-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **ENT01-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
 
-### ENT02
-
-- **ENT02-01** Lis la longueur du segment sur la règle.
+### Entraînement 2
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **ENT02-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **ENT02-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **ENT02-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **ENT02-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
 
-### ENT03
-
-- **ENT03-01** Lis la longueur du segment sur la règle.
+### Entraînement 3
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
-- **ENT03-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
-- **ENT03-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
-- **ENT03-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **ENT03-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
 
-### ENT04
-
-- **ENT04-01** Lis la longueur du segment sur la règle.
+### Entraînement 4
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **ENT04-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **ENT04-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **ENT04-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **ENT04-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
 
-### ENT05
-
-- **ENT05-01** Lis la longueur du segment sur la règle.
+### Entraînement 5
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
-- **ENT05-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
-- **ENT05-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
-- **ENT05-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **ENT05-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
 
-### ENT06
-
-- **ENT06-01** Lis la longueur du segment sur la règle.
+### Entraînement 6
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **ENT06-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **ENT06-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **ENT06-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **ENT06-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
 
-### ENT07
-
-- **ENT07-01** Lis la longueur du segment sur la règle.
+### Entraînement 7
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment :    ●══════●
-- **ENT07-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :       ●═══════════════●
-- **ENT07-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment :          ●════════════════════════●
-- **ENT07-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11 12
             |--|--|--|--|--|--|--|--|--|--|--|--|
     segment :    ●═════════════════════════════════●
-- **ENT07-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment :       ●════════════●
 
-### ENT08
-
-- **ENT08-01** Lis la longueur du segment sur la règle.
+### Entraînement 8
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment :          ●═════════════════════●
-- **ENT08-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment :    ●══════════════════════════════●
-- **ENT08-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment :       ●═════════●
-- **ENT08-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment :          ●══════════════════●
-- **ENT08-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment :    ●═══════════════════════════●
 
-### ENT09
-
-- **ENT09-01** Lis la longueur du segment sur la règle.
+### Entraînement 9
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment :       ●══════●
-- **ENT09-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment :          ●═══════════════●
-- **ENT09-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment :    ●════════════════════════●
-- **ENT09-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11 12 13
             |--|--|--|--|--|--|--|--|--|--|--|--|--|
     segment :       ●═════════════════════════════════●
-- **ENT09-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :          ●════════════●
 
-### ENT10
-
-- **ENT10-01** Lis la longueur du segment sur la règle.
+### Entraînement 10
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment :    ●═════════════════════●
-- **ENT10-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11 12
             |--|--|--|--|--|--|--|--|--|--|--|--|
     segment :       ●══════════════════════════════●
-- **ENT10-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment :          ●═════════●
-- **ENT10-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :    ●══════════════════●
-- **ENT10-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
@@ -428,281 +415,271 @@ Lis la longueur du segment sur la règle.
 
 ## Évaluations
 
-### EVAL01
-
-- **EVAL01-01** Lis la longueur du segment sur la règle.
+### Évaluation 1
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **EVAL01-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **EVAL01-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment :       ●════════════●
-- **EVAL01-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment :  ●══════════════════●
-- **EVAL01-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment :       ●══════════════════●
 
-### EVAL02
-
-- **EVAL02-01** Lis la longueur du segment sur la règle.
+### Évaluation 2
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **EVAL02-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **EVAL02-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment :    ●══════●
-- **EVAL02-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment :  ●═══════════════════════════●
-- **EVAL02-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment :    ●═════════════════════●
 
-### EVAL03
-
-- **EVAL03-01** Lis la longueur du segment sur la règle.
+### Évaluation 3
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **EVAL03-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **EVAL03-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :       ●═══════════════●
-- **EVAL03-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :  ●═════════════════════●
-- **EVAL03-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment :       ●════════════════════════●
 
-### EVAL04
-
-- **EVAL04-01** Lis la longueur du segment sur la règle.
+### Évaluation 4
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **EVAL04-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **EVAL04-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment :          ●════════════════════════●
-- **EVAL04-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment :  ●══════════════════════════════●
-- **EVAL04-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment :    ●═══════════════════════════●
 
-### EVAL05
-
-- **EVAL05-01** Lis la longueur du segment sur la règle.
+### Évaluation 5
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **EVAL05-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **EVAL05-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11 12
             |--|--|--|--|--|--|--|--|--|--|--|--|
     segment :    ●═════════════════════════════════●
-- **EVAL05-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment :  ●═════════●
-- **EVAL05-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :       ●═══════════════●
 
-### EVAL06
-
-- **EVAL06-01** Lis la longueur du segment sur la règle.
+### Évaluation 6
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **EVAL06-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **EVAL06-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment :       ●════════════●
-- **EVAL06-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment :  ●══════════════════●
-- **EVAL06-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :    ●══════════════════●
 
-### EVAL07
-
-- **EVAL07-01** Lis la longueur du segment sur la règle.
+### Évaluation 7
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **EVAL07-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **EVAL07-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment :    ●══════●
-- **EVAL07-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment :  ●═══════════════════════════●
-- **EVAL07-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment :       ●═════════════════════●
 
-### EVAL08
-
-- **EVAL08-01** Lis la longueur du segment sur la règle.
+### Évaluation 8
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **EVAL08-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **EVAL08-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :       ●═══════════════●
-- **EVAL08-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment :  ●═════════════════════●
-- **EVAL08-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment :    ●════════════════════════●
 
-### EVAL09
-
-- **EVAL09-01** Lis la longueur du segment sur la règle.
+### Évaluation 9
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **EVAL09-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **EVAL09-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment :          ●════════════════════════●
-- **EVAL09-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment :  ●══════════════════════════════●
-- **EVAL09-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment :       ●═══════════════════════════●
 
-### EVAL10
-
-- **EVAL10-01** Lis la longueur du segment sur la règle.
+### Évaluation 10
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **EVAL10-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **EVAL10-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11 12
             |--|--|--|--|--|--|--|--|--|--|--|--|
     segment :    ●═════════════════════════════════●
-- **EVAL10-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment :  ●═════════●
-- **EVAL10-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
@@ -710,281 +687,271 @@ Lis la longueur du segment sur la règle.
 
 ## Devoirs
 
-### DEV01
-
-- **DEV01-01** Lis la longueur du segment sur la règle.
+### Devoir 1
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
-- **DEV01-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **DEV01-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **DEV01-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **DEV01-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
 
-### DEV02
-
-- **DEV02-01** Lis la longueur du segment sur la règle.
+### Devoir 2
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
-- **DEV02-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **DEV02-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
-- **DEV02-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **DEV02-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
 
-### DEV03
-
-- **DEV03-01** Lis la longueur du segment sur la règle.
+### Devoir 3
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
-- **DEV03-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **DEV03-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
-- **DEV03-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **DEV03-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
 
-### DEV04
-
-- **DEV04-01** Lis la longueur du segment sur la règle.
+### Devoir 4
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **DEV04-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **DEV04-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
-- **DEV04-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **DEV04-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
 
-### DEV05
-
-- **DEV05-01** Lis la longueur du segment sur la règle.
+### Devoir 5
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
-- **DEV05-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **DEV05-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
-- **DEV05-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **DEV05-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
 
-### DEV06
-
-- **DEV06-01** Lis la longueur du segment sur la règle.
+### Devoir 6
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
-- **DEV06-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **DEV06-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **DEV06-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **DEV06-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
 
-### DEV07
-
-- **DEV07-01** Lis la longueur du segment sur la règle.
+### Devoir 7
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
-- **DEV07-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **DEV07-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
-- **DEV07-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **DEV07-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
 
-### DEV08
-
-- **DEV08-01** Lis la longueur du segment sur la règle.
+### Devoir 8
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
-- **DEV08-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9
             |--|--|--|--|--|--|--|--|--|
     segment : ●═══════════════════════════●
-- **DEV08-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2
             |--|--|
     segment : ●══════●
-- **DEV08-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **DEV08-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
 
-### DEV09
-
-- **DEV09-01** Lis la longueur du segment sur la règle.
+### Devoir 9
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
-- **DEV09-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7
             |--|--|--|--|--|--|--|
     segment : ●═════════════════════●
-- **DEV09-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5
             |--|--|--|--|--|
     segment : ●═══════════════●
-- **DEV09-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3
             |--|--|--|
     segment : ●═════════●
-- **DEV09-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10 11
             |--|--|--|--|--|--|--|--|--|--|--|
     segment : ●═════════════════════════════════●
 
-### DEV10
-
-- **DEV10-01** Lis la longueur du segment sur la règle.
+### Devoir 10
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
     segment : ●════════════●
-- **DEV10-02** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8  9 10
             |--|--|--|--|--|--|--|--|--|--|
     segment : ●══════════════════════════════●
-- **DEV10-03** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6  7  8
             |--|--|--|--|--|--|--|--|
     segment : ●════════════════════════●
-- **DEV10-04** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4  5  6
             |--|--|--|--|--|--|
     segment : ●══════════════════●
-- **DEV10-05** Lis la longueur du segment sur la règle.
+- Lis la longueur du segment sur la règle.
 
     règle :  0  1  2  3  4
             |--|--|--|--|
@@ -994,259 +961,229 @@ Lis la longueur du segment sur la règle.
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — 11 cm.
-2. **IMM02** — 4 cm.
-3. **IMM03** — 7 cm.
-4. **IMM04** — 10 cm.
-5. **IMM05** — 3 cm.
-6. **IMM06** — 6 cm.
-7. **IMM07** — 9 cm.
+1. — 11 cm.
+2. — 4 cm.
+3. — 7 cm.
+4. — 10 cm.
+5. — 3 cm.
+6. — 6 cm.
+7. — 9 cm.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. — 2 cm.
+2. — 5 cm.
+3. — 8 cm.
+4. — 11 cm.
+5. — 4 cm.
 
-1. **ENT01-01** — 2 cm.
-2. **ENT01-02** — 5 cm.
-3. **ENT01-03** — 8 cm.
-4. **ENT01-04** — 11 cm.
-5. **ENT01-05** — 4 cm.
+#### Entraînement 2
+1. — 7 cm.
+2. — 10 cm.
+3. — 3 cm.
+4. — 6 cm.
+5. — 9 cm.
 
-#### ENT02
+#### Entraînement 3
+1. — 2 cm.
+2. — 5 cm.
+3. — 8 cm.
+4. — 11 cm.
+5. — 4 cm.
 
-1. **ENT02-01** — 7 cm.
-2. **ENT02-02** — 10 cm.
-3. **ENT02-03** — 3 cm.
-4. **ENT02-04** — 6 cm.
-5. **ENT02-05** — 9 cm.
+#### Entraînement 4
+1. — 7 cm.
+2. — 10 cm.
+3. — 3 cm.
+4. — 6 cm.
+5. — 9 cm.
 
-#### ENT03
+#### Entraînement 5
+1. — 2 cm.
+2. — 5 cm.
+3. — 8 cm.
+4. — 11 cm.
+5. — 4 cm.
 
-1. **ENT03-01** — 2 cm.
-2. **ENT03-02** — 5 cm.
-3. **ENT03-03** — 8 cm.
-4. **ENT03-04** — 11 cm.
-5. **ENT03-05** — 4 cm.
+#### Entraînement 6
+1. — 7 cm.
+2. — 10 cm.
+3. — 3 cm.
+4. — 6 cm.
+5. — 9 cm.
 
-#### ENT04
+#### Entraînement 7
+1. — 2 cm.
+2. — 5 cm.
+3. — 8 cm.
+4. — 11 cm.
+5. — 4 cm.
 
-1. **ENT04-01** — 7 cm.
-2. **ENT04-02** — 10 cm.
-3. **ENT04-03** — 3 cm.
-4. **ENT04-04** — 6 cm.
-5. **ENT04-05** — 9 cm.
+#### Entraînement 8
+1. — 7 cm.
+2. — 10 cm.
+3. — 3 cm.
+4. — 6 cm.
+5. — 9 cm.
 
-#### ENT05
+#### Entraînement 9
+1. — 2 cm.
+2. — 5 cm.
+3. — 8 cm.
+4. — 11 cm.
+5. — 4 cm.
 
-1. **ENT05-01** — 2 cm.
-2. **ENT05-02** — 5 cm.
-3. **ENT05-03** — 8 cm.
-4. **ENT05-04** — 11 cm.
-5. **ENT05-05** — 4 cm.
-
-#### ENT06
-
-1. **ENT06-01** — 7 cm.
-2. **ENT06-02** — 10 cm.
-3. **ENT06-03** — 3 cm.
-4. **ENT06-04** — 6 cm.
-5. **ENT06-05** — 9 cm.
-
-#### ENT07
-
-1. **ENT07-01** — 2 cm.
-2. **ENT07-02** — 5 cm.
-3. **ENT07-03** — 8 cm.
-4. **ENT07-04** — 11 cm.
-5. **ENT07-05** — 4 cm.
-
-#### ENT08
-
-1. **ENT08-01** — 7 cm.
-2. **ENT08-02** — 10 cm.
-3. **ENT08-03** — 3 cm.
-4. **ENT08-04** — 6 cm.
-5. **ENT08-05** — 9 cm.
-
-#### ENT09
-
-1. **ENT09-01** — 2 cm.
-2. **ENT09-02** — 5 cm.
-3. **ENT09-03** — 8 cm.
-4. **ENT09-04** — 11 cm.
-5. **ENT09-05** — 4 cm.
-
-#### ENT10
-
-1. **ENT10-01** — 7 cm.
-2. **ENT10-02** — 10 cm.
-3. **ENT10-03** — 3 cm.
-4. **ENT10-04** — 6 cm.
-5. **ENT10-05** — 9 cm.
+#### Entraînement 10
+1. — 7 cm.
+2. — 10 cm.
+3. — 3 cm.
+4. — 6 cm.
+5. — 9 cm.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. — 7 cm.
+2. — 3 cm.
+3. — 4 cm.
+4. — 6 cm.
+5. — 6 cm.
 
-1. **EVAL01-01** — 7 cm.
-2. **EVAL01-02** — 3 cm.
-3. **EVAL01-03** — 4 cm.
-4. **EVAL01-04** — 6 cm.
-5. **EVAL01-05** — 6 cm.
+#### Évaluation 2
+1. — 10 cm.
+2. — 6 cm.
+3. — 2 cm.
+4. — 9 cm.
+5. — 7 cm.
 
-#### EVAL02
+#### Évaluation 3
+1. — 3 cm.
+2. — 9 cm.
+3. — 5 cm.
+4. — 7 cm.
+5. — 8 cm.
 
-1. **EVAL02-01** — 10 cm.
-2. **EVAL02-02** — 6 cm.
-3. **EVAL02-03** — 2 cm.
-4. **EVAL02-04** — 9 cm.
-5. **EVAL02-05** — 7 cm.
+#### Évaluation 4
+1. — 6 cm.
+2. — 7 cm.
+3. — 8 cm.
+4. — 10 cm.
+5. — 9 cm.
 
-#### EVAL03
+#### Évaluation 5
+1. — 9 cm.
+2. — 10 cm.
+3. — 11 cm.
+4. — 3 cm.
+5. — 5 cm.
 
-1. **EVAL03-01** — 3 cm.
-2. **EVAL03-02** — 9 cm.
-3. **EVAL03-03** — 5 cm.
-4. **EVAL03-04** — 7 cm.
-5. **EVAL03-05** — 8 cm.
+#### Évaluation 6
+1. — 7 cm.
+2. — 3 cm.
+3. — 4 cm.
+4. — 6 cm.
+5. — 6 cm.
 
-#### EVAL04
+#### Évaluation 7
+1. — 10 cm.
+2. — 6 cm.
+3. — 2 cm.
+4. — 9 cm.
+5. — 7 cm.
 
-1. **EVAL04-01** — 6 cm.
-2. **EVAL04-02** — 7 cm.
-3. **EVAL04-03** — 8 cm.
-4. **EVAL04-04** — 10 cm.
-5. **EVAL04-05** — 9 cm.
+#### Évaluation 8
+1. — 3 cm.
+2. — 9 cm.
+3. — 5 cm.
+4. — 7 cm.
+5. — 8 cm.
 
-#### EVAL05
+#### Évaluation 9
+1. — 6 cm.
+2. — 7 cm.
+3. — 8 cm.
+4. — 10 cm.
+5. — 9 cm.
 
-1. **EVAL05-01** — 9 cm.
-2. **EVAL05-02** — 10 cm.
-3. **EVAL05-03** — 11 cm.
-4. **EVAL05-04** — 3 cm.
-5. **EVAL05-05** — 5 cm.
-
-#### EVAL06
-
-1. **EVAL06-01** — 7 cm.
-2. **EVAL06-02** — 3 cm.
-3. **EVAL06-03** — 4 cm.
-4. **EVAL06-04** — 6 cm.
-5. **EVAL06-05** — 6 cm.
-
-#### EVAL07
-
-1. **EVAL07-01** — 10 cm.
-2. **EVAL07-02** — 6 cm.
-3. **EVAL07-03** — 2 cm.
-4. **EVAL07-04** — 9 cm.
-5. **EVAL07-05** — 7 cm.
-
-#### EVAL08
-
-1. **EVAL08-01** — 3 cm.
-2. **EVAL08-02** — 9 cm.
-3. **EVAL08-03** — 5 cm.
-4. **EVAL08-04** — 7 cm.
-5. **EVAL08-05** — 8 cm.
-
-#### EVAL09
-
-1. **EVAL09-01** — 6 cm.
-2. **EVAL09-02** — 7 cm.
-3. **EVAL09-03** — 8 cm.
-4. **EVAL09-04** — 10 cm.
-5. **EVAL09-05** — 9 cm.
-
-#### EVAL10
-
-1. **EVAL10-01** — 9 cm.
-2. **EVAL10-02** — 10 cm.
-3. **EVAL10-03** — 11 cm.
-4. **EVAL10-04** — 3 cm.
-5. **EVAL10-05** — 5 cm.
+#### Évaluation 10
+1. — 9 cm.
+2. — 10 cm.
+3. — 11 cm.
+4. — 3 cm.
+5. — 5 cm.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. — 2 cm.
+2. — 3 cm.
+3. — 11 cm.
+4. — 9 cm.
+5. — 2 cm.
 
-1. **DEV01-01** — 2 cm.
-2. **DEV01-02** — 3 cm.
-3. **DEV01-03** — 11 cm.
-4. **DEV01-04** — 9 cm.
-5. **DEV01-05** — 2 cm.
+#### Devoir 2
+1. — 5 cm.
+2. — 6 cm.
+3. — 4 cm.
+4. — 7 cm.
+5. — 5 cm.
 
-#### DEV02
+#### Devoir 3
+1. — 8 cm.
+2. — 9 cm.
+3. — 2 cm.
+4. — 10 cm.
+5. — 8 cm.
 
-1. **DEV02-01** — 5 cm.
-2. **DEV02-02** — 6 cm.
-3. **DEV02-03** — 4 cm.
-4. **DEV02-04** — 7 cm.
-5. **DEV02-05** — 5 cm.
+#### Devoir 4
+1. — 11 cm.
+2. — 7 cm.
+3. — 5 cm.
+4. — 3 cm.
+5. — 11 cm.
 
-#### DEV03
+#### Devoir 5
+1. — 4 cm.
+2. — 10 cm.
+3. — 8 cm.
+4. — 6 cm.
+5. — 4 cm.
 
-1. **DEV03-01** — 8 cm.
-2. **DEV03-02** — 9 cm.
-3. **DEV03-03** — 2 cm.
-4. **DEV03-04** — 10 cm.
-5. **DEV03-05** — 8 cm.
+#### Devoir 6
+1. — 2 cm.
+2. — 3 cm.
+3. — 11 cm.
+4. — 9 cm.
+5. — 2 cm.
 
-#### DEV04
+#### Devoir 7
+1. — 5 cm.
+2. — 6 cm.
+3. — 4 cm.
+4. — 7 cm.
+5. — 5 cm.
 
-1. **DEV04-01** — 11 cm.
-2. **DEV04-02** — 7 cm.
-3. **DEV04-03** — 5 cm.
-4. **DEV04-04** — 3 cm.
-5. **DEV04-05** — 11 cm.
+#### Devoir 8
+1. — 8 cm.
+2. — 9 cm.
+3. — 2 cm.
+4. — 10 cm.
+5. — 8 cm.
 
-#### DEV05
+#### Devoir 9
+1. — 11 cm.
+2. — 7 cm.
+3. — 5 cm.
+4. — 3 cm.
+5. — 11 cm.
 
-1. **DEV05-01** — 4 cm.
-2. **DEV05-02** — 10 cm.
-3. **DEV05-03** — 8 cm.
-4. **DEV05-04** — 6 cm.
-5. **DEV05-05** — 4 cm.
-
-#### DEV06
-
-1. **DEV06-01** — 2 cm.
-2. **DEV06-02** — 3 cm.
-3. **DEV06-03** — 11 cm.
-4. **DEV06-04** — 9 cm.
-5. **DEV06-05** — 2 cm.
-
-#### DEV07
-
-1. **DEV07-01** — 5 cm.
-2. **DEV07-02** — 6 cm.
-3. **DEV07-03** — 4 cm.
-4. **DEV07-04** — 7 cm.
-5. **DEV07-05** — 5 cm.
-
-#### DEV08
-
-1. **DEV08-01** — 8 cm.
-2. **DEV08-02** — 9 cm.
-3. **DEV08-03** — 2 cm.
-4. **DEV08-04** — 10 cm.
-5. **DEV08-05** — 8 cm.
-
-#### DEV09
-
-1. **DEV09-01** — 11 cm.
-2. **DEV09-02** — 7 cm.
-3. **DEV09-03** — 5 cm.
-4. **DEV09-04** — 3 cm.
-5. **DEV09-05** — 11 cm.
-
-#### DEV10
-
-1. **DEV10-01** — 4 cm.
-2. **DEV10-02** — 10 cm.
-3. **DEV10-03** — 8 cm.
-4. **DEV10-04** — 6 cm.
-5. **DEV10-05** — 4 cm.
+#### Devoir 10
+1. — 4 cm.
+2. — 10 cm.
+3. — 8 cm.
+4. — 6 cm.
+5. — 4 cm.
 
 ## Traçabilité des évaluations et devoirs
 

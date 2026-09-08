@@ -61,8 +61,7 @@ Le format sollicite directement la compétence et produit une réponse corrigeab
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
@@ -73,8 +72,7 @@ Compare les deux bandes. Écris A, B ou =.
 - **Réponse :** B.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
@@ -85,8 +83,7 @@ Compare les deux bandes. Écris A, B ou =.
 - **Réponse :** A.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
@@ -99,31 +96,31 @@ Compare les deux bandes. Écris A, B ou =.
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━
-- **IMM02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B : ━━━━━━━
-- **IMM03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━
-- **IMM04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━
-- **IMM05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━
-- **IMM06** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━
-- **IMM07** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━
@@ -136,696 +133,666 @@ Compare les deux bandes. Écris A, B ou =.
 
 ## Entraînements
 
-### ENT01
-
-- **ENT01-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 1
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━━━━
-- **ENT01-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━
-- **ENT01-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━━━━
-- **ENT01-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━
-- **ENT01-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B : ━━━━━━━
 
-### ENT02
-
-- **ENT02-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 2
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━
-- **ENT02-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━
-- **ENT02-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━
-- **ENT02-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━
-- **ENT02-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━
 
-### ENT03
-
-- **ENT03-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 3
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━━━━━━
-- **ENT03-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━
-- **ENT03-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━━━━━━
-- **ENT03-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━
     B : ━━━━━━━━━━━
-- **ENT03-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━━━━
 
-### ENT04
-
-- **ENT04-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 4
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━
     B : ━━━━━━━━━━
-- **ENT04-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━━━━━━━━━━
-- **ENT04-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━
-- **ENT04-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **ENT04-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
 
-### ENT05
-
-- **ENT05-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 5
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━━━━
-- **ENT05-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━
-- **ENT05-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━━━━
-- **ENT05-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━
-- **ENT05-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B : ━━━━━━━
 
-### ENT06
-
-- **ENT06-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 6
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━
-- **ENT06-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━
-- **ENT06-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━
-- **ENT06-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━
-- **ENT06-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━
 
-### ENT07
-
-- **ENT07-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 7
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━
     B : ━━━━━━━━━━━
-- **ENT07-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :    ━━━━━━━━━━━━
     B :  ━━━━━━━━━
-- **ENT07-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B :   ━━━━━━━━━━━━━
-- **ENT07-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :  ━━━━━━━━━━━
     B :    ━━━━━━━━━━━
-- **ENT07-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━
     B : ━━━━━━━━━━━━
 
-### ENT08
-
-- **ENT08-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 8
+- Compare les deux bandes. Écris A, B ou =.
 
     A :    ━━━━━━━━━━━━━
     B :  ━━━━━━━━━━
-- **ENT08-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B :   ━━━━━━━━━━━━━━
-- **ENT08-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :  ━━━━━━━━━━━━━━
     B :    ━━━━━━━━━━━━
-- **ENT08-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **ENT08-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :    ━━━━━━━━━━━━━━━
     B :  ━━━━━━━━━━━━━━━
 
-### ENT09
-
-- **ENT09-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 9
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B :   ━━━━━━━━
-- **ENT09-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :  ━━━━━━━
     B :    ━━━━
-- **ENT09-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━
     B : ━━━━━━━━━
-- **ENT09-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :    ━━━━━━━━
     B :  ━━━━━━
-- **ENT09-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B :   ━━━━━━━
 
-### ENT10
-
-- **ENT10-01** Compare les deux bandes. Écris A, B ou =.
+### Entraînement 10
+- Compare les deux bandes. Écris A, B ou =.
 
     A :  ━━━━━━━━━
     B :    ━━━━━
-- **ENT10-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━
     B : ━━━━━━
-- **ENT10-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :    ━━━━━━━━━━
     B :  ━━━━━━━━
-- **ENT10-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B :   ━━━━━━━━━
-- **ENT10-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :  ━━━━━
     B :    ━━━━━
 
 ## Évaluations
 
-### EVAL01
-
-- **EVAL01-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 1
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━
-- **EVAL01-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━
-- **EVAL01-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━
     B : ━━━━━━━━━━━━
-- **EVAL01-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━
     B : ━━━━━━━━━
-- **EVAL01-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━
 
-### EVAL02
-
-- **EVAL02-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 2
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━
-- **EVAL02-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **EVAL02-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━
     B : ━━━━━━━━━━━
-- **EVAL02-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━
     B : ━━━━━
-- **EVAL02-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━━
 
-### EVAL03
-
-- **EVAL03-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 3
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━
-- **EVAL03-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **EVAL03-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :    ━━━━━━━━━━━━
     B :  ━━━━━━━━━
-- **EVAL03-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━
     B : ━━━━━
-- **EVAL03-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━
 
-### EVAL04
-
-- **EVAL04-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 4
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━
-- **EVAL04-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━
     B : ━━━━━━━━━━
-- **EVAL04-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B :   ━━━━━━━━━━━━━
-- **EVAL04-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━
     B : ━━━━━━
-- **EVAL04-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━
 
-### EVAL05
-
-- **EVAL05-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 5
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━
-- **EVAL05-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━━━━━━━━━━
-- **EVAL05-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :  ━━━━━━━━━━━
     B :    ━━━━━━━━━━━
-- **EVAL05-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━
     B : ━━━━━━━━
-- **EVAL05-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━━
 
-### EVAL06
-
-- **EVAL06-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 6
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━
-- **EVAL06-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━
-- **EVAL06-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━
     B : ━━━━━━━━━━━━
-- **EVAL06-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━
     B : ━━━━━━━━━
-- **EVAL06-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━
 
-### EVAL07
-
-- **EVAL07-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 7
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━
-- **EVAL07-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **EVAL07-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━
     B : ━━━━━━━━━━━
-- **EVAL07-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━
     B : ━━━━━
-- **EVAL07-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━
 
-### EVAL08
-
-- **EVAL08-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 8
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━
-- **EVAL08-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **EVAL08-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :    ━━━━━━━━━━━━
     B :  ━━━━━━━━━
-- **EVAL08-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━
     B : ━━━━━
-- **EVAL08-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━━
 
-### EVAL09
-
-- **EVAL09-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 9
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━
-- **EVAL09-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━
     B : ━━━━━━━━━━
-- **EVAL09-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B :   ━━━━━━━━━━━━━
-- **EVAL09-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━
     B : ━━━━━━
-- **EVAL09-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━
 
-### EVAL10
-
-- **EVAL10-01** Compare les deux bandes. Écris A, B ou =.
+### Évaluation 10
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━
-- **EVAL10-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━━━━━━━━━━
-- **EVAL10-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :  ━━━━━━━━━━━
     B :    ━━━━━━━━━━━
-- **EVAL10-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━
     B : ━━━━━━━━
-- **EVAL10-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A :   ━━━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━━
 
 ## Devoirs
 
-### DEV01
-
-- **DEV01-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 1
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━━━━
-- **DEV01-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━
-- **DEV01-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━
     B : ━━━━━━━━━━━
-- **DEV01-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **DEV01-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━━━━
 
-### DEV02
-
-- **DEV02-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 2
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━
-- **DEV02-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━
-- **DEV02-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━━━━
-- **DEV02-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━
     B : ━━━━━━━━━━
-- **DEV02-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━
 
-### DEV03
-
-- **DEV03-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 3
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━━━━
-- **DEV03-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━
-- **DEV03-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━━━━━━
-- **DEV03-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━━━━━━━━━━
-- **DEV03-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━━━━
 
-### DEV04
-
-- **DEV04-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 4
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━
-- **DEV04-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━
-- **DEV04-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━
-- **DEV04-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━
-- **DEV04-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━
 
-### DEV05
-
-- **DEV05-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 5
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B : ━━━━━━━
-- **DEV05-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━
-- **DEV05-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━━━━━━
-- **DEV05-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **DEV05-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B : ━━━━━━━
 
-### DEV06
-
-- **DEV06-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 6
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━━━━
-- **DEV06-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━
-- **DEV06-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━
     B : ━━━━━━━━━━━
-- **DEV06-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **DEV06-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━━━━
 
-### DEV07
-
-- **DEV07-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 7
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━
-- **DEV07-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━
-- **DEV07-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━━━━━━━━━
-- **DEV07-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━
     B : ━━━━━━━━━━
-- **DEV07-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━
     B : ━━━━
 
-### DEV08
-
-- **DEV08-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 8
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━━━━
-- **DEV08-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━
     B : ━━━━━
-- **DEV08-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━━━━━━
-- **DEV08-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━━━━━━━━━━
-- **DEV08-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━━━━
 
-### DEV09
-
-- **DEV09-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 9
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━
-- **DEV09-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━
     B : ━━━━━
-- **DEV09-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━
-- **DEV09-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━━━
     B : ━━━━━━━━━━━━
-- **DEV09-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━
     B : ━━━━━━
 
-### DEV10
-
-- **DEV10-01** Compare les deux bandes. Écris A, B ou =.
+### Devoir 10
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B : ━━━━━━━
-- **DEV10-02** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━
     B : ━━━━━━
-- **DEV10-03** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━
     B : ━━━━━━━━━━━━━
-- **DEV10-04** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━━━━━━━━━
     B : ━━━━━━━━━━━━━━━
-- **DEV10-05** Compare les deux bandes. Écris A, B ou =.
+- Compare les deux bandes. Écris A, B ou =.
 
     A : ━━━━
     B : ━━━━━━━
@@ -834,259 +801,229 @@ Compare les deux bandes. Écris A, B ou =.
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — A.
-2. **IMM02** — B.
-3. **IMM03** — A.
-4. **IMM04** — =.
-5. **IMM05** — A.
-6. **IMM06** — B.
-7. **IMM07** — =.
+1. — A.
+2. — B.
+3. — A.
+4. — =.
+5. — A.
+6. — B.
+7. — =.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. — B.
+2. — A.
+3. — B.
+4. — A.
+5. — B.
 
-1. **ENT01-01** — B.
-2. **ENT01-02** — A.
-3. **ENT01-03** — B.
-4. **ENT01-04** — A.
-5. **ENT01-05** — B.
+#### Entraînement 2
+1. — A.
+2. — =.
+3. — A.
+4. — B.
+5. — =.
 
-#### ENT02
+#### Entraînement 3
+1. — B.
+2. — A.
+3. — B.
+4. — =.
+5. — B.
 
-1. **ENT02-01** — A.
-2. **ENT02-02** — =.
-3. **ENT02-03** — A.
-4. **ENT02-04** — B.
-5. **ENT02-05** — =.
+#### Entraînement 4
+1. — A.
+2. — B.
+3. — A.
+4. — B.
+5. — =.
 
-#### ENT03
+#### Entraînement 5
+1. — B.
+2. — A.
+3. — B.
+4. — A.
+5. — B.
 
-1. **ENT03-01** — B.
-2. **ENT03-02** — A.
-3. **ENT03-03** — B.
-4. **ENT03-04** — =.
-5. **ENT03-05** — B.
+#### Entraînement 6
+1. — A.
+2. — =.
+3. — A.
+4. — B.
+5. — =.
 
-#### ENT04
+#### Entraînement 7
+1. — B.
+2. — A.
+3. — B.
+4. — =.
+5. — B.
 
-1. **ENT04-01** — A.
-2. **ENT04-02** — B.
-3. **ENT04-03** — A.
-4. **ENT04-04** — B.
-5. **ENT04-05** — =.
+#### Entraînement 8
+1. — A.
+2. — B.
+3. — A.
+4. — B.
+5. — =.
 
-#### ENT05
+#### Entraînement 9
+1. — B.
+2. — A.
+3. — B.
+4. — A.
+5. — B.
 
-1. **ENT05-01** — B.
-2. **ENT05-02** — A.
-3. **ENT05-03** — B.
-4. **ENT05-04** — A.
-5. **ENT05-05** — B.
-
-#### ENT06
-
-1. **ENT06-01** — A.
-2. **ENT06-02** — =.
-3. **ENT06-03** — A.
-4. **ENT06-04** — B.
-5. **ENT06-05** — =.
-
-#### ENT07
-
-1. **ENT07-01** — B.
-2. **ENT07-02** — A.
-3. **ENT07-03** — B.
-4. **ENT07-04** — =.
-5. **ENT07-05** — B.
-
-#### ENT08
-
-1. **ENT08-01** — A.
-2. **ENT08-02** — B.
-3. **ENT08-03** — A.
-4. **ENT08-04** — B.
-5. **ENT08-05** — =.
-
-#### ENT09
-
-1. **ENT09-01** — B.
-2. **ENT09-02** — A.
-3. **ENT09-03** — B.
-4. **ENT09-04** — A.
-5. **ENT09-05** — B.
-
-#### ENT10
-
-1. **ENT10-01** — A.
-2. **ENT10-02** — =.
-3. **ENT10-03** — A.
-4. **ENT10-04** — B.
-5. **ENT10-05** — =.
+#### Entraînement 10
+1. — A.
+2. — =.
+3. — A.
+4. — B.
+5. — =.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. — A.
+2. — A.
+3. — B.
+4. — B.
+5. — A.
 
-1. **EVAL01-01** — A.
-2. **EVAL01-02** — A.
-3. **EVAL01-03** — B.
-4. **EVAL01-04** — B.
-5. **EVAL01-05** — A.
+#### Évaluation 2
+1. — =.
+2. — B.
+3. — B.
+4. — =.
+5. — A.
 
-#### EVAL02
+#### Évaluation 3
+1. — A.
+2. — =.
+3. — A.
+4. — A.
+5. — =.
 
-1. **EVAL02-01** — =.
-2. **EVAL02-02** — B.
-3. **EVAL02-03** — B.
-4. **EVAL02-04** — =.
-5. **EVAL02-05** — A.
+#### Évaluation 4
+1. — B.
+2. — A.
+3. — B.
+4. — =.
+5. — A.
 
-#### EVAL03
+#### Évaluation 5
+1. — =.
+2. — B.
+3. — =.
+4. — A.
+5. — A.
 
-1. **EVAL03-01** — A.
-2. **EVAL03-02** — =.
-3. **EVAL03-03** — A.
-4. **EVAL03-04** — A.
-5. **EVAL03-05** — =.
+#### Évaluation 6
+1. — A.
+2. — A.
+3. — B.
+4. — B.
+5. — =.
 
-#### EVAL04
+#### Évaluation 7
+1. — =.
+2. — B.
+3. — B.
+4. — =.
+5. — A.
 
-1. **EVAL04-01** — B.
-2. **EVAL04-02** — A.
-3. **EVAL04-03** — B.
-4. **EVAL04-04** — =.
-5. **EVAL04-05** — A.
+#### Évaluation 8
+1. — A.
+2. — =.
+3. — A.
+4. — A.
+5. — A.
 
-#### EVAL05
+#### Évaluation 9
+1. — B.
+2. — A.
+3. — B.
+4. — =.
+5. — =.
 
-1. **EVAL05-01** — =.
-2. **EVAL05-02** — B.
-3. **EVAL05-03** — =.
-4. **EVAL05-04** — A.
-5. **EVAL05-05** — A.
-
-#### EVAL06
-
-1. **EVAL06-01** — A.
-2. **EVAL06-02** — A.
-3. **EVAL06-03** — B.
-4. **EVAL06-04** — B.
-5. **EVAL06-05** — =.
-
-#### EVAL07
-
-1. **EVAL07-01** — =.
-2. **EVAL07-02** — B.
-3. **EVAL07-03** — B.
-4. **EVAL07-04** — =.
-5. **EVAL07-05** — A.
-
-#### EVAL08
-
-1. **EVAL08-01** — A.
-2. **EVAL08-02** — =.
-3. **EVAL08-03** — A.
-4. **EVAL08-04** — A.
-5. **EVAL08-05** — A.
-
-#### EVAL09
-
-1. **EVAL09-01** — B.
-2. **EVAL09-02** — A.
-3. **EVAL09-03** — B.
-4. **EVAL09-04** — =.
-5. **EVAL09-05** — =.
-
-#### EVAL10
-
-1. **EVAL10-01** — =.
-2. **EVAL10-02** — B.
-3. **EVAL10-03** — =.
-4. **EVAL10-04** — A.
-5. **EVAL10-05** — A.
+#### Évaluation 10
+1. — =.
+2. — B.
+3. — =.
+4. — A.
+5. — A.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. — B.
+2. — A.
+3. — =.
+4. — =.
+5. — B.
 
-1. **DEV01-01** — B.
-2. **DEV01-02** — A.
-3. **DEV01-03** — =.
-4. **DEV01-04** — =.
-5. **DEV01-05** — B.
+#### Devoir 2
+1. — A.
+2. — B.
+3. — B.
+4. — A.
+5. — A.
 
-#### DEV02
+#### Devoir 3
+1. — B.
+2. — =.
+3. — B.
+4. — B.
+5. — B.
 
-1. **DEV02-01** — A.
-2. **DEV02-02** — B.
-3. **DEV02-03** — B.
-4. **DEV02-04** — A.
-5. **DEV02-05** — A.
+#### Devoir 4
+1. — A.
+2. — A.
+3. — A.
+4. — A.
+5. — A.
 
-#### DEV03
+#### Devoir 5
+1. — B.
+2. — =.
+3. — B.
+4. — B.
+5. — B.
 
-1. **DEV03-01** — B.
-2. **DEV03-02** — =.
-3. **DEV03-03** — B.
-4. **DEV03-04** — B.
-5. **DEV03-05** — B.
+#### Devoir 6
+1. — B.
+2. — A.
+3. — =.
+4. — =.
+5. — B.
 
-#### DEV04
+#### Devoir 7
+1. — A.
+2. — B.
+3. — B.
+4. — A.
+5. — A.
 
-1. **DEV04-01** — A.
-2. **DEV04-02** — A.
-3. **DEV04-03** — A.
-4. **DEV04-04** — A.
-5. **DEV04-05** — A.
+#### Devoir 8
+1. — B.
+2. — =.
+3. — B.
+4. — B.
+5. — B.
 
-#### DEV05
+#### Devoir 9
+1. — A.
+2. — A.
+3. — A.
+4. — A.
+5. — A.
 
-1. **DEV05-01** — B.
-2. **DEV05-02** — =.
-3. **DEV05-03** — B.
-4. **DEV05-04** — B.
-5. **DEV05-05** — B.
-
-#### DEV06
-
-1. **DEV06-01** — B.
-2. **DEV06-02** — A.
-3. **DEV06-03** — =.
-4. **DEV06-04** — =.
-5. **DEV06-05** — B.
-
-#### DEV07
-
-1. **DEV07-01** — A.
-2. **DEV07-02** — B.
-3. **DEV07-03** — B.
-4. **DEV07-04** — A.
-5. **DEV07-05** — A.
-
-#### DEV08
-
-1. **DEV08-01** — B.
-2. **DEV08-02** — =.
-3. **DEV08-03** — B.
-4. **DEV08-04** — B.
-5. **DEV08-05** — B.
-
-#### DEV09
-
-1. **DEV09-01** — A.
-2. **DEV09-02** — A.
-3. **DEV09-03** — A.
-4. **DEV09-04** — A.
-5. **DEV09-05** — A.
-
-#### DEV10
-
-1. **DEV10-01** — B.
-2. **DEV10-02** — =.
-3. **DEV10-03** — B.
-4. **DEV10-04** — B.
-5. **DEV10-05** — B.
+#### Devoir 10
+1. — B.
+2. — =.
+3. — B.
+4. — B.
+5. — B.
 
 ## Traçabilité des évaluations et devoirs
 

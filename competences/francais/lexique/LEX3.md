@@ -58,8 +58,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Nora s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
 
 **Attention portée d’abord sur :** les mots **s’assoit** et **cour** autour de **banc**.
@@ -70,8 +69,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 **Contrôle final :** La définition “siège long” permet de relire toute la phrase sans contradiction.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
 
 **Attention portée d’abord sur :** les mots **sardines** et **nage** autour de **banc**.
@@ -82,8 +80,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 **Contrôle final :** Un siège ne nage pas ; seul le sens b convient.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Yanis pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
 
 **Attention portée d’abord sur :** le verbe **pose** et le verre porté par le **plateau**.
@@ -98,13 +95,13 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **IMM01** — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-2. **IMM02** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-3. **IMM03** — Les élèves font la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
-4. **IMM04** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-5. **IMM05** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
-6. **IMM06** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-7. **IMM07** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+1. — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+2. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+3. — Les élèves font la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+4. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+5. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+6. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+7. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
 
 ## Variables didactiques
 
@@ -130,323 +127,293 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 
 La consigne reste celle de l’exercice type. ENT01 à ENT03 utilisent des indices très accessibles ; ENT04 à ENT07 réduisent les contrastes ; ENT08 à ENT10 demandent un contrôle plus attentif sans changer de procédure.
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+1. — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
+2. — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+3. — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
+4. — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+5. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+6. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+7. — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+8. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
 
-1. **ENT01-01** — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
-2. **ENT01-02** — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-3. **ENT01-03** — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
-4. **ENT01-04** — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-5. **ENT01-05** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-6. **ENT01-06** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-7. **ENT01-07** — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
-8. **ENT01-08** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+### Entraînement 2 — accessible
+1. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+2. — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+3. — Les élèves font la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+4. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+5. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+6. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+7. — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+8. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+1. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+2. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+3. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+4. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+5. — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+6. — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+7. — Nora s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
+8. — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
 
-1. **ENT02-01** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-2. **ENT02-02** — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-3. **ENT02-03** — Les élèves font la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
-4. **ENT02-04** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
-5. **ENT02-05** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-6. **ENT02-06** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-7. **ENT02-07** — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-8. **ENT02-08** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+### Entraînement 4 — standard
+1. — Les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
+2. — Après l’exercice, Tom obtient une bonne **note**. — a. un son musical ; b. un résultat donné à un travail
+3. — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
+4. — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
+5. — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
+6. — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
+7. — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
+8. — Le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+1. — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
+2. — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
+3. — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
+4. — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
+5. — Le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
+6. — J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
+7. — Léo s’est fait mal au **pied** en courant. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
+8. — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
 
-1. **ENT03-01** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-2. **ENT03-02** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
-3. **ENT03-03** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
-4. **ENT03-04** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-5. **ENT03-05** — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-6. **ENT03-06** — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-7. **ENT03-07** — Nora s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
-8. **ENT03-08** — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
+### Entraînement 6 — standard
+1. — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
+2. — Léo s’est fait mal au **pied** en courant. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
+3. — Le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
+4. — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
+5. — J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
+6. — Après l’exercice, Tom obtient une bonne **note**. — a. un son musical ; b. un résultat donné à un travail
+7. — Le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
+8. — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
 
-### ENT04 — standard
+### Entraînement 7 — standard
+1. — J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
+2. — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
+3. — Le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
+4. — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
+5. — Après l’exercice, Tom obtient une bonne **note**. — a. un son musical ; b. un résultat donné à un travail
+6. — Les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
+7. — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
+8. — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
 
-1. **ENT04-01** — Les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
-2. **ENT04-02** — Après l’exercice, Tom obtient une bonne **note**. — a. un son musical ; b. un résultat donné à un travail
-3. **ENT04-03** — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
-4. **ENT04-04** — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
-5. **ENT04-05** — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
-6. **ENT04-06** — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
-7. **ENT04-07** — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
-8. **ENT04-08** — Le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
+### Entraînement 8 — plus résistant
+1. — Le témoin est la **source** de cette information. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
+2. — Un **rayon** de soleil traverse la vitre. — a. une ligne de lumière ; b. une partie d’un magasin
+3. — La maîtresse donne la **clé** de l’armoire à Nina. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
+4. — Les élèves cherchent le riz dans le **rayon** des aliments. — a. une ligne de lumière ; b. une partie d’un magasin
+5. — Le bateau entre dans le **port** avant la nuit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
+6. — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
+7. — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
+8. — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+1. — Le bateau entre dans le **port** avant la nuit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
+2. — La maîtresse donne la **clé** de l’armoire à Nina. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
+3. — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
+4. — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
+5. — La voiture roule sur la **bande** de droite. — a. une longue partie étroite ; b. un groupe de personnes
+6. — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
+7. — Le **cours** de musique commence à dix heures. — a. le chemin suivi par l’eau ; b. une leçon
+8. — Une **bande** d’amis prépare le jeu. — a. une longue partie étroite ; b. un groupe de personnes
 
-1. **ENT05-01** — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
-2. **ENT05-02** — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
-3. **ENT05-03** — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
-4. **ENT05-04** — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
-5. **ENT05-05** — Le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
-6. **ENT05-06** — J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
-7. **ENT05-07** — Léo s’est fait mal au **pied** en courant. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
-8. **ENT05-08** — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
-
-### ENT06 — standard
-
-1. **ENT06-01** — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
-2. **ENT06-02** — Léo s’est fait mal au **pied** en courant. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
-3. **ENT06-03** — Le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
-4. **ENT06-04** — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
-5. **ENT06-05** — J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
-6. **ENT06-06** — Après l’exercice, Tom obtient une bonne **note**. — a. un son musical ; b. un résultat donné à un travail
-7. **ENT06-07** — Le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
-8. **ENT06-08** — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
-
-### ENT07 — standard
-
-1. **ENT07-01** — J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
-2. **ENT07-02** — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
-3. **ENT07-03** — Le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
-4. **ENT07-04** — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
-5. **ENT07-05** — Après l’exercice, Tom obtient une bonne **note**. — a. un son musical ; b. un résultat donné à un travail
-6. **ENT07-06** — Les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
-7. **ENT07-07** — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
-8. **ENT07-08** — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
-
-### ENT08 — plus résistant
-
-1. **ENT08-01** — Le témoin est la **source** de cette information. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
-2. **ENT08-02** — Un **rayon** de soleil traverse la vitre. — a. une ligne de lumière ; b. une partie d’un magasin
-3. **ENT08-03** — La maîtresse donne la **clé** de l’armoire à Nina. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
-4. **ENT08-04** — Les élèves cherchent le riz dans le **rayon** des aliments. — a. une ligne de lumière ; b. une partie d’un magasin
-5. **ENT08-05** — Le bateau entre dans le **port** avant la nuit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
-6. **ENT08-06** — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
-7. **ENT08-07** — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
-8. **ENT08-08** — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
-
-### ENT09 — plus résistant
-
-1. **ENT09-01** — Le bateau entre dans le **port** avant la nuit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
-2. **ENT09-02** — La maîtresse donne la **clé** de l’armoire à Nina. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
-3. **ENT09-03** — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
-4. **ENT09-04** — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
-5. **ENT09-05** — La voiture roule sur la **bande** de droite. — a. une longue partie étroite ; b. un groupe de personnes
-6. **ENT09-06** — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
-7. **ENT09-07** — Le **cours** de musique commence à dix heures. — a. le chemin suivi par l’eau ; b. une leçon
-8. **ENT09-08** — Une **bande** d’amis prépare le jeu. — a. une longue partie étroite ; b. un groupe de personnes
-
-### ENT10 — plus résistant
-
-1. **ENT10-01** — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
-2. **ENT10-02** — La voiture roule sur la **bande** de droite. — a. une longue partie étroite ; b. un groupe de personnes
-3. **ENT10-03** — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
-4. **ENT10-04** — Le **cours** de musique commence à dix heures. — a. le chemin suivi par l’eau ; b. une leçon
-5. **ENT10-05** — Une **bande** d’amis prépare le jeu. — a. une longue partie étroite ; b. un groupe de personnes
-6. **ENT10-06** — Un **rayon** de soleil traverse la vitre. — a. une ligne de lumière ; b. une partie d’un magasin
-7. **ENT10-07** — La **source** coule entre les pierres. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
-8. **ENT10-08** — Le témoin est la **source** de cette information. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
+### Entraînement 10 — plus résistant
+1. — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
+2. — La voiture roule sur la **bande** de droite. — a. une longue partie étroite ; b. un groupe de personnes
+3. — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
+4. — Le **cours** de musique commence à dix heures. — a. le chemin suivi par l’eau ; b. une leçon
+5. — Une **bande** d’amis prépare le jeu. — a. une longue partie étroite ; b. un groupe de personnes
+6. — Un **rayon** de soleil traverse la vitre. — a. une ligne de lumière ; b. une partie d’un magasin
+7. — La **source** coule entre les pierres. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
+8. — Le témoin est la **source** de cette information. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune contient trois reprises exactes, une transposition superficielle et un item nouveau strictement isomorphe.
 
-### EVAL01
-
+### Évaluation 1
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL01-01** — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
-2. **EVAL01-02** — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
-3. **EVAL01-03** — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
-4. **EVAL01-04** — Aujourd’hui, J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
-5. **EVAL01-05** — Le livre a une **couverture** rouge. — a. ce qui protège un livre ; b. une pièce de tissu pour le lit
+1. — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
+2. — Je trace un trait avec ma **règle**. — a. un instrument pour tracer ; b. une consigne à respecter
+3. — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
+4. — Aujourd’hui, J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
+5. — Le livre a une **couverture** rouge. — a. ce qui protège un livre ; b. une pièce de tissu pour le lit
 
-### EVAL02
-
+### Évaluation 2
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL02-01** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-2. **EVAL02-02** — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
-3. **EVAL02-03** — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
-4. **EVAL02-04** — Aujourd’hui, le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
-5. **EVAL02-05** — L’enfant remonte sa **couverture** jusqu’au menton. — a. ce qui protège un livre ; b. une pièce de tissu pour le lit
+1. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+2. — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
+3. — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
+4. — Aujourd’hui, le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
+5. — L’enfant remonte sa **couverture** jusqu’au menton. — a. ce qui protège un livre ; b. une pièce de tissu pour le lit
 
-### EVAL03
-
+### Évaluation 3
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL03-01** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-2. **EVAL03-02** — Le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
-3. **EVAL03-03** — Le témoin est la **source** de cette information. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
-4. **EVAL03-04** — Aujourd’hui, les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
-5. **EVAL03-05** — La route forme un **ruban** gris entre les champs. — a. une bande de tissu ; b. une forme longue et étroite vue comme une bande
+1. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+2. — Le musicien joue une **note** aiguë. — a. un son musical ; b. un résultat donné à un travail
+3. — Le témoin est la **source** de cette information. — a. le lieu où l’eau sort du sol ; b. l’origine d’une information
+4. — Aujourd’hui, les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
+5. — La route forme un **ruban** gris entre les champs. — a. une bande de tissu ; b. une forme longue et étroite vue comme une bande
 
-### EVAL04
-
+### Évaluation 4
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL04-01** — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-2. **EVAL04-02** — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
-3. **EVAL04-03** — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
-4. **EVAL04-04** — Aujourd’hui, les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
-5. **EVAL04-05** — Nina noue un **ruban** dans ses cheveux. — a. une bande de tissu ; b. une forme longue et étroite vue comme une bande
+1. — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+2. — La **souris** grignote un morceau de pain. — a. un petit animal ; b. un objet pour commander l’ordinateur
+3. — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
+4. — Aujourd’hui, les élèves respectent la **règle** du jeu. — a. un instrument pour tracer ; b. une consigne à respecter
+5. — Nina noue un **ruban** dans ses cheveux. — a. une bande de tissu ; b. une forme longue et étroite vue comme une bande
 
-### EVAL05
-
+### Évaluation 5
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL05-01** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
-2. **EVAL05-02** — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
-3. **EVAL05-03** — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
-4. **EVAL05-04** — Aujourd’hui, la couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
-5. **EVAL05-05** — Le jardinier plante un **pied** de tomate. — a. un plant ; b. la partie du corps au bout de la jambe
+1. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+2. — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
+3. — Le dernier indice est la **clé** de l’énigme. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
+4. — Aujourd’hui, la couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
+5. — Le jardinier plante un **pied** de tomate. — a. un plant ; b. la partie du corps au bout de la jambe
 
-### EVAL06
-
+### Évaluation 6
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL06-01** — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-2. **EVAL06-02** — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
-3. **EVAL06-03** — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
-4. **EVAL06-04** — Aujourd’hui, le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
-5. **EVAL06-05** — La montagne porte un **manteau** de neige. — a. un vêtement ; b. une couche qui recouvre
+1. — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+2. — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
+3. — Le danseur a un **port** très droit. — a. un lieu où s’abritent les bateaux ; b. la manière de tenir son corps
+4. — Aujourd’hui, le menuisier mesure le **pied** de la table. — a. la partie basse qui soutient un objet ; b. la partie du corps au bout de la jambe
+5. — La montagne porte un **manteau** de neige. — a. un vêtement ; b. une couche qui recouvre
 
-### EVAL07
-
+### Évaluation 7
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL07-01** — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
-2. **EVAL07-02** — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
-3. **EVAL07-03** — La maîtresse donne la **clé** de l’armoire à Nina. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
-4. **EVAL07-04** — Aujourd’hui, la couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
-5. **EVAL07-05** — Le pêcheur répare son **filet**. — a. un réseau de fils ; b. une petite quantité d’eau qui coule
+1. — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+2. — Le lion a du **cœur** et protège les petits. — a. l’organe qui bat dans la poitrine ; b. du courage et de la bonté
+3. — La maîtresse donne la **clé** de l’armoire à Nina. — a. un objet qui ouvre une serrure ; b. ce qui permet de comprendre
+4. — Aujourd’hui, la couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
+5. — Le pêcheur répare son **filet**. — a. un réseau de fils ; b. une petite quantité d’eau qui coule
 
-### EVAL08
-
+### Évaluation 8
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL08-01** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
-2. **EVAL08-02** — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
-3. **EVAL08-03** — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
-4. **EVAL08-04** — Aujourd’hui, Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
-5. **EVAL08-05** — Un **filet** d’eau sort du robinet. — a. un réseau de fils ; b. une petite quantité d’eau qui coule
+1. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+2. — La couturière passe le **fil** dans l’aiguille. — a. une fibre longue et fine ; b. la suite des idées
+3. — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
+4. — Aujourd’hui, Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
+5. — Un **filet** d’eau sort du robinet. — a. un réseau de fils ; b. une petite quantité d’eau qui coule
 
-### EVAL09
-
+### Évaluation 9
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL09-01** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
-2. **EVAL09-02** — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
-3. **EVAL09-03** — Une **bande** d’amis prépare le jeu. — a. une longue partie étroite ; b. un groupe de personnes
-4. **EVAL09-04** — Aujourd’hui, Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
-5. **EVAL09-05** — Le coureur franchit la **ligne** d’arrivée. — a. un trait continu ; b. un trajet de transport
+1. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+2. — Je déplace la flèche avec la **souris**. — a. un petit animal ; b. un objet pour commander l’ordinateur
+3. — Une **bande** d’amis prépare le jeu. — a. une longue partie étroite ; b. un groupe de personnes
+4. — Aujourd’hui, Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
+5. — Le coureur franchit la **ligne** d’arrivée. — a. un trait continu ; b. un trajet de transport
 
-### EVAL10
-
+### Évaluation 10
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **EVAL10-01** — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-2. **EVAL10-02** — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
-3. **EVAL10-03** — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
-4. **EVAL10-04** — Aujourd’hui, J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
-5. **EVAL10-05** — Nous prenons la **ligne** de bus numéro trois. — a. un trait continu ; b. un trajet de transport
+1. — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+2. — Nora apprend une poésie par **cœur**. — a. en utilisant sa mémoire ; b. avec beaucoup de courage
+3. — Les élèves suivent le **cours** de la rivière. — a. le chemin suivi par l’eau ; b. une leçon
+4. — Aujourd’hui, J’ai perdu le **fil** de mon récit. — a. une fibre longue et fine ; b. la suite des idées
+5. — Nous prenons la **ligne** de bus numéro trois. — a. un trait continu ; b. un trajet de transport
 
 ## Devoirs
 
 Les devoirs reprennent uniquement des items accessibles déjà rencontrés dans ENT01 à ENT03.
 
-### DEV01
-
+### Devoir 1
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV01-01** — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
-2. **DEV01-02** — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-3. **DEV01-03** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-4. **DEV01-04** — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
-5. **DEV01-05** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+1. — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
+2. — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+3. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+4. — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+5. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
 
-### DEV02
-
+### Devoir 2
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV02-01** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-2. **DEV02-02** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-3. **DEV02-03** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
-4. **DEV02-04** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-5. **DEV02-05** — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+1. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+2. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+3. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+4. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+5. — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
 
-### DEV03
-
+### Devoir 3
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV03-01** — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-2. **DEV03-02** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-3. **DEV03-03** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
-4. **DEV03-04** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
-5. **DEV03-05** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+1. — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+2. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+3. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+4. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+5. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
 
-### DEV04
-
+### Devoir 4
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV04-01** — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-2. **DEV04-02** — Nora s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
-3. **DEV04-03** — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
-4. **DEV04-04** — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-5. **DEV04-05** — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+1. — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+2. — Nora s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
+3. — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
+4. — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+5. — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
 
-### DEV05
-
+### Devoir 5
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV05-01** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-2. **DEV05-02** — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
-3. **DEV05-03** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-4. **DEV05-04** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-5. **DEV05-05** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+1. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+2. — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+3. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+4. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+5. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
 
-### DEV06
-
+### Devoir 6
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV06-01** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-2. **DEV06-02** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
-3. **DEV06-03** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-4. **DEV06-04** — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-5. **DEV06-05** — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
+1. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+2. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+3. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+4. — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+5. — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
 
-### DEV07
-
+### Devoir 7
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV07-01** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-2. **DEV07-02** — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-3. **DEV07-03** — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
-4. **DEV07-04** — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
-5. **DEV07-05** — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+1. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+2. — Un **bouton** de rose apparaît. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+3. — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
+4. — Lina s’assoit sur le **banc** de la cour. — a. un siège long ; b. un groupe de poissons
+5. — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
 
-### DEV08
-
+### Devoir 8
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV08-01** — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-2. **DEV08-02** — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
-3. **DEV08-03** — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-4. **DEV08-04** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-5. **DEV08-05** — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+1. — Malo pose son verre sur le **plateau**. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+2. — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
+3. — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+4. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+5. — Nous faisons la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
 
-### DEV09
-
+### Devoir 9
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV09-01** — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
-2. **DEV09-02** — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
-3. **DEV09-03** — Les élèves font la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
-4. **DEV09-04** — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
-5. **DEV09-05** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+1. — Le chien remue la **queue**. — a. la partie arrière d’un animal ; b. une file de personnes
+2. — Les randonneurs arrivent sur un **plateau** rocheux. — a. une surface plate pour porter des objets ; b. un terrain plat en hauteur
+3. — Les élèves font la **queue** devant le cinéma. — a. la partie arrière d’un animal ; b. une file de personnes
+4. — Ce numéro est le **clou** du spectacle. — a. une petite tige de métal ; b. le point important d’un spectacle
+5. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
 
-### DEV10
-
+### Devoir 10
 Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui convient.
 
-1. **DEV10-01** — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
-2. **DEV10-02** — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
-3. **DEV10-03** — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
-4. **DEV10-04** — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
-5. **DEV10-05** — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
+1. — J’écris sur une **feuille** blanche. — a. une partie d’une plante ; b. une page de papier
+2. — Papa plante un **clou** dans la planche. — a. une petite tige de métal ; b. le point important d’un spectacle
+3. — Une **feuille** tombe de l’arbre. — a. une partie d’une plante ; b. une page de papier
+4. — Nora ferme le **bouton** de son manteau. — a. une petite pièce qui ferme un vêtement ; b. une jeune fleur fermée
+5. — Un **banc** de sardines nage près du bateau. — a. un siège long ; b. un groupe de poissons
 
 ## Corrections
 
@@ -462,8 +429,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. **a**
 2. **a**
 3. **b**
@@ -473,8 +439,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **b**
 8. **b**
 
-#### ENT02
-
+#### Entraînement 2
 1. **a**
 2. **b**
 3. **b**
@@ -484,8 +449,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **a**
 8. **b**
 
-#### ENT03
-
+#### Entraînement 3
 1. **a**
 2. **b**
 3. **b**
@@ -495,8 +459,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **a**
 8. **b**
 
-#### ENT04
-
+#### Entraînement 4
 1. **b**
 2. **b**
 3. **a**
@@ -506,8 +469,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **a**
 8. **a**
 
-#### ENT05
-
+#### Entraînement 5
 1. **b**
 2. **b**
 3. **a**
@@ -517,8 +479,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **b**
 8. **a**
 
-#### ENT06
-
+#### Entraînement 6
 1. **b**
 2. **b**
 3. **a**
@@ -528,8 +489,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **a**
 8. **a**
 
-#### ENT07
-
+#### Entraînement 7
 1. **b**
 2. **a**
 3. **a**
@@ -539,8 +499,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **b**
 8. **a**
 
-#### ENT08
-
+#### Entraînement 8
 1. **b**
 2. **a**
 3. **a**
@@ -550,8 +509,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **b**
 8. **a**
 
-#### ENT09
-
+#### Entraînement 9
 1. **a**
 2. **a**
 3. **b**
@@ -561,8 +519,7 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 7. **b**
 8. **b**
 
-#### ENT10
-
+#### Entraînement 10
 1. **a**
 2. **a**
 3. **b**
@@ -574,80 +531,70 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. **a**
 2. **a**
 3. **b**
 4. **b**
 5. **a**
 
-#### EVAL02
-
+#### Évaluation 2
 1. **a**
 2. **a**
 3. **b**
 4. **a**
 5. **b**
 
-#### EVAL03
-
+#### Évaluation 3
 1. **a**
 2. **a**
 3. **b**
 4. **b**
 5. **b**
 
-#### EVAL04
-
+#### Évaluation 4
 1. **b**
 2. **a**
 3. **a**
 4. **b**
 5. **a**
 
-#### EVAL05
-
+#### Évaluation 5
 1. **b**
 2. **a**
 3. **b**
 4. **a**
 5. **a**
 
-#### EVAL06
-
+#### Évaluation 6
 1. **a**
 2. **b**
 3. **b**
 4. **a**
 5. **b**
 
-#### EVAL07
-
+#### Évaluation 7
 1. **b**
 2. **b**
 3. **a**
 4. **a**
 5. **a**
 
-#### EVAL08
-
+#### Évaluation 8
 1. **b**
 2. **a**
 3. **a**
 4. **b**
 5. **b**
 
-#### EVAL09
-
+#### Évaluation 9
 1. **b**
 2. **b**
 3. **b**
 4. **a**
 5. **a**
 
-#### EVAL10
-
+#### Évaluation 10
 1. **a**
 2. **a**
 3. **a**
@@ -656,80 +603,70 @@ Lis la phrase. Pour le mot en gras, écris **a** ou **b** selon le sens qui conv
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. **a**
 2. **a**
 3. **a**
 4. **b**
 5. **b**
 
-#### DEV02
-
+#### Devoir 2
 1. **a**
 2. **a**
 3. **b**
 4. **a**
 5. **b**
 
-#### DEV03
-
+#### Devoir 3
 1. **a**
 2. **a**
 3. **b**
 4. **b**
 5. **a**
 
-#### DEV04
-
+#### Devoir 4
 1. **a**
 2. **a**
 3. **b**
 4. **b**
 5. **b**
 
-#### DEV05
-
+#### Devoir 5
 1. **a**
 2. **b**
 3. **a**
 4. **a**
 5. **b**
 
-#### DEV06
-
+#### Devoir 6
 1. **a**
 2. **b**
 3. **a**
 4. **b**
 5. **b**
 
-#### DEV07
-
+#### Devoir 7
 1. **a**
 2. **b**
 3. **b**
 4. **a**
 5. **a**
 
-#### DEV08
-
+#### Devoir 8
 1. **a**
 2. **b**
 3. **b**
 4. **a**
 5. **b**
 
-#### DEV09
-
+#### Devoir 9
 1. **a**
 2. **b**
 3. **b**
 4. **b**
 5. **a**
 
-#### DEV10
-
+#### Devoir 10
 1. **b**
 2. **a**
 3. **a**

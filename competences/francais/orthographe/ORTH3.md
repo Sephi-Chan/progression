@@ -61,24 +61,21 @@ Le classement dissocie l’identification des propriétés du travail ultérieur
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** *un petit chat*
 - **Attention :** Pointer *un* puis demander combien d’animaux sont désignés.
 - **Verbalisation :** « *Un* indique un seul : c’est singulier. *Un* et *chat* sont masculins. Je choisis *masculin singulier*. »
 - **Réponse :** masculin singulier
 - **Contrôle final :** Vérifier les deux mots de l’étiquette : genre puis nombre.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** *des grandes maisons*
 - **Attention :** Faire repérer *des* et les marques de *grandes maisons*.
 - **Verbalisation :** « *Des* indique plusieurs : quel nombre ? *Maisons* est féminin et *grandes* le confirme : quelle étiquette complète ? »
 - **Réponse :** féminin pluriel
 - **Contrôle final :** Faire nommer un indice de nombre et un indice de genre.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** *les jeunes lapins*
 - **Attention :** Laisser les élèves prendre deux indices et choisir l’étiquette.
 - **Verbalisation :** « Je décide du nombre, puis du genre, et je donne les deux informations. »
@@ -89,13 +86,13 @@ Le classement dissocie l’identification des propriétés du travail ultérieur
 
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **IMM01** — *un chat*
-2. **IMM02** — *une chatte*
-3. **IMM03** — *un jardin*
-4. **IMM04** — *une maison*
-5. **IMM05** — *un ballon*
-6. **IMM06** — *une balle*
-7. **IMM07** — *un lapin*
+1. — *un chat*
+2. — *une chatte*
+3. — *un jardin*
+4. — *une maison*
+5. — *un ballon*
+6. — *une balle*
+7. — *un lapin*
 
 ## Variables didactiques
 
@@ -122,343 +119,313 @@ Le classement dissocie l’identification des propriétés du travail ultérieur
 
 ## Entraînements
 
-### ENT01
-
+### Entraînement 1
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT01-01** — *un chat*
-2. **ENT01-02** — *une chatte*
-3. **ENT01-03** — *un jardin*
-4. **ENT01-04** — *une maison*
-5. **ENT01-05** — *un ballon*
-6. **ENT01-06** — *une balle*
-7. **ENT01-07** — *un lapin*
-8. **ENT01-08** — *une lapine*
+1. — *un chat*
+2. — *une chatte*
+3. — *un jardin*
+4. — *une maison*
+5. — *un ballon*
+6. — *une balle*
+7. — *un lapin*
+8. — *une lapine*
 
-### ENT02
-
+### Entraînement 2
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT02-01** — *un cousin*
-2. **ENT02-02** — *une cousine*
-3. **ENT02-03** — *un voisin*
-4. **ENT02-04** — *une voisine*
-5. **ENT02-05** — *des garçons*
-6. **ENT02-06** — *des filles*
-7. **ENT02-07** — *des chats*
-8. **ENT02-08** — *des chattes*
+1. — *un cousin*
+2. — *une cousine*
+3. — *un voisin*
+4. — *une voisine*
+5. — *des garçons*
+6. — *des filles*
+7. — *des chats*
+8. — *des chattes*
 
-### ENT03
-
+### Entraînement 3
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT03-01** — *des voisins*
-2. **ENT03-02** — *des voisines*
-3. **ENT03-03** — *des lapins*
-4. **ENT03-04** — *des lapines*
-5. **ENT03-05** — *des cousins*
-6. **ENT03-06** — *des cousines*
-7. **ENT03-07** — *des amis*
-8. **ENT03-08** — *des amies*
+1. — *des voisins*
+2. — *des voisines*
+3. — *des lapins*
+4. — *des lapines*
+5. — *des cousins*
+6. — *des cousines*
+7. — *des amis*
+8. — *des amies*
 
-### ENT04
-
+### Entraînement 4
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT04-01** — *le petit chat*
-2. **ENT04-02** — *la petite chatte*
-3. **ENT04-03** — *les petits chats*
-4. **ENT04-04** — *les petites chattes*
-5. **ENT04-05** — *le grand jardin*
-6. **ENT04-06** — *la grande maison*
-7. **ENT04-07** — *les grands jardins*
-8. **ENT04-08** — *les grandes maisons*
+1. — *le petit chat*
+2. — *la petite chatte*
+3. — *les petits chats*
+4. — *les petites chattes*
+5. — *le grand jardin*
+6. — *la grande maison*
+7. — *les grands jardins*
+8. — *les grandes maisons*
 
-### ENT05
-
+### Entraînement 5
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT05-01** — *un ballon rond*
-2. **ENT05-02** — *une balle ronde*
-3. **ENT05-03** — *des ballons ronds*
-4. **ENT05-04** — *des balles rondes*
-5. **ENT05-05** — *le lapin gris*
-6. **ENT05-06** — *la lapine grise*
-7. **ENT05-07** — *les lapins gris*
-8. **ENT05-08** — *les lapines grises*
+1. — *un ballon rond*
+2. — *une balle ronde*
+3. — *des ballons ronds*
+4. — *des balles rondes*
+5. — *le lapin gris*
+6. — *la lapine grise*
+7. — *les lapins gris*
+8. — *les lapines grises*
 
-### ENT06
-
+### Entraînement 6
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT06-01** — *un cousin poli*
-2. **ENT06-02** — *une cousine polie*
-3. **ENT06-03** — *des cousins polis*
-4. **ENT06-04** — *des cousines polies*
-5. **ENT06-05** — *le voisin bavard*
-6. **ENT06-06** — *la voisine bavarde*
-7. **ENT06-07** — *les voisins bavards*
-8. **ENT06-08** — *les voisines bavardes*
+1. — *un cousin poli*
+2. — *une cousine polie*
+3. — *des cousins polis*
+4. — *des cousines polies*
+5. — *le voisin bavard*
+6. — *la voisine bavarde*
+7. — *les voisins bavards*
+8. — *les voisines bavardes*
 
-### ENT07
-
+### Entraînement 7
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT07-01** — *un ami content*
-2. **ENT07-02** — *une amie contente*
-3. **ENT07-03** — *des amis contents*
-4. **ENT07-04** — *des amies contentes*
-5. **ENT07-05** — *le chien noir*
-6. **ENT07-06** — *la chienne noire*
-7. **ENT07-07** — *les chiens noirs*
-8. **ENT07-08** — *les chiennes noires*
+1. — *un ami content*
+2. — *une amie contente*
+3. — *des amis contents*
+4. — *des amies contentes*
+5. — *le chien noir*
+6. — *la chienne noire*
+7. — *les chiens noirs*
+8. — *les chiennes noires*
 
-### ENT08
-
+### Entraînement 8
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT08-01** — *ce petit chat*
-2. **ENT08-02** — *cette petite chatte*
-3. **ENT08-03** — *ces petits chats*
-4. **ENT08-04** — *ces petites chattes*
-5. **ENT08-05** — *ce grand voisin*
-6. **ENT08-06** — *cette grande voisine*
-7. **ENT08-07** — *ces grands voisins*
-8. **ENT08-08** — *ces grandes voisines*
+1. — *ce petit chat*
+2. — *cette petite chatte*
+3. — *ces petits chats*
+4. — *ces petites chattes*
+5. — *ce grand voisin*
+6. — *cette grande voisine*
+7. — *ces grands voisins*
+8. — *ces grandes voisines*
 
-### ENT09
-
+### Entraînement 9
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT09-01** — *ce cousin poli*
-2. **ENT09-02** — *cette cousine polie*
-3. **ENT09-03** — *ces cousins polis*
-4. **ENT09-04** — *ces cousines polies*
-5. **ENT09-05** — *ce lapin gris*
-6. **ENT09-06** — *cette lapine grise*
-7. **ENT09-07** — *ces lapins gris*
-8. **ENT09-08** — *ces lapines grises*
+1. — *ce cousin poli*
+2. — *cette cousine polie*
+3. — *ces cousins polis*
+4. — *ces cousines polies*
+5. — *ce lapin gris*
+6. — *cette lapine grise*
+7. — *ces lapins gris*
+8. — *ces lapines grises*
 
-### ENT10
-
+### Entraînement 10
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **ENT10-01** — *ce jeune ami*
-2. **ENT10-02** — *cette jeune amie*
-3. **ENT10-03** — *ces jeunes amis*
-4. **ENT10-04** — *ces jeunes amies*
-5. **ENT10-05** — *ce chien calme*
-6. **ENT10-06** — *cette chienne calme*
-7. **ENT10-07** — *ces chiens calmes*
-8. **ENT10-08** — *ces chiennes calmes*
+1. — *ce jeune ami*
+2. — *cette jeune amie*
+3. — *ces jeunes amis*
+4. — *ces jeunes amies*
+5. — *ce chien calme*
+6. — *cette chienne calme*
+7. — *ces chiens calmes*
+8. — *ces chiennes calmes*
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune associe trois items entraînés, un item très légèrement transposé et un item nouveau strictement isomorphe.
 
-### EVAL01
-
+### Évaluation 1
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL01-01** — *une chatte*
-2. **EVAL01-02** — *les grands jardins*
-3. **EVAL01-03** — *ces cousines polies*
-4. **EVAL01-04** — *un jeune chien*
-5. **EVAL01-05** — *un canard jaune*
+1. — *une chatte*
+2. — *les grands jardins*
+3. — *ces cousines polies*
+4. — *un jeune chien*
+5. — *un canard jaune*
 
-### EVAL02
-
+### Évaluation 2
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL02-01** — *un jardin*
-2. **EVAL02-02** — *des ballons ronds*
-3. **EVAL02-03** — *ces lapines grises*
-4. **EVAL02-04** — *une jeune chienne*
-5. **EVAL02-05** — *une cane jaune*
+1. — *un jardin*
+2. — *des ballons ronds*
+3. — *ces lapines grises*
+4. — *une jeune chienne*
+5. — *une cane jaune*
 
-### EVAL03
-
+### Évaluation 3
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL03-01** — *un ballon*
-2. **EVAL03-02** — *la lapine grise*
-3. **EVAL03-03** — *ces jeunes amies*
-4. **EVAL03-04** — *des jeunes chiens*
-5. **EVAL03-05** — *des canards jaunes*
+1. — *un ballon*
+2. — *la lapine grise*
+3. — *ces jeunes amies*
+4. — *des jeunes chiens*
+5. — *des canards jaunes*
 
-### EVAL04
-
+### Évaluation 4
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL04-01** — *un lapin*
-2. **EVAL04-02** — *une cousine polie*
-3. **EVAL04-03** — *ces chiens calmes*
-4. **EVAL04-04** — *des jeunes chiennes*
-5. **EVAL04-05** — *des canes jaunes*
+1. — *un lapin*
+2. — *une cousine polie*
+3. — *ces chiens calmes*
+4. — *des jeunes chiennes*
+5. — *des canes jaunes*
 
-### EVAL05
-
+### Évaluation 5
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL05-01** — *une cousine*
-2. **EVAL05-02** — *les voisins bavards*
-3. **EVAL05-03** — *ces petites chattes*
-4. **EVAL05-04** — *le ballon rond*
-5. **EVAL05-05** — *le petit ours*
+1. — *une cousine*
+2. — *les voisins bavards*
+3. — *ces petites chattes*
+4. — *le ballon rond*
+5. — *le petit ours*
 
-### EVAL06
-
+### Évaluation 6
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL06-01** — *un voisin*
-2. **EVAL06-02** — *des amis contents*
-3. **EVAL06-03** — *ces grandes voisines*
-4. **EVAL06-04** — *la balle ronde*
-5. **EVAL06-05** — *la petite ourse*
+1. — *un voisin*
+2. — *des amis contents*
+3. — *ces grandes voisines*
+4. — *la balle ronde*
+5. — *la petite ourse*
 
-### EVAL07
-
+### Évaluation 7
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL07-01** — *un chat*
-2. **EVAL07-02** — *la chienne noire*
-3. **EVAL07-03** — *ces cousines polies*
-4. **EVAL07-04** — *les ballons ronds*
-5. **EVAL07-05** — *les petits ours*
+1. — *un chat*
+2. — *la chienne noire*
+3. — *ces cousines polies*
+4. — *les ballons ronds*
+5. — *les petits ours*
 
-### EVAL08
-
+### Évaluation 8
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL08-01** — *un jardin*
-2. **EVAL08-02** — *la petite chatte*
-3. **EVAL08-03** — *ces lapins gris*
-4. **EVAL08-04** — *les balles rondes*
-5. **EVAL08-05** — *les petites ourses*
+1. — *un jardin*
+2. — *la petite chatte*
+3. — *ces lapins gris*
+4. — *les balles rondes*
+5. — *les petites ourses*
 
-### EVAL09
-
+### Évaluation 9
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL09-01** — *des voisins*
-2. **EVAL09-02** — *les grandes maisons*
-3. **EVAL09-03** — *ces jeunes amis*
-4. **EVAL09-04** — *un voisin calme*
-5. **EVAL09-05** — *une voisine polie*
+1. — *des voisins*
+2. — *les grandes maisons*
+3. — *ces jeunes amis*
+4. — *un voisin calme*
+5. — *une voisine polie*
 
-### EVAL10
-
+### Évaluation 10
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **EVAL10-01** — *un lapin*
-2. **EVAL10-02** — *une balle ronde*
-3. **EVAL10-03** — *ces chiennes calmes*
-4. **EVAL10-04** — *des voisines calmes*
-5. **EVAL10-05** — *des voisins polis*
+1. — *un lapin*
+2. — *une balle ronde*
+3. — *ces chiennes calmes*
+4. — *des voisines calmes*
+5. — *des voisins polis*
 
 ## Devoirs
 
 Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
-### DEV01
-
+### Devoir 1
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV01-01** — *un chat*
-2. **DEV01-02** — *une maison*
-3. **DEV01-03** — *un lapin*
-4. **DEV01-04** — *une cousine*
-5. **DEV01-05** — *des garçons*
+1. — *un chat*
+2. — *une maison*
+3. — *un lapin*
+4. — *une cousine*
+5. — *des garçons*
 
-### DEV02
-
+### Devoir 2
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV02-01** — *une balle*
-2. **DEV02-02** — *un cousin*
-3. **DEV02-03** — *une voisine*
-4. **DEV02-04** — *des chats*
-5. **DEV02-05** — *des voisines*
+1. — *une balle*
+2. — *un cousin*
+3. — *une voisine*
+4. — *des chats*
+5. — *des voisines*
 
-### DEV03
-
+### Devoir 3
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV03-01** — *un voisin*
-2. **DEV03-02** — *des filles*
-3. **DEV03-03** — *des voisins*
-4. **DEV03-04** — *des lapines*
-5. **DEV03-05** — *des amis*
+1. — *un voisin*
+2. — *des filles*
+3. — *des voisins*
+4. — *des lapines*
+5. — *des amis*
 
-### DEV04
-
+### Devoir 4
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV04-01** — *des chattes*
-2. **DEV04-02** — *des lapins*
-3. **DEV04-03** — *des cousines*
-4. **DEV04-04** — *le petit chat*
-5. **DEV04-05** — *les petites chattes*
+1. — *des chattes*
+2. — *des lapins*
+3. — *des cousines*
+4. — *le petit chat*
+5. — *les petites chattes*
 
-### DEV05
-
+### Devoir 5
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV05-01** — *des cousins*
-2. **DEV05-02** — *des amies*
-3. **DEV05-03** — *les petits chats*
-4. **DEV05-04** — *la grande maison*
-5. **DEV05-05** — *un chat*
+1. — *des cousins*
+2. — *des amies*
+3. — *les petits chats*
+4. — *la grande maison*
+5. — *un chat*
 
-### DEV06
-
+### Devoir 6
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV06-01** — *la petite chatte*
-2. **DEV06-02** — *le grand jardin*
-3. **DEV06-03** — *les grandes maisons*
-4. **DEV06-04** — *un jardin*
-5. **DEV06-05** — *une balle*
+1. — *la petite chatte*
+2. — *le grand jardin*
+3. — *les grandes maisons*
+4. — *un jardin*
+5. — *une balle*
 
-### DEV07
-
+### Devoir 7
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV07-01** — *les grands jardins*
-2. **DEV07-02** — *une chatte*
-3. **DEV07-03** — *un ballon*
-4. **DEV07-04** — *une lapine*
-5. **DEV07-05** — *un voisin*
+1. — *les grands jardins*
+2. — *une chatte*
+3. — *un ballon*
+4. — *une lapine*
+5. — *un voisin*
 
-### DEV08
-
+### Devoir 8
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV08-01** — *une maison*
-2. **DEV08-02** — *un lapin*
-3. **DEV08-03** — *une cousine*
-4. **DEV08-04** — *des garçons*
-5. **DEV08-05** — *des chattes*
+1. — *une maison*
+2. — *un lapin*
+3. — *une cousine*
+4. — *des garçons*
+5. — *des chattes*
 
-### DEV09
-
+### Devoir 9
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV09-01** — *un cousin*
-2. **DEV09-02** — *une voisine*
-3. **DEV09-03** — *des chats*
-4. **DEV09-04** — *des voisines*
-5. **DEV09-05** — *des cousins*
+1. — *un cousin*
+2. — *une voisine*
+3. — *des chats*
+4. — *des voisines*
+5. — *des cousins*
 
-### DEV10
-
+### Devoir 10
 **Consigne :** Indique : masculin singulier, féminin singulier, masculin pluriel ou féminin pluriel
 
-1. **DEV10-01** — *des filles*
-2. **DEV10-02** — *des voisins*
-3. **DEV10-03** — *des lapines*
-4. **DEV10-04** — *des amis*
-5. **DEV10-05** — *la petite chatte*
+1. — *des filles*
+2. — *des voisins*
+3. — *des lapines*
+4. — *des amis*
+5. — *la petite chatte*
 
 ## Corrections
 
@@ -474,8 +441,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. masculin singulier
 2. féminin singulier
 3. masculin singulier
@@ -485,8 +451,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin singulier
 8. féminin singulier
 
-#### ENT02
-
+#### Entraînement 2
 1. masculin singulier
 2. féminin singulier
 3. masculin singulier
@@ -496,8 +461,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT03
-
+#### Entraînement 3
 1. masculin pluriel
 2. féminin pluriel
 3. masculin pluriel
@@ -507,8 +471,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT04
-
+#### Entraînement 4
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
@@ -518,8 +481,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT05
-
+#### Entraînement 5
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
@@ -529,8 +491,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT06
-
+#### Entraînement 6
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
@@ -540,8 +501,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT07
-
+#### Entraînement 7
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
@@ -551,8 +511,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT08
-
+#### Entraînement 8
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
@@ -562,8 +521,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT09
-
+#### Entraînement 9
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
@@ -573,8 +531,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 7. masculin pluriel
 8. féminin pluriel
 
-#### ENT10
-
+#### Entraînement 10
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
@@ -586,80 +543,70 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. féminin singulier
 2. masculin pluriel
 3. féminin pluriel
 4. masculin singulier
 5. masculin singulier
 
-#### EVAL02
-
+#### Évaluation 2
 1. masculin singulier
 2. masculin pluriel
 3. féminin pluriel
 4. féminin singulier
 5. féminin singulier
 
-#### EVAL03
-
+#### Évaluation 3
 1. masculin singulier
 2. féminin singulier
 3. féminin pluriel
 4. masculin pluriel
 5. masculin pluriel
 
-#### EVAL04
-
+#### Évaluation 4
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
 4. féminin pluriel
 5. féminin pluriel
 
-#### EVAL05
-
+#### Évaluation 5
 1. féminin singulier
 2. masculin pluriel
 3. féminin pluriel
 4. masculin singulier
 5. masculin singulier
 
-#### EVAL06
-
+#### Évaluation 6
 1. masculin singulier
 2. masculin pluriel
 3. féminin pluriel
 4. féminin singulier
 5. féminin singulier
 
-#### EVAL07
-
+#### Évaluation 7
 1. masculin singulier
 2. féminin singulier
 3. féminin pluriel
 4. masculin pluriel
 5. masculin pluriel
 
-#### EVAL08
-
+#### Évaluation 8
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
 4. féminin pluriel
 5. féminin pluriel
 
-#### EVAL09
-
+#### Évaluation 9
 1. masculin pluriel
 2. féminin pluriel
 3. masculin pluriel
 4. masculin singulier
 5. féminin singulier
 
-#### EVAL10
-
+#### Évaluation 10
 1. masculin singulier
 2. féminin singulier
 3. féminin pluriel
@@ -668,80 +615,70 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. masculin singulier
 2. féminin singulier
 3. masculin singulier
 4. féminin singulier
 5. masculin pluriel
 
-#### DEV02
-
+#### Devoir 2
 1. féminin singulier
 2. masculin singulier
 3. féminin singulier
 4. masculin pluriel
 5. féminin pluriel
 
-#### DEV03
-
+#### Devoir 3
 1. masculin singulier
 2. féminin pluriel
 3. masculin pluriel
 4. féminin pluriel
 5. masculin pluriel
 
-#### DEV04
-
+#### Devoir 4
 1. féminin pluriel
 2. masculin pluriel
 3. féminin pluriel
 4. masculin singulier
 5. féminin pluriel
 
-#### DEV05
-
+#### Devoir 5
 1. masculin pluriel
 2. féminin pluriel
 3. masculin pluriel
 4. féminin singulier
 5. masculin singulier
 
-#### DEV06
-
+#### Devoir 6
 1. féminin singulier
 2. masculin singulier
 3. féminin pluriel
 4. masculin singulier
 5. féminin singulier
 
-#### DEV07
-
+#### Devoir 7
 1. masculin pluriel
 2. féminin singulier
 3. masculin singulier
 4. féminin singulier
 5. masculin singulier
 
-#### DEV08
-
+#### Devoir 8
 1. féminin singulier
 2. masculin singulier
 3. féminin singulier
 4. masculin pluriel
 5. féminin pluriel
 
-#### DEV09
-
+#### Devoir 9
 1. masculin singulier
 2. féminin singulier
 3. masculin pluriel
 4. féminin pluriel
 5. masculin pluriel
 
-#### DEV10
-
+#### Devoir 10
 1. féminin pluriel
 2. masculin pluriel
 3. féminin pluriel

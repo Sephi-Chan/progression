@@ -58,24 +58,21 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** alignés.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** non alignés.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **IMM02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **IMM03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **IMM04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **IMM05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **IMM06** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **IMM07** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
 
-- **ENT01-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **ENT01-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **ENT01-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **ENT01-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **ENT01-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+### Entraînement 2
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
 
-### ENT02
+### Entraînement 3
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
 
-- **ENT02-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **ENT02-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **ENT02-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **ENT02-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **ENT02-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+### Entraînement 4
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
 
-### ENT03
+### Entraînement 5
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
 
-- **ENT03-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **ENT03-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **ENT03-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **ENT03-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **ENT03-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+### Entraînement 6
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
 
-### ENT04
+### Entraînement 7
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
 
-- **ENT04-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
-- **ENT04-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
-- **ENT04-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
-- **ENT04-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
-- **ENT04-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
+### Entraînement 8
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, A et B touchent le bord de la règle ; C est à 2 mm du bord.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, D, E et F touchent exactement le même bord de la règle.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
 
-### ENT05
+### Entraînement 9
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
 
-- **ENT05-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
-- **ENT05-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
-- **ENT05-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
-- **ENT05-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
-- **ENT05-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
-
-### ENT06
-
-- **ENT06-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
-- **ENT06-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
-- **ENT06-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
-- **ENT06-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
-- **ENT06-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
-
-### ENT07
-
-- **ENT07-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
-- **ENT07-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
-- **ENT07-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
-- **ENT07-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
-- **ENT07-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
-
-### ENT08
-
-- **ENT08-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, A et B touchent le bord de la règle ; C est à 2 mm du bord.
-- **ENT08-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, D, E et F touchent exactement le même bord de la règle.
-- **ENT08-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
-- **ENT08-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
-- **ENT08-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
-
-### ENT09
-
-- **ENT09-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
-- **ENT09-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
-- **ENT09-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
-- **ENT09-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
-- **ENT09-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
-
-### ENT10
-
-- **ENT10-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
-- **ENT10-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
-- **ENT10-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
-- **ENT10-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, A et B touchent le bord de la règle ; C est à 2 mm du bord.
-- **ENT10-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, D, E et F touchent exactement le même bord de la règle.
+### Entraînement 10
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, A et B touchent le bord de la règle ; C est à 2 mm du bord.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Sur une oblique, D, E et F touchent exactement le même bord de la règle.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `B ●  /  ● M  /  ● Z`.
 
-- **EVAL01-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **EVAL01-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
-- **EVAL01-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
-- **EVAL01-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
-- **EVAL01-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `B ●  /  ● M  /  ● Z`.
+### Évaluation 2
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `C ●────● N` et le point `Y ●` est placé une ligne plus bas.
 
-### EVAL02
+### Évaluation 3
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». A et C touchent le bord de la règle ; B, entre eux, touche aussi ce bord.
 
-- **EVAL02-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **EVAL02-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
-- **EVAL02-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
-- **EVAL02-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
-- **EVAL02-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `C ●────● N` et le point `Y ●` est placé une ligne plus bas.
+### Évaluation 4
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». D et F touchent le bord ; E est légèrement en dessous.
 
-### EVAL03
+### Évaluation 5
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `B ●  /  ● M  /  ● Z`.
 
-- **EVAL03-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **EVAL03-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
-- **EVAL03-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
-- **EVAL03-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
-- **EVAL03-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». A et C touchent le bord de la règle ; B, entre eux, touche aussi ce bord.
+### Évaluation 6
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `C ●────● N` et le point `Y ●` est placé une ligne plus bas.
 
-### EVAL04
+### Évaluation 7
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». A et C touchent le bord de la règle ; B, entre eux, touche aussi ce bord.
 
-- **EVAL04-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **EVAL04-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
-- **EVAL04-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
-- **EVAL04-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
-- **EVAL04-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». D et F touchent le bord ; E est légèrement en dessous.
+### Évaluation 8
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». D et F touchent le bord ; E est légèrement en dessous.
 
-### EVAL05
+### Évaluation 9
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `B ●  /  ● M  /  ● Z`.
 
-- **EVAL05-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **EVAL05-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
-- **EVAL05-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
-- **EVAL05-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
-- **EVAL05-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `B ●  /  ● M  /  ● Z`.
-
-### EVAL06
-
-- **EVAL06-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **EVAL06-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
-- **EVAL06-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `A ●  /  ● D  /  ● G`.
-- **EVAL06-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». R et T touchent le bord ; S est légèrement au-dessus.
-- **EVAL06-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `C ●────● N` et le point `Y ●` est placé une ligne plus bas.
-
-### EVAL07
-
-- **EVAL07-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **EVAL07-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `K ●────● L` et le point `M ●` est placé une ligne plus bas.
-- **EVAL07-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
-- **EVAL07-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». U, V et W touchent le même bord, très éloignés les uns des autres.
-- **EVAL07-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». A et C touchent le bord de la règle ; B, entre eux, touche aussi ce bord.
-
-### EVAL08
-
-- **EVAL08-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **EVAL08-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `N ●  /  ● P  /  ● R`.
-- **EVAL08-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `C ●  /  ● F  /  ● J`.
-- **EVAL08-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». G et I touchent le bord ; H, placé entre eux, touche aussi le bord.
-- **EVAL08-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». D et F touchent le bord ; E est légèrement en dessous.
-
-### EVAL09
-
-- **EVAL09-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **EVAL09-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
-- **EVAL09-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `S ●────● T` et le point `U ●` est placé une ligne plus bas.
-- **EVAL09-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». J et K touchent le bord ; L le coupe seulement par son disque mais pas par son centre.
-- **EVAL09-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `B ●  /  ● M  /  ● Z`.
-
-### EVAL10
-
-- **EVAL10-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **EVAL10-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
-- **EVAL10-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
-- **EVAL10-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
-- **EVAL10-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `C ●────● N` et le point `Y ●` est placé une ligne plus bas.
+### Évaluation 10
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `B ●────● E` et le point `H ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe le tracé diagonal : `V ●  /  ● W  /  ● X`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». M, N et P touchent le bord, dans l’ordre P–M–N.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `C ●────● N` et le point `Y ●` est placé une ligne plus bas.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
 
-- **DEV01-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **DEV01-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **DEV01-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **DEV01-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **DEV01-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+### Devoir 2
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
 
-### DEV02
+### Devoir 3
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
 
-- **DEV02-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **DEV02-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV02-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **DEV02-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV02-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+### Devoir 4
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
 
-### DEV03
+### Devoir 5
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
 
-- **DEV03-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **DEV03-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **DEV03-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **DEV03-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **DEV03-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+### Devoir 6
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
 
-### DEV04
+### Devoir 7
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
 
-- **DEV04-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **DEV04-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **DEV04-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV04-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **DEV04-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+### Devoir 8
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
 
-### DEV05
+### Devoir 9
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
 
-- **DEV05-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV05-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **DEV05-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **DEV05-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **DEV05-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-
-### DEV06
-
-- **DEV06-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **DEV06-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **DEV06-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **DEV06-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **DEV06-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-
-### DEV07
-
-- **DEV07-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **DEV07-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV07-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **DEV07-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV07-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-
-### DEV08
-
-- **DEV08-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **DEV08-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **DEV08-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **DEV08-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `A ●────● B────● C`.
-- **DEV08-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-
-### DEV09
-
-- **DEV09-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `J ●────● K────● L`.
-- **DEV09-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `U ●────● V` et le point `W ●` est placé une ligne plus bas.
-- **DEV09-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV09-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `D ●────● E` et le point `F ●` est placé une ligne plus bas.
-- **DEV09-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-
-### DEV10
-
-- **DEV10-01** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
-- **DEV10-02** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **DEV10-03** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
-- **DEV10-04** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
-- **DEV10-05** Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+### Devoir 10
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `M ●────● N` et le point `P ●` est placé une ligne plus bas.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `G ●` au-dessus de `H ●`, lui-même au-dessus de `I ●`, sur une même verticale.
+- Pose la règle sur les deux premiers points. Écris « alignés » si le troisième touche aussi le bord, sinon « non alignés ». Observe : `R ●` au-dessus de `S ●`, lui-même au-dessus de `T ●`, sur une même verticale.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** alignés
-2. **IMM02** non alignés
-3. **IMM03** alignés
-4. **IMM04** non alignés
-5. **IMM05** alignés
-6. **IMM06** non alignés
-7. **IMM07** alignés
+1. alignés
+2. non alignés
+3. alignés
+4. non alignés
+5. alignés
+6. non alignés
+7. alignés
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. alignés
+2. non alignés
+3. alignés
+4. alignés
+5. non alignés
 
-1. **ENT01-01** alignés
-2. **ENT01-02** non alignés
-3. **ENT01-03** alignés
-4. **ENT01-04** alignés
-5. **ENT01-05** non alignés
+#### Entraînement 2
+1. alignés
+2. alignés
+3. non alignés
+4. alignés
+5. non alignés
 
-#### ENT02
+#### Entraînement 3
+1. non alignés
+2. alignés
+3. non alignés
+4. alignés
+5. non alignés
 
-1. **ENT02-01** alignés
-2. **ENT02-02** alignés
-3. **ENT02-03** non alignés
-4. **ENT02-04** alignés
-5. **ENT02-05** non alignés
+#### Entraînement 4
+1. alignés
+2. alignés
+3. non alignés
+4. alignés
+5. non alignés
 
-#### ENT03
+#### Entraînement 5
+1. non alignés
+2. alignés
+3. non alignés
+4. alignés
+5. non alignés
 
-1. **ENT03-01** non alignés
-2. **ENT03-02** alignés
-3. **ENT03-03** non alignés
-4. **ENT03-04** alignés
-5. **ENT03-05** non alignés
+#### Entraînement 6
+1. non alignés
+2. alignés
+3. non alignés
+4. alignés
+5. alignés
 
-#### ENT04
+#### Entraînement 7
+1. non alignés
+2. alignés
+3. alignés
+4. non alignés
+5. alignés
 
-1. **ENT04-01** alignés
-2. **ENT04-02** alignés
-3. **ENT04-03** non alignés
-4. **ENT04-04** alignés
-5. **ENT04-05** non alignés
+#### Entraînement 8
+1. non alignés
+2. alignés
+3. alignés
+4. non alignés : c’est le centre du point qui doit être sur la droite
+5. alignés
 
-#### ENT05
+#### Entraînement 9
+1. alignés
+2. non alignés : c’est le centre du point qui doit être sur la droite
+3. alignés
+4. non alignés
+5. alignés
 
-1. **ENT05-01** non alignés
-2. **ENT05-02** alignés
-3. **ENT05-03** non alignés
-4. **ENT05-04** alignés
-5. **ENT05-05** non alignés
-
-#### ENT06
-
-1. **ENT06-01** non alignés
-2. **ENT06-02** alignés
-3. **ENT06-03** non alignés
-4. **ENT06-04** alignés
-5. **ENT06-05** alignés
-
-#### ENT07
-
-1. **ENT07-01** non alignés
-2. **ENT07-02** alignés
-3. **ENT07-03** alignés
-4. **ENT07-04** non alignés
-5. **ENT07-05** alignés
-
-#### ENT08
-
-1. **ENT08-01** non alignés
-2. **ENT08-02** alignés
-3. **ENT08-03** alignés
-4. **ENT08-04** non alignés : c’est le centre du point qui doit être sur la droite
-5. **ENT08-05** alignés
-
-#### ENT09
-
-1. **ENT09-01** alignés
-2. **ENT09-02** non alignés : c’est le centre du point qui doit être sur la droite
-3. **ENT09-03** alignés
-4. **ENT09-04** non alignés
-5. **ENT09-05** alignés
-
-#### ENT10
-
-1. **ENT10-01** alignés
-2. **ENT10-02** non alignés
-3. **ENT10-03** alignés
-4. **ENT10-04** non alignés
-5. **ENT10-05** alignés
+#### Entraînement 10
+1. alignés
+2. non alignés
+3. alignés
+4. non alignés
+5. alignés
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. non alignés
+2. alignés
+3. alignés
+4. non alignés
+5. alignés
 
-1. **EVAL01-01** non alignés
-2. **EVAL01-02** alignés
-3. **EVAL01-03** alignés
-4. **EVAL01-04** non alignés
-5. **EVAL01-05** alignés
+#### Évaluation 2
+1. alignés
+2. non alignés
+3. non alignés
+4. alignés
+5. non alignés
 
-#### EVAL02
+#### Évaluation 3
+1. non alignés
+2. alignés
+3. alignés
+4. alignés
+5. alignés
 
-1. **EVAL02-01** alignés
-2. **EVAL02-02** non alignés
-3. **EVAL02-03** non alignés
-4. **EVAL02-04** alignés
-5. **EVAL02-05** non alignés
+#### Évaluation 4
+1. alignés
+2. non alignés
+3. non alignés
+4. non alignés : c’est le centre du point qui doit être sur la droite
+5. non alignés
 
-#### EVAL03
+#### Évaluation 5
+1. non alignés
+2. non alignés
+3. alignés
+4. alignés
+5. alignés
 
-1. **EVAL03-01** non alignés
-2. **EVAL03-02** alignés
-3. **EVAL03-03** alignés
-4. **EVAL03-04** alignés
-5. **EVAL03-05** alignés
+#### Évaluation 6
+1. non alignés
+2. alignés
+3. alignés
+4. non alignés
+5. non alignés
 
-#### EVAL04
+#### Évaluation 7
+1. alignés
+2. non alignés
+3. non alignés
+4. alignés
+5. alignés
 
-1. **EVAL04-01** alignés
-2. **EVAL04-02** non alignés
-3. **EVAL04-03** non alignés
-4. **EVAL04-04** non alignés : c’est le centre du point qui doit être sur la droite
-5. **EVAL04-05** non alignés
+#### Évaluation 8
+1. non alignés
+2. alignés
+3. alignés
+4. alignés
+5. non alignés
 
-#### EVAL05
+#### Évaluation 9
+1. alignés
+2. non alignés
+3. non alignés
+4. non alignés : c’est le centre du point qui doit être sur la droite
+5. alignés
 
-1. **EVAL05-01** non alignés
-2. **EVAL05-02** non alignés
-3. **EVAL05-03** alignés
-4. **EVAL05-04** alignés
-5. **EVAL05-05** alignés
-
-#### EVAL06
-
-1. **EVAL06-01** non alignés
-2. **EVAL06-02** alignés
-3. **EVAL06-03** alignés
-4. **EVAL06-04** non alignés
-5. **EVAL06-05** non alignés
-
-#### EVAL07
-
-1. **EVAL07-01** alignés
-2. **EVAL07-02** non alignés
-3. **EVAL07-03** non alignés
-4. **EVAL07-04** alignés
-5. **EVAL07-05** alignés
-
-#### EVAL08
-
-1. **EVAL08-01** non alignés
-2. **EVAL08-02** alignés
-3. **EVAL08-03** alignés
-4. **EVAL08-04** alignés
-5. **EVAL08-05** non alignés
-
-#### EVAL09
-
-1. **EVAL09-01** alignés
-2. **EVAL09-02** non alignés
-3. **EVAL09-03** non alignés
-4. **EVAL09-04** non alignés : c’est le centre du point qui doit être sur la droite
-5. **EVAL09-05** alignés
-
-#### EVAL10
-
-1. **EVAL10-01** non alignés
-2. **EVAL10-02** non alignés
-3. **EVAL10-03** alignés
-4. **EVAL10-04** alignés
-5. **EVAL10-05** non alignés
+#### Évaluation 10
+1. non alignés
+2. non alignés
+3. alignés
+4. alignés
+5. non alignés
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. alignés
+2. alignés
+3. non alignés
+4. alignés
+5. non alignés
 
-1. **DEV01-01** alignés
-2. **DEV01-02** alignés
-3. **DEV01-03** non alignés
-4. **DEV01-04** alignés
-5. **DEV01-05** non alignés
+#### Devoir 2
+1. non alignés
+2. non alignés
+3. alignés
+4. non alignés
+5. alignés
 
-#### DEV02
+#### Devoir 3
+1. alignés
+2. alignés
+3. non alignés
+4. alignés
+5. alignés
 
-1. **DEV02-01** non alignés
-2. **DEV02-02** non alignés
-3. **DEV02-03** alignés
-4. **DEV02-04** non alignés
-5. **DEV02-05** alignés
+#### Devoir 4
+1. alignés
+2. non alignés
+3. non alignés
+4. non alignés
+5. non alignés
 
-#### DEV03
+#### Devoir 5
+1. non alignés
+2. alignés
+3. alignés
+4. alignés
+5. alignés
 
-1. **DEV03-01** alignés
-2. **DEV03-02** alignés
-3. **DEV03-03** non alignés
-4. **DEV03-04** alignés
-5. **DEV03-05** alignés
+#### Devoir 6
+1. alignés
+2. alignés
+3. non alignés
+4. alignés
+5. non alignés
 
-#### DEV04
+#### Devoir 7
+1. non alignés
+2. non alignés
+3. alignés
+4. non alignés
+5. alignés
 
-1. **DEV04-01** alignés
-2. **DEV04-02** non alignés
-3. **DEV04-03** non alignés
-4. **DEV04-04** non alignés
-5. **DEV04-05** non alignés
+#### Devoir 8
+1. alignés
+2. alignés
+3. non alignés
+4. alignés
+5. alignés
 
-#### DEV05
+#### Devoir 9
+1. alignés
+2. non alignés
+3. non alignés
+4. non alignés
+5. non alignés
 
-1. **DEV05-01** non alignés
-2. **DEV05-02** alignés
-3. **DEV05-03** alignés
-4. **DEV05-04** alignés
-5. **DEV05-05** alignés
-
-#### DEV06
-
-1. **DEV06-01** alignés
-2. **DEV06-02** alignés
-3. **DEV06-03** non alignés
-4. **DEV06-04** alignés
-5. **DEV06-05** non alignés
-
-#### DEV07
-
-1. **DEV07-01** non alignés
-2. **DEV07-02** non alignés
-3. **DEV07-03** alignés
-4. **DEV07-04** non alignés
-5. **DEV07-05** alignés
-
-#### DEV08
-
-1. **DEV08-01** alignés
-2. **DEV08-02** alignés
-3. **DEV08-03** non alignés
-4. **DEV08-04** alignés
-5. **DEV08-05** alignés
-
-#### DEV09
-
-1. **DEV09-01** alignés
-2. **DEV09-02** non alignés
-3. **DEV09-03** non alignés
-4. **DEV09-04** non alignés
-5. **DEV09-05** non alignés
-
-#### DEV10
-
-1. **DEV10-01** non alignés
-2. **DEV10-02** alignés
-3. **DEV10-03** alignés
-4. **DEV10-04** alignés
-5. **DEV10-05** alignés
+#### Devoir 10
+1. non alignés
+2. alignés
+3. alignés
+4. alignés
+5. alignés
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 2/2.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Un tout a 3 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 3 parts sont coloriées. Écris la fraction.
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 3/3.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **IMM02** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **IMM03** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **IMM04** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **IMM05** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **IMM06** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **IMM07** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-- **ENT01-01** Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT01-02** Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT01-03** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT01-04** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT01-05** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Entraînement 2
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
-### ENT02
+### Entraînement 3
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-- **ENT02-01** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT02-02** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT02-03** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT02-04** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT02-05** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+### Entraînement 4
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-### ENT03
+### Entraînement 5
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
-- **ENT03-01** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT03-02** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT03-03** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT03-04** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT03-05** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Entraînement 6
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
 
-### ENT04
+### Entraînement 7
+- Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-- **ENT04-01** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT04-02** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT04-03** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT04-04** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT04-05** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Entraînement 8
+- Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-### ENT05
+### Entraînement 9
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
 
-- **ENT05-01** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT05-02** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT05-03** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT05-04** Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT05-05** Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
-
-### ENT06
-
-- **ENT06-01** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT06-02** Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT06-03** Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT06-04** Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT06-05** Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
-
-### ENT07
-
-- **ENT07-01** Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT07-02** Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT07-03** Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT07-04** Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT07-05** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-
-### ENT08
-
-- **ENT08-01** Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT08-02** Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT08-03** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT08-04** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT08-05** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-
-### ENT09
-
-- **ENT09-01** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT09-02** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT09-03** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT09-04** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT09-05** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-
-### ENT10
-
-- **ENT10-01** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT10-02** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **ENT10-03** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **ENT10-04** Un tout a 5 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **ENT10-05** Un tout a 6 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Entraînement 10
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-- **EVAL01-01** Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL01-02** Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL01-03** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL01-04** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL01-05** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Évaluation 2
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
-### EVAL02
+### Évaluation 3
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-- **EVAL02-01** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL02-02** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL02-03** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL02-04** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL02-05** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+### Évaluation 4
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-### EVAL03
+### Évaluation 5
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
-- **EVAL03-01** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL03-02** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL03-03** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL03-04** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL03-05** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Évaluation 6
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
 
-### EVAL04
+### Évaluation 7
+- Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-- **EVAL04-01** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL04-02** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL04-03** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL04-04** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL04-05** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Évaluation 8
+- Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-### EVAL05
+### Évaluation 9
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
 
-- **EVAL05-01** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL05-02** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL05-03** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL05-04** Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL05-05** Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
-
-### EVAL06
-
-- **EVAL06-01** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL06-02** Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL06-03** Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL06-04** Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL06-05** Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
-
-### EVAL07
-
-- **EVAL07-01** Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL07-02** Un tout a 8 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL07-03** Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL07-04** Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL07-05** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-
-### EVAL08
-
-- **EVAL08-01** Un tout a 10 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL08-02** Un tout a 12 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL08-03** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL08-04** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL08-05** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-
-### EVAL09
-
-- **EVAL09-01** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL09-02** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL09-03** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL09-04** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL09-05** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-
-### EVAL10
-
-- **EVAL10-01** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL10-02** Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **EVAL10-03** Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **EVAL10-04** Un tout a 5 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **EVAL10-05** Un tout a 6 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Évaluation 10
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Un tout a 3 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
-- **DEV01-01** Un tout a 3 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV01-02** Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV01-03** Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV01-04** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV01-05** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+### Devoir 2
+- Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-### DEV02
+### Devoir 3
+- Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
 
-- **DEV02-01** Un tout a 4 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV02-02** Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV02-03** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV02-04** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV02-05** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+### Devoir 4
+- Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
-### DEV03
+### Devoir 5
+- Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-- **DEV03-01** Un tout a 5 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV03-02** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV03-03** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV03-04** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV03-05** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+### Devoir 6
+- Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-### DEV04
+### Devoir 7
+- Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
-- **DEV04-01** Un tout a 6 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV04-02** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV04-03** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV04-04** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV04-05** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+### Devoir 8
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
 
-### DEV05
+### Devoir 9
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
 
-- **DEV05-01** Un tout a 8 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV05-02** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV05-03** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV05-04** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV05-05** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-
-### DEV06
-
-- **DEV06-01** Un tout a 10 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV06-02** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV06-03** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV06-04** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV06-05** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-
-### DEV07
-
-- **DEV07-01** Un tout a 12 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV07-02** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV07-03** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV07-04** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV07-05** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-
-### DEV08
-
-- **DEV08-01** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV08-02** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV08-03** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV08-04** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV08-05** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-
-### DEV09
-
-- **DEV09-01** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV09-02** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV09-03** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV09-04** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV09-05** Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
-
-### DEV10
-
-- **DEV10-01** Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV10-02** Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
-- **DEV10-03** Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
-- **DEV10-04** Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
-- **DEV10-05** Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
+### Devoir 10
+- Un tout a 2 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 3 parts égales ; 1 parts sont coloriées. Écris la fraction.
+- Un tout a 4 parts égales ; 2 parts sont coloriées. Écris la fraction.
+- Un tout a 5 parts égales ; 3 parts sont coloriées. Écris la fraction.
+- Un tout a 6 parts égales ; 1 parts sont coloriées. Écris la fraction.
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 1/4.
 2. 2/5.
 3. 3/6.
 4. 1/8.
 5. 2/10.
 
-#### ENT02
-
+#### Entraînement 2
 1. 3/6.
 2. 1/8.
 3. 2/10.
 4. 3/12.
 5. 1/3.
 
-#### ENT03
-
+#### Entraînement 3
 1. 2/10.
 2. 3/12.
 3. 1/3.
 4. 2/4.
 5. 2/2.
 
-#### ENT04
-
+#### Entraînement 4
 1. 1/3.
 2. 2/4.
 3. 2/2.
 4. 1/3.
 5. 2/4.
 
-#### ENT05
-
+#### Entraînement 5
 1. 2/2.
 2. 1/3.
 3. 2/4.
 4. 3/5.
 5. 1/6.
 
-#### ENT06
-
+#### Entraînement 6
 1. 2/4.
 2. 3/5.
 3. 1/6.
 4. 2/8.
 5. 3/10.
 
-#### ENT07
-
+#### Entraînement 7
 1. 1/6.
 2. 2/8.
 3. 3/10.
 4. 1/12.
 5. 2/3.
 
-#### ENT08
-
+#### Entraînement 8
 1. 3/10.
 2. 1/12.
 3. 2/3.
 4. 3/4.
 5. 2/2.
 
-#### ENT09
-
+#### Entraînement 9
 1. 2/3.
 2. 3/4.
 3. 2/2.
 4. 2/3.
 5. 3/4.
 
-#### ENT10
-
+#### Entraînement 10
 1. 2/2.
 2. 2/3.
 3. 3/4.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 1/4.
 2. 2/5.
 3. 3/6.
 4. 1/8.
 5. 2/10.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 3/6.
 2. 1/8.
 3. 2/10.
 4. 3/12.
 5. 1/3.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 2/10.
 2. 3/12.
 3. 1/3.
 4. 2/4.
 5. 2/2.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 1/3.
 2. 2/4.
 3. 2/2.
 4. 1/3.
 5. 2/4.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 2/2.
 2. 1/3.
 3. 2/4.
 4. 3/5.
 5. 1/6.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 2/4.
 2. 3/5.
 3. 1/6.
 4. 2/8.
 5. 3/10.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 1/6.
 2. 2/8.
 3. 3/10.
 4. 1/12.
 5. 2/3.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 3/10.
 2. 1/12.
 3. 2/3.
 4. 3/4.
 5. 2/2.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 2/3.
 2. 3/4.
 3. 2/2.
 4. 2/3.
 5. 3/4.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 2/2.
 2. 2/3.
 3. 3/4.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 3/3.
 2. 1/4.
 3. 2/5.
 4. 3/6.
 5. 1/8.
 
-#### DEV02
-
+#### Devoir 2
 1. 1/4.
 2. 2/5.
 3. 3/6.
 4. 1/8.
 5. 2/10.
 
-#### DEV03
-
+#### Devoir 3
 1. 2/5.
 2. 3/6.
 3. 1/8.
 4. 2/10.
 5. 3/12.
 
-#### DEV04
-
+#### Devoir 4
 1. 3/6.
 2. 1/8.
 3. 2/10.
 4. 3/12.
 5. 1/3.
 
-#### DEV05
-
+#### Devoir 5
 1. 1/8.
 2. 2/10.
 3. 3/12.
 4. 1/3.
 5. 2/4.
 
-#### DEV06
-
+#### Devoir 6
 1. 2/10.
 2. 3/12.
 3. 1/3.
 4. 2/4.
 5. 2/2.
 
-#### DEV07
-
+#### Devoir 7
 1. 3/12.
 2. 1/3.
 3. 2/4.
 4. 2/2.
 5. 1/3.
 
-#### DEV08
-
+#### Devoir 8
 1. 1/3.
 2. 2/4.
 3. 2/2.
 4. 1/3.
 5. 2/4.
 
-#### DEV09
-
+#### Devoir 9
 1. 2/4.
 2. 2/2.
 3. 1/3.
 4. 2/4.
 5. 3/5.
 
-#### DEV10
-
+#### Devoir 10
 1. 2/2.
 2. 1/3.
 3. 2/4.

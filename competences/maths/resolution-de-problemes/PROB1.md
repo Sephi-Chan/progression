@@ -60,8 +60,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** La classe range 9 albums et 6 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
 
 - **Attention portée :** Je lis la question, je nomme chaque quantité et je montre leur relation avant de choisir le calcul.
@@ -69,8 +68,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 9 + 6 = 15. Il y a 15 éléments en tout.
 - **Contrôle final :** la partie trouvée ne dépasse pas le tout et les deux parties recomposent le tout.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Un panier contient 17 fruits. 10 sont des pommes et les autres sont des poires. Combien y a-t-il de poires ?
 
 - **Attention portée :** Demander : « Que connaît-on ? Que cherche-t-on ? Que doivent montrer les barres ou les groupes ? »
@@ -78,8 +76,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 17 - 10 = 7. La partie manquante contient 7 éléments.
 - **Contrôle final :** la partie trouvée ne dépasse pas le tout et les deux parties recomposent le tout.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Au jeu, Lina gagne 11 jetons jaunes et 8 jetons verts. Combien de jetons gagne-t-elle en tout ?
 
 - **Attention portée :** Laisser les élèves reformuler et choisir le premier geste ; demander seulement de justifier.
@@ -91,13 +88,13 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne :** Résous le problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-- **IMM01** Au jeu, Lina gagne 19 jetons jaunes et 7 jetons verts. Combien de jetons gagne-t-elle en tout ?
-- **IMM02** Une boite contient 28 perles. 20 sont rouges et les autres sont bleues. Combien y a-t-il de perles bleues ?
-- **IMM03** La classe range 21 albums et 9 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
-- **IMM04** Un panier contient 32 fruits. 22 sont des pommes et les autres sont des poires. Combien y a-t-il de poires ?
-- **IMM05** Au jeu, Lina gagne 23 jetons jaunes et 11 jetons verts. Combien de jetons gagne-t-elle en tout ?
-- **IMM06** Une boite contient 36 perles. 24 sont rouges et les autres sont bleues. Combien y a-t-il de perles bleues ?
-- **IMM07** La classe range 25 albums et 13 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
+- Au jeu, Lina gagne 19 jetons jaunes et 7 jetons verts. Combien de jetons gagne-t-elle en tout ?
+- Une boite contient 28 perles. 20 sont rouges et les autres sont bleues. Combien y a-t-il de perles bleues ?
+- La classe range 21 albums et 9 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
+- Un panier contient 32 fruits. 22 sont des pommes et les autres sont des poires. Combien y a-t-il de poires ?
+- Au jeu, Lina gagne 23 jetons jaunes et 11 jetons verts. Combien de jetons gagne-t-elle en tout ?
+- Une boite contient 36 perles. 24 sont rouges et les autres sont bleues. Combien y a-t-il de perles bleues ?
+- La classe range 25 albums et 13 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
 
 ## Variables didactiques
 
@@ -111,253 +108,223 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne pour toutes les séries :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### ENT01
+### Entraînement 1
+- Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 18 pommes et 6 poires. Combien de fruits contient-il ?
+- Lina a 26 jetons. 19 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
 
-- **ENT01-01** Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT01-02** Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT01-03** Un panier contient 18 pommes et 6 poires. Combien de fruits contient-il ?
-- **ENT01-04** Lina a 26 jetons. 19 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT01-05** Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
+### Entraînement 2
+- Lina a 34 jetons. 23 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 26 pommes et 5 poires. Combien de fruits contient-il ?
+- Lina a 33 jetons. 27 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
-### ENT02
+### Entraînement 3
+- Un panier contient 30 pommes et 9 poires. Combien de fruits contient-il ?
+- Lina a 41 jetons. 31 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 32 perles rouges et 11 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
 
-- **ENT02-01** Lina a 34 jetons. 23 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT02-02** Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT02-03** Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT02-04** Un panier contient 26 pommes et 5 poires. Combien de fruits contient-il ?
-- **ENT02-05** Lina a 33 jetons. 27 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+### Entraînement 4
+- Une étagère porte 149 livres. 119 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 122 pommes et 32 poires. Combien de fruits contient-il ?
+- Lina a 48 jetons. 32 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 35 perles rouges et 18 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 58 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
 
-### ENT03
+### Entraînement 5
+- Dans une boite, il y a 47 perles rouges et 26 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 78 livres. 50 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 53 pommes et 30 poires. Combien de fruits contient-il ?
+- Lina a 88 jetons. 56 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 59 perles rouges et 34 perles bleues. Combien y a-t-il de perles en tout ?
 
-- **ENT03-01** Un panier contient 30 pommes et 9 poires. Combien de fruits contient-il ?
-- **ENT03-02** Lina a 41 jetons. 31 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT03-03** Dans une boite, il y a 32 perles rouges et 11 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT03-04** Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT03-05** Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
+### Entraînement 6
+- Lina a 86 jetons. 68 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 71 perles rouges et 20 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 96 livres. 74 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 77 pommes et 24 poires. Combien de fruits contient-il ?
+- Lina a 106 jetons. 80 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
-### ENT04
+### Entraînement 7
+- Un panier contient 89 pommes et 32 poires. Combien de fruits contient-il ?
+- Lina a 126 jetons. 92 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 95 perles rouges et 36 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 114 livres. 98 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 101 pommes et 18 poires. Combien de fruits contient-il ?
 
-- **ENT04-01** Une étagère porte 149 livres. 119 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT04-02** Un panier contient 122 pommes et 32 poires. Combien de fruits contient-il ?
-- **ENT04-03** Lina a 48 jetons. 32 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT04-04** Dans une boite, il y a 35 perles rouges et 18 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT04-05** Une étagère porte 58 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+### Entraînement 8
+- Une étagère porte 415 livres. 380 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 390 pommes et 40 poires. Combien de fruits contient-il ?
+- Lina a 445 jetons. 400 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 410 perles rouges et 50 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 475 livres. 420 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
 
-### ENT05
+### Entraînement 9
+- Dans une boite, il y a 140 perles rouges et 45 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 200 livres. 150 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 160 pommes et 55 poires. Combien de fruits contient-il ?
+- Lina a 230 jetons. 170 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 180 perles rouges et 65 perles bleues. Combien y a-t-il de perles en tout ?
 
-- **ENT05-01** Dans une boite, il y a 47 perles rouges et 26 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT05-02** Une étagère porte 78 livres. 50 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT05-03** Un panier contient 53 pommes et 30 poires. Combien de fruits contient-il ?
-- **ENT05-04** Lina a 88 jetons. 56 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT05-05** Dans une boite, il y a 59 perles rouges et 34 perles bleues. Combien y a-t-il de perles en tout ?
-
-### ENT06
-
-- **ENT06-01** Lina a 86 jetons. 68 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT06-02** Dans une boite, il y a 71 perles rouges et 20 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT06-03** Une étagère porte 96 livres. 74 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT06-04** Un panier contient 77 pommes et 24 poires. Combien de fruits contient-il ?
-- **ENT06-05** Lina a 106 jetons. 80 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-
-### ENT07
-
-- **ENT07-01** Un panier contient 89 pommes et 32 poires. Combien de fruits contient-il ?
-- **ENT07-02** Lina a 126 jetons. 92 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT07-03** Dans une boite, il y a 95 perles rouges et 36 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT07-04** Une étagère porte 114 livres. 98 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT07-05** Un panier contient 101 pommes et 18 poires. Combien de fruits contient-il ?
-
-### ENT08
-
-- **ENT08-01** Une étagère porte 415 livres. 380 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT08-02** Un panier contient 390 pommes et 40 poires. Combien de fruits contient-il ?
-- **ENT08-03** Lina a 445 jetons. 400 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT08-04** Dans une boite, il y a 410 perles rouges et 50 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT08-05** Une étagère porte 475 livres. 420 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-
-### ENT09
-
-- **ENT09-01** Dans une boite, il y a 140 perles rouges et 45 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT09-02** Une étagère porte 200 livres. 150 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT09-03** Un panier contient 160 pommes et 55 poires. Combien de fruits contient-il ?
-- **ENT09-04** Lina a 230 jetons. 170 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT09-05** Dans une boite, il y a 180 perles rouges et 65 perles bleues. Combien y a-t-il de perles en tout ?
-
-### ENT10
-
-- **ENT10-01** Lina a 290 jetons. 210 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **ENT10-02** Dans une boite, il y a 220 perles rouges et 85 perles bleues. Combien y a-t-il de perles en tout ?
-- **ENT10-03** Une étagère porte 320 livres. 230 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **ENT10-04** Un panier contient 240 pommes et 95 poires. Combien de fruits contient-il ?
-- **ENT10-05** Lina a 285 jetons. 250 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+### Entraînement 10
+- Lina a 290 jetons. 210 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 220 perles rouges et 85 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 320 livres. 230 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 240 pommes et 95 poires. Combien de fruits contient-il ?
+- Lina a 285 jetons. 250 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
 ## Évaluations
 
 **Consigne pour toutes les formes :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### EVAL01
+### Évaluation 1
+- Un panier contient 89 pommes et 32 poires. Combien de fruits contient-il ?
+- Une étagère porte 200 livres. 150 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Lina a 48 jetons. 32 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Un panier contient 99 pommes et 37 poires. Combien de fruits contient-il ?
+- La classe range 77 albums et 24 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
 
-- **EVAL01-01** Un panier contient 89 pommes et 32 poires. Combien de fruits contient-il ?
-- **EVAL01-02** Une étagère porte 200 livres. 150 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **EVAL01-03** Lina a 48 jetons. 32 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL01-04** Un panier contient 99 pommes et 37 poires. Combien de fruits contient-il ?
-- **EVAL01-05** La classe range 77 albums et 24 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
+### Évaluation 2
+- Un panier contient 390 pommes et 40 poires. Combien de fruits contient-il ?
+- Une étagère porte 320 livres. 230 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Lina a 88 jetons. 56 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Lina a 136 jetons. 97 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Un panier contient 106 fruits. 80 sont des pommes et les autres sont des poires. Combien y a-t-il de poires ?
 
-### EVAL02
+### Évaluation 3
+- Un panier contient 160 pommes et 55 poires. Combien de fruits contient-il ?
+- Dans une boite, il y a 35 perles rouges et 18 perles bleues. Combien y a-t-il de perles en tout ?
+- Lina a 106 jetons. 80 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 105 perles rouges et 41 perles bleues. Combien y a-t-il de perles en tout ?
+- Au jeu, Lina gagne 83 jetons jaunes et 28 jetons verts. Combien de jetons gagne-t-elle en tout ?
 
-- **EVAL02-01** Un panier contient 390 pommes et 40 poires. Combien de fruits contient-il ?
-- **EVAL02-02** Une étagère porte 320 livres. 230 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **EVAL02-03** Lina a 88 jetons. 56 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL02-04** Lina a 136 jetons. 97 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL02-05** Un panier contient 106 fruits. 80 sont des pommes et les autres sont des poires. Combien y a-t-il de poires ?
+### Évaluation 4
+- Un panier contient 240 pommes et 95 poires. Combien de fruits contient-il ?
+- Dans une boite, il y a 59 perles rouges et 34 perles bleues. Combien y a-t-il de perles en tout ?
+- Un panier contient 89 pommes et 32 poires. Combien de fruits contient-il ?
+- Une étagère porte 124 livres. 103 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Dans une boite, il y a 86 perles rouges et 30 perles bleues. Combien y a-t-il de perles en tout ?
 
-### EVAL03
+### Évaluation 5
+- Une étagère porte 58 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Lina a 86 jetons. 68 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Un panier contient 390 pommes et 40 poires. Combien de fruits contient-il ?
+- Un panier contient 111 pommes et 23 poires. Combien de fruits contient-il ?
+- Une étagère porte 121 livres. 89 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
 
-- **EVAL03-01** Un panier contient 160 pommes et 55 poires. Combien de fruits contient-il ?
-- **EVAL03-02** Dans une boite, il y a 35 perles rouges et 18 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL03-03** Lina a 106 jetons. 80 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL03-04** Dans une boite, il y a 105 perles rouges et 41 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL03-05** Au jeu, Lina gagne 83 jetons jaunes et 28 jetons verts. Combien de jetons gagne-t-elle en tout ?
+### Évaluation 6
+- Dans une boite, il y a 47 perles rouges et 26 perles bleues. Combien y a-t-il de perles en tout ?
+- Lina a 126 jetons. 92 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Un panier contient 160 pommes et 55 poires. Combien de fruits contient-il ?
+- Un panier contient 99 pommes et 37 poires. Combien de fruits contient-il ?
+- Un panier contient 92 pommes et 34 poires. Combien de fruits contient-il ?
 
-### EVAL04
+### Évaluation 7
+- Dans une boite, il y a 71 perles rouges et 20 perles bleues. Combien y a-t-il de perles en tout ?
+- Lina a 445 jetons. 400 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Un panier contient 240 pommes et 95 poires. Combien de fruits contient-il ?
+- Lina a 136 jetons. 97 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Lina a 131 jetons. 95 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
-- **EVAL04-01** Un panier contient 240 pommes et 95 poires. Combien de fruits contient-il ?
-- **EVAL04-02** Dans une boite, il y a 59 perles rouges et 34 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL04-03** Un panier contient 89 pommes et 32 poires. Combien de fruits contient-il ?
-- **EVAL04-04** Une étagère porte 124 livres. 103 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **EVAL04-05** Dans une boite, il y a 86 perles rouges et 30 perles bleues. Combien y a-t-il de perles en tout ?
+### Évaluation 8
+- Dans une boite, il y a 95 perles rouges et 36 perles bleues. Combien y a-t-il de perles en tout ?
+- Lina a 230 jetons. 170 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Une étagère porte 58 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Dans une boite, il y a 105 perles rouges et 41 perles bleues. Combien y a-t-il de perles en tout ?
+- Dans une boite, il y a 98 perles rouges et 16 perles bleues. Combien y a-t-il de perles en tout ?
 
-### EVAL05
+### Évaluation 9
+- Dans une boite, il y a 410 perles rouges et 50 perles bleues. Combien y a-t-il de perles en tout ?
+- Lina a 285 jetons. 250 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 47 perles rouges et 26 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 124 livres. 103 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- La classe range 101 albums et 18 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
 
-- **EVAL05-01** Une étagère porte 58 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **EVAL05-02** Lina a 86 jetons. 68 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL05-03** Un panier contient 390 pommes et 40 poires. Combien de fruits contient-il ?
-- **EVAL05-04** Un panier contient 111 pommes et 23 poires. Combien de fruits contient-il ?
-- **EVAL05-05** Une étagère porte 121 livres. 89 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-
-### EVAL06
-
-- **EVAL06-01** Dans une boite, il y a 47 perles rouges et 26 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL06-02** Lina a 126 jetons. 92 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL06-03** Un panier contient 160 pommes et 55 poires. Combien de fruits contient-il ?
-- **EVAL06-04** Un panier contient 99 pommes et 37 poires. Combien de fruits contient-il ?
-- **EVAL06-05** Un panier contient 92 pommes et 34 poires. Combien de fruits contient-il ?
-
-### EVAL07
-
-- **EVAL07-01** Dans une boite, il y a 71 perles rouges et 20 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL07-02** Lina a 445 jetons. 400 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL07-03** Un panier contient 240 pommes et 95 poires. Combien de fruits contient-il ?
-- **EVAL07-04** Lina a 136 jetons. 97 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL07-05** Lina a 131 jetons. 95 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-
-### EVAL08
-
-- **EVAL08-01** Dans une boite, il y a 95 perles rouges et 36 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL08-02** Lina a 230 jetons. 170 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL08-03** Une étagère porte 58 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **EVAL08-04** Dans une boite, il y a 105 perles rouges et 41 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL08-05** Dans une boite, il y a 98 perles rouges et 16 perles bleues. Combien y a-t-il de perles en tout ?
-
-### EVAL09
-
-- **EVAL09-01** Dans une boite, il y a 410 perles rouges et 50 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL09-02** Lina a 285 jetons. 250 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **EVAL09-03** Dans une boite, il y a 47 perles rouges et 26 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL09-04** Une étagère porte 124 livres. 103 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **EVAL09-05** La classe range 101 albums et 18 documentaires sur une étagère. Combien de livres y a-t-il en tout ?
-
-### EVAL10
-
-- **EVAL10-01** Dans une boite, il y a 180 perles rouges et 65 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL10-02** Une étagère porte 149 livres. 119 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **EVAL10-03** Dans une boite, il y a 71 perles rouges et 20 perles bleues. Combien y a-t-il de perles en tout ?
-- **EVAL10-04** Un panier contient 111 pommes et 23 poires. Combien de fruits contient-il ?
-- **EVAL10-05** Un panier contient 124 fruits. 104 sont des pommes et les autres sont des poires. Combien y a-t-il de poires ?
+### Évaluation 10
+- Dans une boite, il y a 180 perles rouges et 65 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 149 livres. 119 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Dans une boite, il y a 71 perles rouges et 20 perles bleues. Combien y a-t-il de perles en tout ?
+- Un panier contient 111 pommes et 23 poires. Combien de fruits contient-il ?
+- Un panier contient 124 fruits. 104 sont des pommes et les autres sont des poires. Combien y a-t-il de poires ?
 
 ## Devoirs
 
 **Consigne pour tous les devoirs :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### DEV01
+### Devoir 1
+- Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
+- Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Lina a 36 jetons. 24 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
-- **DEV01-01** Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV01-02** Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV01-03** Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
-- **DEV01-04** Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV01-05** Lina a 36 jetons. 24 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+### Devoir 2
+- Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Lina a 43 jetons. 32 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
-### DEV02
+### Devoir 3
+- Dans une boite, il y a 32 perles rouges et 11 perles bleues. Combien y a-t-il de perles en tout ?
+- Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
+- Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 40 pommes et 14 poires. Combien de fruits contient-il ?
 
-- **DEV02-01** Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV02-02** Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV02-03** Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV02-04** Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV02-05** Lina a 43 jetons. 32 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+### Devoir 4
+- Lina a 26 jetons. 19 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Lina a 34 jetons. 23 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Dans une boite, il y a 32 perles rouges et 11 perles bleues. Combien y a-t-il de perles en tout ?
+- Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 32 livres. 22 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
 
-### DEV03
+### Devoir 5
+- Lina a 33 jetons. 27 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Lina a 41 jetons. 31 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Lina a 26 jetons. 19 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Lina a 34 jetons. 23 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Une étagère porte 48 livres. 30 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
 
-- **DEV03-01** Dans une boite, il y a 32 perles rouges et 11 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV03-02** Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV03-03** Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV03-04** Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV03-05** Un panier contient 40 pommes et 14 poires. Combien de fruits contient-il ?
+### Devoir 6
+- Un panier contient 30 pommes et 9 poires. Combien de fruits contient-il ?
+- Un panier contient 18 pommes et 6 poires. Combien de fruits contient-il ?
+- Lina a 33 jetons. 27 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Lina a 41 jetons. 31 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
+- Une étagère porte 55 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
 
-### DEV04
+### Devoir 7
+- Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 26 pommes et 5 poires. Combien de fruits contient-il ?
+- Un panier contient 30 pommes et 9 poires. Combien de fruits contient-il ?
+- Un panier contient 18 pommes et 6 poires. Combien de fruits contient-il ?
+- Dans une boite, il y a 30 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
 
-- **DEV04-01** Lina a 26 jetons. 19 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV04-02** Lina a 34 jetons. 23 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV04-03** Dans une boite, il y a 32 perles rouges et 11 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV04-04** Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV04-05** Une étagère porte 32 livres. 22 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+### Devoir 8
+- Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
+- Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 26 pommes et 5 poires. Combien de fruits contient-il ?
+- Lina a 44 jetons. 28 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
-### DEV05
+### Devoir 9
+- Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
+- Lina a 51 jetons. 36 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
 
-- **DEV05-01** Lina a 33 jetons. 27 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV05-02** Lina a 41 jetons. 31 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV05-03** Lina a 26 jetons. 19 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV05-04** Lina a 34 jetons. 23 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV05-05** Une étagère porte 48 livres. 30 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-
-### DEV06
-
-- **DEV06-01** Un panier contient 30 pommes et 9 poires. Combien de fruits contient-il ?
-- **DEV06-02** Un panier contient 18 pommes et 6 poires. Combien de fruits contient-il ?
-- **DEV06-03** Lina a 33 jetons. 27 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV06-04** Lina a 41 jetons. 31 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-- **DEV06-05** Une étagère porte 55 livres. 38 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-
-### DEV07
-
-- **DEV07-01** Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV07-02** Un panier contient 26 pommes et 5 poires. Combien de fruits contient-il ?
-- **DEV07-03** Un panier contient 30 pommes et 9 poires. Combien de fruits contient-il ?
-- **DEV07-04** Un panier contient 18 pommes et 6 poires. Combien de fruits contient-il ?
-- **DEV07-05** Dans une boite, il y a 30 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
-
-### DEV08
-
-- **DEV08-01** Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV08-02** Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
-- **DEV08-03** Une étagère porte 22 livres. 17 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV08-04** Un panier contient 26 pommes et 5 poires. Combien de fruits contient-il ?
-- **DEV08-05** Lina a 44 jetons. 28 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-
-### DEV09
-
-- **DEV09-01** Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV09-02** Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV09-03** Une étagère porte 38 livres. 25 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV09-04** Un panier contient 34 pommes et 13 poires. Combien de fruits contient-il ?
-- **DEV09-05** Lina a 51 jetons. 36 sont jaunes et les autres sont verts. Combien a-t-elle de jetons verts ?
-
-### DEV10
-
-- **DEV10-01** Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV10-02** Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV10-03** Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
-- **DEV10-04** Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
-- **DEV10-05** Un panier contient 28 pommes et 11 poires. Combien de fruits contient-il ?
+### Devoir 10
+- Dans une boite, il y a 20 perles rouges et 8 perles bleues. Combien y a-t-il de perles en tout ?
+- Dans une boite, il y a 24 perles rouges et 12 perles bleues. Combien y a-t-il de perles en tout ?
+- Une étagère porte 45 livres. 33 sont des albums et les autres sont des documentaires. Combien y a-t-il de documentaires ?
+- Dans une boite, il y a 16 perles rouges et 13 perles bleues. Combien y a-t-il de perles en tout ?
+- Un panier contient 28 pommes et 11 poires. Combien de fruits contient-il ?
 
 ## Corrections
 
@@ -365,259 +332,229 @@ La formulation de la phrase peut varier. Accepter toute phrase qui donne le rés
 
 ### Correction — À toi de jouer
 
-- **IMM01** 19 + 7 = 26. Il y a 26 éléments en tout.
-- **IMM02** 28 - 20 = 8. La partie manquante contient 8 éléments.
-- **IMM03** 21 + 9 = 30. Il y a 30 éléments en tout.
-- **IMM04** 32 - 22 = 10. La partie manquante contient 10 éléments.
-- **IMM05** 23 + 11 = 34. Il y a 34 éléments en tout.
-- **IMM06** 36 - 24 = 12. La partie manquante contient 12 éléments.
-- **IMM07** 25 + 13 = 38. Il y a 38 éléments en tout.
+- 19 + 7 = 26. Il y a 26 éléments en tout.
+- 28 - 20 = 8. La partie manquante contient 8 éléments.
+- 21 + 9 = 30. Il y a 30 éléments en tout.
+- 32 - 22 = 10. La partie manquante contient 10 éléments.
+- 23 + 11 = 34. Il y a 34 éléments en tout.
+- 36 - 24 = 12. La partie manquante contient 12 éléments.
+- 25 + 13 = 38. Il y a 38 éléments en tout.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- 16 + 13 = 29. Il y a 29 éléments en tout.
+- 22 - 17 = 5. La partie manquante contient 5 éléments.
+- 18 + 6 = 24. Il y a 24 éléments en tout.
+- 26 - 19 = 7. La partie manquante contient 7 éléments.
+- 20 + 8 = 28. Il y a 28 éléments en tout.
 
-- **ENT01-01** 16 + 13 = 29. Il y a 29 éléments en tout.
-- **ENT01-02** 22 - 17 = 5. La partie manquante contient 5 éléments.
-- **ENT01-03** 18 + 6 = 24. Il y a 24 éléments en tout.
-- **ENT01-04** 26 - 19 = 7. La partie manquante contient 7 éléments.
-- **ENT01-05** 20 + 8 = 28. Il y a 28 éléments en tout.
+#### Entraînement 2
+- 34 - 23 = 11. La partie manquante contient 11 éléments.
+- 24 + 12 = 36. Il y a 36 éléments en tout.
+- 38 - 25 = 13. La partie manquante contient 13 éléments.
+- 26 + 5 = 31. Il y a 31 éléments en tout.
+- 33 - 27 = 6. La partie manquante contient 6 éléments.
 
-#### ENT02
+#### Entraînement 3
+- 30 + 9 = 39. Il y a 39 éléments en tout.
+- 41 - 31 = 10. La partie manquante contient 10 éléments.
+- 32 + 11 = 43. Il y a 43 éléments en tout.
+- 45 - 33 = 12. La partie manquante contient 12 éléments.
+- 34 + 13 = 47. Il y a 47 éléments en tout.
 
-- **ENT02-01** 34 - 23 = 11. La partie manquante contient 11 éléments.
-- **ENT02-02** 24 + 12 = 36. Il y a 36 éléments en tout.
-- **ENT02-03** 38 - 25 = 13. La partie manquante contient 13 éléments.
-- **ENT02-04** 26 + 5 = 31. Il y a 31 éléments en tout.
-- **ENT02-05** 33 - 27 = 6. La partie manquante contient 6 éléments.
+#### Entraînement 4
+- 149 - 119 = 30. La partie manquante contient 30 éléments.
+- 122 + 32 = 154. Il y a 154 éléments en tout.
+- 48 - 32 = 16. La partie manquante contient 16 éléments.
+- 35 + 18 = 53. Il y a 53 éléments en tout.
+- 58 - 38 = 20. La partie manquante contient 20 éléments.
 
-#### ENT03
+#### Entraînement 5
+- 47 + 26 = 73. Il y a 73 éléments en tout.
+- 78 - 50 = 28. La partie manquante contient 28 éléments.
+- 53 + 30 = 83. Il y a 83 éléments en tout.
+- 88 - 56 = 32. La partie manquante contient 32 éléments.
+- 59 + 34 = 93. Il y a 93 éléments en tout.
 
-- **ENT03-01** 30 + 9 = 39. Il y a 39 éléments en tout.
-- **ENT03-02** 41 - 31 = 10. La partie manquante contient 10 éléments.
-- **ENT03-03** 32 + 11 = 43. Il y a 43 éléments en tout.
-- **ENT03-04** 45 - 33 = 12. La partie manquante contient 12 éléments.
-- **ENT03-05** 34 + 13 = 47. Il y a 47 éléments en tout.
+#### Entraînement 6
+- 86 - 68 = 18. La partie manquante contient 18 éléments.
+- 71 + 20 = 91. Il y a 91 éléments en tout.
+- 96 - 74 = 22. La partie manquante contient 22 éléments.
+- 77 + 24 = 101. Il y a 101 éléments en tout.
+- 106 - 80 = 26. La partie manquante contient 26 éléments.
 
-#### ENT04
+#### Entraînement 7
+- 89 + 32 = 121. Il y a 121 éléments en tout.
+- 126 - 92 = 34. La partie manquante contient 34 éléments.
+- 95 + 36 = 131. Il y a 131 éléments en tout.
+- 114 - 98 = 16. La partie manquante contient 16 éléments.
+- 101 + 18 = 119. Il y a 119 éléments en tout.
 
-- **ENT04-01** 149 - 119 = 30. La partie manquante contient 30 éléments.
-- **ENT04-02** 122 + 32 = 154. Il y a 154 éléments en tout.
-- **ENT04-03** 48 - 32 = 16. La partie manquante contient 16 éléments.
-- **ENT04-04** 35 + 18 = 53. Il y a 53 éléments en tout.
-- **ENT04-05** 58 - 38 = 20. La partie manquante contient 20 éléments.
+#### Entraînement 8
+- 415 - 380 = 35. La partie manquante contient 35 éléments.
+- 390 + 40 = 430. Il y a 430 éléments en tout.
+- 445 - 400 = 45. La partie manquante contient 45 éléments.
+- 410 + 50 = 460. Il y a 460 éléments en tout.
+- 475 - 420 = 55. La partie manquante contient 55 éléments.
 
-#### ENT05
+#### Entraînement 9
+- 140 + 45 = 185. Il y a 185 éléments en tout.
+- 200 - 150 = 50. La partie manquante contient 50 éléments.
+- 160 + 55 = 215. Il y a 215 éléments en tout.
+- 230 - 170 = 60. La partie manquante contient 60 éléments.
+- 180 + 65 = 245. Il y a 245 éléments en tout.
 
-- **ENT05-01** 47 + 26 = 73. Il y a 73 éléments en tout.
-- **ENT05-02** 78 - 50 = 28. La partie manquante contient 28 éléments.
-- **ENT05-03** 53 + 30 = 83. Il y a 83 éléments en tout.
-- **ENT05-04** 88 - 56 = 32. La partie manquante contient 32 éléments.
-- **ENT05-05** 59 + 34 = 93. Il y a 93 éléments en tout.
-
-#### ENT06
-
-- **ENT06-01** 86 - 68 = 18. La partie manquante contient 18 éléments.
-- **ENT06-02** 71 + 20 = 91. Il y a 91 éléments en tout.
-- **ENT06-03** 96 - 74 = 22. La partie manquante contient 22 éléments.
-- **ENT06-04** 77 + 24 = 101. Il y a 101 éléments en tout.
-- **ENT06-05** 106 - 80 = 26. La partie manquante contient 26 éléments.
-
-#### ENT07
-
-- **ENT07-01** 89 + 32 = 121. Il y a 121 éléments en tout.
-- **ENT07-02** 126 - 92 = 34. La partie manquante contient 34 éléments.
-- **ENT07-03** 95 + 36 = 131. Il y a 131 éléments en tout.
-- **ENT07-04** 114 - 98 = 16. La partie manquante contient 16 éléments.
-- **ENT07-05** 101 + 18 = 119. Il y a 119 éléments en tout.
-
-#### ENT08
-
-- **ENT08-01** 415 - 380 = 35. La partie manquante contient 35 éléments.
-- **ENT08-02** 390 + 40 = 430. Il y a 430 éléments en tout.
-- **ENT08-03** 445 - 400 = 45. La partie manquante contient 45 éléments.
-- **ENT08-04** 410 + 50 = 460. Il y a 460 éléments en tout.
-- **ENT08-05** 475 - 420 = 55. La partie manquante contient 55 éléments.
-
-#### ENT09
-
-- **ENT09-01** 140 + 45 = 185. Il y a 185 éléments en tout.
-- **ENT09-02** 200 - 150 = 50. La partie manquante contient 50 éléments.
-- **ENT09-03** 160 + 55 = 215. Il y a 215 éléments en tout.
-- **ENT09-04** 230 - 170 = 60. La partie manquante contient 60 éléments.
-- **ENT09-05** 180 + 65 = 245. Il y a 245 éléments en tout.
-
-#### ENT10
-
-- **ENT10-01** 290 - 210 = 80. La partie manquante contient 80 éléments.
-- **ENT10-02** 220 + 85 = 305. Il y a 305 éléments en tout.
-- **ENT10-03** 320 - 230 = 90. La partie manquante contient 90 éléments.
-- **ENT10-04** 240 + 95 = 335. Il y a 335 éléments en tout.
-- **ENT10-05** 285 - 250 = 35. La partie manquante contient 35 éléments.
+#### Entraînement 10
+- 290 - 210 = 80. La partie manquante contient 80 éléments.
+- 220 + 85 = 305. Il y a 305 éléments en tout.
+- 320 - 230 = 90. La partie manquante contient 90 éléments.
+- 240 + 95 = 335. Il y a 335 éléments en tout.
+- 285 - 250 = 35. La partie manquante contient 35 éléments.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- 89 + 32 = 121. Il y a 121 éléments en tout.
+- 200 - 150 = 50. La partie manquante contient 50 éléments.
+- 48 - 32 = 16. La partie manquante contient 16 éléments.
+- 99 + 37 = 136. Il y a 136 éléments en tout.
+- 77 + 24 = 101. Il y a 101 éléments en tout.
 
-- **EVAL01-01** 89 + 32 = 121. Il y a 121 éléments en tout.
-- **EVAL01-02** 200 - 150 = 50. La partie manquante contient 50 éléments.
-- **EVAL01-03** 48 - 32 = 16. La partie manquante contient 16 éléments.
-- **EVAL01-04** 99 + 37 = 136. Il y a 136 éléments en tout.
-- **EVAL01-05** 77 + 24 = 101. Il y a 101 éléments en tout.
+#### Évaluation 2
+- 390 + 40 = 430. Il y a 430 éléments en tout.
+- 320 - 230 = 90. La partie manquante contient 90 éléments.
+- 88 - 56 = 32. La partie manquante contient 32 éléments.
+- 136 - 97 = 39. La partie manquante contient 39 éléments.
+- 106 - 80 = 26. La partie manquante contient 26 éléments.
 
-#### EVAL02
+#### Évaluation 3
+- 160 + 55 = 215. Il y a 215 éléments en tout.
+- 35 + 18 = 53. Il y a 53 éléments en tout.
+- 106 - 80 = 26. La partie manquante contient 26 éléments.
+- 105 + 41 = 146. Il y a 146 éléments en tout.
+- 83 + 28 = 111. Il y a 111 éléments en tout.
 
-- **EVAL02-01** 390 + 40 = 430. Il y a 430 éléments en tout.
-- **EVAL02-02** 320 - 230 = 90. La partie manquante contient 90 éléments.
-- **EVAL02-03** 88 - 56 = 32. La partie manquante contient 32 éléments.
-- **EVAL02-04** 136 - 97 = 39. La partie manquante contient 39 éléments.
-- **EVAL02-05** 106 - 80 = 26. La partie manquante contient 26 éléments.
+#### Évaluation 4
+- 240 + 95 = 335. Il y a 335 éléments en tout.
+- 59 + 34 = 93. Il y a 93 éléments en tout.
+- 89 + 32 = 121. Il y a 121 éléments en tout.
+- 124 - 103 = 21. La partie manquante contient 21 éléments.
+- 86 + 30 = 116. Il y a 116 éléments en tout.
 
-#### EVAL03
+#### Évaluation 5
+- 58 - 38 = 20. La partie manquante contient 20 éléments.
+- 86 - 68 = 18. La partie manquante contient 18 éléments.
+- 390 + 40 = 430. Il y a 430 éléments en tout.
+- 111 + 23 = 134. Il y a 134 éléments en tout.
+- 121 - 89 = 32. La partie manquante contient 32 éléments.
 
-- **EVAL03-01** 160 + 55 = 215. Il y a 215 éléments en tout.
-- **EVAL03-02** 35 + 18 = 53. Il y a 53 éléments en tout.
-- **EVAL03-03** 106 - 80 = 26. La partie manquante contient 26 éléments.
-- **EVAL03-04** 105 + 41 = 146. Il y a 146 éléments en tout.
-- **EVAL03-05** 83 + 28 = 111. Il y a 111 éléments en tout.
+#### Évaluation 6
+- 47 + 26 = 73. Il y a 73 éléments en tout.
+- 126 - 92 = 34. La partie manquante contient 34 éléments.
+- 160 + 55 = 215. Il y a 215 éléments en tout.
+- 99 + 37 = 136. Il y a 136 éléments en tout.
+- 92 + 34 = 126. Il y a 126 éléments en tout.
 
-#### EVAL04
+#### Évaluation 7
+- 71 + 20 = 91. Il y a 91 éléments en tout.
+- 445 - 400 = 45. La partie manquante contient 45 éléments.
+- 240 + 95 = 335. Il y a 335 éléments en tout.
+- 136 - 97 = 39. La partie manquante contient 39 éléments.
+- 131 - 95 = 36. La partie manquante contient 36 éléments.
 
-- **EVAL04-01** 240 + 95 = 335. Il y a 335 éléments en tout.
-- **EVAL04-02** 59 + 34 = 93. Il y a 93 éléments en tout.
-- **EVAL04-03** 89 + 32 = 121. Il y a 121 éléments en tout.
-- **EVAL04-04** 124 - 103 = 21. La partie manquante contient 21 éléments.
-- **EVAL04-05** 86 + 30 = 116. Il y a 116 éléments en tout.
+#### Évaluation 8
+- 95 + 36 = 131. Il y a 131 éléments en tout.
+- 230 - 170 = 60. La partie manquante contient 60 éléments.
+- 58 - 38 = 20. La partie manquante contient 20 éléments.
+- 105 + 41 = 146. Il y a 146 éléments en tout.
+- 98 + 16 = 114. Il y a 114 éléments en tout.
 
-#### EVAL05
+#### Évaluation 9
+- 410 + 50 = 460. Il y a 460 éléments en tout.
+- 285 - 250 = 35. La partie manquante contient 35 éléments.
+- 47 + 26 = 73. Il y a 73 éléments en tout.
+- 124 - 103 = 21. La partie manquante contient 21 éléments.
+- 101 + 18 = 119. Il y a 119 éléments en tout.
 
-- **EVAL05-01** 58 - 38 = 20. La partie manquante contient 20 éléments.
-- **EVAL05-02** 86 - 68 = 18. La partie manquante contient 18 éléments.
-- **EVAL05-03** 390 + 40 = 430. Il y a 430 éléments en tout.
-- **EVAL05-04** 111 + 23 = 134. Il y a 134 éléments en tout.
-- **EVAL05-05** 121 - 89 = 32. La partie manquante contient 32 éléments.
-
-#### EVAL06
-
-- **EVAL06-01** 47 + 26 = 73. Il y a 73 éléments en tout.
-- **EVAL06-02** 126 - 92 = 34. La partie manquante contient 34 éléments.
-- **EVAL06-03** 160 + 55 = 215. Il y a 215 éléments en tout.
-- **EVAL06-04** 99 + 37 = 136. Il y a 136 éléments en tout.
-- **EVAL06-05** 92 + 34 = 126. Il y a 126 éléments en tout.
-
-#### EVAL07
-
-- **EVAL07-01** 71 + 20 = 91. Il y a 91 éléments en tout.
-- **EVAL07-02** 445 - 400 = 45. La partie manquante contient 45 éléments.
-- **EVAL07-03** 240 + 95 = 335. Il y a 335 éléments en tout.
-- **EVAL07-04** 136 - 97 = 39. La partie manquante contient 39 éléments.
-- **EVAL07-05** 131 - 95 = 36. La partie manquante contient 36 éléments.
-
-#### EVAL08
-
-- **EVAL08-01** 95 + 36 = 131. Il y a 131 éléments en tout.
-- **EVAL08-02** 230 - 170 = 60. La partie manquante contient 60 éléments.
-- **EVAL08-03** 58 - 38 = 20. La partie manquante contient 20 éléments.
-- **EVAL08-04** 105 + 41 = 146. Il y a 146 éléments en tout.
-- **EVAL08-05** 98 + 16 = 114. Il y a 114 éléments en tout.
-
-#### EVAL09
-
-- **EVAL09-01** 410 + 50 = 460. Il y a 460 éléments en tout.
-- **EVAL09-02** 285 - 250 = 35. La partie manquante contient 35 éléments.
-- **EVAL09-03** 47 + 26 = 73. Il y a 73 éléments en tout.
-- **EVAL09-04** 124 - 103 = 21. La partie manquante contient 21 éléments.
-- **EVAL09-05** 101 + 18 = 119. Il y a 119 éléments en tout.
-
-#### EVAL10
-
-- **EVAL10-01** 180 + 65 = 245. Il y a 245 éléments en tout.
-- **EVAL10-02** 149 - 119 = 30. La partie manquante contient 30 éléments.
-- **EVAL10-03** 71 + 20 = 91. Il y a 91 éléments en tout.
-- **EVAL10-04** 111 + 23 = 134. Il y a 134 éléments en tout.
-- **EVAL10-05** 124 - 104 = 20. La partie manquante contient 20 éléments.
+#### Évaluation 10
+- 180 + 65 = 245. Il y a 245 éléments en tout.
+- 149 - 119 = 30. La partie manquante contient 30 éléments.
+- 71 + 20 = 91. Il y a 91 éléments en tout.
+- 111 + 23 = 134. Il y a 134 éléments en tout.
+- 124 - 104 = 20. La partie manquante contient 20 éléments.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- 16 + 13 = 29. Il y a 29 éléments en tout.
+- 38 - 25 = 13. La partie manquante contient 13 éléments.
+- 34 + 13 = 47. Il y a 47 éléments en tout.
+- 22 - 17 = 5. La partie manquante contient 5 éléments.
+- 36 - 24 = 12. La partie manquante contient 12 éléments.
 
-- **DEV01-01** 16 + 13 = 29. Il y a 29 éléments en tout.
-- **DEV01-02** 38 - 25 = 13. La partie manquante contient 13 éléments.
-- **DEV01-03** 34 + 13 = 47. Il y a 47 éléments en tout.
-- **DEV01-04** 22 - 17 = 5. La partie manquante contient 5 éléments.
-- **DEV01-05** 36 - 24 = 12. La partie manquante contient 12 éléments.
+#### Devoir 2
+- 24 + 12 = 36. Il y a 36 éléments en tout.
+- 45 - 33 = 12. La partie manquante contient 12 éléments.
+- 16 + 13 = 29. Il y a 29 éléments en tout.
+- 38 - 25 = 13. La partie manquante contient 13 éléments.
+- 43 - 32 = 11. La partie manquante contient 11 éléments.
 
-#### DEV02
+#### Devoir 3
+- 32 + 11 = 43. Il y a 43 éléments en tout.
+- 20 + 8 = 28. Il y a 28 éléments en tout.
+- 24 + 12 = 36. Il y a 36 éléments en tout.
+- 45 - 33 = 12. La partie manquante contient 12 éléments.
+- 40 + 14 = 54. Il y a 54 éléments en tout.
 
-- **DEV02-01** 24 + 12 = 36. Il y a 36 éléments en tout.
-- **DEV02-02** 45 - 33 = 12. La partie manquante contient 12 éléments.
-- **DEV02-03** 16 + 13 = 29. Il y a 29 éléments en tout.
-- **DEV02-04** 38 - 25 = 13. La partie manquante contient 13 éléments.
-- **DEV02-05** 43 - 32 = 11. La partie manquante contient 11 éléments.
+#### Devoir 4
+- 26 - 19 = 7. La partie manquante contient 7 éléments.
+- 34 - 23 = 11. La partie manquante contient 11 éléments.
+- 32 + 11 = 43. Il y a 43 éléments en tout.
+- 20 + 8 = 28. Il y a 28 éléments en tout.
+- 32 - 22 = 10. La partie manquante contient 10 éléments.
 
-#### DEV03
+#### Devoir 5
+- 33 - 27 = 6. La partie manquante contient 6 éléments.
+- 41 - 31 = 10. La partie manquante contient 10 éléments.
+- 26 - 19 = 7. La partie manquante contient 7 éléments.
+- 34 - 23 = 11. La partie manquante contient 11 éléments.
+- 48 - 30 = 18. La partie manquante contient 18 éléments.
 
-- **DEV03-01** 32 + 11 = 43. Il y a 43 éléments en tout.
-- **DEV03-02** 20 + 8 = 28. Il y a 28 éléments en tout.
-- **DEV03-03** 24 + 12 = 36. Il y a 36 éléments en tout.
-- **DEV03-04** 45 - 33 = 12. La partie manquante contient 12 éléments.
-- **DEV03-05** 40 + 14 = 54. Il y a 54 éléments en tout.
+#### Devoir 6
+- 30 + 9 = 39. Il y a 39 éléments en tout.
+- 18 + 6 = 24. Il y a 24 éléments en tout.
+- 33 - 27 = 6. La partie manquante contient 6 éléments.
+- 41 - 31 = 10. La partie manquante contient 10 éléments.
+- 55 - 38 = 17. La partie manquante contient 17 éléments.
 
-#### DEV04
+#### Devoir 7
+- 22 - 17 = 5. La partie manquante contient 5 éléments.
+- 26 + 5 = 31. Il y a 31 éléments en tout.
+- 30 + 9 = 39. Il y a 39 éléments en tout.
+- 18 + 6 = 24. Il y a 24 éléments en tout.
+- 30 + 13 = 43. Il y a 43 éléments en tout.
 
-- **DEV04-01** 26 - 19 = 7. La partie manquante contient 7 éléments.
-- **DEV04-02** 34 - 23 = 11. La partie manquante contient 11 éléments.
-- **DEV04-03** 32 + 11 = 43. Il y a 43 éléments en tout.
-- **DEV04-04** 20 + 8 = 28. Il y a 28 éléments en tout.
-- **DEV04-05** 32 - 22 = 10. La partie manquante contient 10 éléments.
+#### Devoir 8
+- 38 - 25 = 13. La partie manquante contient 13 éléments.
+- 34 + 13 = 47. Il y a 47 éléments en tout.
+- 22 - 17 = 5. La partie manquante contient 5 éléments.
+- 26 + 5 = 31. Il y a 31 éléments en tout.
+- 44 - 28 = 16. La partie manquante contient 16 éléments.
 
-#### DEV05
+#### Devoir 9
+- 45 - 33 = 12. La partie manquante contient 12 éléments.
+- 16 + 13 = 29. Il y a 29 éléments en tout.
+- 38 - 25 = 13. La partie manquante contient 13 éléments.
+- 34 + 13 = 47. Il y a 47 éléments en tout.
+- 51 - 36 = 15. La partie manquante contient 15 éléments.
 
-- **DEV05-01** 33 - 27 = 6. La partie manquante contient 6 éléments.
-- **DEV05-02** 41 - 31 = 10. La partie manquante contient 10 éléments.
-- **DEV05-03** 26 - 19 = 7. La partie manquante contient 7 éléments.
-- **DEV05-04** 34 - 23 = 11. La partie manquante contient 11 éléments.
-- **DEV05-05** 48 - 30 = 18. La partie manquante contient 18 éléments.
-
-#### DEV06
-
-- **DEV06-01** 30 + 9 = 39. Il y a 39 éléments en tout.
-- **DEV06-02** 18 + 6 = 24. Il y a 24 éléments en tout.
-- **DEV06-03** 33 - 27 = 6. La partie manquante contient 6 éléments.
-- **DEV06-04** 41 - 31 = 10. La partie manquante contient 10 éléments.
-- **DEV06-05** 55 - 38 = 17. La partie manquante contient 17 éléments.
-
-#### DEV07
-
-- **DEV07-01** 22 - 17 = 5. La partie manquante contient 5 éléments.
-- **DEV07-02** 26 + 5 = 31. Il y a 31 éléments en tout.
-- **DEV07-03** 30 + 9 = 39. Il y a 39 éléments en tout.
-- **DEV07-04** 18 + 6 = 24. Il y a 24 éléments en tout.
-- **DEV07-05** 30 + 13 = 43. Il y a 43 éléments en tout.
-
-#### DEV08
-
-- **DEV08-01** 38 - 25 = 13. La partie manquante contient 13 éléments.
-- **DEV08-02** 34 + 13 = 47. Il y a 47 éléments en tout.
-- **DEV08-03** 22 - 17 = 5. La partie manquante contient 5 éléments.
-- **DEV08-04** 26 + 5 = 31. Il y a 31 éléments en tout.
-- **DEV08-05** 44 - 28 = 16. La partie manquante contient 16 éléments.
-
-#### DEV09
-
-- **DEV09-01** 45 - 33 = 12. La partie manquante contient 12 éléments.
-- **DEV09-02** 16 + 13 = 29. Il y a 29 éléments en tout.
-- **DEV09-03** 38 - 25 = 13. La partie manquante contient 13 éléments.
-- **DEV09-04** 34 + 13 = 47. Il y a 47 éléments en tout.
-- **DEV09-05** 51 - 36 = 15. La partie manquante contient 15 éléments.
-
-#### DEV10
-
-- **DEV10-01** 20 + 8 = 28. Il y a 28 éléments en tout.
-- **DEV10-02** 24 + 12 = 36. Il y a 36 éléments en tout.
-- **DEV10-03** 45 - 33 = 12. La partie manquante contient 12 éléments.
-- **DEV10-04** 16 + 13 = 29. Il y a 29 éléments en tout.
-- **DEV10-05** 28 + 11 = 39. Il y a 39 éléments en tout.
+#### Devoir 10
+- 20 + 8 = 28. Il y a 28 éléments en tout.
+- 24 + 12 = 36. Il y a 36 éléments en tout.
+- 45 - 33 = 12. La partie manquante contient 12 éléments.
+- 16 + 13 = 29. Il y a 29 éléments en tout.
+- 28 + 11 = 39. Il y a 39 éléments en tout.
 
 ## Traçabilité des évaluations et devoirs
 

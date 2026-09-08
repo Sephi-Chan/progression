@@ -61,8 +61,7 @@ Le format sollicite directement la compétence et produit une réponse corrigeab
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 Complète : **1 m = … cm**.
 
 - **Attention portée :** choisir la relation correspondant aux unités.
@@ -70,8 +69,7 @@ Complète : **1 m = … cm**.
 - **Réponse :** 100 cm.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 Complète : **2 m = … cm**.
 
 - **Attention portée :** choisir la relation correspondant aux unités.
@@ -79,8 +77,7 @@ Complète : **2 m = … cm**.
 - **Réponse :** 200 cm.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 Complète : **3 m = … cm**.
 
 - **Attention portée :** choisir la relation correspondant aux unités.
@@ -90,13 +87,13 @@ Complète : **3 m = … cm**.
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Complète : **4 m = … cm**.
-- **IMM02** Complète : **5 m = … cm**.
-- **IMM03** Complète : **6 m = … cm**.
-- **IMM04** Complète : **7 m = … cm**.
-- **IMM05** Complète : **8 m = … cm**.
-- **IMM06** Complète : **9 m = … cm**.
-- **IMM07** Complète : **1 m = … cm**.
+- Complète : **4 m = … cm**.
+- Complète : **5 m = … cm**.
+- Complète : **6 m = … cm**.
+- Complète : **7 m = … cm**.
+- Complète : **8 m = … cm**.
+- Complète : **9 m = … cm**.
+- Complète : **1 m = … cm**.
 
 ## Variables didactiques
 
@@ -106,507 +103,447 @@ Complète : **3 m = … cm**.
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Complète : **1 m = … cm**.
+- Complète : **2 m = … cm**.
+- Complète : **3 m = … cm**.
+- Complète : **4 m = … cm**.
+- Complète : **5 m = … cm**.
 
-- **ENT01-01** Complète : **1 m = … cm**.
-- **ENT01-02** Complète : **2 m = … cm**.
-- **ENT01-03** Complète : **3 m = … cm**.
-- **ENT01-04** Complète : **4 m = … cm**.
-- **ENT01-05** Complète : **5 m = … cm**.
+### Entraînement 2
+- Complète : **6 m = … cm**.
+- Complète : **7 m = … cm**.
+- Complète : **8 m = … cm**.
+- Complète : **9 m = … cm**.
+- Complète : **1 m = … cm**.
 
-### ENT02
+### Entraînement 3
+- Complète : **2 m = … cm**.
+- Complète : **3 m = … cm**.
+- Complète : **4 m = … cm**.
+- Complète : **5 m = … cm**.
+- Complète : **6 m = … cm**.
 
-- **ENT02-01** Complète : **6 m = … cm**.
-- **ENT02-02** Complète : **7 m = … cm**.
-- **ENT02-03** Complète : **8 m = … cm**.
-- **ENT02-04** Complète : **9 m = … cm**.
-- **ENT02-05** Complète : **1 m = … cm**.
+### Entraînement 4
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
 
-### ENT03
+### Entraînement 5
+- Complète : **1000 m = … km**.
+- Complète : **1 km = … m**.
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
 
-- **ENT03-01** Complète : **2 m = … cm**.
-- **ENT03-02** Complète : **3 m = … cm**.
-- **ENT03-03** Complète : **4 m = … cm**.
-- **ENT03-04** Complète : **5 m = … cm**.
-- **ENT03-05** Complète : **6 m = … cm**.
+### Entraînement 6
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
+- Complète : **1000 m = … km**.
+- Complète : **1 km = … m**.
+- Complète : **1000 m = … km**.
 
-### ENT04
+### Entraînement 7
+- Complète : **7 m 35 cm = … cm**.
+- Complète : **842 cm = … m … cm**.
+- Complète : **1 m 49 cm = … cm**.
+- Complète : **256 cm = … m … cm**.
+- Complète : **3 m 63 cm = … cm**.
 
-- **ENT04-01** Complète : **1000 m = … km**.
-- **ENT04-02** Complète : **1000 m = … km**.
-- **ENT04-03** Complète : **1000 m = … km**.
-- **ENT04-04** Complète : **1000 m = … km**.
-- **ENT04-05** Complète : **1000 m = … km**.
+### Entraînement 8
+- Complète : **470 cm = … m … cm**.
+- Complète : **5 m 77 cm = … cm**.
+- Complète : **684 cm = … m … cm**.
+- Complète : **7 m 91 cm = … cm**.
+- Complète : **808 cm = … m … cm**.
 
-### ENT05
+### Entraînement 9
+- Complète : **1 m 15 cm = … cm**.
+- Complète : **222 cm = … m … cm**.
+- Complète : **3 m 29 cm = … cm**.
+- Complète : **436 cm = … m … cm**.
+- Complète : **5 m 43 cm = … cm**.
 
-- **ENT05-01** Complète : **1000 m = … km**.
-- **ENT05-02** Complète : **1 km = … m**.
-- **ENT05-03** Complète : **1000 m = … km**.
-- **ENT05-04** Complète : **1000 m = … km**.
-- **ENT05-05** Complète : **1000 m = … km**.
-
-### ENT06
-
-- **ENT06-01** Complète : **1000 m = … km**.
-- **ENT06-02** Complète : **1000 m = … km**.
-- **ENT06-03** Complète : **1000 m = … km**.
-- **ENT06-04** Complète : **1 km = … m**.
-- **ENT06-05** Complète : **1000 m = … km**.
-
-### ENT07
-
-- **ENT07-01** Complète : **7 m 35 cm = … cm**.
-- **ENT07-02** Complète : **842 cm = … m … cm**.
-- **ENT07-03** Complète : **1 m 49 cm = … cm**.
-- **ENT07-04** Complète : **256 cm = … m … cm**.
-- **ENT07-05** Complète : **3 m 63 cm = … cm**.
-
-### ENT08
-
-- **ENT08-01** Complète : **470 cm = … m … cm**.
-- **ENT08-02** Complète : **5 m 77 cm = … cm**.
-- **ENT08-03** Complète : **684 cm = … m … cm**.
-- **ENT08-04** Complète : **7 m 91 cm = … cm**.
-- **ENT08-05** Complète : **808 cm = … m … cm**.
-
-### ENT09
-
-- **ENT09-01** Complète : **1 m 15 cm = … cm**.
-- **ENT09-02** Complète : **222 cm = … m … cm**.
-- **ENT09-03** Complète : **3 m 29 cm = … cm**.
-- **ENT09-04** Complète : **436 cm = … m … cm**.
-- **ENT09-05** Complète : **5 m 43 cm = … cm**.
-
-### ENT10
-
-- **ENT10-01** Complète : **650 cm = … m … cm**.
-- **ENT10-02** Complète : **7 m 57 cm = … cm**.
-- **ENT10-03** Complète : **864 cm = … m … cm**.
-- **ENT10-04** Complète : **1 m 71 cm = … cm**.
-- **ENT10-05** Complète : **278 cm = … m … cm**.
+### Entraînement 10
+- Complète : **650 cm = … m … cm**.
+- Complète : **7 m 57 cm = … cm**.
+- Complète : **864 cm = … m … cm**.
+- Complète : **1 m 71 cm = … cm**.
+- Complète : **278 cm = … m … cm**.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Complète : **6 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **3 m 63 cm = … cm**.
+- Complète l’égalité : **1 km = … m**.
+- Complète : **7 m 12 cm = … cm**.
 
-- **EVAL01-01** Complète : **6 m = … cm**.
-- **EVAL01-02** Complète : **1000 m = … km**.
-- **EVAL01-03** Complète : **3 m 63 cm = … cm**.
-- **EVAL01-04** Complète l’égalité : **1 km = … m**.
-- **EVAL01-05** Complète : **7 m 12 cm = … cm**.
+### Évaluation 2
+- Complète : **7 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **7 m 35 cm = … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **8 m 13 cm = … cm**.
 
-### EVAL02
+### Évaluation 3
+- Complète : **8 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **842 cm = … m … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **6 m 14 cm = … cm**.
 
-- **EVAL02-01** Complète : **7 m = … cm**.
-- **EVAL02-02** Complète : **1000 m = … km**.
-- **EVAL02-03** Complète : **7 m 35 cm = … cm**.
-- **EVAL02-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL02-05** Complète : **8 m 13 cm = … cm**.
+### Évaluation 4
+- Complète : **9 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **1 m 49 cm = … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **9 m 15 cm = … cm**.
 
-### EVAL03
+### Évaluation 5
+- Complète : **1 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **256 cm = … m … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **8 m 16 cm = … cm**.
 
-- **EVAL03-01** Complète : **8 m = … cm**.
-- **EVAL03-02** Complète : **1000 m = … km**.
-- **EVAL03-03** Complète : **842 cm = … m … cm**.
-- **EVAL03-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL03-05** Complète : **6 m 14 cm = … cm**.
+### Évaluation 6
+- Complète : **6 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **3 m 63 cm = … cm**.
+- Complète l’égalité : **1 km = … m**.
+- Complète : **6 m 17 cm = … cm**.
 
-### EVAL04
+### Évaluation 7
+- Complète : **7 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **7 m 35 cm = … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **7 m 18 cm = … cm**.
 
-- **EVAL04-01** Complète : **9 m = … cm**.
-- **EVAL04-02** Complète : **1000 m = … km**.
-- **EVAL04-03** Complète : **1 m 49 cm = … cm**.
-- **EVAL04-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL04-05** Complète : **9 m 15 cm = … cm**.
+### Évaluation 8
+- Complète : **8 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **842 cm = … m … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **9 m 19 cm = … cm**.
 
-### EVAL05
+### Évaluation 9
+- Complète : **9 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **1 m 49 cm = … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **6 m 20 cm = … cm**.
 
-- **EVAL05-01** Complète : **1 m = … cm**.
-- **EVAL05-02** Complète : **1000 m = … km**.
-- **EVAL05-03** Complète : **256 cm = … m … cm**.
-- **EVAL05-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL05-05** Complète : **8 m 16 cm = … cm**.
-
-### EVAL06
-
-- **EVAL06-01** Complète : **6 m = … cm**.
-- **EVAL06-02** Complète : **1000 m = … km**.
-- **EVAL06-03** Complète : **3 m 63 cm = … cm**.
-- **EVAL06-04** Complète l’égalité : **1 km = … m**.
-- **EVAL06-05** Complète : **6 m 17 cm = … cm**.
-
-### EVAL07
-
-- **EVAL07-01** Complète : **7 m = … cm**.
-- **EVAL07-02** Complète : **1000 m = … km**.
-- **EVAL07-03** Complète : **7 m 35 cm = … cm**.
-- **EVAL07-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL07-05** Complète : **7 m 18 cm = … cm**.
-
-### EVAL08
-
-- **EVAL08-01** Complète : **8 m = … cm**.
-- **EVAL08-02** Complète : **1000 m = … km**.
-- **EVAL08-03** Complète : **842 cm = … m … cm**.
-- **EVAL08-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL08-05** Complète : **9 m 19 cm = … cm**.
-
-### EVAL09
-
-- **EVAL09-01** Complète : **9 m = … cm**.
-- **EVAL09-02** Complète : **1000 m = … km**.
-- **EVAL09-03** Complète : **1 m 49 cm = … cm**.
-- **EVAL09-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL09-05** Complète : **6 m 20 cm = … cm**.
-
-### EVAL10
-
-- **EVAL10-01** Complète : **1 m = … cm**.
-- **EVAL10-02** Complète : **1000 m = … km**.
-- **EVAL10-03** Complète : **256 cm = … m … cm**.
-- **EVAL10-04** Complète l’égalité : **1000 m = … km**.
-- **EVAL10-05** Complète : **7 m 21 cm = … cm**.
+### Évaluation 10
+- Complète : **1 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **256 cm = … m … cm**.
+- Complète l’égalité : **1000 m = … km**.
+- Complète : **7 m 21 cm = … cm**.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Complète : **1 m = … cm**.
+- Complète : **8 m = … cm**.
+- Complète : **5 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **1 m = … cm**.
 
-- **DEV01-01** Complète : **1 m = … cm**.
-- **DEV01-02** Complète : **8 m = … cm**.
-- **DEV01-03** Complète : **5 m = … cm**.
-- **DEV01-04** Complète : **1000 m = … km**.
-- **DEV01-05** Complète : **1 m = … cm**.
+### Devoir 2
+- Complète : **2 m = … cm**.
+- Complète : **9 m = … cm**.
+- Complète : **6 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **2 m = … cm**.
 
-### DEV02
+### Devoir 3
+- Complète : **3 m = … cm**.
+- Complète : **1 m = … cm**.
+- Complète : **2 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **3 m = … cm**.
 
-- **DEV02-01** Complète : **2 m = … cm**.
-- **DEV02-02** Complète : **9 m = … cm**.
-- **DEV02-03** Complète : **6 m = … cm**.
-- **DEV02-04** Complète : **1000 m = … km**.
-- **DEV02-05** Complète : **2 m = … cm**.
+### Devoir 4
+- Complète : **4 m = … cm**.
+- Complète : **6 m = … cm**.
+- Complète : **3 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **4 m = … cm**.
 
-### DEV03
+### Devoir 5
+- Complète : **5 m = … cm**.
+- Complète : **7 m = … cm**.
+- Complète : **4 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **5 m = … cm**.
 
-- **DEV03-01** Complète : **3 m = … cm**.
-- **DEV03-02** Complète : **1 m = … cm**.
-- **DEV03-03** Complète : **2 m = … cm**.
-- **DEV03-04** Complète : **1000 m = … km**.
-- **DEV03-05** Complète : **3 m = … cm**.
+### Devoir 6
+- Complète : **1 m = … cm**.
+- Complète : **8 m = … cm**.
+- Complète : **5 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **1 m = … cm**.
 
-### DEV04
+### Devoir 7
+- Complète : **2 m = … cm**.
+- Complète : **9 m = … cm**.
+- Complète : **6 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **2 m = … cm**.
 
-- **DEV04-01** Complète : **4 m = … cm**.
-- **DEV04-02** Complète : **6 m = … cm**.
-- **DEV04-03** Complète : **3 m = … cm**.
-- **DEV04-04** Complète : **1000 m = … km**.
-- **DEV04-05** Complète : **4 m = … cm**.
+### Devoir 8
+- Complète : **3 m = … cm**.
+- Complète : **1 m = … cm**.
+- Complète : **2 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **3 m = … cm**.
 
-### DEV05
+### Devoir 9
+- Complète : **4 m = … cm**.
+- Complète : **6 m = … cm**.
+- Complète : **3 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **4 m = … cm**.
 
-- **DEV05-01** Complète : **5 m = … cm**.
-- **DEV05-02** Complète : **7 m = … cm**.
-- **DEV05-03** Complète : **4 m = … cm**.
-- **DEV05-04** Complète : **1000 m = … km**.
-- **DEV05-05** Complète : **5 m = … cm**.
-
-### DEV06
-
-- **DEV06-01** Complète : **1 m = … cm**.
-- **DEV06-02** Complète : **8 m = … cm**.
-- **DEV06-03** Complète : **5 m = … cm**.
-- **DEV06-04** Complète : **1000 m = … km**.
-- **DEV06-05** Complète : **1 m = … cm**.
-
-### DEV07
-
-- **DEV07-01** Complète : **2 m = … cm**.
-- **DEV07-02** Complète : **9 m = … cm**.
-- **DEV07-03** Complète : **6 m = … cm**.
-- **DEV07-04** Complète : **1000 m = … km**.
-- **DEV07-05** Complète : **2 m = … cm**.
-
-### DEV08
-
-- **DEV08-01** Complète : **3 m = … cm**.
-- **DEV08-02** Complète : **1 m = … cm**.
-- **DEV08-03** Complète : **2 m = … cm**.
-- **DEV08-04** Complète : **1000 m = … km**.
-- **DEV08-05** Complète : **3 m = … cm**.
-
-### DEV09
-
-- **DEV09-01** Complète : **4 m = … cm**.
-- **DEV09-02** Complète : **6 m = … cm**.
-- **DEV09-03** Complète : **3 m = … cm**.
-- **DEV09-04** Complète : **1000 m = … km**.
-- **DEV09-05** Complète : **4 m = … cm**.
-
-### DEV10
-
-- **DEV10-01** Complète : **5 m = … cm**.
-- **DEV10-02** Complète : **7 m = … cm**.
-- **DEV10-03** Complète : **4 m = … cm**.
-- **DEV10-04** Complète : **1000 m = … km**.
-- **DEV10-05** Complète : **5 m = … cm**.
+### Devoir 10
+- Complète : **5 m = … cm**.
+- Complète : **7 m = … cm**.
+- Complète : **4 m = … cm**.
+- Complète : **1000 m = … km**.
+- Complète : **5 m = … cm**.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — 400 cm.
-2. **IMM02** — 500 cm.
-3. **IMM03** — 600 cm.
-4. **IMM04** — 700 cm.
-5. **IMM05** — 800 cm.
-6. **IMM06** — 900 cm.
-7. **IMM07** — 100 cm.
+1. — 400 cm.
+2. — 500 cm.
+3. — 600 cm.
+4. — 700 cm.
+5. — 800 cm.
+6. — 900 cm.
+7. — 100 cm.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. — 100 cm.
+2. — 200 cm.
+3. — 300 cm.
+4. — 400 cm.
+5. — 500 cm.
 
-1. **ENT01-01** — 100 cm.
-2. **ENT01-02** — 200 cm.
-3. **ENT01-03** — 300 cm.
-4. **ENT01-04** — 400 cm.
-5. **ENT01-05** — 500 cm.
+#### Entraînement 2
+1. — 600 cm.
+2. — 700 cm.
+3. — 800 cm.
+4. — 900 cm.
+5. — 100 cm.
 
-#### ENT02
+#### Entraînement 3
+1. — 200 cm.
+2. — 300 cm.
+3. — 400 cm.
+4. — 500 cm.
+5. — 600 cm.
 
-1. **ENT02-01** — 600 cm.
-2. **ENT02-02** — 700 cm.
-3. **ENT02-03** — 800 cm.
-4. **ENT02-04** — 900 cm.
-5. **ENT02-05** — 100 cm.
+#### Entraînement 4
+1. — 1 km.
+2. — 1 km.
+3. — 1 km.
+4. — 1 km.
+5. — 1 km.
 
-#### ENT03
+#### Entraînement 5
+1. — 1 km.
+2. — 1000 m.
+3. — 1 km.
+4. — 1 km.
+5. — 1 km.
 
-1. **ENT03-01** — 200 cm.
-2. **ENT03-02** — 300 cm.
-3. **ENT03-03** — 400 cm.
-4. **ENT03-04** — 500 cm.
-5. **ENT03-05** — 600 cm.
+#### Entraînement 6
+1. — 1 km.
+2. — 1 km.
+3. — 1 km.
+4. — 1000 m.
+5. — 1 km.
 
-#### ENT04
+#### Entraînement 7
+1. — 735 cm.
+2. — 8 m 42 cm.
+3. — 149 cm.
+4. — 2 m 56 cm.
+5. — 363 cm.
 
-1. **ENT04-01** — 1 km.
-2. **ENT04-02** — 1 km.
-3. **ENT04-03** — 1 km.
-4. **ENT04-04** — 1 km.
-5. **ENT04-05** — 1 km.
+#### Entraînement 8
+1. — 4 m 70 cm.
+2. — 577 cm.
+3. — 6 m 84 cm.
+4. — 791 cm.
+5. — 8 m 8 cm.
 
-#### ENT05
+#### Entraînement 9
+1. — 115 cm.
+2. — 2 m 22 cm.
+3. — 329 cm.
+4. — 4 m 36 cm.
+5. — 543 cm.
 
-1. **ENT05-01** — 1 km.
-2. **ENT05-02** — 1000 m.
-3. **ENT05-03** — 1 km.
-4. **ENT05-04** — 1 km.
-5. **ENT05-05** — 1 km.
-
-#### ENT06
-
-1. **ENT06-01** — 1 km.
-2. **ENT06-02** — 1 km.
-3. **ENT06-03** — 1 km.
-4. **ENT06-04** — 1000 m.
-5. **ENT06-05** — 1 km.
-
-#### ENT07
-
-1. **ENT07-01** — 735 cm.
-2. **ENT07-02** — 8 m 42 cm.
-3. **ENT07-03** — 149 cm.
-4. **ENT07-04** — 2 m 56 cm.
-5. **ENT07-05** — 363 cm.
-
-#### ENT08
-
-1. **ENT08-01** — 4 m 70 cm.
-2. **ENT08-02** — 577 cm.
-3. **ENT08-03** — 6 m 84 cm.
-4. **ENT08-04** — 791 cm.
-5. **ENT08-05** — 8 m 8 cm.
-
-#### ENT09
-
-1. **ENT09-01** — 115 cm.
-2. **ENT09-02** — 2 m 22 cm.
-3. **ENT09-03** — 329 cm.
-4. **ENT09-04** — 4 m 36 cm.
-5. **ENT09-05** — 543 cm.
-
-#### ENT10
-
-1. **ENT10-01** — 6 m 50 cm.
-2. **ENT10-02** — 757 cm.
-3. **ENT10-03** — 8 m 64 cm.
-4. **ENT10-04** — 171 cm.
-5. **ENT10-05** — 2 m 78 cm.
+#### Entraînement 10
+1. — 6 m 50 cm.
+2. — 757 cm.
+3. — 8 m 64 cm.
+4. — 171 cm.
+5. — 2 m 78 cm.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. — 600 cm.
+2. — 1 km.
+3. — 363 cm.
+4. — 1000 m.
+5. — 712 cm.
 
-1. **EVAL01-01** — 600 cm.
-2. **EVAL01-02** — 1 km.
-3. **EVAL01-03** — 363 cm.
-4. **EVAL01-04** — 1000 m.
-5. **EVAL01-05** — 712 cm.
+#### Évaluation 2
+1. — 700 cm.
+2. — 1 km.
+3. — 735 cm.
+4. — 1 km.
+5. — 813 cm.
 
-#### EVAL02
+#### Évaluation 3
+1. — 800 cm.
+2. — 1 km.
+3. — 8 m 42 cm.
+4. — 1 km.
+5. — 614 cm.
 
-1. **EVAL02-01** — 700 cm.
-2. **EVAL02-02** — 1 km.
-3. **EVAL02-03** — 735 cm.
-4. **EVAL02-04** — 1 km.
-5. **EVAL02-05** — 813 cm.
+#### Évaluation 4
+1. — 900 cm.
+2. — 1 km.
+3. — 149 cm.
+4. — 1 km.
+5. — 915 cm.
 
-#### EVAL03
+#### Évaluation 5
+1. — 100 cm.
+2. — 1 km.
+3. — 2 m 56 cm.
+4. — 1 km.
+5. — 816 cm.
 
-1. **EVAL03-01** — 800 cm.
-2. **EVAL03-02** — 1 km.
-3. **EVAL03-03** — 8 m 42 cm.
-4. **EVAL03-04** — 1 km.
-5. **EVAL03-05** — 614 cm.
+#### Évaluation 6
+1. — 600 cm.
+2. — 1 km.
+3. — 363 cm.
+4. — 1000 m.
+5. — 617 cm.
 
-#### EVAL04
+#### Évaluation 7
+1. — 700 cm.
+2. — 1 km.
+3. — 735 cm.
+4. — 1 km.
+5. — 718 cm.
 
-1. **EVAL04-01** — 900 cm.
-2. **EVAL04-02** — 1 km.
-3. **EVAL04-03** — 149 cm.
-4. **EVAL04-04** — 1 km.
-5. **EVAL04-05** — 915 cm.
+#### Évaluation 8
+1. — 800 cm.
+2. — 1 km.
+3. — 8 m 42 cm.
+4. — 1 km.
+5. — 919 cm.
 
-#### EVAL05
+#### Évaluation 9
+1. — 900 cm.
+2. — 1 km.
+3. — 149 cm.
+4. — 1 km.
+5. — 620 cm.
 
-1. **EVAL05-01** — 100 cm.
-2. **EVAL05-02** — 1 km.
-3. **EVAL05-03** — 2 m 56 cm.
-4. **EVAL05-04** — 1 km.
-5. **EVAL05-05** — 816 cm.
-
-#### EVAL06
-
-1. **EVAL06-01** — 600 cm.
-2. **EVAL06-02** — 1 km.
-3. **EVAL06-03** — 363 cm.
-4. **EVAL06-04** — 1000 m.
-5. **EVAL06-05** — 617 cm.
-
-#### EVAL07
-
-1. **EVAL07-01** — 700 cm.
-2. **EVAL07-02** — 1 km.
-3. **EVAL07-03** — 735 cm.
-4. **EVAL07-04** — 1 km.
-5. **EVAL07-05** — 718 cm.
-
-#### EVAL08
-
-1. **EVAL08-01** — 800 cm.
-2. **EVAL08-02** — 1 km.
-3. **EVAL08-03** — 8 m 42 cm.
-4. **EVAL08-04** — 1 km.
-5. **EVAL08-05** — 919 cm.
-
-#### EVAL09
-
-1. **EVAL09-01** — 900 cm.
-2. **EVAL09-02** — 1 km.
-3. **EVAL09-03** — 149 cm.
-4. **EVAL09-04** — 1 km.
-5. **EVAL09-05** — 620 cm.
-
-#### EVAL10
-
-1. **EVAL10-01** — 100 cm.
-2. **EVAL10-02** — 1 km.
-3. **EVAL10-03** — 2 m 56 cm.
-4. **EVAL10-04** — 1 km.
-5. **EVAL10-05** — 721 cm.
+#### Évaluation 10
+1. — 100 cm.
+2. — 1 km.
+3. — 2 m 56 cm.
+4. — 1 km.
+5. — 721 cm.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. — 100 cm.
+2. — 800 cm.
+3. — 500 cm.
+4. — 1 km.
+5. — 100 cm.
 
-1. **DEV01-01** — 100 cm.
-2. **DEV01-02** — 800 cm.
-3. **DEV01-03** — 500 cm.
-4. **DEV01-04** — 1 km.
-5. **DEV01-05** — 100 cm.
+#### Devoir 2
+1. — 200 cm.
+2. — 900 cm.
+3. — 600 cm.
+4. — 1 km.
+5. — 200 cm.
 
-#### DEV02
+#### Devoir 3
+1. — 300 cm.
+2. — 100 cm.
+3. — 200 cm.
+4. — 1 km.
+5. — 300 cm.
 
-1. **DEV02-01** — 200 cm.
-2. **DEV02-02** — 900 cm.
-3. **DEV02-03** — 600 cm.
-4. **DEV02-04** — 1 km.
-5. **DEV02-05** — 200 cm.
+#### Devoir 4
+1. — 400 cm.
+2. — 600 cm.
+3. — 300 cm.
+4. — 1 km.
+5. — 400 cm.
 
-#### DEV03
+#### Devoir 5
+1. — 500 cm.
+2. — 700 cm.
+3. — 400 cm.
+4. — 1 km.
+5. — 500 cm.
 
-1. **DEV03-01** — 300 cm.
-2. **DEV03-02** — 100 cm.
-3. **DEV03-03** — 200 cm.
-4. **DEV03-04** — 1 km.
-5. **DEV03-05** — 300 cm.
+#### Devoir 6
+1. — 100 cm.
+2. — 800 cm.
+3. — 500 cm.
+4. — 1 km.
+5. — 100 cm.
 
-#### DEV04
+#### Devoir 7
+1. — 200 cm.
+2. — 900 cm.
+3. — 600 cm.
+4. — 1 km.
+5. — 200 cm.
 
-1. **DEV04-01** — 400 cm.
-2. **DEV04-02** — 600 cm.
-3. **DEV04-03** — 300 cm.
-4. **DEV04-04** — 1 km.
-5. **DEV04-05** — 400 cm.
+#### Devoir 8
+1. — 300 cm.
+2. — 100 cm.
+3. — 200 cm.
+4. — 1 km.
+5. — 300 cm.
 
-#### DEV05
+#### Devoir 9
+1. — 400 cm.
+2. — 600 cm.
+3. — 300 cm.
+4. — 1 km.
+5. — 400 cm.
 
-1. **DEV05-01** — 500 cm.
-2. **DEV05-02** — 700 cm.
-3. **DEV05-03** — 400 cm.
-4. **DEV05-04** — 1 km.
-5. **DEV05-05** — 500 cm.
-
-#### DEV06
-
-1. **DEV06-01** — 100 cm.
-2. **DEV06-02** — 800 cm.
-3. **DEV06-03** — 500 cm.
-4. **DEV06-04** — 1 km.
-5. **DEV06-05** — 100 cm.
-
-#### DEV07
-
-1. **DEV07-01** — 200 cm.
-2. **DEV07-02** — 900 cm.
-3. **DEV07-03** — 600 cm.
-4. **DEV07-04** — 1 km.
-5. **DEV07-05** — 200 cm.
-
-#### DEV08
-
-1. **DEV08-01** — 300 cm.
-2. **DEV08-02** — 100 cm.
-3. **DEV08-03** — 200 cm.
-4. **DEV08-04** — 1 km.
-5. **DEV08-05** — 300 cm.
-
-#### DEV09
-
-1. **DEV09-01** — 400 cm.
-2. **DEV09-02** — 600 cm.
-3. **DEV09-03** — 300 cm.
-4. **DEV09-04** — 1 km.
-5. **DEV09-05** — 400 cm.
-
-#### DEV10
-
-1. **DEV10-01** — 500 cm.
-2. **DEV10-02** — 700 cm.
-3. **DEV10-03** — 400 cm.
-4. **DEV10-04** — 1 km.
-5. **DEV10-05** — 500 cm.
+#### Devoir 10
+1. — 500 cm.
+2. — 700 cm.
+3. — 400 cm.
+4. — 1 km.
+5. — 500 cm.
 
 ## Traçabilité des évaluations et devoirs
 

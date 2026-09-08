@@ -69,8 +69,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 ## Modelage explicite — 3 items
 
-### MOD01 — Modelage complet
-
+### Modelage 1 — Modelage complet
 **Énoncé :** **Le chat** dort sur le tapis.
 
 - **Attention d’abord :** Le groupe à remplacer est entièrement en gras.
@@ -78,8 +77,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Il dort sur le tapis.
 - **Contrôle final :** Il reprend bien le chat et le verbe n’a pas changé.
 
-### MOD02 — Modelage interactif
-
+### Modelage 2 — Modelage interactif
 **Énoncé :** **La tortue** avance lentement.
 
 - **Attention d’abord :** Le nom principal est tortue.
@@ -87,8 +85,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Elle avance lentement.
 - **Contrôle final :** Tout le groupe La tortue a disparu.
 
-### MOD03 — Guidage allégé
-
+### Modelage 3 — Guidage allégé
 **Énoncé :** **Les petits lapins** mangent des carottes.
 
 - **Attention d’abord :** Cherchez le nombre puis le genre.
@@ -100,13 +97,13 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **IMM01** **Le chat** dort sur le tapis.
-- **IMM02** **La souris** court le long du mur.
-- **IMM03** **Le chien** cherche sa balle.
-- **IMM04** **La tortue** avance lentement.
-- **IMM05** **Le bateau** quitte le port.
-- **IMM06** **La voiture** tourne à droite.
-- **IMM07** **Le facteur** apporte une lettre.
+- **Le chat** dort sur le tapis.
+- **La souris** court le long du mur.
+- **Le chien** cherche sa balle.
+- **La tortue** avance lentement.
+- **Le bateau** quitte le port.
+- **La voiture** tourne à droite.
+- **Le facteur** apporte une lettre.
 
 ## Variables didactiques
 
@@ -137,602 +134,542 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 ## Entraînements
 
 
-### ENT01
-
+### Entraînement 1
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT01-01** **Le chat** dort sur le tapis.
-- **ENT01-02** **La souris** court le long du mur.
-- **ENT01-03** **Le chien** cherche sa balle.
-- **ENT01-04** **La tortue** avance lentement.
-- **ENT01-05** **Le bateau** quitte le port.
-- **ENT01-06** **La voiture** tourne à droite.
-- **ENT01-07** **Le facteur** apporte une lettre.
-- **ENT01-08** **La maîtresse** lit une histoire.
+- **Le chat** dort sur le tapis.
+- **La souris** court le long du mur.
+- **Le chien** cherche sa balle.
+- **La tortue** avance lentement.
+- **Le bateau** quitte le port.
+- **La voiture** tourne à droite.
+- **Le facteur** apporte une lettre.
+- **La maîtresse** lit une histoire.
 
-### ENT02
-
+### Entraînement 2
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT02-01** **Le petit lapin** mange une carotte.
-- **ENT02-02** **La grande lampe** éclaire la pièce.
-- **ENT02-03** **Les chats** dorment sur le canapé.
-- **ENT02-04** **Les souris** se cachent dans le mur.
-- **ENT02-05** **Les chiens** courent dans le jardin.
-- **ENT02-06** **Les tortues** avancent lentement.
-- **ENT02-07** **Les bateaux** quittent le port.
-- **ENT02-08** **Les voitures** tournent à gauche.
+- **Le petit lapin** mange une carotte.
+- **La grande lampe** éclaire la pièce.
+- **Les chats** dorment sur le canapé.
+- **Les souris** se cachent dans le mur.
+- **Les chiens** courent dans le jardin.
+- **Les tortues** avancent lentement.
+- **Les bateaux** quittent le port.
+- **Les voitures** tournent à gauche.
 
-### ENT03
-
+### Entraînement 3
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT03-01** **Les facteurs** apportent le courrier.
-- **ENT03-02** **Les maîtresses** préparent la classe.
-- **ENT03-03** **Les petits lapins** mangent des carottes.
-- **ENT03-04** **Les grandes lampes** éclairent la salle.
-- **ENT03-05** **Ce chat** dort sur le tapis.
-- **ENT03-06** **Cette souris** court le long du mur.
-- **ENT03-07** **Ce chien** cherche sa balle.
-- **ENT03-08** **Cette tortue** avance lentement.
+- **Les facteurs** apportent le courrier.
+- **Les maîtresses** préparent la classe.
+- **Les petits lapins** mangent des carottes.
+- **Les grandes lampes** éclairent la salle.
+- **Ce chat** dort sur le tapis.
+- **Cette souris** court le long du mur.
+- **Ce chien** cherche sa balle.
+- **Cette tortue** avance lentement.
 
-### ENT04
-
+### Entraînement 4
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT04-01** **Ce bateau** quitte le port.
-- **ENT04-02** **Cette voiture** tourne à droite.
-- **ENT04-03** **Ce facteur** apporte une lettre.
-- **ENT04-04** **Cette maîtresse** lit une histoire.
-- **ENT04-05** **Ce petit lapin** mange une carotte.
-- **ENT04-06** **Cette grande lampe** éclaire la pièce.
-- **ENT04-07** **Ces chats** dorment sur le canapé.
-- **ENT04-08** **Ces souris** se cachent dans le mur.
+- **Ce bateau** quitte le port.
+- **Cette voiture** tourne à droite.
+- **Ce facteur** apporte une lettre.
+- **Cette maîtresse** lit une histoire.
+- **Ce petit lapin** mange une carotte.
+- **Cette grande lampe** éclaire la pièce.
+- **Ces chats** dorment sur le canapé.
+- **Ces souris** se cachent dans le mur.
 
-### ENT05
-
+### Entraînement 5
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT05-01** **Ces chiens** courent dans le jardin.
-- **ENT05-02** **Ces tortues** avancent lentement.
-- **ENT05-03** **Ces bateaux** quittent le port.
-- **ENT05-04** **Ces voitures** tournent à gauche.
-- **ENT05-05** **Ces facteurs** apportent le courrier.
-- **ENT05-06** **Ces maîtresses** préparent la classe.
-- **ENT05-07** **Ces petits lapins** mangent des carottes.
-- **ENT05-08** **Ces grandes lampes** éclairent la salle.
+- **Ces chiens** courent dans le jardin.
+- **Ces tortues** avancent lentement.
+- **Ces bateaux** quittent le port.
+- **Ces voitures** tournent à gauche.
+- **Ces facteurs** apportent le courrier.
+- **Ces maîtresses** préparent la classe.
+- **Ces petits lapins** mangent des carottes.
+- **Ces grandes lampes** éclairent la salle.
 
-### ENT06
-
+### Entraînement 6
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT06-01** **Mon chat** dort sur le tapis.
-- **ENT06-02** **Ma souris** court le long du mur.
-- **ENT06-03** **Mon chien** cherche sa balle.
-- **ENT06-04** **Ma tortue** avance lentement.
-- **ENT06-05** **Mon bateau** quitte le port.
-- **ENT06-06** **Ma voiture** tourne à droite.
-- **ENT06-07** **Mon facteur** apporte une lettre.
-- **ENT06-08** **Ma maîtresse** lit une histoire.
+- **Mon chat** dort sur le tapis.
+- **Ma souris** court le long du mur.
+- **Mon chien** cherche sa balle.
+- **Ma tortue** avance lentement.
+- **Mon bateau** quitte le port.
+- **Ma voiture** tourne à droite.
+- **Mon facteur** apporte une lettre.
+- **Ma maîtresse** lit une histoire.
 
-### ENT07
-
+### Entraînement 7
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT07-01** **Mon petit lapin** mange une carotte.
-- **ENT07-02** **Ma grande lampe** éclaire la pièce.
-- **ENT07-03** **Mes chats** dorment sur le canapé.
-- **ENT07-04** **Mes souris** se cachent dans le mur.
-- **ENT07-05** **Mes chiens** courent dans le jardin.
-- **ENT07-06** **Mes tortues** avancent lentement.
-- **ENT07-07** **Mes bateaux** quittent le port.
-- **ENT07-08** **Mes voitures** tournent à gauche.
+- **Mon petit lapin** mange une carotte.
+- **Ma grande lampe** éclaire la pièce.
+- **Mes chats** dorment sur le canapé.
+- **Mes souris** se cachent dans le mur.
+- **Mes chiens** courent dans le jardin.
+- **Mes tortues** avancent lentement.
+- **Mes bateaux** quittent le port.
+- **Mes voitures** tournent à gauche.
 
-### ENT08
-
+### Entraînement 8
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT08-01** **Mes facteurs** apportent le courrier.
-- **ENT08-02** **Mes maîtresses** préparent la classe.
-- **ENT08-03** **Mes petits lapins** mangent des carottes.
-- **ENT08-04** **Mes grandes lampes** éclairent la salle.
-- **ENT08-05** **Un chat noir** dort sur le tapis.
-- **ENT08-06** **Une souris grise** court le long du mur.
-- **ENT08-07** **Un grand chien** cherche sa balle.
-- **ENT08-08** **Une tortue lente** avance lentement.
+- **Mes facteurs** apportent le courrier.
+- **Mes maîtresses** préparent la classe.
+- **Mes petits lapins** mangent des carottes.
+- **Mes grandes lampes** éclairent la salle.
+- **Un chat noir** dort sur le tapis.
+- **Une souris grise** court le long du mur.
+- **Un grand chien** cherche sa balle.
+- **Une tortue lente** avance lentement.
 
-### ENT09
-
+### Entraînement 9
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT09-01** **Un bateau blanc** quitte le port.
-- **ENT09-02** **Une voiture rouge** tourne à droite.
-- **ENT09-03** **Un facteur souriant** apporte une lettre.
-- **ENT09-04** **Une maîtresse attentive** lit une histoire.
-- **ENT09-05** **Un petit lapin blanc** mange une carotte.
-- **ENT09-06** **Une grande lampe ronde** éclaire la pièce.
-- **ENT09-07** **Des chats noirs** dorment sur le canapé.
-- **ENT09-08** **Des souris grises** se cachent dans le mur.
+- **Un bateau blanc** quitte le port.
+- **Une voiture rouge** tourne à droite.
+- **Un facteur souriant** apporte une lettre.
+- **Une maîtresse attentive** lit une histoire.
+- **Un petit lapin blanc** mange une carotte.
+- **Une grande lampe ronde** éclaire la pièce.
+- **Des chats noirs** dorment sur le canapé.
+- **Des souris grises** se cachent dans le mur.
 
-### ENT10
-
+### Entraînement 10
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **ENT10-01** **Des chiens bruns** courent dans le jardin.
-- **ENT10-02** **Des tortues lentes** avancent lentement.
-- **ENT10-03** **Des bateaux blancs** quittent le port.
-- **ENT10-04** **Des voitures rouges** tournent à gauche.
-- **ENT10-05** **Des facteurs souriants** apportent le courrier.
-- **ENT10-06** **Des maîtresses attentives** préparent la classe.
-- **ENT10-07** **Des lapins blancs** mangent des carottes.
-- **ENT10-08** **Des lampes rondes** éclairent la salle.
+- **Des chiens bruns** courent dans le jardin.
+- **Des tortues lentes** avancent lentement.
+- **Des bateaux blancs** quittent le port.
+- **Des voitures rouges** tournent à gauche.
+- **Des facteurs souriants** apportent le courrier.
+- **Des maîtresses attentives** préparent la classe.
+- **Des lapins blancs** mangent des carottes.
+- **Des lampes rondes** éclairent la salle.
 
 ## Évaluations
 
 
-### EVAL01
-
+### Évaluation 1
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL01-01** **Le chat** dort sur le tapis.
-- **EVAL01-02** **Les grandes lampes** éclairent la salle.
-- **EVAL01-03** **Ces petits lapins** mangent des carottes.
-- **EVAL01-04** **Les chats noirs** dorment sur le canapé.
-- **EVAL01-05** **Le vieux chêne** perd ses feuilles.
+- **Le chat** dort sur le tapis.
+- **Les grandes lampes** éclairent la salle.
+- **Ces petits lapins** mangent des carottes.
+- **Les chats noirs** dorment sur le canapé.
+- **Le vieux chêne** perd ses feuilles.
 
-### EVAL02
-
+### Évaluation 2
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL02-01** **La maîtresse** lit une histoire.
-- **EVAL02-02** **Ce facteur** apporte une lettre.
-- **EVAL02-03** **Ma voiture** tourne à droite.
-- **EVAL02-04** **Les souris grises** se cachent dans le mur.
-- **EVAL02-05** **La jeune chèvre** saute la barrière.
+- **La maîtresse** lit une histoire.
+- **Ce facteur** apporte une lettre.
+- **Ma voiture** tourne à droite.
+- **Les souris grises** se cachent dans le mur.
+- **La jeune chèvre** saute la barrière.
 
-### EVAL03
-
+### Évaluation 3
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL03-01** **Les bateaux** quittent le port.
-- **EVAL03-02** **Ces tortues** avancent lentement.
-- **EVAL03-03** **Mes chiens** courent dans le jardin.
-- **EVAL03-04** **Les jeunes chiens** courent dans le jardin.
-- **EVAL03-05** **Les gros nuages** cachent le soleil.
+- **Les bateaux** quittent le port.
+- **Ces tortues** avancent lentement.
+- **Mes chiens** courent dans le jardin.
+- **Les jeunes chiens** courent dans le jardin.
+- **Les gros nuages** cachent le soleil.
 
-### EVAL04
-
+### Évaluation 4
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL04-01** **Cette souris** court le long du mur.
-- **EVAL04-02** **Mon chat** dort sur le tapis.
-- **EVAL04-03** **Mes grandes lampes** éclairent la salle.
-- **EVAL04-04** **Les tortues vertes** avancent lentement.
-- **EVAL04-05** **Les fleurs jaunes** poussent près du mur.
+- **Cette souris** court le long du mur.
+- **Mon chat** dort sur le tapis.
+- **Mes grandes lampes** éclairent la salle.
+- **Les tortues vertes** avancent lentement.
+- **Les fleurs jaunes** poussent près du mur.
 
-### EVAL05
-
+### Évaluation 5
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL05-01** **Ce petit lapin** mange une carotte.
-- **EVAL05-02** **Ma maîtresse** lit une histoire.
-- **EVAL05-03** **Un facteur souriant** apporte une lettre.
-- **EVAL05-04** **Les grands bateaux** quittent le port.
-- **EVAL05-05** **Le nouveau cartable** reste dans l’entrée.
+- **Ce petit lapin** mange une carotte.
+- **Ma maîtresse** lit une histoire.
+- **Un facteur souriant** apporte une lettre.
+- **Les grands bateaux** quittent le port.
+- **Le nouveau cartable** reste dans l’entrée.
 
-### EVAL06
-
+### Évaluation 6
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL06-01** **Ces voitures** tournent à gauche.
-- **EVAL06-02** **Mes bateaux** quittent le port.
-- **EVAL06-03** **Des tortues lentes** avancent lentement.
-- **EVAL06-04** **Les voitures bleues** tournent à gauche.
-- **EVAL06-05** **La petite cloche** sonne à midi.
+- **Ces voitures** tournent à gauche.
+- **Mes bateaux** quittent le port.
+- **Des tortues lentes** avancent lentement.
+- **Les voitures bleues** tournent à gauche.
+- **La petite cloche** sonne à midi.
 
-### EVAL07
-
+### Évaluation 7
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL07-01** **Mon chien** cherche sa balle.
-- **EVAL07-02** **Une souris grise** court le long du mur.
-- **EVAL07-03** **Le chat** dort sur le tapis.
-- **EVAL07-04** **Les nouveaux facteurs** apportent le courrier.
-- **EVAL07-05** **Les livres épais** tombent de l’étagère.
+- **Mon chien** cherche sa balle.
+- **Une souris grise** court le long du mur.
+- **Le chat** dort sur le tapis.
+- **Les nouveaux facteurs** apportent le courrier.
+- **Les livres épais** tombent de l’étagère.
 
-### EVAL08
-
+### Évaluation 8
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL08-01** **Ma grande lampe** éclaire la pièce.
-- **EVAL08-02** **Un petit lapin blanc** mange une carotte.
-- **EVAL08-03** **La maîtresse** lit une histoire.
-- **EVAL08-04** **Les maîtresses patientes** préparent la classe.
-- **EVAL08-05** **Les branches fines** bougent avec le vent.
+- **Ma grande lampe** éclaire la pièce.
+- **Un petit lapin blanc** mange une carotte.
+- **La maîtresse** lit une histoire.
+- **Les maîtresses patientes** préparent la classe.
+- **Les branches fines** bougent avec le vent.
 
-### EVAL09
-
+### Évaluation 9
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL09-01** **Mes facteurs** apportent le courrier.
-- **EVAL09-02** **Des voitures rouges** tournent à gauche.
-- **EVAL09-03** **Les bateaux** quittent le port.
-- **EVAL09-04** **Les jeunes lapins** mangent des carottes.
-- **EVAL09-05** **Le ballon rouge** roule sous la table.
+- **Mes facteurs** apportent le courrier.
+- **Des voitures rouges** tournent à gauche.
+- **Les bateaux** quittent le port.
+- **Les jeunes lapins** mangent des carottes.
+- **Le ballon rouge** roule sous la table.
 
-### EVAL10
-
+### Évaluation 10
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **EVAL10-01** **Une tortue lente** avance lentement.
-- **EVAL10-02** **Le chien** cherche sa balle.
-- **EVAL10-03** **Cette souris** court le long du mur.
-- **EVAL10-04** **Les lampes neuves** éclairent la salle.
-- **EVAL10-05** **La veste bleue** sèche au soleil.
+- **Une tortue lente** avance lentement.
+- **Le chien** cherche sa balle.
+- **Cette souris** court le long du mur.
+- **Les lampes neuves** éclairent la salle.
+- **La veste bleue** sèche au soleil.
 
 ## Devoirs
 
 
-### DEV01
-
+### Devoir 1
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV01-01** **Le chat** dort sur le tapis.
-- **DEV01-02** **La maîtresse** lit une histoire.
-- **DEV01-03** **Les bateaux** quittent le port.
-- **DEV01-04** **Cette souris** court le long du mur.
-- **DEV01-05** **Ce petit lapin** mange une carotte.
+- **Le chat** dort sur le tapis.
+- **La maîtresse** lit une histoire.
+- **Les bateaux** quittent le port.
+- **Cette souris** court le long du mur.
+- **Ce petit lapin** mange une carotte.
 
-### DEV02
-
+### Devoir 2
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV02-01** **La tortue** avance lentement.
-- **DEV02-02** **Les chats** dorment sur le canapé.
-- **DEV02-03** **Les maîtresses** préparent la classe.
-- **DEV02-04** **Ce bateau** quitte le port.
-- **DEV02-05** **Ces souris** se cachent dans le mur.
+- **La tortue** avance lentement.
+- **Les chats** dorment sur le canapé.
+- **Les maîtresses** préparent la classe.
+- **Ce bateau** quitte le port.
+- **Ces souris** se cachent dans le mur.
 
-### DEV03
-
+### Devoir 3
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV03-01** **Le facteur** apporte une lettre.
-- **DEV03-02** **Les tortues** avancent lentement.
-- **DEV03-03** **Ce chat** dort sur le tapis.
-- **DEV03-04** **Cette maîtresse** lit une histoire.
-- **DEV03-05** **Le chien** cherche sa balle.
+- **Le facteur** apporte une lettre.
+- **Les tortues** avancent lentement.
+- **Ce chat** dort sur le tapis.
+- **Cette maîtresse** lit une histoire.
+- **Le chien** cherche sa balle.
 
-### DEV04
-
+### Devoir 4
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV04-01** **La grande lampe** éclaire la pièce.
-- **DEV04-02** **Les facteurs** apportent le courrier.
-- **DEV04-03** **Cette tortue** avance lentement.
-- **DEV04-04** **Ces chats** dorment sur le canapé.
-- **DEV04-05** **La voiture** tourne à droite.
+- **La grande lampe** éclaire la pièce.
+- **Les facteurs** apportent le courrier.
+- **Cette tortue** avance lentement.
+- **Ces chats** dorment sur le canapé.
+- **La voiture** tourne à droite.
 
-### DEV05
-
+### Devoir 5
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV05-01** **Les chiens** courent dans le jardin.
-- **DEV05-02** **Les grandes lampes** éclairent la salle.
-- **DEV05-03** **Ce facteur** apporte une lettre.
-- **DEV05-04** **La souris** court le long du mur.
-- **DEV05-05** **Le petit lapin** mange une carotte.
+- **Les chiens** courent dans le jardin.
+- **Les grandes lampes** éclairent la salle.
+- **Ce facteur** apporte une lettre.
+- **La souris** court le long du mur.
+- **Le petit lapin** mange une carotte.
 
-### DEV06
-
+### Devoir 6
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV06-01** **Les voitures** tournent à gauche.
-- **DEV06-02** **Ce chien** cherche sa balle.
-- **DEV06-03** **Cette grande lampe** éclaire la pièce.
-- **DEV06-04** **Le bateau** quitte le port.
-- **DEV06-05** **Les souris** se cachent dans le mur.
+- **Les voitures** tournent à gauche.
+- **Ce chien** cherche sa balle.
+- **Cette grande lampe** éclaire la pièce.
+- **Le bateau** quitte le port.
+- **Les souris** se cachent dans le mur.
 
-### DEV07
-
+### Devoir 7
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV07-01** **Les petits lapins** mangent des carottes.
-- **DEV07-02** **Cette voiture** tourne à droite.
-- **DEV07-03** **Le chat** dort sur le tapis.
-- **DEV07-04** **La maîtresse** lit une histoire.
-- **DEV07-05** **Les bateaux** quittent le port.
+- **Les petits lapins** mangent des carottes.
+- **Cette voiture** tourne à droite.
+- **Le chat** dort sur le tapis.
+- **La maîtresse** lit une histoire.
+- **Les bateaux** quittent le port.
 
-### DEV08
-
+### Devoir 8
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV08-01** **Cette souris** court le long du mur.
-- **DEV08-02** **Ce petit lapin** mange une carotte.
-- **DEV08-03** **La tortue** avance lentement.
-- **DEV08-04** **Les chats** dorment sur le canapé.
-- **DEV08-05** **Les maîtresses** préparent la classe.
+- **Cette souris** court le long du mur.
+- **Ce petit lapin** mange une carotte.
+- **La tortue** avance lentement.
+- **Les chats** dorment sur le canapé.
+- **Les maîtresses** préparent la classe.
 
-### DEV09
-
+### Devoir 9
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV09-01** **Ce bateau** quitte le port.
-- **DEV09-02** **Ces souris** se cachent dans le mur.
-- **DEV09-03** **Le facteur** apporte une lettre.
-- **DEV09-04** **Les tortues** avancent lentement.
-- **DEV09-05** **Ce chat** dort sur le tapis.
+- **Ce bateau** quitte le port.
+- **Ces souris** se cachent dans le mur.
+- **Le facteur** apporte une lettre.
+- **Les tortues** avancent lentement.
+- **Ce chat** dort sur le tapis.
 
-### DEV10
-
+### Devoir 10
 Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, elle, ils ou elles.
 
-- **DEV10-01** **Cette maîtresse** lit une histoire.
-- **DEV10-02** **Le chien** cherche sa balle.
-- **DEV10-03** **La grande lampe** éclaire la pièce.
-- **DEV10-04** **Les facteurs** apportent le courrier.
-- **DEV10-05** **Cette tortue** avance lentement.
+- **Cette maîtresse** lit une histoire.
+- **Le chien** cherche sa balle.
+- **La grande lampe** éclaire la pièce.
+- **Les facteurs** apportent le courrier.
+- **Cette tortue** avance lentement.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — Il dort sur le tapis.
-2. **IMM02** — Elle court le long du mur.
-3. **IMM03** — Il cherche sa balle.
-4. **IMM04** — Elle avance lentement.
-5. **IMM05** — Il quitte le port.
-6. **IMM06** — Elle tourne à droite.
-7. **IMM07** — Il apporte une lettre.
+1. — Il dort sur le tapis.
+2. — Elle court le long du mur.
+3. — Il cherche sa balle.
+4. — Elle avance lentement.
+5. — Il quitte le port.
+6. — Elle tourne à droite.
+7. — Il apporte une lettre.
 
 ### Corrections des entraînements
 
 
-#### ENT01
-1. **ENT01-01** — Il dort sur le tapis.
-2. **ENT01-02** — Elle court le long du mur.
-3. **ENT01-03** — Il cherche sa balle.
-4. **ENT01-04** — Elle avance lentement.
-5. **ENT01-05** — Il quitte le port.
-6. **ENT01-06** — Elle tourne à droite.
-7. **ENT01-07** — Il apporte une lettre.
-8. **ENT01-08** — Elle lit une histoire.
+#### Entraînement 11. **ENT01-01** — Il dort sur le tapis.
+2. — Elle court le long du mur.
+3. — Il cherche sa balle.
+4. — Elle avance lentement.
+5. — Il quitte le port.
+6. — Elle tourne à droite.
+7. — Il apporte une lettre.
+8. — Elle lit une histoire.
 
-#### ENT02
-1. **ENT02-01** — Il mange une carotte.
-2. **ENT02-02** — Elle éclaire la pièce.
-3. **ENT02-03** — Ils dorment sur le canapé.
-4. **ENT02-04** — Elles se cachent dans le mur.
-5. **ENT02-05** — Ils courent dans le jardin.
-6. **ENT02-06** — Elles avancent lentement.
-7. **ENT02-07** — Ils quittent le port.
-8. **ENT02-08** — Elles tournent à gauche.
+#### Entraînement 21. **ENT02-01** — Il mange une carotte.
+2. — Elle éclaire la pièce.
+3. — Ils dorment sur le canapé.
+4. — Elles se cachent dans le mur.
+5. — Ils courent dans le jardin.
+6. — Elles avancent lentement.
+7. — Ils quittent le port.
+8. — Elles tournent à gauche.
 
-#### ENT03
-1. **ENT03-01** — Ils apportent le courrier.
-2. **ENT03-02** — Elles préparent la classe.
-3. **ENT03-03** — Ils mangent des carottes.
-4. **ENT03-04** — Elles éclairent la salle.
-5. **ENT03-05** — Il dort sur le tapis.
-6. **ENT03-06** — Elle court le long du mur.
-7. **ENT03-07** — Il cherche sa balle.
-8. **ENT03-08** — Elle avance lentement.
+#### Entraînement 31. **ENT03-01** — Ils apportent le courrier.
+2. — Elles préparent la classe.
+3. — Ils mangent des carottes.
+4. — Elles éclairent la salle.
+5. — Il dort sur le tapis.
+6. — Elle court le long du mur.
+7. — Il cherche sa balle.
+8. — Elle avance lentement.
 
-#### ENT04
-1. **ENT04-01** — Il quitte le port.
-2. **ENT04-02** — Elle tourne à droite.
-3. **ENT04-03** — Il apporte une lettre.
-4. **ENT04-04** — Elle lit une histoire.
-5. **ENT04-05** — Il mange une carotte.
-6. **ENT04-06** — Elle éclaire la pièce.
-7. **ENT04-07** — Ils dorment sur le canapé.
-8. **ENT04-08** — Elles se cachent dans le mur.
+#### Entraînement 41. **ENT04-01** — Il quitte le port.
+2. — Elle tourne à droite.
+3. — Il apporte une lettre.
+4. — Elle lit une histoire.
+5. — Il mange une carotte.
+6. — Elle éclaire la pièce.
+7. — Ils dorment sur le canapé.
+8. — Elles se cachent dans le mur.
 
-#### ENT05
-1. **ENT05-01** — Ils courent dans le jardin.
-2. **ENT05-02** — Elles avancent lentement.
-3. **ENT05-03** — Ils quittent le port.
-4. **ENT05-04** — Elles tournent à gauche.
-5. **ENT05-05** — Ils apportent le courrier.
-6. **ENT05-06** — Elles préparent la classe.
-7. **ENT05-07** — Ils mangent des carottes.
-8. **ENT05-08** — Elles éclairent la salle.
+#### Entraînement 51. **ENT05-01** — Ils courent dans le jardin.
+2. — Elles avancent lentement.
+3. — Ils quittent le port.
+4. — Elles tournent à gauche.
+5. — Ils apportent le courrier.
+6. — Elles préparent la classe.
+7. — Ils mangent des carottes.
+8. — Elles éclairent la salle.
 
-#### ENT06
-1. **ENT06-01** — Il dort sur le tapis.
-2. **ENT06-02** — Elle court le long du mur.
-3. **ENT06-03** — Il cherche sa balle.
-4. **ENT06-04** — Elle avance lentement.
-5. **ENT06-05** — Il quitte le port.
-6. **ENT06-06** — Elle tourne à droite.
-7. **ENT06-07** — Il apporte une lettre.
-8. **ENT06-08** — Elle lit une histoire.
+#### Entraînement 61. **ENT06-01** — Il dort sur le tapis.
+2. — Elle court le long du mur.
+3. — Il cherche sa balle.
+4. — Elle avance lentement.
+5. — Il quitte le port.
+6. — Elle tourne à droite.
+7. — Il apporte une lettre.
+8. — Elle lit une histoire.
 
-#### ENT07
-1. **ENT07-01** — Il mange une carotte.
-2. **ENT07-02** — Elle éclaire la pièce.
-3. **ENT07-03** — Ils dorment sur le canapé.
-4. **ENT07-04** — Elles se cachent dans le mur.
-5. **ENT07-05** — Ils courent dans le jardin.
-6. **ENT07-06** — Elles avancent lentement.
-7. **ENT07-07** — Ils quittent le port.
-8. **ENT07-08** — Elles tournent à gauche.
+#### Entraînement 71. **ENT07-01** — Il mange une carotte.
+2. — Elle éclaire la pièce.
+3. — Ils dorment sur le canapé.
+4. — Elles se cachent dans le mur.
+5. — Ils courent dans le jardin.
+6. — Elles avancent lentement.
+7. — Ils quittent le port.
+8. — Elles tournent à gauche.
 
-#### ENT08
-1. **ENT08-01** — Ils apportent le courrier.
-2. **ENT08-02** — Elles préparent la classe.
-3. **ENT08-03** — Ils mangent des carottes.
-4. **ENT08-04** — Elles éclairent la salle.
-5. **ENT08-05** — Il dort sur le tapis.
-6. **ENT08-06** — Elle court le long du mur.
-7. **ENT08-07** — Il cherche sa balle.
-8. **ENT08-08** — Elle avance lentement.
+#### Entraînement 81. **ENT08-01** — Ils apportent le courrier.
+2. — Elles préparent la classe.
+3. — Ils mangent des carottes.
+4. — Elles éclairent la salle.
+5. — Il dort sur le tapis.
+6. — Elle court le long du mur.
+7. — Il cherche sa balle.
+8. — Elle avance lentement.
 
-#### ENT09
-1. **ENT09-01** — Il quitte le port.
-2. **ENT09-02** — Elle tourne à droite.
-3. **ENT09-03** — Il apporte une lettre.
-4. **ENT09-04** — Elle lit une histoire.
-5. **ENT09-05** — Il mange une carotte.
-6. **ENT09-06** — Elle éclaire la pièce.
-7. **ENT09-07** — Ils dorment sur le canapé.
-8. **ENT09-08** — Elles se cachent dans le mur.
+#### Entraînement 91. **ENT09-01** — Il quitte le port.
+2. — Elle tourne à droite.
+3. — Il apporte une lettre.
+4. — Elle lit une histoire.
+5. — Il mange une carotte.
+6. — Elle éclaire la pièce.
+7. — Ils dorment sur le canapé.
+8. — Elles se cachent dans le mur.
 
-#### ENT10
-1. **ENT10-01** — Ils courent dans le jardin.
-2. **ENT10-02** — Elles avancent lentement.
-3. **ENT10-03** — Ils quittent le port.
-4. **ENT10-04** — Elles tournent à gauche.
-5. **ENT10-05** — Ils apportent le courrier.
-6. **ENT10-06** — Elles préparent la classe.
-7. **ENT10-07** — Ils mangent des carottes.
-8. **ENT10-08** — Elles éclairent la salle.
+#### Entraînement 101. **ENT10-01** — Ils courent dans le jardin.
+2. — Elles avancent lentement.
+3. — Ils quittent le port.
+4. — Elles tournent à gauche.
+5. — Ils apportent le courrier.
+6. — Elles préparent la classe.
+7. — Ils mangent des carottes.
+8. — Elles éclairent la salle.
 
 ### Corrections des évaluations
 
 
-#### EVAL01
-1. **EVAL01-01** — Il dort sur le tapis.
-2. **EVAL01-02** — Elles éclairent la salle.
-3. **EVAL01-03** — Ils mangent des carottes.
-4. **EVAL01-04** — Ils dorment sur le canapé.
-5. **EVAL01-05** — Il perd ses feuilles.
+#### Évaluation 11. **EVAL01-01** — Il dort sur le tapis.
+2. — Elles éclairent la salle.
+3. — Ils mangent des carottes.
+4. — Ils dorment sur le canapé.
+5. — Il perd ses feuilles.
 
-#### EVAL02
-1. **EVAL02-01** — Elle lit une histoire.
-2. **EVAL02-02** — Il apporte une lettre.
-3. **EVAL02-03** — Elle tourne à droite.
-4. **EVAL02-04** — Elles se cachent dans le mur.
-5. **EVAL02-05** — Elle saute la barrière.
+#### Évaluation 21. **EVAL02-01** — Elle lit une histoire.
+2. — Il apporte une lettre.
+3. — Elle tourne à droite.
+4. — Elles se cachent dans le mur.
+5. — Elle saute la barrière.
 
-#### EVAL03
-1. **EVAL03-01** — Ils quittent le port.
-2. **EVAL03-02** — Elles avancent lentement.
-3. **EVAL03-03** — Ils courent dans le jardin.
-4. **EVAL03-04** — Ils courent dans le jardin.
-5. **EVAL03-05** — Ils cachent le soleil.
+#### Évaluation 31. **EVAL03-01** — Ils quittent le port.
+2. — Elles avancent lentement.
+3. — Ils courent dans le jardin.
+4. — Ils courent dans le jardin.
+5. — Ils cachent le soleil.
 
-#### EVAL04
-1. **EVAL04-01** — Elle court le long du mur.
-2. **EVAL04-02** — Il dort sur le tapis.
-3. **EVAL04-03** — Elles éclairent la salle.
-4. **EVAL04-04** — Elles avancent lentement.
-5. **EVAL04-05** — Elles poussent près du mur.
+#### Évaluation 41. **EVAL04-01** — Elle court le long du mur.
+2. — Il dort sur le tapis.
+3. — Elles éclairent la salle.
+4. — Elles avancent lentement.
+5. — Elles poussent près du mur.
 
-#### EVAL05
-1. **EVAL05-01** — Il mange une carotte.
-2. **EVAL05-02** — Elle lit une histoire.
-3. **EVAL05-03** — Il apporte une lettre.
-4. **EVAL05-04** — Ils quittent le port.
-5. **EVAL05-05** — Il reste dans l’entrée.
+#### Évaluation 51. **EVAL05-01** — Il mange une carotte.
+2. — Elle lit une histoire.
+3. — Il apporte une lettre.
+4. — Ils quittent le port.
+5. — Il reste dans l’entrée.
 
-#### EVAL06
-1. **EVAL06-01** — Elles tournent à gauche.
-2. **EVAL06-02** — Ils quittent le port.
-3. **EVAL06-03** — Elles avancent lentement.
-4. **EVAL06-04** — Elles tournent à gauche.
-5. **EVAL06-05** — Elle sonne à midi.
+#### Évaluation 61. **EVAL06-01** — Elles tournent à gauche.
+2. — Ils quittent le port.
+3. — Elles avancent lentement.
+4. — Elles tournent à gauche.
+5. — Elle sonne à midi.
 
-#### EVAL07
-1. **EVAL07-01** — Il cherche sa balle.
-2. **EVAL07-02** — Elle court le long du mur.
-3. **EVAL07-03** — Il dort sur le tapis.
-4. **EVAL07-04** — Ils apportent le courrier.
-5. **EVAL07-05** — Ils tombent de l’étagère.
+#### Évaluation 71. **EVAL07-01** — Il cherche sa balle.
+2. — Elle court le long du mur.
+3. — Il dort sur le tapis.
+4. — Ils apportent le courrier.
+5. — Ils tombent de l’étagère.
 
-#### EVAL08
-1. **EVAL08-01** — Elle éclaire la pièce.
-2. **EVAL08-02** — Il mange une carotte.
-3. **EVAL08-03** — Elle lit une histoire.
-4. **EVAL08-04** — Elles préparent la classe.
-5. **EVAL08-05** — Elles bougent avec le vent.
+#### Évaluation 81. **EVAL08-01** — Elle éclaire la pièce.
+2. — Il mange une carotte.
+3. — Elle lit une histoire.
+4. — Elles préparent la classe.
+5. — Elles bougent avec le vent.
 
-#### EVAL09
-1. **EVAL09-01** — Ils apportent le courrier.
-2. **EVAL09-02** — Elles tournent à gauche.
-3. **EVAL09-03** — Ils quittent le port.
-4. **EVAL09-04** — Ils mangent des carottes.
-5. **EVAL09-05** — Il roule sous la table.
+#### Évaluation 91. **EVAL09-01** — Ils apportent le courrier.
+2. — Elles tournent à gauche.
+3. — Ils quittent le port.
+4. — Ils mangent des carottes.
+5. — Il roule sous la table.
 
-#### EVAL10
-1. **EVAL10-01** — Elle avance lentement.
-2. **EVAL10-02** — Il cherche sa balle.
-3. **EVAL10-03** — Elle court le long du mur.
-4. **EVAL10-04** — Elles éclairent la salle.
-5. **EVAL10-05** — Elle sèche au soleil.
+#### Évaluation 101. **EVAL10-01** — Elle avance lentement.
+2. — Il cherche sa balle.
+3. — Elle court le long du mur.
+4. — Elles éclairent la salle.
+5. — Elle sèche au soleil.
 
 ### Corrections des devoirs
 
 
-#### DEV01
-1. **DEV01-01** — Il dort sur le tapis.
-2. **DEV01-02** — Elle lit une histoire.
-3. **DEV01-03** — Ils quittent le port.
-4. **DEV01-04** — Elle court le long du mur.
-5. **DEV01-05** — Il mange une carotte.
+#### Devoir 11. **DEV01-01** — Il dort sur le tapis.
+2. — Elle lit une histoire.
+3. — Ils quittent le port.
+4. — Elle court le long du mur.
+5. — Il mange une carotte.
 
-#### DEV02
-1. **DEV02-01** — Elle avance lentement.
-2. **DEV02-02** — Ils dorment sur le canapé.
-3. **DEV02-03** — Elles préparent la classe.
-4. **DEV02-04** — Il quitte le port.
-5. **DEV02-05** — Elles se cachent dans le mur.
+#### Devoir 21. **DEV02-01** — Elle avance lentement.
+2. — Ils dorment sur le canapé.
+3. — Elles préparent la classe.
+4. — Il quitte le port.
+5. — Elles se cachent dans le mur.
 
-#### DEV03
-1. **DEV03-01** — Il apporte une lettre.
-2. **DEV03-02** — Elles avancent lentement.
-3. **DEV03-03** — Il dort sur le tapis.
-4. **DEV03-04** — Elle lit une histoire.
-5. **DEV03-05** — Il cherche sa balle.
+#### Devoir 31. **DEV03-01** — Il apporte une lettre.
+2. — Elles avancent lentement.
+3. — Il dort sur le tapis.
+4. — Elle lit une histoire.
+5. — Il cherche sa balle.
 
-#### DEV04
-1. **DEV04-01** — Elle éclaire la pièce.
-2. **DEV04-02** — Ils apportent le courrier.
-3. **DEV04-03** — Elle avance lentement.
-4. **DEV04-04** — Ils dorment sur le canapé.
-5. **DEV04-05** — Elle tourne à droite.
+#### Devoir 41. **DEV04-01** — Elle éclaire la pièce.
+2. — Ils apportent le courrier.
+3. — Elle avance lentement.
+4. — Ils dorment sur le canapé.
+5. — Elle tourne à droite.
 
-#### DEV05
-1. **DEV05-01** — Ils courent dans le jardin.
-2. **DEV05-02** — Elles éclairent la salle.
-3. **DEV05-03** — Il apporte une lettre.
-4. **DEV05-04** — Elle court le long du mur.
-5. **DEV05-05** — Il mange une carotte.
+#### Devoir 51. **DEV05-01** — Ils courent dans le jardin.
+2. — Elles éclairent la salle.
+3. — Il apporte une lettre.
+4. — Elle court le long du mur.
+5. — Il mange une carotte.
 
-#### DEV06
-1. **DEV06-01** — Elles tournent à gauche.
-2. **DEV06-02** — Il cherche sa balle.
-3. **DEV06-03** — Elle éclaire la pièce.
-4. **DEV06-04** — Il quitte le port.
-5. **DEV06-05** — Elles se cachent dans le mur.
+#### Devoir 61. **DEV06-01** — Elles tournent à gauche.
+2. — Il cherche sa balle.
+3. — Elle éclaire la pièce.
+4. — Il quitte le port.
+5. — Elles se cachent dans le mur.
 
-#### DEV07
-1. **DEV07-01** — Ils mangent des carottes.
-2. **DEV07-02** — Elle tourne à droite.
-3. **DEV07-03** — Il dort sur le tapis.
-4. **DEV07-04** — Elle lit une histoire.
-5. **DEV07-05** — Ils quittent le port.
+#### Devoir 71. **DEV07-01** — Ils mangent des carottes.
+2. — Elle tourne à droite.
+3. — Il dort sur le tapis.
+4. — Elle lit une histoire.
+5. — Ils quittent le port.
 
-#### DEV08
-1. **DEV08-01** — Elle court le long du mur.
-2. **DEV08-02** — Il mange une carotte.
-3. **DEV08-03** — Elle avance lentement.
-4. **DEV08-04** — Ils dorment sur le canapé.
-5. **DEV08-05** — Elles préparent la classe.
+#### Devoir 81. **DEV08-01** — Elle court le long du mur.
+2. — Il mange une carotte.
+3. — Elle avance lentement.
+4. — Ils dorment sur le canapé.
+5. — Elles préparent la classe.
 
-#### DEV09
-1. **DEV09-01** — Il quitte le port.
-2. **DEV09-02** — Elles se cachent dans le mur.
-3. **DEV09-03** — Il apporte une lettre.
-4. **DEV09-04** — Elles avancent lentement.
-5. **DEV09-05** — Il dort sur le tapis.
+#### Devoir 91. **DEV09-01** — Il quitte le port.
+2. — Elles se cachent dans le mur.
+3. — Il apporte une lettre.
+4. — Elles avancent lentement.
+5. — Il dort sur le tapis.
 
-#### DEV10
-1. **DEV10-01** — Elle lit une histoire.
-2. **DEV10-02** — Il cherche sa balle.
-3. **DEV10-03** — Elle éclaire la pièce.
-4. **DEV10-04** — Ils apportent le courrier.
-5. **DEV10-05** — Elle avance lentement.
+#### Devoir 101. **DEV10-01** — Elle lit une histoire.
+2. — Il cherche sa balle.
+3. — Elle éclaire la pièce.
+4. — Ils apportent le courrier.
+5. — Elle avance lentement.
 
 ## Traçabilité des évaluations et devoirs
 

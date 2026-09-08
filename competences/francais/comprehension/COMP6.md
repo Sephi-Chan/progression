@@ -52,8 +52,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** **Adapté de Jean de La Fontaine, *Le Lion et le Rat*, livre II, fable 11 (texte modernisé et abrégé).** Le rat arrive près de la bête prisonnière. Il ronge le filet pour la libérer.
 - **Source de consultation :** Bibliothèque nationale de France, Catalogue général/Gallica, Jean de La Fontaine, *Fables choisies, mises en vers par M. de La Fontaine*, édition H. Charpentier, 1709, [notice bibliographique exacte](https://catalogue.bnf.fr/ark:/12148/cb307158188).
 - **Question :** Qui est remplacé par « Il » ?
@@ -62,8 +61,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** le rat.
 - **Contrôle final :** La réponse est confrontée mot à mot au support.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** « À midi, la tasse est posée sur la table. Elle est encore chaude. »
 - **Question :** Que remplace « Elle » ?
 - **Attention :** L'enseignant demande : « Que cherchons-nous ? Quels mots du texte nous aident ? »
@@ -71,8 +69,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** la tasse.
 - **Contrôle final :** La classe vérifie que la réponse utilise bien l'indice retenu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** « À midi, le chien suit les poules, puis elles entrent dans le poulailler. »
 - **Question :** Que remplace « elles » ?
 - **Attention :** Les élèves choisissent les indices ; l'enseignant ne relance qu'avec : « Comment peux-tu le vérifier ? »
@@ -84,25 +81,25 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Textes créés pour l'exercice.*
 
-1. **IMM01** « Avant la récréation, la tasse est posée sur la table. Elle est encore chaude. »
+1. « Avant la récréation, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **IMM02** « Avant la récréation, le chien suit les poules, puis elles entrent dans le poulailler. »
+2. « Avant la récréation, le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-3. **IMM03** « Avant la récréation, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
+3. « Avant la récréation, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-4. **IMM04** « Avant la récréation, les enfants trouvent des billes. Ils les comptent. »
+4. « Avant la récréation, les enfants trouvent des billes. Ils les comptent. »
    Que remplace « les » ?
 
-5. **IMM05** « Avant la récréation, Nora ferme les volets. Ils grincent un peu. »
+5. « Avant la récréation, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-6. **IMM06** « Avant la récréation, Adam prend ses gants et les range dans sa poche. »
+6. « Avant la récréation, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-7. **IMM07** « Avant la récréation, le renard observe la poule. Il reste derrière la haie. »
+7. « Avant la récréation, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
 ## Variables didactiques
@@ -115,901 +112,841 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Tous les supports de cette section sont des textes créés pour l'exercice. La consigne reste : « Lis le petit texte. Réponds à la question et vérifie dans le texte. »*
 
-### ENT01
-
-1. **ENT01-01** « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
+### Entraînement 1
+1. « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **ENT01-02** « Lundi matin, le chien suit les poules, puis elles entrent dans le poulailler. »
+2. « Lundi matin, le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-3. **ENT01-03** « Lundi matin, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
+3. « Lundi matin, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-4. **ENT01-04** « Lundi matin, les enfants trouvent des billes. Ils les comptent. »
+4. « Lundi matin, les enfants trouvent des billes. Ils les comptent. »
    Que remplace « les » ?
 
-5. **ENT01-05** « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
+5. « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-6. **ENT01-06** « Lundi matin, Adam prend ses gants et les range dans sa poche. »
+6. « Lundi matin, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-7. **ENT01-07** « Lundi matin, le renard observe la poule. Il reste derrière la haie. »
+7. « Lundi matin, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-8. **ENT01-08** « Lundi matin, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+8. « Lundi matin, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-### ENT02
-
-1. **ENT02-01** « Lundi matin, Maya cueille une poire et la dépose dans le panier. »
+### Entraînement 2
+1. « Lundi matin, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-2. **ENT02-02** « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
+2. « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **ENT02-03** « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
+3. « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-4. **ENT02-04** « Après le déjeuner, le chien suit les poules, puis elles entrent dans le poulailler. »
+4. « Après le déjeuner, le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-5. **ENT02-05** « Après le déjeuner, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
+5. « Après le déjeuner, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-6. **ENT02-06** « Après le déjeuner, les enfants trouvent des billes. Ils les comptent. »
+6. « Après le déjeuner, les enfants trouvent des billes. Ils les comptent. »
    Que remplace « les » ?
 
-7. **ENT02-07** « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
+7. « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-8. **ENT02-08** « Après le déjeuner, Adam prend ses gants et les range dans sa poche. »
+8. « Après le déjeuner, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-### ENT03
-
-1. **ENT03-01** « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
+### Entraînement 3
+1. « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-2. **ENT03-02** « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+2. « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-3. **ENT03-03** « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
+3. « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **ENT03-04** « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
+4. « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-5. **ENT03-05** « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
+5. « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-6. **ENT03-06** « À la tombée du soir, le chien suit les poules, puis elles entrent dans le poulailler. »
+6. « À la tombée du soir, le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-7. **ENT03-07** « À la tombée du soir, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
+7. « À la tombée du soir, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-8. **ENT03-08** « À la tombée du soir, les enfants trouvent des billes. Ils les comptent. »
+8. « À la tombée du soir, les enfants trouvent des billes. Ils les comptent. »
    Que remplace « les » ?
 
-### ENT04
-
-1. **ENT04-01** « À la tombée du soir, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
+### Entraînement 4
+1. « À la tombée du soir, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-2. **ENT04-02** « À la tombée du soir, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
+2. « À la tombée du soir, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-3. **ENT04-03** « À la tombée du soir, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
+3. « À la tombée du soir, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-4. **ENT04-04** « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
+4. « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **ENT04-05** « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+5. « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-6. **ENT04-06** « À la tombée du soir, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
+6. « À la tombée du soir, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-7. **ENT04-07** « Mercredi après-midi, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
+7. « Mercredi après-midi, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-8. **ENT04-08** « Mercredi après-midi, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
+8. « Mercredi après-midi, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-### ENT05
-
-1. **ENT05-01** « Mercredi après-midi, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
+### Entraînement 5
+1. « Mercredi après-midi, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-2. **ENT05-02** « Mercredi après-midi, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
+2. « Mercredi après-midi, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
    Que remplace « les » ?
 
-3. **ENT05-03** « Mercredi après-midi, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
+3. « Mercredi après-midi, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-4. **ENT05-04** « Mercredi après-midi, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
+4. « Mercredi après-midi, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **ENT05-05** « Mercredi après-midi, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
+5. « Mercredi après-midi, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-6. **ENT05-06** « Mercredi après-midi, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
+6. « Mercredi après-midi, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-7. **ENT05-07** « Mercredi après-midi, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+7. « Mercredi après-midi, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-8. **ENT05-08** « Mercredi après-midi, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
+8. « Mercredi après-midi, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-### ENT06
-
-1. **ENT06-01** « Avant la récréation, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
+### Entraînement 6
+1. « Avant la récréation, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **ENT06-02** « Avant la récréation, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
+2. « Avant la récréation, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-3. **ENT06-03** « Avant la récréation, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
+3. « Avant la récréation, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-4. **ENT06-04** « Avant la récréation, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
+4. « Avant la récréation, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
    Que remplace « les » ?
 
-5. **ENT06-05** « Avant la récréation, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
+5. « Avant la récréation, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-6. **ENT06-06** « Avant la récréation, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
+6. « Avant la récréation, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-7. **ENT06-07** « Avant la récréation, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
+7. « Avant la récréation, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-8. **ENT06-08** « Avant la récréation, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
+8. « Avant la récréation, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-### ENT07
-
-1. **ENT07-01** « Avant la récréation, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+### Entraînement 7
+1. « Avant la récréation, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-2. **ENT07-02** « Avant la récréation, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
+2. « Avant la récréation, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **ENT07-03** « Un matin d'hiver, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
+3. « Un matin d'hiver, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-4. **ENT07-04** « Un matin d'hiver, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
+4. « Un matin d'hiver, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-5. **ENT07-05** « Un matin d'hiver, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
+5. « Un matin d'hiver, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-6. **ENT07-06** « Un matin d'hiver, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
+6. « Un matin d'hiver, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
    Que remplace « les » ?
 
-7. **ENT07-07** « Un matin d'hiver, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
+7. « Un matin d'hiver, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-8. **ENT07-08** « Un matin d'hiver, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
+8. « Un matin d'hiver, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-### ENT08
-
-1. **ENT08-01** « Un matin d'hiver, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
+### Entraînement 8
+1. « Un matin d'hiver, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-2. **ENT08-02** « Un matin d'hiver, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
+2. « Un matin d'hiver, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-3. **ENT08-03** « Un matin d'hiver, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
+3. « Un matin d'hiver, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **ENT08-04** « Un matin d'hiver, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
+4. « Un matin d'hiver, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-5. **ENT08-05** « À midi, la tasse est posée sur la table. Tout semble calme. Rien ne bouge. Elle est encore chaude. »
+5. « À midi, la tasse est posée sur la table. Tout semble calme. Rien ne bouge. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-6. **ENT08-06** « À midi, Tout semble calme. Rien ne bouge. Le chien suit les poules, puis elles entrent dans le poulailler. »
+6. « À midi, Tout semble calme. Rien ne bouge. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-7. **ENT08-07** « À midi, le facteur tend la lettre à Zoé. Tout semble calme. Rien ne bouge. Elle la lit aussitôt. »
+7. « À midi, le facteur tend la lettre à Zoé. Tout semble calme. Rien ne bouge. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-8. **ENT08-08** « À midi, les enfants trouvent des billes. Tout semble calme. Rien ne bouge. Ils les comptent. »
+8. « À midi, les enfants trouvent des billes. Tout semble calme. Rien ne bouge. Ils les comptent. »
    Que remplace « les » ?
 
-### ENT09
-
-1. **ENT09-01** « À midi, Nora ferme les volets. Tout semble calme. Rien ne bouge. Ils grincent un peu. »
+### Entraînement 9
+1. « À midi, Nora ferme les volets. Tout semble calme. Rien ne bouge. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-2. **ENT09-02** « À midi, Tout semble calme. Rien ne bouge. Adam prend ses gants et les range dans sa poche. »
+2. « À midi, Tout semble calme. Rien ne bouge. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-3. **ENT09-03** « À midi, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
+3. « À midi, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-4. **ENT09-04** « À midi, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
+4. « À midi, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **ENT09-05** « À midi, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
+5. « À midi, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-6. **ENT09-06** « À midi, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
+6. « À midi, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-7. **ENT09-07** « Samedi matin, la tasse est posée sur la table. Tout semble calme. Rien ne bouge. Elle est encore chaude. »
+7. « Samedi matin, la tasse est posée sur la table. Tout semble calme. Rien ne bouge. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-8. **ENT09-08** « Samedi matin, Tout semble calme. Rien ne bouge. Le chien suit les poules, puis elles entrent dans le poulailler. »
+8. « Samedi matin, Tout semble calme. Rien ne bouge. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-### ENT10
-
-1. **ENT10-01** « Samedi matin, le facteur tend la lettre à Zoé. Tout semble calme. Rien ne bouge. Elle la lit aussitôt. »
+### Entraînement 10
+1. « Samedi matin, le facteur tend la lettre à Zoé. Tout semble calme. Rien ne bouge. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-2. **ENT10-02** « Samedi matin, les enfants trouvent des billes. Tout semble calme. Rien ne bouge. Ils les comptent. »
+2. « Samedi matin, les enfants trouvent des billes. Tout semble calme. Rien ne bouge. Ils les comptent. »
    Que remplace « les » ?
 
-3. **ENT10-03** « Samedi matin, Nora ferme les volets. Tout semble calme. Rien ne bouge. Ils grincent un peu. »
+3. « Samedi matin, Nora ferme les volets. Tout semble calme. Rien ne bouge. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-4. **ENT10-04** « Samedi matin, Tout semble calme. Rien ne bouge. Adam prend ses gants et les range dans sa poche. »
+4. « Samedi matin, Tout semble calme. Rien ne bouge. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **ENT10-05** « Samedi matin, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
+5. « Samedi matin, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-6. **ENT10-06** « Samedi matin, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
+6. « Samedi matin, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-7. **ENT10-07** « Samedi matin, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
+7. « Samedi matin, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-8. **ENT10-08** « Samedi matin, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
+8. « Samedi matin, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
    Que remplace « le » ?
 
 ## Évaluations
 
 *Tous les supports sont créés pour l'exercice. Chaque forme comporte quatre items déjà entraînés et un item nouveau isomorphe ; les dix formes échantillonnent les mêmes niveaux de difficulté.*
 
-### EVAL01
-
-1. **EVAL01-01** « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
+### Évaluation 1
+1. « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-2. **EVAL01-02** « Mercredi après-midi, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
+2. « Mercredi après-midi, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
    Que remplace « les » ?
 
-3. **EVAL01-03** « Un matin d'hiver, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
+3. « Un matin d'hiver, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-4. **EVAL01-04** « À midi, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
+4. « À midi, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **EVAL01-05** « La loupe est posée sur le journal. Elle grossit les lettres. »
+5. « La loupe est posée sur le journal. Elle grossit les lettres. »
    Que remplace « Elle » ?
 
-### EVAL02
-
-1. **EVAL02-01** « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+### Évaluation 2
+1. « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-2. **EVAL02-02** « Mercredi après-midi, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
+2. « Mercredi après-midi, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-3. **EVAL02-03** « Un matin d'hiver, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
+3. « Un matin d'hiver, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-4. **EVAL02-04** « À midi, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
+4. « À midi, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-5. **EVAL02-05** « Le coffre est fermé. Il contient les jeux. »
+5. « Le coffre est fermé. Il contient les jeux. »
    Que remplace « Il » ?
 
-### EVAL03
-
-1. **EVAL03-01** « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
+### Évaluation 3
+1. « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-2. **EVAL03-02** « Mercredi après-midi, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
+2. « Mercredi après-midi, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-3. **EVAL03-03** « Un matin d'hiver, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
+3. « Un matin d'hiver, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-4. **EVAL03-04** « À midi, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
+4. « À midi, Émile montre le plan à Lou. Tout semble calme. Rien ne bouge. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-5. **EVAL03-05** « Eva lave les fraises, puis elle les coupe. »
+5. « Eva lave les fraises, puis elle les coupe. »
    Que remplace « les » ?
 
-### EVAL04
-
-1. **EVAL04-01** « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
+### Évaluation 4
+1. « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-2. **EVAL04-02** « Mercredi après-midi, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
+2. « Mercredi après-midi, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-3. **EVAL04-03** « Un matin d'hiver, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
+3. « Un matin d'hiver, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
    Que remplace « les » ?
 
-4. **EVAL04-04** « Samedi matin, la tasse est posée sur la table. Tout semble calme. Rien ne bouge. Elle est encore chaude. »
+4. « Samedi matin, la tasse est posée sur la table. Tout semble calme. Rien ne bouge. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-5. **EVAL04-05** « Ali montre la photo à Ana. Elle la range dans l'album. »
+5. « Ali montre la photo à Ana. Elle la range dans l'album. »
    Que remplace « la » ?
 
-### EVAL05
-
-1. **EVAL05-01** « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
+### Évaluation 5
+1. « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **EVAL05-02** « Mercredi après-midi, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
+2. « Mercredi après-midi, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-3. **EVAL05-03** « Un matin d'hiver, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
+3. « Un matin d'hiver, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-4. **EVAL05-04** « Samedi matin, Tout semble calme. Rien ne bouge. Le chien suit les poules, puis elles entrent dans le poulailler. »
+4. « Samedi matin, Tout semble calme. Rien ne bouge. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-5. **EVAL05-05** « Les chevaux approchent. Ils boivent dans l'abreuvoir. »
+5. « Les chevaux approchent. Ils boivent dans l'abreuvoir. »
    Que remplace « Ils » ?
 
-### EVAL06
-
-1. **EVAL06-01** « À la tombée du soir, le chien suit les poules, puis elles entrent dans le poulailler. »
+### Évaluation 6
+1. « À la tombée du soir, le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-2. **EVAL06-02** « Mercredi après-midi, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+2. « Mercredi après-midi, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-3. **EVAL06-03** « Un matin d'hiver, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
+3. « Un matin d'hiver, Tout semble calme. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-4. **EVAL06-04** « À midi, Nora ferme les volets. Tout semble calme. Rien ne bouge. Ils grincent un peu. »
+4. « À midi, Nora ferme les volets. Tout semble calme. Rien ne bouge. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-5. **EVAL06-05** « Mila prend les pinces et les pose sur l'établi. »
+5. « Mila prend les pinces et les pose sur l'établi. »
    Que remplace « les » ?
 
-### EVAL07
-
-1. **EVAL07-01** « À la tombée du soir, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
+### Évaluation 7
+1. « À la tombée du soir, le facteur tend la lettre à Zoé. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-2. **EVAL07-02** « Mercredi après-midi, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
+2. « Mercredi après-midi, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **EVAL07-03** « Avant la récréation, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+3. « Avant la récréation, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **EVAL07-04** « À midi, Tout semble calme. Rien ne bouge. Adam prend ses gants et les range dans sa poche. »
+4. « À midi, Tout semble calme. Rien ne bouge. Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **EVAL07-05** « Oscar observe la lune. Elle disparaît derrière un nuage. »
+5. « Oscar observe la lune. Elle disparaît derrière un nuage. »
    Que remplace « Elle » ?
 
-### EVAL08
-
-1. **EVAL08-01** « À la tombée du soir, les enfants trouvent des billes. Ils les comptent. »
+### Évaluation 8
+1. « À la tombée du soir, les enfants trouvent des billes. Ils les comptent. »
    Que remplace « les » ?
 
-2. **EVAL08-02** « Mercredi après-midi, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
+2. « Mercredi après-midi, le facteur tend la lettre à Zoé. Tout semble calme. Elle la lit aussitôt. »
    Que remplace « la » ?
 
-3. **EVAL08-03** « Avant la récréation, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
+3. « Avant la récréation, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-4. **EVAL08-04** « À midi, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
+4. « À midi, le renard observe la poule. Tout semble calme. Rien ne bouge. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-5. **EVAL08-05** « La boulangère donne les baguettes à Paul. Il les porte avec soin. »
+5. « La boulangère donne les baguettes à Paul. Il les porte avec soin. »
    Que remplace « les » ?
 
-### EVAL09
-
-1. **EVAL09-01** « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
+### Évaluation 9
+1. « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-2. **EVAL09-02** « Mercredi après-midi, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
+2. « Mercredi après-midi, les enfants trouvent des billes. Tout semble calme. Ils les comptent. »
    Que remplace « les » ?
 
-3. **EVAL09-03** « Un matin d'hiver, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
+3. « Un matin d'hiver, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-4. **EVAL09-04** « À midi, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
+4. « À midi, Malo porte un ballon sous le bras. Tout semble calme. Rien ne bouge. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **EVAL09-05** « Iris prend la boîte et la pose sur l'étagère. »
+5. « Iris prend la boîte et la pose sur l'étagère. »
    Que remplace « la » ?
 
-### EVAL10
-
-1. **EVAL10-01** « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+### Évaluation 10
+1. « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-2. **EVAL10-02** « Mercredi après-midi, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
+2. « Mercredi après-midi, Nora ferme les volets. Tout semble calme. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-3. **EVAL10-03** « Un matin d'hiver, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
+3. « Un matin d'hiver, Tout semble calme. Le chien suit les poules, puis elles entrent dans le poulailler. »
    Que remplace « elles » ?
 
-4. **EVAL10-04** « À midi, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
+4. « À midi, Tout semble calme. Rien ne bouge. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-5. **EVAL10-05** « Le manteau est posé sur la chaise. Il est encore mouillé. »
+5. « Le manteau est posé sur la chaise. Il est encore mouillé. »
    Que remplace « Il » ?
 
 ## Devoirs
 
 *Tous les supports sont créés pour l'exercice et reprennent uniquement ENT01 à ENT04. Même consigne, sans matériel particulier.*
 
-### DEV01
-
-1. **DEV01-01** « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 1
+1. « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV01-02** « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
+2. « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV01-03** « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
+3. « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV01-04** « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
+4. « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **DEV01-05** « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
+5. « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-### DEV02
-
-1. **DEV02-01** « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 2
+1. « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV02-02** « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
+2. « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV02-03** « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+3. « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV02-04** « Lundi matin, Adam prend ses gants et les range dans sa poche. »
+4. « Lundi matin, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **DEV02-05** « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
+5. « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-### DEV03
-
-1. **DEV03-01** « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 3
+1. « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV03-02** « À la tombée du soir, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
+2. « À la tombée du soir, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV03-03** « Lundi matin, le renard observe la poule. Il reste derrière la haie. »
+3. « Lundi matin, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-4. **DEV03-04** « Après le déjeuner, Adam prend ses gants et les range dans sa poche. »
+4. « Après le déjeuner, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **DEV03-05** « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
+5. « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-### DEV04
-
-1. **DEV04-01** « Mercredi après-midi, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
+### Devoir 4
+1. « Mercredi après-midi, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV04-02** « Lundi matin, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+2. « Lundi matin, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-3. **DEV04-03** « Lundi matin, Maya cueille une poire et la dépose dans le panier. »
+3. « Lundi matin, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV04-04** « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+4. « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **DEV04-05** « À la tombée du soir, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
+5. « À la tombée du soir, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-### DEV05
-
-1. **DEV05-01** « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 5
+1. « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV05-02** « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
+2. « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV05-03** « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
+3. « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV05-04** « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
+4. « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **DEV05-05** « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
+5. « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-### DEV06
-
-1. **DEV06-01** « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 6
+1. « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV06-02** « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
+2. « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV06-03** « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+3. « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV06-04** « Lundi matin, Adam prend ses gants et les range dans sa poche. »
+4. « Lundi matin, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **DEV06-05** « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
+5. « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-### DEV07
-
-1. **DEV07-01** « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 7
+1. « À la tombée du soir, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV07-02** « À la tombée du soir, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
+2. « À la tombée du soir, Émile montre le plan à Lou. Tout semble calme. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV07-03** « Lundi matin, le renard observe la poule. Il reste derrière la haie. »
+3. « Lundi matin, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-4. **DEV07-04** « Après le déjeuner, Adam prend ses gants et les range dans sa poche. »
+4. « Après le déjeuner, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **DEV07-05** « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
+5. « Après le déjeuner, le renard observe la poule. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-### DEV08
-
-1. **DEV08-01** « Mercredi après-midi, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
+### Devoir 8
+1. « Mercredi après-midi, la tasse est posée sur la table. Tout semble calme. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV08-02** « Lundi matin, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+2. « Lundi matin, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-3. **DEV08-03** « Lundi matin, Maya cueille une poire et la dépose dans le panier. »
+3. « Lundi matin, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV08-04** « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
+4. « Après le déjeuner, Malo porte un ballon sous le bras. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **DEV08-05** « À la tombée du soir, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
+5. « À la tombée du soir, le renard observe la poule. Tout semble calme. Il reste derrière la haie. »
    Que remplace « Il » ?
 
-### DEV09
-
-1. **DEV09-01** « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 9
+1. « Lundi matin, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV09-02** « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
+2. « Lundi matin, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV09-03** « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
+3. « Après le déjeuner, Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV09-04** « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
+4. « À la tombée du soir, Malo porte un ballon sous le bras. Tout semble calme. Il rejoint Yanis. »
    Que remplace « Il » ?
 
-5. **DEV09-05** « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
+5. « Lundi matin, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
-### DEV10
-
-1. **DEV10-01** « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
+### Devoir 10
+1. « Après le déjeuner, la tasse est posée sur la table. Elle est encore chaude. »
    Que remplace « Elle » ?
 
-2. **DEV10-02** « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
+2. « Après le déjeuner, Émile montre le plan à Lou. Elle le regarde attentivement. »
    Que remplace « le » ?
 
-3. **DEV10-03** « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
+3. « À la tombée du soir, Tout semble calme. Maya cueille une poire et la dépose dans le panier. »
    Que remplace « la » ?
 
-4. **DEV10-04** « Lundi matin, Adam prend ses gants et les range dans sa poche. »
+4. « Lundi matin, Adam prend ses gants et les range dans sa poche. »
    Que remplace « les » ?
 
-5. **DEV10-05** « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
+5. « Après le déjeuner, Nora ferme les volets. Ils grincent un peu. »
    Que remplace « Ils » ?
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** la tasse
-2. **IMM02** les poules
-3. **IMM03** la lettre
-4. **IMM04** les billes
-5. **IMM05** les volets
-6. **IMM06** ses gants
-7. **IMM07** le renard
+1. la tasse
+2. les poules
+3. la lettre
+4. les billes
+5. les volets
+6. ses gants
+7. le renard
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. la tasse
+2. les poules
+3. la lettre
+4. les billes
+5. les volets
+6. ses gants
+7. le renard
+8. Malo
 
-1. **ENT01-01** la tasse
-2. **ENT01-02** les poules
-3. **ENT01-03** la lettre
-4. **ENT01-04** les billes
-5. **ENT01-05** les volets
-6. **ENT01-06** ses gants
-7. **ENT01-07** le renard
-8. **ENT01-08** Malo
+#### Entraînement 2
+1. une poire
+2. le plan
+3. la tasse
+4. les poules
+5. la lettre
+6. les billes
+7. les volets
+8. ses gants
 
-#### ENT02
+#### Entraînement 3
+1. le renard
+2. Malo
+3. une poire
+4. le plan
+5. la tasse
+6. les poules
+7. la lettre
+8. les billes
 
-1. **ENT02-01** une poire
-2. **ENT02-02** le plan
-3. **ENT02-03** la tasse
-4. **ENT02-04** les poules
-5. **ENT02-05** la lettre
-6. **ENT02-06** les billes
-7. **ENT02-07** les volets
-8. **ENT02-08** ses gants
+#### Entraînement 4
+1. les volets
+2. ses gants
+3. le renard
+4. Malo
+5. une poire
+6. le plan
+7. la tasse
+8. les poules
 
-#### ENT03
+#### Entraînement 5
+1. la lettre
+2. les billes
+3. les volets
+4. ses gants
+5. le renard
+6. Malo
+7. une poire
+8. le plan
 
-1. **ENT03-01** le renard
-2. **ENT03-02** Malo
-3. **ENT03-03** une poire
-4. **ENT03-04** le plan
-5. **ENT03-05** la tasse
-6. **ENT03-06** les poules
-7. **ENT03-07** la lettre
-8. **ENT03-08** les billes
+#### Entraînement 6
+1. la tasse
+2. les poules
+3. la lettre
+4. les billes
+5. les volets
+6. ses gants
+7. le renard
+8. Malo
 
-#### ENT04
+#### Entraînement 7
+1. une poire
+2. le plan
+3. la tasse
+4. les poules
+5. la lettre
+6. les billes
+7. les volets
+8. ses gants
 
-1. **ENT04-01** les volets
-2. **ENT04-02** ses gants
-3. **ENT04-03** le renard
-4. **ENT04-04** Malo
-5. **ENT04-05** une poire
-6. **ENT04-06** le plan
-7. **ENT04-07** la tasse
-8. **ENT04-08** les poules
+#### Entraînement 8
+1. le renard
+2. Malo
+3. une poire
+4. le plan
+5. la tasse
+6. les poules
+7. la lettre
+8. les billes
 
-#### ENT05
+#### Entraînement 9
+1. les volets
+2. ses gants
+3. le renard
+4. Malo
+5. une poire
+6. le plan
+7. la tasse
+8. les poules
 
-1. **ENT05-01** la lettre
-2. **ENT05-02** les billes
-3. **ENT05-03** les volets
-4. **ENT05-04** ses gants
-5. **ENT05-05** le renard
-6. **ENT05-06** Malo
-7. **ENT05-07** une poire
-8. **ENT05-08** le plan
-
-#### ENT06
-
-1. **ENT06-01** la tasse
-2. **ENT06-02** les poules
-3. **ENT06-03** la lettre
-4. **ENT06-04** les billes
-5. **ENT06-05** les volets
-6. **ENT06-06** ses gants
-7. **ENT06-07** le renard
-8. **ENT06-08** Malo
-
-#### ENT07
-
-1. **ENT07-01** une poire
-2. **ENT07-02** le plan
-3. **ENT07-03** la tasse
-4. **ENT07-04** les poules
-5. **ENT07-05** la lettre
-6. **ENT07-06** les billes
-7. **ENT07-07** les volets
-8. **ENT07-08** ses gants
-
-#### ENT08
-
-1. **ENT08-01** le renard
-2. **ENT08-02** Malo
-3. **ENT08-03** une poire
-4. **ENT08-04** le plan
-5. **ENT08-05** la tasse
-6. **ENT08-06** les poules
-7. **ENT08-07** la lettre
-8. **ENT08-08** les billes
-
-#### ENT09
-
-1. **ENT09-01** les volets
-2. **ENT09-02** ses gants
-3. **ENT09-03** le renard
-4. **ENT09-04** Malo
-5. **ENT09-05** une poire
-6. **ENT09-06** le plan
-7. **ENT09-07** la tasse
-8. **ENT09-08** les poules
-
-#### ENT10
-
-1. **ENT10-01** la lettre
-2. **ENT10-02** les billes
-3. **ENT10-03** les volets
-4. **ENT10-04** ses gants
-5. **ENT10-05** le renard
-6. **ENT10-06** Malo
-7. **ENT10-07** une poire
-8. **ENT10-08** le plan
+#### Entraînement 10
+1. la lettre
+2. les billes
+3. les volets
+4. ses gants
+5. le renard
+6. Malo
+7. une poire
+8. le plan
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. le renard
+2. les billes
+3. la tasse
+4. Malo
+5. la loupe
 
-1. **EVAL01-01** le renard
-2. **EVAL01-02** les billes
-3. **EVAL01-03** la tasse
-4. **EVAL01-04** Malo
-5. **EVAL01-05** la loupe
+#### Évaluation 2
+1. Malo
+2. les volets
+3. les poules
+4. une poire
+5. le coffre
 
-#### EVAL02
+#### Évaluation 3
+1. une poire
+2. ses gants
+3. la lettre
+4. le plan
+5. les fraises
 
-1. **EVAL02-01** Malo
-2. **EVAL02-02** les volets
-3. **EVAL02-03** les poules
-4. **EVAL02-04** une poire
-5. **EVAL02-05** le coffre
+#### Évaluation 4
+1. le plan
+2. le renard
+3. les billes
+4. la tasse
+5. la photo
 
-#### EVAL03
+#### Évaluation 5
+1. la tasse
+2. Malo
+3. les volets
+4. les poules
+5. les chevaux
 
-1. **EVAL03-01** une poire
-2. **EVAL03-02** ses gants
-3. **EVAL03-03** la lettre
-4. **EVAL03-04** le plan
-5. **EVAL03-05** les fraises
+#### Évaluation 6
+1. les poules
+2. une poire
+3. ses gants
+4. les volets
+5. les pinces
 
-#### EVAL04
+#### Évaluation 7
+1. la lettre
+2. le plan
+3. une poire
+4. ses gants
+5. la lune
 
-1. **EVAL04-01** le plan
-2. **EVAL04-02** le renard
-3. **EVAL04-03** les billes
-4. **EVAL04-04** la tasse
-5. **EVAL04-05** la photo
+#### Évaluation 8
+1. les billes
+2. la lettre
+3. le plan
+4. le renard
+5. les baguettes
 
-#### EVAL05
+#### Évaluation 9
+1. le renard
+2. les billes
+3. la tasse
+4. Malo
+5. la boîte
 
-1. **EVAL05-01** la tasse
-2. **EVAL05-02** Malo
-3. **EVAL05-03** les volets
-4. **EVAL05-04** les poules
-5. **EVAL05-05** les chevaux
-
-#### EVAL06
-
-1. **EVAL06-01** les poules
-2. **EVAL06-02** une poire
-3. **EVAL06-03** ses gants
-4. **EVAL06-04** les volets
-5. **EVAL06-05** les pinces
-
-#### EVAL07
-
-1. **EVAL07-01** la lettre
-2. **EVAL07-02** le plan
-3. **EVAL07-03** une poire
-4. **EVAL07-04** ses gants
-5. **EVAL07-05** la lune
-
-#### EVAL08
-
-1. **EVAL08-01** les billes
-2. **EVAL08-02** la lettre
-3. **EVAL08-03** le plan
-4. **EVAL08-04** le renard
-5. **EVAL08-05** les baguettes
-
-#### EVAL09
-
-1. **EVAL09-01** le renard
-2. **EVAL09-02** les billes
-3. **EVAL09-03** la tasse
-4. **EVAL09-04** Malo
-5. **EVAL09-05** la boîte
-
-#### EVAL10
-
-1. **EVAL10-01** Malo
-2. **EVAL10-02** les volets
-3. **EVAL10-03** les poules
-4. **EVAL10-04** une poire
-5. **EVAL10-05** le manteau
+#### Évaluation 10
+1. Malo
+2. les volets
+3. les poules
+4. une poire
+5. le manteau
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. la tasse
+2. le plan
+3. une poire
+4. Malo
+5. les volets
 
-1. **DEV01-01** la tasse
-2. **DEV01-02** le plan
-3. **DEV01-03** une poire
-4. **DEV01-04** Malo
-5. **DEV01-05** les volets
+#### Devoir 2
+1. la tasse
+2. le plan
+3. une poire
+4. ses gants
+5. les volets
 
-#### DEV02
+#### Devoir 3
+1. la tasse
+2. le plan
+3. le renard
+4. ses gants
+5. le renard
 
-1. **DEV02-01** la tasse
-2. **DEV02-02** le plan
-3. **DEV02-03** une poire
-4. **DEV02-04** ses gants
-5. **DEV02-05** les volets
+#### Devoir 4
+1. la tasse
+2. Malo
+3. une poire
+4. Malo
+5. le renard
 
-#### DEV03
+#### Devoir 5
+1. la tasse
+2. le plan
+3. une poire
+4. Malo
+5. les volets
 
-1. **DEV03-01** la tasse
-2. **DEV03-02** le plan
-3. **DEV03-03** le renard
-4. **DEV03-04** ses gants
-5. **DEV03-05** le renard
+#### Devoir 6
+1. la tasse
+2. le plan
+3. une poire
+4. ses gants
+5. les volets
 
-#### DEV04
+#### Devoir 7
+1. la tasse
+2. le plan
+3. le renard
+4. ses gants
+5. le renard
 
-1. **DEV04-01** la tasse
-2. **DEV04-02** Malo
-3. **DEV04-03** une poire
-4. **DEV04-04** Malo
-5. **DEV04-05** le renard
+#### Devoir 8
+1. la tasse
+2. Malo
+3. une poire
+4. Malo
+5. le renard
 
-#### DEV05
+#### Devoir 9
+1. la tasse
+2. le plan
+3. une poire
+4. Malo
+5. les volets
 
-1. **DEV05-01** la tasse
-2. **DEV05-02** le plan
-3. **DEV05-03** une poire
-4. **DEV05-04** Malo
-5. **DEV05-05** les volets
-
-#### DEV06
-
-1. **DEV06-01** la tasse
-2. **DEV06-02** le plan
-3. **DEV06-03** une poire
-4. **DEV06-04** ses gants
-5. **DEV06-05** les volets
-
-#### DEV07
-
-1. **DEV07-01** la tasse
-2. **DEV07-02** le plan
-3. **DEV07-03** le renard
-4. **DEV07-04** ses gants
-5. **DEV07-05** le renard
-
-#### DEV08
-
-1. **DEV08-01** la tasse
-2. **DEV08-02** Malo
-3. **DEV08-03** une poire
-4. **DEV08-04** Malo
-5. **DEV08-05** le renard
-
-#### DEV09
-
-1. **DEV09-01** la tasse
-2. **DEV09-02** le plan
-3. **DEV09-03** une poire
-4. **DEV09-04** Malo
-5. **DEV09-05** les volets
-
-#### DEV10
-
-1. **DEV10-01** la tasse
-2. **DEV10-02** le plan
-3. **DEV10-03** une poire
-4. **DEV10-04** ses gants
-5. **DEV10-05** les volets
+#### Devoir 10
+1. la tasse
+2. le plan
+3. une poire
+4. ses gants
+5. les volets
 
 ## Traçabilité des évaluations et devoirs
 

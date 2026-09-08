@@ -76,24 +76,21 @@ Imprimer ce SVG à 100 %. Les angles ne se distinguent pas par la couleur. L’�
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** droit.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** aigu.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -102,13 +99,13 @@ Imprimer ce SVG à 100 %. Les angles ne se distinguent pas par la couleur. L’�
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **IMM02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **IMM03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **IMM04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **IMM05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **IMM06** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **IMM07** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
 
 ## Variables didactiques
 
@@ -118,511 +115,451 @@ Imprimer ce SVG à 100 %. Les angles ne se distinguent pas par la couleur. L’�
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
 
-- **ENT01-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **ENT01-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **ENT01-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **ENT01-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **ENT01-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+### Entraînement 2
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
 
-### ENT02
+### Entraînement 3
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
 
-- **ENT02-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **ENT02-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **ENT02-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **ENT02-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **ENT02-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+### Entraînement 4
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
 
-### ENT03
+### Entraînement 5
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
 
-- **ENT03-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **ENT03-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **ENT03-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **ENT03-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **ENT03-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+### Entraînement 6
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
 
-### ENT04
+### Entraînement 7
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
 
-- **ENT04-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
-- **ENT04-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
-- **ENT04-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
-- **ENT04-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
-- **ENT04-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
+### Entraînement 8
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F, sans te fier à la longueur de ses côtés.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H, après placement précis du gabarit.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
 
-### ENT05
+### Entraînement 9
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
 
-- **ENT05-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
-- **ENT05-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
-- **ENT05-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
-- **ENT05-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
-- **ENT05-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
-
-### ENT06
-
-- **ENT06-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
-- **ENT06-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
-- **ENT06-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
-- **ENT06-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
-- **ENT06-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
-
-### ENT07
-
-- **ENT07-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
-- **ENT07-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
-- **ENT07-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
-- **ENT07-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
-- **ENT07-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
-
-### ENT08
-
-- **ENT08-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F, sans te fier à la longueur de ses côtés.
-- **ENT08-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H, après placement précis du gabarit.
-- **ENT08-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
-- **ENT08-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
-- **ENT08-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
-
-### ENT09
-
-- **ENT09-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
-- **ENT09-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
-- **ENT09-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
-- **ENT09-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
-- **ENT09-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
-
-### ENT10
-
-- **ENT10-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
-- **ENT10-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
-- **ENT10-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
-- **ENT10-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F, sans te fier à la longueur de ses côtés.
-- **ENT10-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H, après placement précis du gabarit.
+### Entraînement 10
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F, sans te fier à la longueur de ses côtés.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H, après placement précis du gabarit.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F après rotation de la page.
 
-- **EVAL01-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **EVAL01-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
-- **EVAL01-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
-- **EVAL01-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
-- **EVAL01-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F après rotation de la page.
+### Évaluation 2
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K avec un gabarit en carton.
 
-### EVAL02
+### Évaluation 3
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G présenté à l’envers.
 
-- **EVAL02-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **EVAL02-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
-- **EVAL02-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
-- **EVAL02-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
-- **EVAL02-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K avec un gabarit en carton.
+### Évaluation 4
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H avec des côtés prolongés.
 
-### EVAL03
+### Évaluation 5
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F après rotation de la page.
 
-- **EVAL03-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **EVAL03-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
-- **EVAL03-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
-- **EVAL03-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
-- **EVAL03-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G présenté à l’envers.
+### Évaluation 6
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K avec un gabarit en carton.
 
-### EVAL04
+### Évaluation 7
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G présenté à l’envers.
 
-- **EVAL04-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **EVAL04-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
-- **EVAL04-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
-- **EVAL04-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
-- **EVAL04-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H avec des côtés prolongés.
+### Évaluation 8
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H avec des côtés prolongés.
 
-### EVAL05
+### Évaluation 9
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F après rotation de la page.
 
-- **EVAL05-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **EVAL05-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
-- **EVAL05-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
-- **EVAL05-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
-- **EVAL05-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F après rotation de la page.
-
-### EVAL06
-
-- **EVAL06-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **EVAL06-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
-- **EVAL06-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H.
-- **EVAL06-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I, oblique sur la feuille.
-- **EVAL06-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K avec un gabarit en carton.
-
-### EVAL07
-
-- **EVAL07-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **EVAL07-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K.
-- **EVAL07-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
-- **EVAL07-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L, orienté vers le haut.
-- **EVAL07-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G présenté à l’envers.
-
-### EVAL08
-
-- **EVAL08-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **EVAL08-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle L.
-- **EVAL08-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle J.
-- **EVAL08-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K, dont un côté est presque horizontal.
-- **EVAL08-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle H avec des côtés prolongés.
-
-### EVAL09
-
-- **EVAL09-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **EVAL09-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
-- **EVAL09-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B après rotation de la feuille.
-- **EVAL09-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B, dont un côté est court.
-- **EVAL09-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F après rotation de la page.
-
-### EVAL10
-
-- **EVAL10-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **EVAL10-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
-- **EVAL10-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
-- **EVAL10-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
-- **EVAL10-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K avec un gabarit en carton.
+### Évaluation 10
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle I.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C après rotation de la feuille.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C, tourné d’un demi-tour.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle K avec un gabarit en carton.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
 
-- **DEV01-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **DEV01-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **DEV01-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **DEV01-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **DEV01-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+### Devoir 2
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
 
-### DEV02
+### Devoir 3
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
 
-- **DEV02-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **DEV02-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV02-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **DEV02-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV02-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+### Devoir 4
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
 
-### DEV03
+### Devoir 5
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
 
-- **DEV03-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **DEV03-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **DEV03-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **DEV03-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **DEV03-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+### Devoir 6
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
 
-### DEV04
+### Devoir 7
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
 
-- **DEV04-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **DEV04-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **DEV04-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV04-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **DEV04-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+### Devoir 8
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
 
-### DEV05
+### Devoir 9
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
 
-- **DEV05-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV05-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **DEV05-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **DEV05-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **DEV05-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-
-### DEV06
-
-- **DEV06-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **DEV06-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **DEV06-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **DEV06-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **DEV06-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-
-### DEV07
-
-- **DEV07-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **DEV07-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV07-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **DEV07-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV07-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-
-### DEV08
-
-- **DEV08-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **DEV08-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **DEV08-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **DEV08-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle A.
-- **DEV08-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-
-### DEV09
-
-- **DEV09-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle D.
-- **DEV09-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle G.
-- **DEV09-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV09-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle B.
-- **DEV09-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-
-### DEV10
-
-- **DEV10-01** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
-- **DEV10-02** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **DEV10-03** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
-- **DEV10-04** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
-- **DEV10-05** Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+### Devoir 10
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle E.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle C.
+- Compare l’angle indiqué à un angle droit. Écris « aigu », « droit » ou « obtus ». Angle F.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** droit
-2. **IMM02** droit
-3. **IMM03** aigu
-4. **IMM04** droit
-5. **IMM05** droit
-6. **IMM06** aigu
-7. **IMM07** obtus
+1. droit
+2. droit
+3. aigu
+4. droit
+5. droit
+6. aigu
+7. obtus
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. droit
+2. aigu
+3. obtus
+4. droit
+5. droit
 
-1. **ENT01-01** droit
-2. **ENT01-02** aigu
-3. **ENT01-03** obtus
-4. **ENT01-04** droit
-5. **ENT01-05** droit
+#### Entraînement 2
+1. obtus
+2. droit
+3. droit
+4. aigu
+5. droit
 
-#### ENT02
+#### Entraînement 3
+1. droit
+2. aigu
+3. droit
+4. droit
+5. aigu
 
-1. **ENT02-01** obtus
-2. **ENT02-02** droit
-3. **ENT02-03** droit
-4. **ENT02-04** aigu
-5. **ENT02-05** droit
+#### Entraînement 4
+1. obtus
+2. obtus
+3. droit
+4. droit
+5. obtus
 
-#### ENT03
+#### Entraînement 5
+1. droit
+2. droit
+3. obtus
+4. droit
+5. aigu
 
-1. **ENT03-01** droit
-2. **ENT03-02** aigu
-3. **ENT03-03** droit
-4. **ENT03-04** droit
-5. **ENT03-05** aigu
+#### Entraînement 6
+1. obtus
+2. droit
+3. aigu
+4. obtus
+5. obtus
 
-#### ENT04
+#### Entraînement 7
+1. aigu
+2. obtus
+3. obtus
+4. droit
+5. droit
 
-1. **ENT04-01** obtus
-2. **ENT04-02** obtus
-3. **ENT04-03** droit
-4. **ENT04-04** droit
-5. **ENT04-05** obtus
+#### Entraînement 8
+1. aigu
+2. obtus
+3. obtus
+4. aigu
+5. obtus
 
-#### ENT05
+#### Entraînement 9
+1. obtus
+2. aigu
+3. obtus
+4. droit
+5. droit
 
-1. **ENT05-01** droit
-2. **ENT05-02** droit
-3. **ENT05-03** obtus
-4. **ENT05-04** droit
-5. **ENT05-05** aigu
-
-#### ENT06
-
-1. **ENT06-01** obtus
-2. **ENT06-02** droit
-3. **ENT06-03** aigu
-4. **ENT06-04** obtus
-5. **ENT06-05** obtus
-
-#### ENT07
-
-1. **ENT07-01** aigu
-2. **ENT07-02** obtus
-3. **ENT07-03** obtus
-4. **ENT07-04** droit
-5. **ENT07-05** droit
-
-#### ENT08
-
-1. **ENT08-01** aigu
-2. **ENT08-02** obtus
-3. **ENT08-03** obtus
-4. **ENT08-04** aigu
-5. **ENT08-05** obtus
-
-#### ENT09
-
-1. **ENT09-01** obtus
-2. **ENT09-02** aigu
-3. **ENT09-03** obtus
-4. **ENT09-04** droit
-5. **ENT09-05** droit
-
-#### ENT10
-
-1. **ENT10-01** obtus
-2. **ENT10-02** droit
-3. **ENT10-03** droit
-4. **ENT10-04** aigu
-5. **ENT10-05** obtus
+#### Entraînement 10
+1. obtus
+2. droit
+3. droit
+4. aigu
+5. obtus
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. droit
+2. droit
+3. obtus
+4. droit
+5. aigu
 
-1. **EVAL01-01** droit
-2. **EVAL01-02** droit
-3. **EVAL01-03** obtus
-4. **EVAL01-04** droit
-5. **EVAL01-05** aigu
+#### Évaluation 2
+1. aigu
+2. obtus
+3. droit
+4. droit
+5. obtus
 
-#### EVAL02
+#### Évaluation 3
+1. droit
+2. droit
+3. droit
+4. obtus
+5. droit
 
-1. **EVAL02-01** aigu
-2. **EVAL02-02** obtus
-3. **EVAL02-03** droit
-4. **EVAL02-04** droit
-5. **EVAL02-05** obtus
+#### Évaluation 4
+1. droit
+2. aigu
+3. aigu
+4. aigu
+5. obtus
 
-#### EVAL03
+#### Évaluation 5
+1. aigu
+2. droit
+3. obtus
+4. obtus
+5. aigu
 
-1. **EVAL03-01** droit
-2. **EVAL03-02** droit
-3. **EVAL03-03** droit
-4. **EVAL03-04** obtus
-5. **EVAL03-05** droit
+#### Évaluation 6
+1. droit
+2. droit
+3. obtus
+4. droit
+5. obtus
 
-#### EVAL04
+#### Évaluation 7
+1. aigu
+2. obtus
+3. droit
+4. droit
+5. droit
 
-1. **EVAL04-01** droit
-2. **EVAL04-02** aigu
-3. **EVAL04-03** aigu
-4. **EVAL04-04** aigu
-5. **EVAL04-05** obtus
+#### Évaluation 8
+1. droit
+2. droit
+3. droit
+4. obtus
+5. obtus
 
-#### EVAL05
+#### Évaluation 9
+1. droit
+2. aigu
+3. aigu
+4. aigu
+5. aigu
 
-1. **EVAL05-01** aigu
-2. **EVAL05-02** droit
-3. **EVAL05-03** obtus
-4. **EVAL05-04** obtus
-5. **EVAL05-05** aigu
-
-#### EVAL06
-
-1. **EVAL06-01** droit
-2. **EVAL06-02** droit
-3. **EVAL06-03** obtus
-4. **EVAL06-04** droit
-5. **EVAL06-05** obtus
-
-#### EVAL07
-
-1. **EVAL07-01** aigu
-2. **EVAL07-02** obtus
-3. **EVAL07-03** droit
-4. **EVAL07-04** droit
-5. **EVAL07-05** droit
-
-#### EVAL08
-
-1. **EVAL08-01** droit
-2. **EVAL08-02** droit
-3. **EVAL08-03** droit
-4. **EVAL08-04** obtus
-5. **EVAL08-05** obtus
-
-#### EVAL09
-
-1. **EVAL09-01** droit
-2. **EVAL09-02** aigu
-3. **EVAL09-03** aigu
-4. **EVAL09-04** aigu
-5. **EVAL09-05** aigu
-
-#### EVAL10
-
-1. **EVAL10-01** aigu
-2. **EVAL10-02** droit
-3. **EVAL10-03** obtus
-4. **EVAL10-04** obtus
-5. **EVAL10-05** obtus
+#### Évaluation 10
+1. aigu
+2. droit
+3. obtus
+4. obtus
+5. obtus
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. droit
+2. droit
+3. droit
+4. droit
+5. droit
 
-1. **DEV01-01** droit
-2. **DEV01-02** droit
-3. **DEV01-03** droit
-4. **DEV01-04** droit
-5. **DEV01-05** droit
+#### Devoir 2
+1. aigu
+2. droit
+3. droit
+4. droit
+5. obtus
 
-#### DEV02
+#### Devoir 3
+1. obtus
+2. aigu
+3. aigu
+4. droit
+5. droit
 
-1. **DEV02-01** aigu
-2. **DEV02-02** droit
-3. **DEV02-03** droit
-4. **DEV02-04** droit
-5. **DEV02-05** obtus
+#### Devoir 4
+1. droit
+2. droit
+3. droit
+4. aigu
+5. droit
 
-#### DEV03
+#### Devoir 5
+1. droit
+2. obtus
+3. aigu
+4. obtus
+5. aigu
 
-1. **DEV03-01** obtus
-2. **DEV03-02** aigu
-3. **DEV03-03** aigu
-4. **DEV03-04** droit
-5. **DEV03-05** droit
+#### Devoir 6
+1. droit
+2. droit
+3. droit
+4. droit
+5. droit
 
-#### DEV04
+#### Devoir 7
+1. aigu
+2. droit
+3. droit
+4. droit
+5. obtus
 
-1. **DEV04-01** droit
-2. **DEV04-02** droit
-3. **DEV04-03** droit
-4. **DEV04-04** aigu
-5. **DEV04-05** droit
+#### Devoir 8
+1. obtus
+2. aigu
+3. aigu
+4. droit
+5. droit
 
-#### DEV05
+#### Devoir 9
+1. droit
+2. droit
+3. droit
+4. aigu
+5. droit
 
-1. **DEV05-01** droit
-2. **DEV05-02** obtus
-3. **DEV05-03** aigu
-4. **DEV05-04** obtus
-5. **DEV05-05** aigu
-
-#### DEV06
-
-1. **DEV06-01** droit
-2. **DEV06-02** droit
-3. **DEV06-03** droit
-4. **DEV06-04** droit
-5. **DEV06-05** droit
-
-#### DEV07
-
-1. **DEV07-01** aigu
-2. **DEV07-02** droit
-3. **DEV07-03** droit
-4. **DEV07-04** droit
-5. **DEV07-05** obtus
-
-#### DEV08
-
-1. **DEV08-01** obtus
-2. **DEV08-02** aigu
-3. **DEV08-03** aigu
-4. **DEV08-04** droit
-5. **DEV08-05** droit
-
-#### DEV09
-
-1. **DEV09-01** droit
-2. **DEV09-02** droit
-3. **DEV09-03** droit
-4. **DEV09-04** aigu
-5. **DEV09-05** droit
-
-#### DEV10
-
-1. **DEV10-01** droit
-2. **DEV10-02** obtus
-3. **DEV10-03** aigu
-4. **DEV10-04** obtus
-5. **DEV10-05** aigu
+#### Devoir 10
+1. droit
+2. obtus
+3. aigu
+4. obtus
+5. aigu
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

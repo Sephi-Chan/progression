@@ -58,24 +58,21 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **IMM02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **IMM03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **IMM04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **IMM05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **IMM06** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **IMM07** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
 
-- **ENT01-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **ENT01-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **ENT01-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **ENT01-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **ENT01-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+### Entraînement 2
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
 
-### ENT02
+### Entraînement 3
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
 
-- **ENT02-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **ENT02-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **ENT02-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **ENT02-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **ENT02-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+### Entraînement 4
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
 
-### ENT03
+### Entraînement 5
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
 
-- **ENT03-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **ENT03-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **ENT03-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **ENT03-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **ENT03-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+### Entraînement 6
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
 
-### ENT04
+### Entraînement 7
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
 
-- **ENT04-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
-- **ENT04-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
-- **ENT04-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
-- **ENT04-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
-- **ENT04-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
+### Entraînement 8
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un sommet C proche du bord, carré de 5 carreaux dirigé vers l’intérieur.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 6 carreaux sur 4, longueur verticale.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
 
-### ENT05
+### Entraînement 9
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
 
-- **ENT05-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
-- **ENT05-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
-- **ENT05-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
-- **ENT05-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
-- **ENT05-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
-
-### ENT06
-
-- **ENT06-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
-- **ENT06-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
-- **ENT06-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
-- **ENT06-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
-- **ENT06-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
-
-### ENT07
-
-- **ENT07-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
-- **ENT07-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
-- **ENT07-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
-- **ENT07-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
-- **ENT07-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
-
-### ENT08
-
-- **ENT08-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un sommet C proche du bord, carré de 5 carreaux dirigé vers l’intérieur.
-- **ENT08-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 6 carreaux sur 4, longueur verticale.
-- **ENT08-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
-- **ENT08-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
-- **ENT08-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
-
-### ENT09
-
-- **ENT09-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
-- **ENT09-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
-- **ENT09-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
-- **ENT09-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
-- **ENT09-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
-
-### ENT10
-
-- **ENT10-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
-- **ENT10-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
-- **ENT10-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
-- **ENT10-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un sommet C proche du bord, carré de 5 carreaux dirigé vers l’intérieur.
-- **ENT10-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 6 carreaux sur 4, longueur verticale.
+### Entraînement 10
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un sommet C proche du bord, carré de 5 carreaux dirigé vers l’intérieur.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 6 carreaux sur 4, longueur verticale.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 3.
 
-- **EVAL01-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **EVAL01-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
-- **EVAL01-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
-- **EVAL01-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
-- **EVAL01-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 3.
+### Évaluation 2
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 7 carreaux de côté.
 
-### EVAL02
+### Évaluation 3
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 4 carreaux, termine un rectangle de largeur 2 carreaux.
 
-- **EVAL02-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **EVAL02-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
-- **EVAL02-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
-- **EVAL02-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
-- **EVAL02-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 7 carreaux de côté.
+### Évaluation 4
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir de A, rectangle 6 × 2 vers la droite et le haut.
 
-### EVAL03
+### Évaluation 5
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 3.
 
-- **EVAL03-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **EVAL03-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
-- **EVAL03-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
-- **EVAL03-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
-- **EVAL03-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 4 carreaux, termine un rectangle de largeur 2 carreaux.
+### Évaluation 6
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 7 carreaux de côté.
 
-### EVAL04
+### Évaluation 7
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 4 carreaux, termine un rectangle de largeur 2 carreaux.
 
-- **EVAL04-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **EVAL04-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
-- **EVAL04-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
-- **EVAL04-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
-- **EVAL04-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir de A, rectangle 6 × 2 vers la droite et le haut.
+### Évaluation 8
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir de A, rectangle 6 × 2 vers la droite et le haut.
 
-### EVAL05
+### Évaluation 9
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 3.
 
-- **EVAL05-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **EVAL05-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
-- **EVAL05-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
-- **EVAL05-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
-- **EVAL05-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 3.
-
-### EVAL06
-
-- **EVAL06-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **EVAL06-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
-- **EVAL06-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point A, carré de 4 carreaux de côté vers la droite et vers le bas.
-- **EVAL06-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 4, avec longueur horizontale vers la gauche.
-- **EVAL06-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 7 carreaux de côté.
-
-### EVAL07
-
-- **EVAL07-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **EVAL07-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 7 carreaux sur 2.
-- **EVAL07-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
-- **EVAL07-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux, avec un côté déjà tracé verticalement.
-- **EVAL07-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 4 carreaux, termine un rectangle de largeur 2 carreaux.
-
-### EVAL08
-
-- **EVAL08-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **EVAL08-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté horizontal déjà tracé de 4 carreaux, termine un carré.
-- **EVAL08-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux, placé sans toucher le bord de la feuille.
-- **EVAL08-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté vertical de 5 carreaux, termine un carré.
-- **EVAL08-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir de A, rectangle 6 × 2 vers la droite et le haut.
-
-### EVAL09
-
-- **EVAL09-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **EVAL09-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
-- **EVAL09-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir d’un côté de 5 carreaux, termine un rectangle de largeur 3 carreaux.
-- **EVAL09-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 8 carreaux sur 3 dans un espace de 9 × 5 carreaux.
-- **EVAL09-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 3.
-
-### EVAL10
-
-- **EVAL10-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **EVAL10-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
-- **EVAL10-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
-- **EVAL10-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
-- **EVAL10-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 7 carreaux de côté.
+### Évaluation 10
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. À partir du point B, rectangle de 6 carreaux sur 3 vers la gauche et vers le bas.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 6 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux avec un sommet imposé D et un côté vers la gauche.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 7 carreaux de côté.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
 
-- **DEV01-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **DEV01-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **DEV01-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **DEV01-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **DEV01-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+### Devoir 2
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
 
-### DEV02
+### Devoir 3
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
 
-- **DEV02-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **DEV02-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV02-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **DEV02-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV02-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+### Devoir 4
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
 
-### DEV03
+### Devoir 5
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
 
-- **DEV03-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **DEV03-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **DEV03-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **DEV03-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **DEV03-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+### Devoir 6
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
 
-### DEV04
+### Devoir 7
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
 
-- **DEV04-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **DEV04-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **DEV04-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV04-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **DEV04-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+### Devoir 8
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
 
-### DEV05
+### Devoir 9
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
 
-- **DEV05-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV05-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **DEV05-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **DEV05-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **DEV05-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-
-### DEV06
-
-- **DEV06-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **DEV06-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **DEV06-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **DEV06-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **DEV06-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-
-### DEV07
-
-- **DEV07-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **DEV07-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV07-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **DEV07-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV07-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-
-### DEV08
-
-- **DEV08-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **DEV08-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **DEV08-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **DEV08-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 3 carreaux de côté.
-- **DEV08-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-
-### DEV09
-
-- **DEV09-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 5 carreaux sur 2.
-- **DEV09-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 5 carreaux de côté.
-- **DEV09-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV09-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 2.
-- **DEV09-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-
-### DEV10
-
-- **DEV10-01** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
-- **DEV10-02** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **DEV10-03** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
-- **DEV10-04** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
-- **DEV10-05** Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+### Devoir 10
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 2 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Carré de 4 carreaux de côté.
+- Sur papier quadrillé, construis la figure demandée, puis code un angle droit. Rectangle de 4 carreaux sur 3.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** 5 × 2 carreaux et 4 angles droits
-2. **IMM02** 4 côtés de 2 carreaux et 4 angles droits
-3. **IMM03** 4 × 3 carreaux et 4 angles droits
-4. **IMM04** 4 côtés de 5 carreaux et 4 angles droits
-5. **IMM05** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-6. **IMM06** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-7. **IMM07** 4 côtés de 4 carreaux et 4 angles droits
+1. 5 × 2 carreaux et 4 angles droits
+2. 4 côtés de 2 carreaux et 4 angles droits
+3. 4 × 3 carreaux et 4 angles droits
+4. 4 côtés de 5 carreaux et 4 angles droits
+5. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+6. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+7. 4 côtés de 4 carreaux et 4 angles droits
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+2. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+3. 4 côtés de 4 carreaux et 4 angles droits
+4. 5 × 2 carreaux et 4 angles droits
+5. 4 côtés de 2 carreaux et 4 angles droits
 
-1. **ENT01-01** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **ENT01-02** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-3. **ENT01-03** 4 côtés de 4 carreaux et 4 angles droits
-4. **ENT01-04** 5 × 2 carreaux et 4 angles droits
-5. **ENT01-05** 4 côtés de 2 carreaux et 4 angles droits
+#### Entraînement 2
+1. 4 côtés de 4 carreaux et 4 angles droits
+2. 5 × 2 carreaux et 4 angles droits
+3. 4 côtés de 2 carreaux et 4 angles droits
+4. 4 × 3 carreaux et 4 angles droits
+5. 4 côtés de 5 carreaux et 4 angles droits
 
-#### ENT02
+#### Entraînement 3
+1. 4 côtés de 2 carreaux et 4 angles droits
+2. 4 × 3 carreaux et 4 angles droits
+3. 4 côtés de 5 carreaux et 4 angles droits
+4. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+5. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
 
-1. **ENT02-01** 4 côtés de 4 carreaux et 4 angles droits
-2. **ENT02-02** 5 × 2 carreaux et 4 angles droits
-3. **ENT02-03** 4 côtés de 2 carreaux et 4 angles droits
-4. **ENT02-04** 4 × 3 carreaux et 4 angles droits
-5. **ENT02-05** 4 côtés de 5 carreaux et 4 angles droits
+#### Entraînement 4
+1. carré 6 × 6 et 4 angles droits
+2. A est un sommet ; carré 4 × 4, fermé, angles droits
+3. B est un sommet ; rectangle 6 × 3, fermé, angles droits
+4. carré 5 × 5 entièrement visible
+5. rectangle 7 × 2 et 4 angles droits
 
-#### ENT03
+#### Entraînement 5
+1. B est un sommet ; rectangle 6 × 3, fermé, angles droits
+2. carré 5 × 5 entièrement visible
+3. rectangle 7 × 2 et 4 angles droits
+4. deux côtés perpendiculaires de 4 carreaux puis côté opposé
+5. rectangle 5 × 3 et 4 angles droits
 
-1. **ENT03-01** 4 côtés de 2 carreaux et 4 angles droits
-2. **ENT03-02** 4 × 3 carreaux et 4 angles droits
-3. **ENT03-03** 4 côtés de 5 carreaux et 4 angles droits
-4. **ENT03-04** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-5. **ENT03-05** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+#### Entraînement 6
+1. rectangle 7 × 2 et 4 angles droits
+2. deux côtés perpendiculaires de 4 carreaux puis côté opposé
+3. rectangle 5 × 3 et 4 angles droits
+4. carré 6 × 6 et 4 angles droits
+5. A est un sommet ; carré 4 × 4, fermé, angles droits
 
-#### ENT04
+#### Entraînement 7
+1. rectangle 5 × 3 et 4 angles droits
+2. carré 6 × 6 et 4 angles droits
+3. A est un sommet ; carré 4 × 4, fermé, angles droits
+4. B est un sommet ; rectangle 6 × 3, fermé, angles droits
+5. carré 5 × 5 entièrement visible
 
-1. **ENT04-01** carré 6 × 6 et 4 angles droits
-2. **ENT04-02** A est un sommet ; carré 4 × 4, fermé, angles droits
-3. **ENT04-03** B est un sommet ; rectangle 6 × 3, fermé, angles droits
-4. **ENT04-04** carré 5 × 5 entièrement visible
-5. **ENT04-05** rectangle 7 × 2 et 4 angles droits
+#### Entraînement 8
+1. carré complet 5 × 5 sans sortir de la feuille
+2. rectangle tourné, 6 × 4, 4 angles droits
+3. carré 5 × 5, quel que soit son orientation
+4. rectangle complet 8 × 3 placé dans l’espace
+5. D sommet du carré 4 × 4, côté demandé vers la gauche
 
-#### ENT05
+#### Entraînement 9
+1. carré 5 × 5, quel que soit son orientation
+2. rectangle complet 8 × 3 placé dans l’espace
+3. D sommet du carré 4 × 4, côté demandé vers la gauche
+4. rectangle 7 × 4 correctement orienté
+5. carré 6 × 6 construit sur le côté donné
 
-1. **ENT05-01** B est un sommet ; rectangle 6 × 3, fermé, angles droits
-2. **ENT05-02** carré 5 × 5 entièrement visible
-3. **ENT05-03** rectangle 7 × 2 et 4 angles droits
-4. **ENT05-04** deux côtés perpendiculaires de 4 carreaux puis côté opposé
-5. **ENT05-05** rectangle 5 × 3 et 4 angles droits
-
-#### ENT06
-
-1. **ENT06-01** rectangle 7 × 2 et 4 angles droits
-2. **ENT06-02** deux côtés perpendiculaires de 4 carreaux puis côté opposé
-3. **ENT06-03** rectangle 5 × 3 et 4 angles droits
-4. **ENT06-04** carré 6 × 6 et 4 angles droits
-5. **ENT06-05** A est un sommet ; carré 4 × 4, fermé, angles droits
-
-#### ENT07
-
-1. **ENT07-01** rectangle 5 × 3 et 4 angles droits
-2. **ENT07-02** carré 6 × 6 et 4 angles droits
-3. **ENT07-03** A est un sommet ; carré 4 × 4, fermé, angles droits
-4. **ENT07-04** B est un sommet ; rectangle 6 × 3, fermé, angles droits
-5. **ENT07-05** carré 5 × 5 entièrement visible
-
-#### ENT08
-
-1. **ENT08-01** carré complet 5 × 5 sans sortir de la feuille
-2. **ENT08-02** rectangle tourné, 6 × 4, 4 angles droits
-3. **ENT08-03** carré 5 × 5, quel que soit son orientation
-4. **ENT08-04** rectangle complet 8 × 3 placé dans l’espace
-5. **ENT08-05** D sommet du carré 4 × 4, côté demandé vers la gauche
-
-#### ENT09
-
-1. **ENT09-01** carré 5 × 5, quel que soit son orientation
-2. **ENT09-02** rectangle complet 8 × 3 placé dans l’espace
-3. **ENT09-03** D sommet du carré 4 × 4, côté demandé vers la gauche
-4. **ENT09-04** rectangle 7 × 4 correctement orienté
-5. **ENT09-05** carré 6 × 6 construit sur le côté donné
-
-#### ENT10
-
-1. **ENT10-01** D sommet du carré 4 × 4, côté demandé vers la gauche
-2. **ENT10-02** rectangle 7 × 4 correctement orienté
-3. **ENT10-03** carré 6 × 6 construit sur le côté donné
-4. **ENT10-04** carré complet 5 × 5 sans sortir de la feuille
-5. **ENT10-05** rectangle tourné, 6 × 4, 4 angles droits
+#### Entraînement 10
+1. D sommet du carré 4 × 4, côté demandé vers la gauche
+2. rectangle 7 × 4 correctement orienté
+3. carré 6 × 6 construit sur le côté donné
+4. carré complet 5 × 5 sans sortir de la feuille
+5. rectangle tourné, 6 × 4, 4 angles droits
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. 4 côtés de 2 carreaux et 4 angles droits
+2. carré 5 × 5 entièrement visible
+3. A est un sommet ; carré 4 × 4, fermé, angles droits
+4. rectangle 7 × 4 correctement orienté
+5. rectangle 5 × 3, 4 angles droits
 
-1. **EVAL01-01** 4 côtés de 2 carreaux et 4 angles droits
-2. **EVAL01-02** carré 5 × 5 entièrement visible
-3. **EVAL01-03** A est un sommet ; carré 4 × 4, fermé, angles droits
-4. **EVAL01-04** rectangle 7 × 4 correctement orienté
-5. **EVAL01-05** rectangle 5 × 3, 4 angles droits
+#### Évaluation 2
+1. 4 × 3 carreaux et 4 angles droits
+2. rectangle 7 × 2 et 4 angles droits
+3. B est un sommet ; rectangle 6 × 3, fermé, angles droits
+4. carré 6 × 6 construit sur le côté donné
+5. carré 7 × 7, 4 angles droits
 
-#### EVAL02
+#### Évaluation 3
+1. 4 côtés de 5 carreaux et 4 angles droits
+2. deux côtés perpendiculaires de 4 carreaux puis côté opposé
+3. carré 5 × 5 entièrement visible
+4. carré 5 × 5, quel que soit son orientation
+5. rectangle 4 × 2 sur le côté donné
 
-1. **EVAL02-01** 4 × 3 carreaux et 4 angles droits
-2. **EVAL02-02** rectangle 7 × 2 et 4 angles droits
-3. **EVAL02-03** B est un sommet ; rectangle 6 × 3, fermé, angles droits
-4. **EVAL02-04** carré 6 × 6 construit sur le côté donné
-5. **EVAL02-05** carré 7 × 7, 4 angles droits
+#### Évaluation 4
+1. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+2. rectangle 5 × 3 et 4 angles droits
+3. rectangle 5 × 3 et 4 angles droits
+4. rectangle complet 8 × 3 placé dans l’espace
+5. A sommet ; rectangle 6 × 2 correctement orienté
 
-#### EVAL03
+#### Évaluation 5
+1. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+2. B est un sommet ; rectangle 6 × 3, fermé, angles droits
+3. carré 6 × 6 et 4 angles droits
+4. D sommet du carré 4 × 4, côté demandé vers la gauche
+5. rectangle 5 × 3, 4 angles droits
 
-1. **EVAL03-01** 4 côtés de 5 carreaux et 4 angles droits
-2. **EVAL03-02** deux côtés perpendiculaires de 4 carreaux puis côté opposé
-3. **EVAL03-03** carré 5 × 5 entièrement visible
-4. **EVAL03-04** carré 5 × 5, quel que soit son orientation
-5. **EVAL03-05** rectangle 4 × 2 sur le côté donné
+#### Évaluation 6
+1. 4 côtés de 2 carreaux et 4 angles droits
+2. carré 5 × 5 entièrement visible
+3. A est un sommet ; carré 4 × 4, fermé, angles droits
+4. rectangle 7 × 4 correctement orienté
+5. carré 7 × 7, 4 angles droits
 
-#### EVAL04
+#### Évaluation 7
+1. 4 × 3 carreaux et 4 angles droits
+2. rectangle 7 × 2 et 4 angles droits
+3. B est un sommet ; rectangle 6 × 3, fermé, angles droits
+4. carré 6 × 6 construit sur le côté donné
+5. rectangle 4 × 2 sur le côté donné
 
-1. **EVAL04-01** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **EVAL04-02** rectangle 5 × 3 et 4 angles droits
-3. **EVAL04-03** rectangle 5 × 3 et 4 angles droits
-4. **EVAL04-04** rectangle complet 8 × 3 placé dans l’espace
-5. **EVAL04-05** A sommet ; rectangle 6 × 2 correctement orienté
+#### Évaluation 8
+1. 4 côtés de 5 carreaux et 4 angles droits
+2. deux côtés perpendiculaires de 4 carreaux puis côté opposé
+3. carré 5 × 5 entièrement visible
+4. carré 5 × 5, quel que soit son orientation
+5. A sommet ; rectangle 6 × 2 correctement orienté
 
-#### EVAL05
+#### Évaluation 9
+1. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+2. rectangle 5 × 3 et 4 angles droits
+3. rectangle 5 × 3 et 4 angles droits
+4. rectangle complet 8 × 3 placé dans l’espace
+5. rectangle 5 × 3, 4 angles droits
 
-1. **EVAL05-01** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **EVAL05-02** B est un sommet ; rectangle 6 × 3, fermé, angles droits
-3. **EVAL05-03** carré 6 × 6 et 4 angles droits
-4. **EVAL05-04** D sommet du carré 4 × 4, côté demandé vers la gauche
-5. **EVAL05-05** rectangle 5 × 3, 4 angles droits
-
-#### EVAL06
-
-1. **EVAL06-01** 4 côtés de 2 carreaux et 4 angles droits
-2. **EVAL06-02** carré 5 × 5 entièrement visible
-3. **EVAL06-03** A est un sommet ; carré 4 × 4, fermé, angles droits
-4. **EVAL06-04** rectangle 7 × 4 correctement orienté
-5. **EVAL06-05** carré 7 × 7, 4 angles droits
-
-#### EVAL07
-
-1. **EVAL07-01** 4 × 3 carreaux et 4 angles droits
-2. **EVAL07-02** rectangle 7 × 2 et 4 angles droits
-3. **EVAL07-03** B est un sommet ; rectangle 6 × 3, fermé, angles droits
-4. **EVAL07-04** carré 6 × 6 construit sur le côté donné
-5. **EVAL07-05** rectangle 4 × 2 sur le côté donné
-
-#### EVAL08
-
-1. **EVAL08-01** 4 côtés de 5 carreaux et 4 angles droits
-2. **EVAL08-02** deux côtés perpendiculaires de 4 carreaux puis côté opposé
-3. **EVAL08-03** carré 5 × 5 entièrement visible
-4. **EVAL08-04** carré 5 × 5, quel que soit son orientation
-5. **EVAL08-05** A sommet ; rectangle 6 × 2 correctement orienté
-
-#### EVAL09
-
-1. **EVAL09-01** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **EVAL09-02** rectangle 5 × 3 et 4 angles droits
-3. **EVAL09-03** rectangle 5 × 3 et 4 angles droits
-4. **EVAL09-04** rectangle complet 8 × 3 placé dans l’espace
-5. **EVAL09-05** rectangle 5 × 3, 4 angles droits
-
-#### EVAL10
-
-1. **EVAL10-01** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **EVAL10-02** B est un sommet ; rectangle 6 × 3, fermé, angles droits
-3. **EVAL10-03** carré 6 × 6 et 4 angles droits
-4. **EVAL10-04** D sommet du carré 4 × 4, côté demandé vers la gauche
-5. **EVAL10-05** carré 7 × 7, 4 angles droits
+#### Évaluation 10
+1. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+2. B est un sommet ; rectangle 6 × 3, fermé, angles droits
+3. carré 6 × 6 et 4 angles droits
+4. D sommet du carré 4 × 4, côté demandé vers la gauche
+5. carré 7 × 7, 4 angles droits
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+2. 5 × 2 carreaux et 4 angles droits
+3. 4 côtés de 5 carreaux et 4 angles droits
+4. 5 × 2 carreaux et 4 angles droits
+5. 4 côtés de 5 carreaux et 4 angles droits
 
-1. **DEV01-01** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **DEV01-02** 5 × 2 carreaux et 4 angles droits
-3. **DEV01-03** 4 côtés de 5 carreaux et 4 angles droits
-4. **DEV01-04** 5 × 2 carreaux et 4 angles droits
-5. **DEV01-05** 4 côtés de 5 carreaux et 4 angles droits
+#### Devoir 2
+1. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+2. 4 côtés de 2 carreaux et 4 angles droits
+3. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+4. 4 côtés de 2 carreaux et 4 angles droits
+5. 4 côtés de 4 carreaux et 4 angles droits
 
-#### DEV02
+#### Devoir 3
+1. 4 côtés de 4 carreaux et 4 angles droits
+2. 4 × 3 carreaux et 4 angles droits
+3. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+4. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+5. 5 × 2 carreaux et 4 angles droits
 
-1. **DEV02-01** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **DEV02-02** 4 côtés de 2 carreaux et 4 angles droits
-3. **DEV02-03** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-4. **DEV02-04** 4 côtés de 2 carreaux et 4 angles droits
-5. **DEV02-05** 4 côtés de 4 carreaux et 4 angles droits
+#### Devoir 4
+1. 5 × 2 carreaux et 4 angles droits
+2. 4 côtés de 5 carreaux et 4 angles droits
+3. 4 côtés de 2 carreaux et 4 angles droits
+4. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+5. 4 côtés de 2 carreaux et 4 angles droits
 
-#### DEV03
+#### Devoir 5
+1. 4 côtés de 2 carreaux et 4 angles droits
+2. 4 côtés de 4 carreaux et 4 angles droits
+3. 4 × 3 carreaux et 4 angles droits
+4. 4 côtés de 4 carreaux et 4 angles droits
+5. 4 × 3 carreaux et 4 angles droits
 
-1. **DEV03-01** 4 côtés de 4 carreaux et 4 angles droits
-2. **DEV03-02** 4 × 3 carreaux et 4 angles droits
-3. **DEV03-03** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-4. **DEV03-04** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-5. **DEV03-05** 5 × 2 carreaux et 4 angles droits
+#### Devoir 6
+1. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+2. 5 × 2 carreaux et 4 angles droits
+3. 4 côtés de 5 carreaux et 4 angles droits
+4. 5 × 2 carreaux et 4 angles droits
+5. 4 côtés de 5 carreaux et 4 angles droits
 
-#### DEV04
+#### Devoir 7
+1. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+2. 4 côtés de 2 carreaux et 4 angles droits
+3. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+4. 4 côtés de 2 carreaux et 4 angles droits
+5. 4 côtés de 4 carreaux et 4 angles droits
 
-1. **DEV04-01** 5 × 2 carreaux et 4 angles droits
-2. **DEV04-02** 4 côtés de 5 carreaux et 4 angles droits
-3. **DEV04-03** 4 côtés de 2 carreaux et 4 angles droits
-4. **DEV04-04** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-5. **DEV04-05** 4 côtés de 2 carreaux et 4 angles droits
+#### Devoir 8
+1. 4 côtés de 4 carreaux et 4 angles droits
+2. 4 × 3 carreaux et 4 angles droits
+3. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+4. construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
+5. 5 × 2 carreaux et 4 angles droits
 
-#### DEV05
+#### Devoir 9
+1. 5 × 2 carreaux et 4 angles droits
+2. 4 côtés de 5 carreaux et 4 angles droits
+3. 4 côtés de 2 carreaux et 4 angles droits
+4. 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
+5. 4 côtés de 2 carreaux et 4 angles droits
 
-1. **DEV05-01** 4 côtés de 2 carreaux et 4 angles droits
-2. **DEV05-02** 4 côtés de 4 carreaux et 4 angles droits
-3. **DEV05-03** 4 × 3 carreaux et 4 angles droits
-4. **DEV05-04** 4 côtés de 4 carreaux et 4 angles droits
-5. **DEV05-05** 4 × 3 carreaux et 4 angles droits
-
-#### DEV06
-
-1. **DEV06-01** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **DEV06-02** 5 × 2 carreaux et 4 angles droits
-3. **DEV06-03** 4 côtés de 5 carreaux et 4 angles droits
-4. **DEV06-04** 5 × 2 carreaux et 4 angles droits
-5. **DEV06-05** 4 côtés de 5 carreaux et 4 angles droits
-
-#### DEV07
-
-1. **DEV07-01** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-2. **DEV07-02** 4 côtés de 2 carreaux et 4 angles droits
-3. **DEV07-03** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-4. **DEV07-04** 4 côtés de 2 carreaux et 4 angles droits
-5. **DEV07-05** 4 côtés de 4 carreaux et 4 angles droits
-
-#### DEV08
-
-1. **DEV08-01** 4 côtés de 4 carreaux et 4 angles droits
-2. **DEV08-02** 4 × 3 carreaux et 4 angles droits
-3. **DEV08-03** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-4. **DEV08-04** construction ouverte : 4 côtés de 3 carreaux, 4 angles droits, figure fermée, un angle codé
-5. **DEV08-05** 5 × 2 carreaux et 4 angles droits
-
-#### DEV09
-
-1. **DEV09-01** 5 × 2 carreaux et 4 angles droits
-2. **DEV09-02** 4 côtés de 5 carreaux et 4 angles droits
-3. **DEV09-03** 4 côtés de 2 carreaux et 4 angles droits
-4. **DEV09-04** 4 × 2 carreaux, 4 angles droits, figure fermée, un angle codé
-5. **DEV09-05** 4 côtés de 2 carreaux et 4 angles droits
-
-#### DEV10
-
-1. **DEV10-01** 4 côtés de 2 carreaux et 4 angles droits
-2. **DEV10-02** 4 côtés de 4 carreaux et 4 angles droits
-3. **DEV10-03** 4 × 3 carreaux et 4 angles droits
-4. **DEV10-04** 4 côtés de 4 carreaux et 4 angles droits
-5. **DEV10-05** 4 × 3 carreaux et 4 angles droits
+#### Devoir 10
+1. 4 côtés de 2 carreaux et 4 angles droits
+2. 4 côtés de 4 carreaux et 4 angles droits
+3. 4 × 3 carreaux et 4 angles droits
+4. 4 côtés de 4 carreaux et 4 angles droits
+5. 4 × 3 carreaux et 4 angles droits
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

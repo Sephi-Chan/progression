@@ -58,24 +58,21 @@ Convention : `→`, `←`, `↑`, `↓` font avancer d’une case. Les colonnes 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** arrivée D2 ; retour ← ←.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** arrivée C2 ; retour ↓ ↓.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Convention : `→`, `←`, `↑`, `↓` font avancer d’une case. Les colonnes 
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **IMM02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **IMM03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **IMM04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **IMM05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **IMM06** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **IMM07** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Convention : `→`, `←`, `↑`, `↓` font avancer d’une case. Les colonnes 
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
 
-- **ENT01-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **ENT01-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **ENT01-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **ENT01-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **ENT01-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+### Entraînement 2
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
 
-### ENT02
+### Entraînement 3
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
 
-- **ENT02-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **ENT02-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **ENT02-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **ENT02-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **ENT02-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+### Entraînement 4
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
 
-### ENT03
+### Entraînement 5
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
 
-- **ENT03-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **ENT03-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **ENT03-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **ENT03-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **ENT03-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+### Entraînement 6
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
 
-### ENT04
+### Entraînement 7
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
 
-- **ENT04-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
-- **ENT04-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
-- **ENT04-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
-- **ENT04-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
-- **ENT04-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
+### Entraînement 8
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B6 ; code ↑ → ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F1 ; code ← ↓ ← ↓ ↓ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
 
-### ENT05
+### Entraînement 9
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
 
-- **ENT05-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
-- **ENT05-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
-- **ENT05-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
-- **ENT05-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
-- **ENT05-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
-
-### ENT06
-
-- **ENT06-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
-- **ENT06-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
-- **ENT06-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
-- **ENT06-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
-- **ENT06-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
-
-### ENT07
-
-- **ENT07-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
-- **ENT07-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
-- **ENT07-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
-- **ENT07-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
-- **ENT07-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
-
-### ENT08
-
-- **ENT08-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B6 ; code ↑ → ↑ → ↑ ←.
-- **ENT08-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F1 ; code ← ↓ ← ↓ ↓ →.
-- **ENT08-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
-- **ENT08-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
-- **ENT08-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
-
-### ENT09
-
-- **ENT09-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
-- **ENT09-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
-- **ENT09-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
-- **ENT09-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
-- **ENT09-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
-
-### ENT10
-
-- **ENT10-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
-- **ENT10-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
-- **ENT10-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
-- **ENT10-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B6 ; code ↑ → ↑ → ↑ ←.
-- **ENT10-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F1 ; code ← ↓ ← ↓ ↓ →.
+### Entraînement 10
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B6 ; code ↑ → ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F1 ; code ← ↓ ← ↓ ↓ →.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C5 ; code ↑ → ↑ ←.
 
-- **EVAL01-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **EVAL01-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
-- **EVAL01-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
-- **EVAL01-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
-- **EVAL01-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C5 ; code ↑ → ↑ ←.
+### Évaluation 2
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E5 ; code ← ↑ ← ↓.
 
-### EVAL02
+### Évaluation 3
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B3 ; code → → ↓ ←.
 
-- **EVAL02-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **EVAL02-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
-- **EVAL02-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
-- **EVAL02-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
-- **EVAL02-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E5 ; code ← ↑ ← ↓.
+### Évaluation 4
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D2 ; code ↓ ← ↓ →.
 
-### EVAL03
+### Évaluation 5
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C5 ; code ↑ → ↑ ←.
 
-- **EVAL03-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **EVAL03-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
-- **EVAL03-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
-- **EVAL03-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
-- **EVAL03-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B3 ; code → → ↓ ←.
+### Évaluation 6
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E5 ; code ← ↑ ← ↓.
 
-### EVAL04
+### Évaluation 7
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B3 ; code → → ↓ ←.
 
-- **EVAL04-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **EVAL04-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
-- **EVAL04-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
-- **EVAL04-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
-- **EVAL04-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D2 ; code ↓ ← ↓ →.
+### Évaluation 8
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D2 ; code ↓ ← ↓ →.
 
-### EVAL05
+### Évaluation 9
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C5 ; code ↑ → ↑ ←.
 
-- **EVAL05-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **EVAL05-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
-- **EVAL05-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
-- **EVAL05-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
-- **EVAL05-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C5 ; code ↑ → ↑ ←.
-
-### EVAL06
-
-- **EVAL06-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **EVAL06-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
-- **EVAL06-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B5 ; code ↑ → → ↑.
-- **EVAL06-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F4 ; code ← ← ↑ → ↑ ←.
-- **EVAL06-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E5 ; code ← ↑ ← ↓.
-
-### EVAL07
-
-- **EVAL07-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **EVAL07-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A5 ; code ↑ ↑ → → →.
-- **EVAL07-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
-- **EVAL07-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A6 ; code ↑ → ↑ → → ↑.
-- **EVAL07-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B3 ; code → → ↓ ←.
-
-### EVAL08
-
-- **EVAL08-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **EVAL08-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ F5 ; code ← ↑ ← ↑.
-- **EVAL08-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C2 ; code → ↓ ↓ ←.
-- **EVAL08-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A2 ; code → ↓ → → ↑ →.
-- **EVAL08-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D2 ; code ↓ ← ↓ →.
-
-### EVAL09
-
-- **EVAL09-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **EVAL09-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
-- **EVAL09-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B1 ; code ↓ → ↓ → ↓.
-- **EVAL09-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D6 ; code ↑ ← ↑ → ↑ ←.
-- **EVAL09-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C5 ; code ↑ → ↑ ←.
-
-### EVAL10
-
-- **EVAL10-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **EVAL10-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
-- **EVAL10-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
-- **EVAL10-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
-- **EVAL10-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E5 ; code ← ↑ ← ↓.
+### Évaluation 10
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E2 ; code ↓ ↓ ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E6 ; code ↑ ← ↑ ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C1 ; code ↓ → ↓ ← ↓ →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E5 ; code ← ↑ ← ↓.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
 
-- **DEV01-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **DEV01-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **DEV01-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **DEV01-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **DEV01-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+### Devoir 2
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
 
-### DEV02
+### Devoir 3
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
 
-- **DEV02-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **DEV02-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV02-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **DEV02-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV02-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+### Devoir 4
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
 
-### DEV03
+### Devoir 5
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
 
-- **DEV03-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **DEV03-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **DEV03-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **DEV03-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **DEV03-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+### Devoir 6
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
 
-### DEV04
+### Devoir 7
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
 
-- **DEV04-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **DEV04-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **DEV04-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV04-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **DEV04-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+### Devoir 8
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
 
-### DEV05
+### Devoir 9
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
 
-- **DEV05-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV05-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **DEV05-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **DEV05-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **DEV05-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-
-### DEV06
-
-- **DEV06-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **DEV06-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **DEV06-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **DEV06-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **DEV06-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-
-### DEV07
-
-- **DEV07-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **DEV07-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV07-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **DEV07-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV07-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-
-### DEV08
-
-- **DEV08-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **DEV08-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **DEV08-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **DEV08-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code → →.
-- **DEV08-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-
-### DEV09
-
-- **DEV09-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ B2 ; code ↓ ↓ ↓.
-- **DEV09-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ A3 ; code → → ↓.
-- **DEV09-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV09-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C4 ; code ↑ ↑.
-- **DEV09-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-
-### DEV10
-
-- **DEV10-01** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
-- **DEV10-02** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **DEV10-03** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
-- **DEV10-04** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
-- **DEV10-05** Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+### Devoir 10
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ C3 ; code → ↓.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ E3 ; code ← ←.
+- Sur un quadrillage, pars de la case indiquée, suis les flèches, donne l’arrivée puis écris le trajet retour. Départ D4 ; code ← ↑.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** arrivée B5 ; retour ↑ ↑ ↑
-2. **IMM02** arrivée D4 ; retour ↑ ←
-3. **IMM03** arrivée C3 ; retour ↓ →
-4. **IMM04** arrivée C4 ; retour ↑ ← ←
-5. **IMM05** arrivée D2 ; retour ← ←
-6. **IMM06** arrivée C2 ; retour ↓ ↓
-7. **IMM07** arrivée C3 ; retour → →
+1. arrivée B5 ; retour ↑ ↑ ↑
+2. arrivée D4 ; retour ↑ ←
+3. arrivée C3 ; retour ↓ →
+4. arrivée C4 ; retour ↑ ← ←
+5. arrivée D2 ; retour ← ←
+6. arrivée C2 ; retour ↓ ↓
+7. arrivée C3 ; retour → →
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. arrivée D2 ; retour ← ←
+2. arrivée C2 ; retour ↓ ↓
+3. arrivée C3 ; retour → →
+4. arrivée B5 ; retour ↑ ↑ ↑
+5. arrivée D4 ; retour ↑ ←
 
-1. **ENT01-01** arrivée D2 ; retour ← ←
-2. **ENT01-02** arrivée C2 ; retour ↓ ↓
-3. **ENT01-03** arrivée C3 ; retour → →
-4. **ENT01-04** arrivée B5 ; retour ↑ ↑ ↑
-5. **ENT01-05** arrivée D4 ; retour ↑ ←
+#### Entraînement 2
+1. arrivée C3 ; retour → →
+2. arrivée B5 ; retour ↑ ↑ ↑
+3. arrivée D4 ; retour ↑ ←
+4. arrivée C3 ; retour ↓ →
+5. arrivée C4 ; retour ↑ ← ←
 
-#### ENT02
+#### Entraînement 3
+1. arrivée D4 ; retour ↑ ←
+2. arrivée C3 ; retour ↓ →
+3. arrivée C4 ; retour ↑ ← ←
+4. arrivée D2 ; retour ← ←
+5. arrivée C2 ; retour ↓ ↓
 
-1. **ENT02-01** arrivée C3 ; retour → →
-2. **ENT02-02** arrivée B5 ; retour ↑ ↑ ↑
-3. **ENT02-03** arrivée D4 ; retour ↑ ←
-4. **ENT02-04** arrivée C3 ; retour ↓ →
-5. **ENT02-05** arrivée C4 ; retour ↑ ← ←
+#### Entraînement 4
+1. arrivée C3 ; retour ↓ → ↓ → ↓
+2. arrivée D3 ; retour ↓ ← ← ↓
+3. arrivée C4 ; retour → → ↑ ↑
+4. arrivée C4 ; retour → ↑ ↑ ←
+5. arrivée D3 ; retour ← ← ← ↓ ↓
 
-#### ENT03
+#### Entraînement 5
+1. arrivée C4 ; retour → → ↑ ↑
+2. arrivée C4 ; retour → ↑ ↑ ←
+3. arrivée D3 ; retour ← ← ← ↓ ↓
+4. arrivée D3 ; retour ↓ → ↓ →
+5. arrivée D4 ; retour ↑ ← ↑ ← ↑
 
-1. **ENT03-01** arrivée D4 ; retour ↑ ←
-2. **ENT03-02** arrivée C3 ; retour ↓ →
-3. **ENT03-03** arrivée C4 ; retour ↑ ← ←
-4. **ENT03-04** arrivée D2 ; retour ← ←
-5. **ENT03-05** arrivée C2 ; retour ↓ ↓
+#### Entraînement 6
+1. arrivée D3 ; retour ← ← ← ↓ ↓
+2. arrivée D3 ; retour ↓ → ↓ →
+3. arrivée D4 ; retour ↑ ← ↑ ← ↑
+4. arrivée C3 ; retour ↓ → ↓ → ↓
+5. arrivée D3 ; retour ↓ ← ← ↓
 
-#### ENT04
+#### Entraînement 7
+1. arrivée D4 ; retour ↑ ← ↑ ← ↑
+2. arrivée C3 ; retour ↓ → ↓ → ↓
+3. arrivée D3 ; retour ↓ ← ← ↓
+4. arrivée C4 ; retour → → ↑ ↑
+5. arrivée C4 ; retour → ↑ ↑ ←
 
-1. **ENT04-01** arrivée C3 ; retour ↓ → ↓ → ↓
-2. **ENT04-02** arrivée D3 ; retour ↓ ← ← ↓
-3. **ENT04-03** arrivée C4 ; retour → → ↑ ↑
-4. **ENT04-04** arrivée C4 ; retour → ↑ ↑ ←
-5. **ENT04-05** arrivée D3 ; retour ← ← ← ↓ ↓
+#### Entraînement 8
+1. arrivée C3 ; retour → ↓ ← ↓ ← ↓
+2. arrivée E4 ; retour ← ↑ ↑ → ↑ →
+3. arrivée E2 ; retour ← ↓ ← ← ↑ ←
+4. arrivée C3 ; retour → ↓ ← ↓ → ↓
+5. arrivée D4 ; retour ← ↑ → ↑ ← ↑
 
-#### ENT05
+#### Entraînement 9
+1. arrivée E2 ; retour ← ↓ ← ← ↑ ←
+2. arrivée C3 ; retour → ↓ ← ↓ → ↓
+3. arrivée D4 ; retour ← ↑ → ↑ ← ↑
+4. arrivée D2 ; retour → ↓ ← ↓ → →
+5. arrivée D3 ; retour ↓ ← ← ↓ ← ↓
 
-1. **ENT05-01** arrivée C4 ; retour → → ↑ ↑
-2. **ENT05-02** arrivée C4 ; retour → ↑ ↑ ←
-3. **ENT05-03** arrivée D3 ; retour ← ← ← ↓ ↓
-4. **ENT05-04** arrivée D3 ; retour ↓ → ↓ →
-5. **ENT05-05** arrivée D4 ; retour ↑ ← ↑ ← ↑
-
-#### ENT06
-
-1. **ENT06-01** arrivée D3 ; retour ← ← ← ↓ ↓
-2. **ENT06-02** arrivée D3 ; retour ↓ → ↓ →
-3. **ENT06-03** arrivée D4 ; retour ↑ ← ↑ ← ↑
-4. **ENT06-04** arrivée C3 ; retour ↓ → ↓ → ↓
-5. **ENT06-05** arrivée D3 ; retour ↓ ← ← ↓
-
-#### ENT07
-
-1. **ENT07-01** arrivée D4 ; retour ↑ ← ↑ ← ↑
-2. **ENT07-02** arrivée C3 ; retour ↓ → ↓ → ↓
-3. **ENT07-03** arrivée D3 ; retour ↓ ← ← ↓
-4. **ENT07-04** arrivée C4 ; retour → → ↑ ↑
-5. **ENT07-05** arrivée C4 ; retour → ↑ ↑ ←
-
-#### ENT08
-
-1. **ENT08-01** arrivée C3 ; retour → ↓ ← ↓ ← ↓
-2. **ENT08-02** arrivée E4 ; retour ← ↑ ↑ → ↑ →
-3. **ENT08-03** arrivée E2 ; retour ← ↓ ← ← ↑ ←
-4. **ENT08-04** arrivée C3 ; retour → ↓ ← ↓ → ↓
-5. **ENT08-05** arrivée D4 ; retour ← ↑ → ↑ ← ↑
-
-#### ENT09
-
-1. **ENT09-01** arrivée E2 ; retour ← ↓ ← ← ↑ ←
-2. **ENT09-02** arrivée C3 ; retour → ↓ ← ↓ → ↓
-3. **ENT09-03** arrivée D4 ; retour ← ↑ → ↑ ← ↑
-4. **ENT09-04** arrivée D2 ; retour → ↓ ← ↓ → →
-5. **ENT09-05** arrivée D3 ; retour ↓ ← ← ↓ ← ↓
-
-#### ENT10
-
-1. **ENT10-01** arrivée D4 ; retour ← ↑ → ↑ ← ↑
-2. **ENT10-02** arrivée D2 ; retour → ↓ ← ↓ → →
-3. **ENT10-03** arrivée D3 ; retour ↓ ← ← ↓ ← ↓
-4. **ENT10-04** arrivée C3 ; retour → ↓ ← ↓ ← ↓
-5. **ENT10-05** arrivée E4 ; retour ← ↑ ↑ → ↑ →
+#### Entraînement 10
+1. arrivée D4 ; retour ← ↑ → ↑ ← ↑
+2. arrivée D2 ; retour → ↓ ← ↓ → →
+3. arrivée D3 ; retour ↓ ← ← ↓ ← ↓
+4. arrivée C3 ; retour → ↓ ← ↓ ← ↓
+5. arrivée E4 ; retour ← ↑ ↑ → ↑ →
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. arrivée D4 ; retour ↑ ←
+2. arrivée C4 ; retour → ↑ ↑ ←
+3. arrivée D3 ; retour ↓ ← ← ↓
+4. arrivée D2 ; retour → ↓ ← ↓ → →
+5. arrivée C3 ; retour → ↓ ← ↓
 
-1. **EVAL01-01** arrivée D4 ; retour ↑ ←
-2. **EVAL01-02** arrivée C4 ; retour → ↑ ↑ ←
-3. **EVAL01-03** arrivée D3 ; retour ↓ ← ← ↓
-4. **EVAL01-04** arrivée D2 ; retour → ↓ ← ↓ → →
-5. **EVAL01-05** arrivée C3 ; retour → ↓ ← ↓
+#### Évaluation 2
+1. arrivée C3 ; retour ↓ →
+2. arrivée D3 ; retour ← ← ← ↓ ↓
+3. arrivée C4 ; retour → → ↑ ↑
+4. arrivée D3 ; retour ↓ ← ← ↓ ← ↓
+5. arrivée C5 ; retour ↑ → ↓ →
 
-#### EVAL02
+#### Évaluation 3
+1. arrivée C4 ; retour ↑ ← ←
+2. arrivée D3 ; retour ↓ → ↓ →
+3. arrivée C4 ; retour → ↑ ↑ ←
+4. arrivée E2 ; retour ← ↓ ← ← ↑ ←
+5. arrivée C4 ; retour → ↑ ← ←
 
-1. **EVAL02-01** arrivée C3 ; retour ↓ →
-2. **EVAL02-02** arrivée D3 ; retour ← ← ← ↓ ↓
-3. **EVAL02-03** arrivée C4 ; retour → → ↑ ↑
-4. **EVAL02-04** arrivée D3 ; retour ↓ ← ← ↓ ← ↓
-5. **EVAL02-05** arrivée C5 ; retour ↑ → ↓ →
+#### Évaluation 4
+1. arrivée D2 ; retour ← ←
+2. arrivée D4 ; retour ↑ ← ↑ ← ↑
+3. arrivée D4 ; retour ↑ ← ↑ ← ↑
+4. arrivée C3 ; retour → ↓ ← ↓ → ↓
+5. arrivée D4 ; retour ← ↑ → ↑
 
-#### EVAL03
+#### Évaluation 5
+1. arrivée C2 ; retour ↓ ↓
+2. arrivée C4 ; retour → → ↑ ↑
+3. arrivée C3 ; retour ↓ → ↓ → ↓
+4. arrivée D4 ; retour ← ↑ → ↑ ← ↑
+5. arrivée C3 ; retour → ↓ ← ↓
 
-1. **EVAL03-01** arrivée C4 ; retour ↑ ← ←
-2. **EVAL03-02** arrivée D3 ; retour ↓ → ↓ →
-3. **EVAL03-03** arrivée C4 ; retour → ↑ ↑ ←
-4. **EVAL03-04** arrivée E2 ; retour ← ↓ ← ← ↑ ←
-5. **EVAL03-05** arrivée C4 ; retour → ↑ ← ←
+#### Évaluation 6
+1. arrivée D4 ; retour ↑ ←
+2. arrivée C4 ; retour → ↑ ↑ ←
+3. arrivée D3 ; retour ↓ ← ← ↓
+4. arrivée D2 ; retour → ↓ ← ↓ → →
+5. arrivée C5 ; retour ↑ → ↓ →
 
-#### EVAL04
+#### Évaluation 7
+1. arrivée C3 ; retour ↓ →
+2. arrivée D3 ; retour ← ← ← ↓ ↓
+3. arrivée C4 ; retour → → ↑ ↑
+4. arrivée D3 ; retour ↓ ← ← ↓ ← ↓
+5. arrivée C4 ; retour → ↑ ← ←
 
-1. **EVAL04-01** arrivée D2 ; retour ← ←
-2. **EVAL04-02** arrivée D4 ; retour ↑ ← ↑ ← ↑
-3. **EVAL04-03** arrivée D4 ; retour ↑ ← ↑ ← ↑
-4. **EVAL04-04** arrivée C3 ; retour → ↓ ← ↓ → ↓
-5. **EVAL04-05** arrivée D4 ; retour ← ↑ → ↑
+#### Évaluation 8
+1. arrivée C4 ; retour ↑ ← ←
+2. arrivée D3 ; retour ↓ → ↓ →
+3. arrivée C4 ; retour → ↑ ↑ ←
+4. arrivée E2 ; retour ← ↓ ← ← ↑ ←
+5. arrivée D4 ; retour ← ↑ → ↑
 
-#### EVAL05
+#### Évaluation 9
+1. arrivée D2 ; retour ← ←
+2. arrivée D4 ; retour ↑ ← ↑ ← ↑
+3. arrivée D4 ; retour ↑ ← ↑ ← ↑
+4. arrivée C3 ; retour → ↓ ← ↓ → ↓
+5. arrivée C3 ; retour → ↓ ← ↓
 
-1. **EVAL05-01** arrivée C2 ; retour ↓ ↓
-2. **EVAL05-02** arrivée C4 ; retour → → ↑ ↑
-3. **EVAL05-03** arrivée C3 ; retour ↓ → ↓ → ↓
-4. **EVAL05-04** arrivée D4 ; retour ← ↑ → ↑ ← ↑
-5. **EVAL05-05** arrivée C3 ; retour → ↓ ← ↓
-
-#### EVAL06
-
-1. **EVAL06-01** arrivée D4 ; retour ↑ ←
-2. **EVAL06-02** arrivée C4 ; retour → ↑ ↑ ←
-3. **EVAL06-03** arrivée D3 ; retour ↓ ← ← ↓
-4. **EVAL06-04** arrivée D2 ; retour → ↓ ← ↓ → →
-5. **EVAL06-05** arrivée C5 ; retour ↑ → ↓ →
-
-#### EVAL07
-
-1. **EVAL07-01** arrivée C3 ; retour ↓ →
-2. **EVAL07-02** arrivée D3 ; retour ← ← ← ↓ ↓
-3. **EVAL07-03** arrivée C4 ; retour → → ↑ ↑
-4. **EVAL07-04** arrivée D3 ; retour ↓ ← ← ↓ ← ↓
-5. **EVAL07-05** arrivée C4 ; retour → ↑ ← ←
-
-#### EVAL08
-
-1. **EVAL08-01** arrivée C4 ; retour ↑ ← ←
-2. **EVAL08-02** arrivée D3 ; retour ↓ → ↓ →
-3. **EVAL08-03** arrivée C4 ; retour → ↑ ↑ ←
-4. **EVAL08-04** arrivée E2 ; retour ← ↓ ← ← ↑ ←
-5. **EVAL08-05** arrivée D4 ; retour ← ↑ → ↑
-
-#### EVAL09
-
-1. **EVAL09-01** arrivée D2 ; retour ← ←
-2. **EVAL09-02** arrivée D4 ; retour ↑ ← ↑ ← ↑
-3. **EVAL09-03** arrivée D4 ; retour ↑ ← ↑ ← ↑
-4. **EVAL09-04** arrivée C3 ; retour → ↓ ← ↓ → ↓
-5. **EVAL09-05** arrivée C3 ; retour → ↓ ← ↓
-
-#### EVAL10
-
-1. **EVAL10-01** arrivée C2 ; retour ↓ ↓
-2. **EVAL10-02** arrivée C4 ; retour → → ↑ ↑
-3. **EVAL10-03** arrivée C3 ; retour ↓ → ↓ → ↓
-4. **EVAL10-04** arrivée D4 ; retour ← ↑ → ↑ ← ↑
-5. **EVAL10-05** arrivée C5 ; retour ↑ → ↓ →
+#### Évaluation 10
+1. arrivée C2 ; retour ↓ ↓
+2. arrivée C4 ; retour → → ↑ ↑
+3. arrivée C3 ; retour ↓ → ↓ → ↓
+4. arrivée D4 ; retour ← ↑ → ↑ ← ↑
+5. arrivée C5 ; retour ↑ → ↓ →
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. arrivée D2 ; retour ← ←
+2. arrivée B5 ; retour ↑ ↑ ↑
+3. arrivée C4 ; retour ↑ ← ←
+4. arrivée B5 ; retour ↑ ↑ ↑
+5. arrivée C4 ; retour ↑ ← ←
 
-1. **DEV01-01** arrivée D2 ; retour ← ←
-2. **DEV01-02** arrivée B5 ; retour ↑ ↑ ↑
-3. **DEV01-03** arrivée C4 ; retour ↑ ← ←
-4. **DEV01-04** arrivée B5 ; retour ↑ ↑ ↑
-5. **DEV01-05** arrivée C4 ; retour ↑ ← ←
+#### Devoir 2
+1. arrivée C2 ; retour ↓ ↓
+2. arrivée D4 ; retour ↑ ←
+3. arrivée D2 ; retour ← ←
+4. arrivée D4 ; retour ↑ ←
+5. arrivée C3 ; retour → →
 
-#### DEV02
+#### Devoir 3
+1. arrivée C3 ; retour → →
+2. arrivée C3 ; retour ↓ →
+3. arrivée C2 ; retour ↓ ↓
+4. arrivée D2 ; retour ← ←
+5. arrivée B5 ; retour ↑ ↑ ↑
 
-1. **DEV02-01** arrivée C2 ; retour ↓ ↓
-2. **DEV02-02** arrivée D4 ; retour ↑ ←
-3. **DEV02-03** arrivée D2 ; retour ← ←
-4. **DEV02-04** arrivée D4 ; retour ↑ ←
-5. **DEV02-05** arrivée C3 ; retour → →
+#### Devoir 4
+1. arrivée B5 ; retour ↑ ↑ ↑
+2. arrivée C4 ; retour ↑ ← ←
+3. arrivée D4 ; retour ↑ ←
+4. arrivée C2 ; retour ↓ ↓
+5. arrivée D4 ; retour ↑ ←
 
-#### DEV03
+#### Devoir 5
+1. arrivée D4 ; retour ↑ ←
+2. arrivée C3 ; retour → →
+3. arrivée C3 ; retour ↓ →
+4. arrivée C3 ; retour → →
+5. arrivée C3 ; retour ↓ →
 
-1. **DEV03-01** arrivée C3 ; retour → →
-2. **DEV03-02** arrivée C3 ; retour ↓ →
-3. **DEV03-03** arrivée C2 ; retour ↓ ↓
-4. **DEV03-04** arrivée D2 ; retour ← ←
-5. **DEV03-05** arrivée B5 ; retour ↑ ↑ ↑
+#### Devoir 6
+1. arrivée D2 ; retour ← ←
+2. arrivée B5 ; retour ↑ ↑ ↑
+3. arrivée C4 ; retour ↑ ← ←
+4. arrivée B5 ; retour ↑ ↑ ↑
+5. arrivée C4 ; retour ↑ ← ←
 
-#### DEV04
+#### Devoir 7
+1. arrivée C2 ; retour ↓ ↓
+2. arrivée D4 ; retour ↑ ←
+3. arrivée D2 ; retour ← ←
+4. arrivée D4 ; retour ↑ ←
+5. arrivée C3 ; retour → →
 
-1. **DEV04-01** arrivée B5 ; retour ↑ ↑ ↑
-2. **DEV04-02** arrivée C4 ; retour ↑ ← ←
-3. **DEV04-03** arrivée D4 ; retour ↑ ←
-4. **DEV04-04** arrivée C2 ; retour ↓ ↓
-5. **DEV04-05** arrivée D4 ; retour ↑ ←
+#### Devoir 8
+1. arrivée C3 ; retour → →
+2. arrivée C3 ; retour ↓ →
+3. arrivée C2 ; retour ↓ ↓
+4. arrivée D2 ; retour ← ←
+5. arrivée B5 ; retour ↑ ↑ ↑
 
-#### DEV05
+#### Devoir 9
+1. arrivée B5 ; retour ↑ ↑ ↑
+2. arrivée C4 ; retour ↑ ← ←
+3. arrivée D4 ; retour ↑ ←
+4. arrivée C2 ; retour ↓ ↓
+5. arrivée D4 ; retour ↑ ←
 
-1. **DEV05-01** arrivée D4 ; retour ↑ ←
-2. **DEV05-02** arrivée C3 ; retour → →
-3. **DEV05-03** arrivée C3 ; retour ↓ →
-4. **DEV05-04** arrivée C3 ; retour → →
-5. **DEV05-05** arrivée C3 ; retour ↓ →
-
-#### DEV06
-
-1. **DEV06-01** arrivée D2 ; retour ← ←
-2. **DEV06-02** arrivée B5 ; retour ↑ ↑ ↑
-3. **DEV06-03** arrivée C4 ; retour ↑ ← ←
-4. **DEV06-04** arrivée B5 ; retour ↑ ↑ ↑
-5. **DEV06-05** arrivée C4 ; retour ↑ ← ←
-
-#### DEV07
-
-1. **DEV07-01** arrivée C2 ; retour ↓ ↓
-2. **DEV07-02** arrivée D4 ; retour ↑ ←
-3. **DEV07-03** arrivée D2 ; retour ← ←
-4. **DEV07-04** arrivée D4 ; retour ↑ ←
-5. **DEV07-05** arrivée C3 ; retour → →
-
-#### DEV08
-
-1. **DEV08-01** arrivée C3 ; retour → →
-2. **DEV08-02** arrivée C3 ; retour ↓ →
-3. **DEV08-03** arrivée C2 ; retour ↓ ↓
-4. **DEV08-04** arrivée D2 ; retour ← ←
-5. **DEV08-05** arrivée B5 ; retour ↑ ↑ ↑
-
-#### DEV09
-
-1. **DEV09-01** arrivée B5 ; retour ↑ ↑ ↑
-2. **DEV09-02** arrivée C4 ; retour ↑ ← ←
-3. **DEV09-03** arrivée D4 ; retour ↑ ←
-4. **DEV09-04** arrivée C2 ; retour ↓ ↓
-5. **DEV09-05** arrivée D4 ; retour ↑ ←
-
-#### DEV10
-
-1. **DEV10-01** arrivée D4 ; retour ↑ ←
-2. **DEV10-02** arrivée C3 ; retour → →
-3. **DEV10-03** arrivée C3 ; retour ↓ →
-4. **DEV10-04** arrivée C3 ; retour → →
-5. **DEV10-05** arrivée C3 ; retour ↓ →
+#### Devoir 10
+1. arrivée D4 ; retour ↑ ←
+2. arrivée C3 ; retour → →
+3. arrivée C3 ; retour ↓ →
+4. arrivée C3 ; retour → →
+5. arrivée C3 ; retour ↓ →
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

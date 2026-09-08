@@ -61,8 +61,7 @@ Le format sollicite directement la compétence et produit une réponse corrigeab
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
 
 - **Attention portée :** comparer à un objet de masse connue et choisir l’unité.
@@ -70,8 +69,7 @@ Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg
 - **Réponse :** 10 g.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
 
 - **Attention portée :** comparer à un objet de masse connue et choisir l’unité.
@@ -79,8 +77,7 @@ Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
 - **Réponse :** 200 g.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
 
 - **Attention portée :** comparer à un objet de masse connue et choisir l’unité.
@@ -90,13 +87,13 @@ Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g*
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
-- **IMM02** Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
-- **IMM03** Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
-- **IMM04** Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
-- **IMM05** Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
-- **IMM06** Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
-- **IMM07** Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
+- Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
+- Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
+- Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
+- Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
+- Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
+- Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
 
 ## Variables didactiques
 
@@ -106,507 +103,447 @@ Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g*
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
+- Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
+- Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
+- Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
 
-- **ENT01-01** Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
-- **ENT01-02** Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
-- **ENT01-03** Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-- **ENT01-04** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
-- **ENT01-05** Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
+### Entraînement 2
+- Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
+- Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
+- Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
+- Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
+- Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
 
-### ENT02
+### Entraînement 3
+- Pour une orange, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
+- Pour une brique de lait, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+- Pour une paire de ciseaux, entoure la masse vraisemblable : **50 g ; 5 kg ; 50 kg**.
+- Pour un élève de CE1, entoure la masse vraisemblable : **25 g ; 250 kg ; 25 kg**.
+- Pour un manuel scolaire, entoure la masse vraisemblable : **50 kg ; 500 g ; 5 g**.
 
-- **ENT02-01** Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
-- **ENT02-02** Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
-- **ENT02-03** Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
-- **ENT02-04** Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
-- **ENT02-05** Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+### Entraînement 4
+- Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
+- Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
+- Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
+- Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
+- Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
 
-### ENT03
+### Entraînement 5
+- Pour un sachet de levure, entoure la masse vraisemblable : **10 kg ; 10 g ; 1 kg**.
+- Pour une pomme, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
+- Pour un paquet de sucre, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+- Pour un dictionnaire, entoure la masse vraisemblable : **1 kg ; 10 g ; 50 kg**.
 
-- **ENT03-01** Pour une orange, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
-- **ENT03-02** Pour une brique de lait, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-- **ENT03-03** Pour une paire de ciseaux, entoure la masse vraisemblable : **50 g ; 5 kg ; 50 kg**.
-- **ENT03-04** Pour un élève de CE1, entoure la masse vraisemblable : **25 g ; 250 kg ; 25 kg**.
-- **ENT03-05** Pour un manuel scolaire, entoure la masse vraisemblable : **50 kg ; 500 g ; 5 g**.
+### Entraînement 6
+- Pour une feuille de papier, entoure la masse vraisemblable : **500 g ; 5 kg ; 5 g**.
+- Pour un cartable rempli, entoure la masse vraisemblable : **50 kg ; 5 kg ; 5 g**.
+- Pour une gomme, entoure la masse vraisemblable : **20 g ; 2 kg ; 20 kg**.
+- Pour un vélo, entoure la masse vraisemblable : **12 g ; 120 kg ; 12 kg**.
+- Pour un chat, entoure la masse vraisemblable : **40 kg ; 4 kg ; 4 g**.
 
-### ENT04
+### Entraînement 7
+- Pour une orange, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
+- Pour une brique de lait, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
+- Pour une paire de ciseaux, entoure la masse vraisemblable : **50 kg ; 50 g ; 5 kg**.
+- Pour un élève de CE1, entoure la masse vraisemblable : **25 kg ; 25 g ; 250 kg**.
+- Pour un manuel scolaire, entoure la masse vraisemblable : **5 g ; 50 kg ; 500 g**.
 
-- **ENT04-01** Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
-- **ENT04-02** Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
-- **ENT04-03** Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
-- **ENT04-04** Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
-- **ENT04-05** Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
+### Entraînement 8
+- Pour une baguette de pain, entoure la masse vraisemblable : **25 kg ; 250 g ; 2 g**.
+- Pour une cuillère, entoure la masse vraisemblable : **30 g ; 3 kg ; 30 kg**.
+- Pour un ballon léger, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
+- Pour un chien moyen, entoure la masse vraisemblable : **150 kg ; 15 kg ; 15 g**.
+- Pour une trousse pleine, entoure la masse vraisemblable : **300 g ; 3 g ; 30 kg**.
 
-### ENT05
+### Entraînement 9
+- Pour un sachet de levure, entoure la masse vraisemblable : **1 kg ; 10 kg ; 10 g**.
+- Pour une pomme, entoure la masse vraisemblable : **20 kg ; 200 g ; 2 g**.
+- Pour un paquet de sucre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
+- Pour un dictionnaire, entoure la masse vraisemblable : **50 kg ; 1 kg ; 10 g**.
 
-- **ENT05-01** Pour un sachet de levure, entoure la masse vraisemblable : **10 kg ; 10 g ; 1 kg**.
-- **ENT05-02** Pour une pomme, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
-- **ENT05-03** Pour un paquet de sucre, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
-- **ENT05-04** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-- **ENT05-05** Pour un dictionnaire, entoure la masse vraisemblable : **1 kg ; 10 g ; 50 kg**.
-
-### ENT06
-
-- **ENT06-01** Pour une feuille de papier, entoure la masse vraisemblable : **500 g ; 5 kg ; 5 g**.
-- **ENT06-02** Pour un cartable rempli, entoure la masse vraisemblable : **50 kg ; 5 kg ; 5 g**.
-- **ENT06-03** Pour une gomme, entoure la masse vraisemblable : **20 g ; 2 kg ; 20 kg**.
-- **ENT06-04** Pour un vélo, entoure la masse vraisemblable : **12 g ; 120 kg ; 12 kg**.
-- **ENT06-05** Pour un chat, entoure la masse vraisemblable : **40 kg ; 4 kg ; 4 g**.
-
-### ENT07
-
-- **ENT07-01** Pour une orange, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
-- **ENT07-02** Pour une brique de lait, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
-- **ENT07-03** Pour une paire de ciseaux, entoure la masse vraisemblable : **50 kg ; 50 g ; 5 kg**.
-- **ENT07-04** Pour un élève de CE1, entoure la masse vraisemblable : **25 kg ; 25 g ; 250 kg**.
-- **ENT07-05** Pour un manuel scolaire, entoure la masse vraisemblable : **5 g ; 50 kg ; 500 g**.
-
-### ENT08
-
-- **ENT08-01** Pour une baguette de pain, entoure la masse vraisemblable : **25 kg ; 250 g ; 2 g**.
-- **ENT08-02** Pour une cuillère, entoure la masse vraisemblable : **30 g ; 3 kg ; 30 kg**.
-- **ENT08-03** Pour un ballon léger, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
-- **ENT08-04** Pour un chien moyen, entoure la masse vraisemblable : **150 kg ; 15 kg ; 15 g**.
-- **ENT08-05** Pour une trousse pleine, entoure la masse vraisemblable : **300 g ; 3 g ; 30 kg**.
-
-### ENT09
-
-- **ENT09-01** Pour un sachet de levure, entoure la masse vraisemblable : **1 kg ; 10 kg ; 10 g**.
-- **ENT09-02** Pour une pomme, entoure la masse vraisemblable : **20 kg ; 200 g ; 2 g**.
-- **ENT09-03** Pour un paquet de sucre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
-- **ENT09-04** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
-- **ENT09-05** Pour un dictionnaire, entoure la masse vraisemblable : **50 kg ; 1 kg ; 10 g**.
-
-### ENT10
-
-- **ENT10-01** Pour une feuille de papier, entoure la masse vraisemblable : **5 g ; 500 g ; 5 kg**.
-- **ENT10-02** Pour un cartable rempli, entoure la masse vraisemblable : **5 g ; 50 kg ; 5 kg**.
-- **ENT10-03** Pour une gomme, entoure la masse vraisemblable : **20 kg ; 20 g ; 2 kg**.
-- **ENT10-04** Pour un vélo, entoure la masse vraisemblable : **12 kg ; 12 g ; 120 kg**.
-- **ENT10-05** Pour un chat, entoure la masse vraisemblable : **4 g ; 40 kg ; 4 kg**.
+### Entraînement 10
+- Pour une feuille de papier, entoure la masse vraisemblable : **5 g ; 500 g ; 5 kg**.
+- Pour un cartable rempli, entoure la masse vraisemblable : **5 g ; 50 kg ; 5 kg**.
+- Pour une gomme, entoure la masse vraisemblable : **20 kg ; 20 g ; 2 kg**.
+- Pour un vélo, entoure la masse vraisemblable : **12 kg ; 12 g ; 120 kg**.
+- Pour un chat, entoure la masse vraisemblable : **4 g ; 40 kg ; 4 kg**.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
+- Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
+- Pour un manuel scolaire, entoure la masse vraisemblable : **5 g ; 50 kg ; 500 g**.
+- Pour un vélo, choisis la masse vraisemblable : **12 g ; 120 kg ; 12 kg**.
+- Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
 
-- **EVAL01-01** Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
-- **EVAL01-02** Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
-- **EVAL01-03** Pour un manuel scolaire, entoure la masse vraisemblable : **5 g ; 50 kg ; 500 g**.
-- **EVAL01-04** Pour un vélo, choisis la masse vraisemblable : **12 g ; 120 kg ; 12 kg**.
-- **EVAL01-05** Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+### Évaluation 2
+- Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
+- Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
+- Pour une orange, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
+- Pour un chat, choisis la masse vraisemblable : **40 kg ; 4 kg ; 4 g**.
+- Pour une boîte de céréales, entoure la masse vraisemblable : **500 g ; 5 g ; 50 kg**.
 
-### EVAL02
+### Évaluation 3
+- Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
+- Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
+- Pour une brique de lait, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
+- Pour une feuille de papier, choisis la masse vraisemblable : **500 g ; 5 kg ; 5 g**.
+- Pour un tube de colle, entoure la masse vraisemblable : **40 g ; 4 kg ; 40 kg**.
 
-- **EVAL02-01** Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
-- **EVAL02-02** Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
-- **EVAL02-03** Pour une orange, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
-- **EVAL02-04** Pour un chat, choisis la masse vraisemblable : **40 kg ; 4 kg ; 4 g**.
-- **EVAL02-05** Pour une boîte de céréales, entoure la masse vraisemblable : **500 g ; 5 g ; 50 kg**.
+### Évaluation 4
+- Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
+- Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
+- Pour une paire de ciseaux, entoure la masse vraisemblable : **50 kg ; 50 g ; 5 kg**.
+- Pour un cartable rempli, choisis la masse vraisemblable : **50 kg ; 5 kg ; 5 g**.
+- Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
 
-### EVAL03
+### Évaluation 5
+- Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+- Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
+- Pour un élève de CE1, entoure la masse vraisemblable : **25 kg ; 25 g ; 250 kg**.
+- Pour une gomme, choisis la masse vraisemblable : **20 g ; 2 kg ; 20 kg**.
+- Pour une boîte de céréales, entoure la masse vraisemblable : **500 g ; 5 g ; 50 kg**.
 
-- **EVAL03-01** Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
-- **EVAL03-02** Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
-- **EVAL03-03** Pour une brique de lait, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
-- **EVAL03-04** Pour une feuille de papier, choisis la masse vraisemblable : **500 g ; 5 kg ; 5 g**.
-- **EVAL03-05** Pour un tube de colle, entoure la masse vraisemblable : **40 g ; 4 kg ; 40 kg**.
+### Évaluation 6
+- Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
+- Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
+- Pour un manuel scolaire, entoure la masse vraisemblable : **5 g ; 50 kg ; 500 g**.
+- Pour un vélo, choisis la masse vraisemblable : **12 g ; 120 kg ; 12 kg**.
+- Pour un tube de colle, entoure la masse vraisemblable : **40 g ; 4 kg ; 40 kg**.
 
-### EVAL04
+### Évaluation 7
+- Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
+- Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
+- Pour une orange, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
+- Pour un chat, choisis la masse vraisemblable : **40 kg ; 4 kg ; 4 g**.
+- Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
 
-- **EVAL04-01** Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
-- **EVAL04-02** Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
-- **EVAL04-03** Pour une paire de ciseaux, entoure la masse vraisemblable : **50 kg ; 50 g ; 5 kg**.
-- **EVAL04-04** Pour un cartable rempli, choisis la masse vraisemblable : **50 kg ; 5 kg ; 5 g**.
-- **EVAL04-05** Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+### Évaluation 8
+- Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
+- Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
+- Pour une brique de lait, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
+- Pour une feuille de papier, choisis la masse vraisemblable : **500 g ; 5 kg ; 5 g**.
+- Pour une boîte de céréales, entoure la masse vraisemblable : **500 g ; 5 g ; 50 kg**.
 
-### EVAL05
+### Évaluation 9
+- Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
+- Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
+- Pour une paire de ciseaux, entoure la masse vraisemblable : **50 kg ; 50 g ; 5 kg**.
+- Pour un cartable rempli, choisis la masse vraisemblable : **50 kg ; 5 kg ; 5 g**.
+- Pour un tube de colle, entoure la masse vraisemblable : **40 g ; 4 kg ; 40 kg**.
 
-- **EVAL05-01** Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
-- **EVAL05-02** Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
-- **EVAL05-03** Pour un élève de CE1, entoure la masse vraisemblable : **25 kg ; 25 g ; 250 kg**.
-- **EVAL05-04** Pour une gomme, choisis la masse vraisemblable : **20 g ; 2 kg ; 20 kg**.
-- **EVAL05-05** Pour une boîte de céréales, entoure la masse vraisemblable : **500 g ; 5 g ; 50 kg**.
-
-### EVAL06
-
-- **EVAL06-01** Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
-- **EVAL06-02** Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
-- **EVAL06-03** Pour un manuel scolaire, entoure la masse vraisemblable : **5 g ; 50 kg ; 500 g**.
-- **EVAL06-04** Pour un vélo, choisis la masse vraisemblable : **12 g ; 120 kg ; 12 kg**.
-- **EVAL06-05** Pour un tube de colle, entoure la masse vraisemblable : **40 g ; 4 kg ; 40 kg**.
-
-### EVAL07
-
-- **EVAL07-01** Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
-- **EVAL07-02** Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
-- **EVAL07-03** Pour une orange, entoure la masse vraisemblable : **200 g ; 2 g ; 20 kg**.
-- **EVAL07-04** Pour un chat, choisis la masse vraisemblable : **40 kg ; 4 kg ; 4 g**.
-- **EVAL07-05** Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
-
-### EVAL08
-
-- **EVAL08-01** Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
-- **EVAL08-02** Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
-- **EVAL08-03** Pour une brique de lait, entoure la masse vraisemblable : **10 g ; 10 kg ; 1 kg**.
-- **EVAL08-04** Pour une feuille de papier, choisis la masse vraisemblable : **500 g ; 5 kg ; 5 g**.
-- **EVAL08-05** Pour une boîte de céréales, entoure la masse vraisemblable : **500 g ; 5 g ; 50 kg**.
-
-### EVAL09
-
-- **EVAL09-01** Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
-- **EVAL09-02** Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
-- **EVAL09-03** Pour une paire de ciseaux, entoure la masse vraisemblable : **50 kg ; 50 g ; 5 kg**.
-- **EVAL09-04** Pour un cartable rempli, choisis la masse vraisemblable : **50 kg ; 5 kg ; 5 g**.
-- **EVAL09-05** Pour un tube de colle, entoure la masse vraisemblable : **40 g ; 4 kg ; 40 kg**.
-
-### EVAL10
-
-- **EVAL10-01** Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
-- **EVAL10-02** Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
-- **EVAL10-03** Pour un élève de CE1, entoure la masse vraisemblable : **25 kg ; 25 g ; 250 kg**.
-- **EVAL10-04** Pour une gomme, choisis la masse vraisemblable : **20 g ; 2 kg ; 20 kg**.
-- **EVAL10-05** Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+### Évaluation 10
+- Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+- Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
+- Pour un élève de CE1, entoure la masse vraisemblable : **25 kg ; 25 g ; 250 kg**.
+- Pour une gomme, choisis la masse vraisemblable : **20 g ; 2 kg ; 20 kg**.
+- Pour une pastèque, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
+- Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
+- Pour un élève de CE1, entoure la masse vraisemblable : **25 g ; 250 kg ; 25 kg**.
+- Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
+- Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
 
-- **DEV01-01** Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
-- **DEV01-02** Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
-- **DEV01-03** Pour un élève de CE1, entoure la masse vraisemblable : **25 g ; 250 kg ; 25 kg**.
-- **DEV01-04** Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
-- **DEV01-05** Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
+### Devoir 2
+- Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
+- Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
+- Pour un manuel scolaire, entoure la masse vraisemblable : **50 kg ; 500 g ; 5 g**.
+- Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
+- Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
 
-### DEV02
+### Devoir 3
+- Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+- Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+- Pour une orange, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
+- Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
+- Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
 
-- **DEV02-01** Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
-- **DEV02-02** Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
-- **DEV02-03** Pour un manuel scolaire, entoure la masse vraisemblable : **50 kg ; 500 g ; 5 g**.
-- **DEV02-04** Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
-- **DEV02-05** Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
+### Devoir 4
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
+- Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
+- Pour une brique de lait, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+- Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
 
-### DEV03
+### Devoir 5
+- Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
+- Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
+- Pour une paire de ciseaux, entoure la masse vraisemblable : **50 g ; 5 kg ; 50 kg**.
+- Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
+- Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
 
-- **DEV03-01** Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-- **DEV03-02** Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
-- **DEV03-03** Pour une orange, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
-- **DEV03-04** Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
-- **DEV03-05** Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+### Devoir 6
+- Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
+- Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
+- Pour un élève de CE1, entoure la masse vraisemblable : **25 g ; 250 kg ; 25 kg**.
+- Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
+- Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
 
-### DEV04
+### Devoir 7
+- Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
+- Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
+- Pour un manuel scolaire, entoure la masse vraisemblable : **50 kg ; 500 g ; 5 g**.
+- Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
+- Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
 
-- **DEV04-01** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
-- **DEV04-02** Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
-- **DEV04-03** Pour une brique de lait, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-- **DEV04-04** Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
-- **DEV04-05** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
+### Devoir 8
+- Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+- Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
+- Pour une orange, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
+- Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
+- Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
 
-### DEV05
+### Devoir 9
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
+- Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
+- Pour une brique de lait, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
+- Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
+- Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
 
-- **DEV05-01** Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
-- **DEV05-02** Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
-- **DEV05-03** Pour une paire de ciseaux, entoure la masse vraisemblable : **50 g ; 5 kg ; 50 kg**.
-- **DEV05-04** Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
-- **DEV05-05** Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
-
-### DEV06
-
-- **DEV06-01** Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
-- **DEV06-02** Pour une gomme, entoure la masse vraisemblable : **2 kg ; 20 kg ; 20 g**.
-- **DEV06-03** Pour un élève de CE1, entoure la masse vraisemblable : **25 g ; 250 kg ; 25 kg**.
-- **DEV06-04** Pour une trousse pleine, entoure la masse vraisemblable : **3 g ; 30 kg ; 300 g**.
-- **DEV06-05** Pour un sachet de levure, entoure la masse vraisemblable : **10 g ; 1 kg ; 10 kg**.
-
-### DEV07
-
-- **DEV07-01** Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
-- **DEV07-02** Pour un vélo, entoure la masse vraisemblable : **120 kg ; 12 kg ; 12 g**.
-- **DEV07-03** Pour un manuel scolaire, entoure la masse vraisemblable : **50 kg ; 500 g ; 5 g**.
-- **DEV07-04** Pour une baguette de pain, entoure la masse vraisemblable : **250 g ; 2 g ; 25 kg**.
-- **DEV07-05** Pour une pomme, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
-
-### DEV08
-
-- **DEV08-01** Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-- **DEV08-02** Pour un chat, entoure la masse vraisemblable : **4 kg ; 4 g ; 40 kg**.
-- **DEV08-03** Pour une orange, entoure la masse vraisemblable : **2 g ; 20 kg ; 200 g**.
-- **DEV08-04** Pour une cuillère, entoure la masse vraisemblable : **3 kg ; 30 kg ; 30 g**.
-- **DEV08-05** Pour un paquet de sucre, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-
-### DEV09
-
-- **DEV09-01** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
-- **DEV09-02** Pour une feuille de papier, entoure la masse vraisemblable : **5 kg ; 5 g ; 500 g**.
-- **DEV09-03** Pour une brique de lait, entoure la masse vraisemblable : **10 kg ; 1 kg ; 10 g**.
-- **DEV09-04** Pour un ballon léger, entoure la masse vraisemblable : **30 kg ; 300 g ; 3 g**.
-- **DEV09-05** Pour une bouteille d’eau d’un litre, entoure la masse vraisemblable : **1 kg ; 10 g ; 10 kg**.
-
-### DEV10
-
-- **DEV10-01** Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
-- **DEV10-02** Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
-- **DEV10-03** Pour une paire de ciseaux, entoure la masse vraisemblable : **50 g ; 5 kg ; 50 kg**.
-- **DEV10-04** Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
-- **DEV10-05** Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
+### Devoir 10
+- Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
+- Pour un cartable rempli, entoure la masse vraisemblable : **5 kg ; 5 g ; 50 kg**.
+- Pour une paire de ciseaux, entoure la masse vraisemblable : **50 g ; 5 kg ; 50 kg**.
+- Pour un chien moyen, entoure la masse vraisemblable : **15 kg ; 15 g ; 150 kg**.
+- Pour un dictionnaire, entoure la masse vraisemblable : **10 g ; 50 kg ; 1 kg**.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — 1 kg.
-2. **IMM02** — 1 kg.
-3. **IMM03** — 5 g.
-4. **IMM04** — 5 kg.
-5. **IMM05** — 20 g.
-6. **IMM06** — 12 kg.
-7. **IMM07** — 4 kg.
+1. — 1 kg.
+2. — 1 kg.
+3. — 5 g.
+4. — 5 kg.
+5. — 20 g.
+6. — 12 kg.
+7. — 4 kg.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. — 10 g.
+2. — 200 g.
+3. — 1 kg.
+4. — 1 kg.
+5. — 1 kg.
 
-1. **ENT01-01** — 10 g.
-2. **ENT01-02** — 200 g.
-3. **ENT01-03** — 1 kg.
-4. **ENT01-04** — 1 kg.
-5. **ENT01-05** — 1 kg.
+#### Entraînement 2
+1. — 5 g.
+2. — 5 kg.
+3. — 20 g.
+4. — 12 kg.
+5. — 4 kg.
 
-#### ENT02
+#### Entraînement 3
+1. — 200 g.
+2. — 1 kg.
+3. — 50 g.
+4. — 25 kg.
+5. — 500 g.
 
-1. **ENT02-01** — 5 g.
-2. **ENT02-02** — 5 kg.
-3. **ENT02-03** — 20 g.
-4. **ENT02-04** — 12 kg.
-5. **ENT02-05** — 4 kg.
+#### Entraînement 4
+1. — 250 g.
+2. — 30 g.
+3. — 300 g.
+4. — 15 kg.
+5. — 300 g.
 
-#### ENT03
+#### Entraînement 5
+1. — 10 g.
+2. — 200 g.
+3. — 1 kg.
+4. — 1 kg.
+5. — 1 kg.
 
-1. **ENT03-01** — 200 g.
-2. **ENT03-02** — 1 kg.
-3. **ENT03-03** — 50 g.
-4. **ENT03-04** — 25 kg.
-5. **ENT03-05** — 500 g.
+#### Entraînement 6
+1. — 5 g.
+2. — 5 kg.
+3. — 20 g.
+4. — 12 kg.
+5. — 4 kg.
 
-#### ENT04
+#### Entraînement 7
+1. — 200 g.
+2. — 1 kg.
+3. — 50 g.
+4. — 25 kg.
+5. — 500 g.
 
-1. **ENT04-01** — 250 g.
-2. **ENT04-02** — 30 g.
-3. **ENT04-03** — 300 g.
-4. **ENT04-04** — 15 kg.
-5. **ENT04-05** — 300 g.
+#### Entraînement 8
+1. — 250 g.
+2. — 30 g.
+3. — 300 g.
+4. — 15 kg.
+5. — 300 g.
 
-#### ENT05
+#### Entraînement 9
+1. — 10 g.
+2. — 200 g.
+3. — 1 kg.
+4. — 1 kg.
+5. — 1 kg.
 
-1. **ENT05-01** — 10 g.
-2. **ENT05-02** — 200 g.
-3. **ENT05-03** — 1 kg.
-4. **ENT05-04** — 1 kg.
-5. **ENT05-05** — 1 kg.
-
-#### ENT06
-
-1. **ENT06-01** — 5 g.
-2. **ENT06-02** — 5 kg.
-3. **ENT06-03** — 20 g.
-4. **ENT06-04** — 12 kg.
-5. **ENT06-05** — 4 kg.
-
-#### ENT07
-
-1. **ENT07-01** — 200 g.
-2. **ENT07-02** — 1 kg.
-3. **ENT07-03** — 50 g.
-4. **ENT07-04** — 25 kg.
-5. **ENT07-05** — 500 g.
-
-#### ENT08
-
-1. **ENT08-01** — 250 g.
-2. **ENT08-02** — 30 g.
-3. **ENT08-03** — 300 g.
-4. **ENT08-04** — 15 kg.
-5. **ENT08-05** — 300 g.
-
-#### ENT09
-
-1. **ENT09-01** — 10 g.
-2. **ENT09-02** — 200 g.
-3. **ENT09-03** — 1 kg.
-4. **ENT09-04** — 1 kg.
-5. **ENT09-05** — 1 kg.
-
-#### ENT10
-
-1. **ENT10-01** — 5 g.
-2. **ENT10-02** — 5 kg.
-3. **ENT10-03** — 20 g.
-4. **ENT10-04** — 12 kg.
-5. **ENT10-05** — 4 kg.
+#### Entraînement 10
+1. — 5 g.
+2. — 5 kg.
+3. — 20 g.
+4. — 12 kg.
+5. — 4 kg.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. — 5 g.
+2. — 300 g.
+3. — 500 g.
+4. — 12 kg.
+5. — 4 kg.
 
-1. **EVAL01-01** — 5 g.
-2. **EVAL01-02** — 300 g.
-3. **EVAL01-03** — 500 g.
-4. **EVAL01-04** — 12 kg.
-5. **EVAL01-05** — 4 kg.
+#### Évaluation 2
+1. — 5 kg.
+2. — 15 kg.
+3. — 200 g.
+4. — 4 kg.
+5. — 500 g.
 
-#### EVAL02
+#### Évaluation 3
+1. — 20 g.
+2. — 300 g.
+3. — 1 kg.
+4. — 5 g.
+5. — 40 g.
 
-1. **EVAL02-01** — 5 kg.
-2. **EVAL02-02** — 15 kg.
-3. **EVAL02-03** — 200 g.
-4. **EVAL02-04** — 4 kg.
-5. **EVAL02-05** — 500 g.
+#### Évaluation 4
+1. — 12 kg.
+2. — 250 g.
+3. — 50 g.
+4. — 5 kg.
+5. — 4 kg.
 
-#### EVAL03
+#### Évaluation 5
+1. — 4 kg.
+2. — 30 g.
+3. — 25 kg.
+4. — 20 g.
+5. — 500 g.
 
-1. **EVAL03-01** — 20 g.
-2. **EVAL03-02** — 300 g.
-3. **EVAL03-03** — 1 kg.
-4. **EVAL03-04** — 5 g.
-5. **EVAL03-05** — 40 g.
+#### Évaluation 6
+1. — 5 g.
+2. — 300 g.
+3. — 500 g.
+4. — 12 kg.
+5. — 40 g.
 
-#### EVAL04
+#### Évaluation 7
+1. — 5 kg.
+2. — 15 kg.
+3. — 200 g.
+4. — 4 kg.
+5. — 4 kg.
 
-1. **EVAL04-01** — 12 kg.
-2. **EVAL04-02** — 250 g.
-3. **EVAL04-03** — 50 g.
-4. **EVAL04-04** — 5 kg.
-5. **EVAL04-05** — 4 kg.
+#### Évaluation 8
+1. — 20 g.
+2. — 300 g.
+3. — 1 kg.
+4. — 5 g.
+5. — 500 g.
 
-#### EVAL05
+#### Évaluation 9
+1. — 12 kg.
+2. — 250 g.
+3. — 50 g.
+4. — 5 kg.
+5. — 40 g.
 
-1. **EVAL05-01** — 4 kg.
-2. **EVAL05-02** — 30 g.
-3. **EVAL05-03** — 25 kg.
-4. **EVAL05-04** — 20 g.
-5. **EVAL05-05** — 500 g.
-
-#### EVAL06
-
-1. **EVAL06-01** — 5 g.
-2. **EVAL06-02** — 300 g.
-3. **EVAL06-03** — 500 g.
-4. **EVAL06-04** — 12 kg.
-5. **EVAL06-05** — 40 g.
-
-#### EVAL07
-
-1. **EVAL07-01** — 5 kg.
-2. **EVAL07-02** — 15 kg.
-3. **EVAL07-03** — 200 g.
-4. **EVAL07-04** — 4 kg.
-5. **EVAL07-05** — 4 kg.
-
-#### EVAL08
-
-1. **EVAL08-01** — 20 g.
-2. **EVAL08-02** — 300 g.
-3. **EVAL08-03** — 1 kg.
-4. **EVAL08-04** — 5 g.
-5. **EVAL08-05** — 500 g.
-
-#### EVAL09
-
-1. **EVAL09-01** — 12 kg.
-2. **EVAL09-02** — 250 g.
-3. **EVAL09-03** — 50 g.
-4. **EVAL09-04** — 5 kg.
-5. **EVAL09-05** — 40 g.
-
-#### EVAL10
-
-1. **EVAL10-01** — 4 kg.
-2. **EVAL10-02** — 30 g.
-3. **EVAL10-03** — 25 kg.
-4. **EVAL10-04** — 20 g.
-5. **EVAL10-05** — 4 kg.
+#### Évaluation 10
+1. — 4 kg.
+2. — 30 g.
+3. — 25 kg.
+4. — 20 g.
+5. — 4 kg.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. — 10 g.
+2. — 20 g.
+3. — 25 kg.
+4. — 300 g.
+5. — 10 g.
 
-1. **DEV01-01** — 10 g.
-2. **DEV01-02** — 20 g.
-3. **DEV01-03** — 25 kg.
-4. **DEV01-04** — 300 g.
-5. **DEV01-05** — 10 g.
+#### Devoir 2
+1. — 200 g.
+2. — 12 kg.
+3. — 500 g.
+4. — 250 g.
+5. — 200 g.
 
-#### DEV02
+#### Devoir 3
+1. — 1 kg.
+2. — 4 kg.
+3. — 200 g.
+4. — 30 g.
+5. — 1 kg.
 
-1. **DEV02-01** — 200 g.
-2. **DEV02-02** — 12 kg.
-3. **DEV02-03** — 500 g.
-4. **DEV02-04** — 250 g.
-5. **DEV02-05** — 200 g.
+#### Devoir 4
+1. — 1 kg.
+2. — 5 g.
+3. — 1 kg.
+4. — 300 g.
+5. — 1 kg.
 
-#### DEV03
+#### Devoir 5
+1. — 1 kg.
+2. — 5 kg.
+3. — 50 g.
+4. — 15 kg.
+5. — 1 kg.
 
-1. **DEV03-01** — 1 kg.
-2. **DEV03-02** — 4 kg.
-3. **DEV03-03** — 200 g.
-4. **DEV03-04** — 30 g.
-5. **DEV03-05** — 1 kg.
+#### Devoir 6
+1. — 10 g.
+2. — 20 g.
+3. — 25 kg.
+4. — 300 g.
+5. — 10 g.
 
-#### DEV04
+#### Devoir 7
+1. — 200 g.
+2. — 12 kg.
+3. — 500 g.
+4. — 250 g.
+5. — 200 g.
 
-1. **DEV04-01** — 1 kg.
-2. **DEV04-02** — 5 g.
-3. **DEV04-03** — 1 kg.
-4. **DEV04-04** — 300 g.
-5. **DEV04-05** — 1 kg.
+#### Devoir 8
+1. — 1 kg.
+2. — 4 kg.
+3. — 200 g.
+4. — 30 g.
+5. — 1 kg.
 
-#### DEV05
+#### Devoir 9
+1. — 1 kg.
+2. — 5 g.
+3. — 1 kg.
+4. — 300 g.
+5. — 1 kg.
 
-1. **DEV05-01** — 1 kg.
-2. **DEV05-02** — 5 kg.
-3. **DEV05-03** — 50 g.
-4. **DEV05-04** — 15 kg.
-5. **DEV05-05** — 1 kg.
-
-#### DEV06
-
-1. **DEV06-01** — 10 g.
-2. **DEV06-02** — 20 g.
-3. **DEV06-03** — 25 kg.
-4. **DEV06-04** — 300 g.
-5. **DEV06-05** — 10 g.
-
-#### DEV07
-
-1. **DEV07-01** — 200 g.
-2. **DEV07-02** — 12 kg.
-3. **DEV07-03** — 500 g.
-4. **DEV07-04** — 250 g.
-5. **DEV07-05** — 200 g.
-
-#### DEV08
-
-1. **DEV08-01** — 1 kg.
-2. **DEV08-02** — 4 kg.
-3. **DEV08-03** — 200 g.
-4. **DEV08-04** — 30 g.
-5. **DEV08-05** — 1 kg.
-
-#### DEV09
-
-1. **DEV09-01** — 1 kg.
-2. **DEV09-02** — 5 g.
-3. **DEV09-03** — 1 kg.
-4. **DEV09-04** — 300 g.
-5. **DEV09-05** — 1 kg.
-
-#### DEV10
-
-1. **DEV10-01** — 1 kg.
-2. **DEV10-02** — 5 kg.
-3. **DEV10-03** — 50 g.
-4. **DEV10-04** — 15 kg.
-5. **DEV10-05** — 1 kg.
+#### Devoir 10
+1. — 1 kg.
+2. — 5 kg.
+3. — 50 g.
+4. — 15 kg.
+5. — 1 kg.
 
 ## Traçabilité des évaluations et devoirs
 

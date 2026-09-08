@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : cent vingt-quatre.
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 124.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : deux cent trente-six.
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 236.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : trois cent quarante-sept.
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Écris en chiffres : quatre cent cinquante-huit.
-- **IMM02** Écris en chiffres : cinq cent soixante-neuf.
-- **IMM03** Écris en chiffres : six cent soixante-douze.
-- **IMM04** Écris en chiffres : sept cent quatre-vingt-un.
-- **IMM05** Écris en chiffres : huit cent quatre.
-- **IMM06** Écris en chiffres : neuf cent quinze.
-- **IMM07** Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
 
-- **ENT01-01** Écris en chiffres : trois cent quarante-sept.
-- **ENT01-02** Écris en chiffres : quatre cent cinquante-huit.
-- **ENT01-03** Écris en chiffres : cinq cent soixante-neuf.
-- **ENT01-04** Écris en chiffres : six cent soixante-douze.
-- **ENT01-05** Écris en chiffres : sept cent quatre-vingt-un.
+### Entraînement 2
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
 
-### ENT02
+### Entraînement 3
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
 
-- **ENT02-01** Écris en chiffres : cinq cent soixante-neuf.
-- **ENT02-02** Écris en chiffres : six cent soixante-douze.
-- **ENT02-03** Écris en chiffres : sept cent quatre-vingt-un.
-- **ENT02-04** Écris en chiffres : huit cent quatre.
-- **ENT02-05** Écris en chiffres : neuf cent quinze.
+### Entraînement 4
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
 
-### ENT03
+### Entraînement 5
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
 
-- **ENT03-01** Écris en chiffres : sept cent quatre-vingt-un.
-- **ENT03-02** Écris en chiffres : huit cent quatre.
-- **ENT03-03** Écris en chiffres : neuf cent quinze.
-- **ENT03-04** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **ENT03-05** Écris en chiffres : cent vingt-quatre.
+### Entraînement 6
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
 
-### ENT04
+### Entraînement 7
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
 
-- **ENT04-01** Écris en chiffres : neuf cent quinze.
-- **ENT04-02** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **ENT04-03** Écris en chiffres : cent vingt-quatre.
-- **ENT04-04** Écris en chiffres : deux cent trente-six.
-- **ENT04-05** Écris en chiffres : trois cent quarante-sept.
+### Entraînement 8
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
 
-### ENT05
+### Entraînement 9
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
 
-- **ENT05-01** Écris en chiffres : cent vingt-quatre.
-- **ENT05-02** Écris en chiffres : deux cent trente-six.
-- **ENT05-03** Écris en chiffres : trois cent quarante-sept.
-- **ENT05-04** Écris en chiffres : quatre cent cinquante-huit.
-- **ENT05-05** Écris en chiffres : cinq cent soixante-neuf.
-
-### ENT06
-
-- **ENT06-01** Écris en chiffres : trois cent quarante-sept.
-- **ENT06-02** Écris en chiffres : quatre cent cinquante-huit.
-- **ENT06-03** Écris en chiffres : cinq cent soixante-neuf.
-- **ENT06-04** Écris en chiffres : six cent soixante-douze.
-- **ENT06-05** Écris en chiffres : sept cent quatre-vingt-un.
-
-### ENT07
-
-- **ENT07-01** Écris en chiffres : cinq cent soixante-neuf.
-- **ENT07-02** Écris en chiffres : six cent soixante-douze.
-- **ENT07-03** Écris en chiffres : sept cent quatre-vingt-un.
-- **ENT07-04** Écris en chiffres : huit cent quatre.
-- **ENT07-05** Écris en chiffres : neuf cent quinze.
-
-### ENT08
-
-- **ENT08-01** Écris en chiffres : sept cent quatre-vingt-un.
-- **ENT08-02** Écris en chiffres : huit cent quatre.
-- **ENT08-03** Écris en chiffres : neuf cent quinze.
-- **ENT08-04** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **ENT08-05** Écris en chiffres : cent vingt-quatre.
-
-### ENT09
-
-- **ENT09-01** Écris en chiffres : neuf cent quinze.
-- **ENT09-02** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **ENT09-03** Écris en chiffres : cent vingt-quatre.
-- **ENT09-04** Écris en chiffres : deux cent trente-six.
-- **ENT09-05** Écris en chiffres : trois cent quarante-sept.
-
-### ENT10
-
-- **ENT10-01** Écris en chiffres : cent vingt-quatre.
-- **ENT10-02** Écris en chiffres : deux cent trente-six.
-- **ENT10-03** Écris en chiffres : trois cent quarante-sept.
-- **ENT10-04** Écris en chiffres : quatre cent cinquante-huit.
-- **ENT10-05** Écris en chiffres : cinq cent soixante-neuf.
+### Entraînement 10
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
 
-- **EVAL01-01** Écris en chiffres : trois cent quarante-sept.
-- **EVAL01-02** Écris en chiffres : quatre cent cinquante-huit.
-- **EVAL01-03** Écris en chiffres : cinq cent soixante-neuf.
-- **EVAL01-04** Écris en chiffres : six cent soixante-douze.
-- **EVAL01-05** Écris en chiffres : sept cent quatre-vingt-un.
+### Évaluation 2
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
 
-### EVAL02
+### Évaluation 3
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
 
-- **EVAL02-01** Écris en chiffres : cinq cent soixante-neuf.
-- **EVAL02-02** Écris en chiffres : six cent soixante-douze.
-- **EVAL02-03** Écris en chiffres : sept cent quatre-vingt-un.
-- **EVAL02-04** Écris en chiffres : huit cent quatre.
-- **EVAL02-05** Écris en chiffres : neuf cent quinze.
+### Évaluation 4
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
 
-### EVAL03
+### Évaluation 5
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
 
-- **EVAL03-01** Écris en chiffres : sept cent quatre-vingt-un.
-- **EVAL03-02** Écris en chiffres : huit cent quatre.
-- **EVAL03-03** Écris en chiffres : neuf cent quinze.
-- **EVAL03-04** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **EVAL03-05** Écris en chiffres : cent vingt-quatre.
+### Évaluation 6
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
 
-### EVAL04
+### Évaluation 7
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
 
-- **EVAL04-01** Écris en chiffres : neuf cent quinze.
-- **EVAL04-02** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **EVAL04-03** Écris en chiffres : cent vingt-quatre.
-- **EVAL04-04** Écris en chiffres : deux cent trente-six.
-- **EVAL04-05** Écris en chiffres : trois cent quarante-sept.
+### Évaluation 8
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
 
-### EVAL05
+### Évaluation 9
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
 
-- **EVAL05-01** Écris en chiffres : cent vingt-quatre.
-- **EVAL05-02** Écris en chiffres : deux cent trente-six.
-- **EVAL05-03** Écris en chiffres : trois cent quarante-sept.
-- **EVAL05-04** Écris en chiffres : quatre cent cinquante-huit.
-- **EVAL05-05** Écris en chiffres : cinq cent soixante-neuf.
-
-### EVAL06
-
-- **EVAL06-01** Écris en chiffres : trois cent quarante-sept.
-- **EVAL06-02** Écris en chiffres : quatre cent cinquante-huit.
-- **EVAL06-03** Écris en chiffres : cinq cent soixante-neuf.
-- **EVAL06-04** Écris en chiffres : six cent soixante-douze.
-- **EVAL06-05** Écris en chiffres : sept cent quatre-vingt-un.
-
-### EVAL07
-
-- **EVAL07-01** Écris en chiffres : cinq cent soixante-neuf.
-- **EVAL07-02** Écris en chiffres : six cent soixante-douze.
-- **EVAL07-03** Écris en chiffres : sept cent quatre-vingt-un.
-- **EVAL07-04** Écris en chiffres : huit cent quatre.
-- **EVAL07-05** Écris en chiffres : neuf cent quinze.
-
-### EVAL08
-
-- **EVAL08-01** Écris en chiffres : sept cent quatre-vingt-un.
-- **EVAL08-02** Écris en chiffres : huit cent quatre.
-- **EVAL08-03** Écris en chiffres : neuf cent quinze.
-- **EVAL08-04** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **EVAL08-05** Écris en chiffres : cent vingt-quatre.
-
-### EVAL09
-
-- **EVAL09-01** Écris en chiffres : neuf cent quinze.
-- **EVAL09-02** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **EVAL09-03** Écris en chiffres : cent vingt-quatre.
-- **EVAL09-04** Écris en chiffres : deux cent trente-six.
-- **EVAL09-05** Écris en chiffres : trois cent quarante-sept.
-
-### EVAL10
-
-- **EVAL10-01** Écris en chiffres : cent vingt-quatre.
-- **EVAL10-02** Écris en chiffres : deux cent trente-six.
-- **EVAL10-03** Écris en chiffres : trois cent quarante-sept.
-- **EVAL10-04** Écris en chiffres : quatre cent cinquante-huit.
-- **EVAL10-05** Écris en chiffres : cinq cent soixante-neuf.
+### Évaluation 10
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
 
-- **DEV01-01** Écris en chiffres : deux cent trente-six.
-- **DEV01-02** Écris en chiffres : trois cent quarante-sept.
-- **DEV01-03** Écris en chiffres : quatre cent cinquante-huit.
-- **DEV01-04** Écris en chiffres : cinq cent soixante-neuf.
-- **DEV01-05** Écris en chiffres : six cent soixante-douze.
+### Devoir 2
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
 
-### DEV02
+### Devoir 3
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
 
-- **DEV02-01** Écris en chiffres : trois cent quarante-sept.
-- **DEV02-02** Écris en chiffres : quatre cent cinquante-huit.
-- **DEV02-03** Écris en chiffres : cinq cent soixante-neuf.
-- **DEV02-04** Écris en chiffres : six cent soixante-douze.
-- **DEV02-05** Écris en chiffres : sept cent quatre-vingt-un.
+### Devoir 4
+- Écris en chiffres : cinq cent soixante-neuf.
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
 
-### DEV03
+### Devoir 5
+- Écris en chiffres : six cent soixante-douze.
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
 
-- **DEV03-01** Écris en chiffres : quatre cent cinquante-huit.
-- **DEV03-02** Écris en chiffres : cinq cent soixante-neuf.
-- **DEV03-03** Écris en chiffres : six cent soixante-douze.
-- **DEV03-04** Écris en chiffres : sept cent quatre-vingt-un.
-- **DEV03-05** Écris en chiffres : huit cent quatre.
+### Devoir 6
+- Écris en chiffres : sept cent quatre-vingt-un.
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
 
-### DEV04
+### Devoir 7
+- Écris en chiffres : huit cent quatre.
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
 
-- **DEV04-01** Écris en chiffres : cinq cent soixante-neuf.
-- **DEV04-02** Écris en chiffres : six cent soixante-douze.
-- **DEV04-03** Écris en chiffres : sept cent quatre-vingt-un.
-- **DEV04-04** Écris en chiffres : huit cent quatre.
-- **DEV04-05** Écris en chiffres : neuf cent quinze.
+### Devoir 8
+- Écris en chiffres : neuf cent quinze.
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
 
-### DEV05
+### Devoir 9
+- Écris en chiffres : neuf cent quatre-vingt-dix.
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
 
-- **DEV05-01** Écris en chiffres : six cent soixante-douze.
-- **DEV05-02** Écris en chiffres : sept cent quatre-vingt-un.
-- **DEV05-03** Écris en chiffres : huit cent quatre.
-- **DEV05-04** Écris en chiffres : neuf cent quinze.
-- **DEV05-05** Écris en chiffres : neuf cent quatre-vingt-dix.
-
-### DEV06
-
-- **DEV06-01** Écris en chiffres : sept cent quatre-vingt-un.
-- **DEV06-02** Écris en chiffres : huit cent quatre.
-- **DEV06-03** Écris en chiffres : neuf cent quinze.
-- **DEV06-04** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **DEV06-05** Écris en chiffres : cent vingt-quatre.
-
-### DEV07
-
-- **DEV07-01** Écris en chiffres : huit cent quatre.
-- **DEV07-02** Écris en chiffres : neuf cent quinze.
-- **DEV07-03** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **DEV07-04** Écris en chiffres : cent vingt-quatre.
-- **DEV07-05** Écris en chiffres : deux cent trente-six.
-
-### DEV08
-
-- **DEV08-01** Écris en chiffres : neuf cent quinze.
-- **DEV08-02** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **DEV08-03** Écris en chiffres : cent vingt-quatre.
-- **DEV08-04** Écris en chiffres : deux cent trente-six.
-- **DEV08-05** Écris en chiffres : trois cent quarante-sept.
-
-### DEV09
-
-- **DEV09-01** Écris en chiffres : neuf cent quatre-vingt-dix.
-- **DEV09-02** Écris en chiffres : cent vingt-quatre.
-- **DEV09-03** Écris en chiffres : deux cent trente-six.
-- **DEV09-04** Écris en chiffres : trois cent quarante-sept.
-- **DEV09-05** Écris en chiffres : quatre cent cinquante-huit.
-
-### DEV10
-
-- **DEV10-01** Écris en chiffres : cent vingt-quatre.
-- **DEV10-02** Écris en chiffres : deux cent trente-six.
-- **DEV10-03** Écris en chiffres : trois cent quarante-sept.
-- **DEV10-04** Écris en chiffres : quatre cent cinquante-huit.
-- **DEV10-05** Écris en chiffres : cinq cent soixante-neuf.
+### Devoir 10
+- Écris en chiffres : cent vingt-quatre.
+- Écris en chiffres : deux cent trente-six.
+- Écris en chiffres : trois cent quarante-sept.
+- Écris en chiffres : quatre cent cinquante-huit.
+- Écris en chiffres : cinq cent soixante-neuf.
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 347.
 2. 458.
 3. 569.
 4. 672.
 5. 781.
 
-#### ENT02
-
+#### Entraînement 2
 1. 569.
 2. 672.
 3. 781.
 4. 804.
 5. 915.
 
-#### ENT03
-
+#### Entraînement 3
 1. 781.
 2. 804.
 3. 915.
 4. 990.
 5. 124.
 
-#### ENT04
-
+#### Entraînement 4
 1. 915.
 2. 990.
 3. 124.
 4. 236.
 5. 347.
 
-#### ENT05
-
+#### Entraînement 5
 1. 124.
 2. 236.
 3. 347.
 4. 458.
 5. 569.
 
-#### ENT06
-
+#### Entraînement 6
 1. 347.
 2. 458.
 3. 569.
 4. 672.
 5. 781.
 
-#### ENT07
-
+#### Entraînement 7
 1. 569.
 2. 672.
 3. 781.
 4. 804.
 5. 915.
 
-#### ENT08
-
+#### Entraînement 8
 1. 781.
 2. 804.
 3. 915.
 4. 990.
 5. 124.
 
-#### ENT09
-
+#### Entraînement 9
 1. 915.
 2. 990.
 3. 124.
 4. 236.
 5. 347.
 
-#### ENT10
-
+#### Entraînement 10
 1. 124.
 2. 236.
 3. 347.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 347.
 2. 458.
 3. 569.
 4. 672.
 5. 781.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 569.
 2. 672.
 3. 781.
 4. 804.
 5. 915.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 781.
 2. 804.
 3. 915.
 4. 990.
 5. 124.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 915.
 2. 990.
 3. 124.
 4. 236.
 5. 347.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 124.
 2. 236.
 3. 347.
 4. 458.
 5. 569.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 347.
 2. 458.
 3. 569.
 4. 672.
 5. 781.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 569.
 2. 672.
 3. 781.
 4. 804.
 5. 915.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 781.
 2. 804.
 3. 915.
 4. 990.
 5. 124.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 915.
 2. 990.
 3. 124.
 4. 236.
 5. 347.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 124.
 2. 236.
 3. 347.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 236.
 2. 347.
 3. 458.
 4. 569.
 5. 672.
 
-#### DEV02
-
+#### Devoir 2
 1. 347.
 2. 458.
 3. 569.
 4. 672.
 5. 781.
 
-#### DEV03
-
+#### Devoir 3
 1. 458.
 2. 569.
 3. 672.
 4. 781.
 5. 804.
 
-#### DEV04
-
+#### Devoir 4
 1. 569.
 2. 672.
 3. 781.
 4. 804.
 5. 915.
 
-#### DEV05
-
+#### Devoir 5
 1. 672.
 2. 781.
 3. 804.
 4. 915.
 5. 990.
 
-#### DEV06
-
+#### Devoir 6
 1. 781.
 2. 804.
 3. 915.
 4. 990.
 5. 124.
 
-#### DEV07
-
+#### Devoir 7
 1. 804.
 2. 915.
 3. 990.
 4. 124.
 5. 236.
 
-#### DEV08
-
+#### Devoir 8
 1. 915.
 2. 990.
 3. 124.
 4. 236.
 5. 347.
 
-#### DEV09
-
+#### Devoir 9
 1. 990.
 2. 124.
 3. 236.
 4. 347.
 5. 458.
 
-#### DEV10
-
+#### Devoir 10
 1. 124.
 2. 236.
 3. 347.

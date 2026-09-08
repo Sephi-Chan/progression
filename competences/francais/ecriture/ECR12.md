@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après le repas, / nous rangeons / la table.**
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le vieux renard / avance sans bruit / vers la cabane.**
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sous les feuilles humides, / un hérisson / prépare son nid.**
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Demain matin, / la classe visitera / le musée de la ville.**
-- **IMM02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Près de la fenêtre, / Nora observe / les oiseaux du jardin.**
-- **IMM03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Quand la cloche sonne, / tous les élèves / ferment leur cahier.**
-- **IMM04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le petit chat / dort sur le tapis.**
-- **IMM05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque matin, / Milo ouvre / les volets.**
-- **IMM06** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans la cour, / les enfants / jouent au ballon.**
-- **IMM07** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Une grenouille verte / saute dans / la grande mare.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Demain matin, / la classe visitera / le musée de la ville.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Près de la fenêtre, / Nora observe / les oiseaux du jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Quand la cloche sonne, / tous les élèves / ferment leur cahier.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le petit chat / dort sur le tapis.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque matin, / Milo ouvre / les volets.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans la cour, / les enfants / jouent au ballon.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Une grenouille verte / saute dans / la grande mare.**
 
 ## Variables didactiques
 
@@ -135,453 +132,413 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
 
-- **ENT01-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
 
-- **ENT01-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / dort près du feu / à la maison.**
 
-- **ENT01-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / dort près du feu / à la maison.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
 
-- **ENT01-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
 
-- **ENT01-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
+### Entraînement 2 — accessible
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Milo / porte un panier / avant la pluie.**
 
-### ENT02 — accessible
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
 
-- **ENT02-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Milo / porte un panier / avant la pluie.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
 
-- **ENT02-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Tom / ferme la fenêtre / avant la pluie.**
 
-- **ENT02-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
 
-- **ENT02-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Tom / ferme la fenêtre / avant la pluie.**
+### Entraînement 3 — accessible
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le chat noir / ouvre son cahier / pendant la sieste.**
 
-- **ENT02-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **La petite tortue / cherche son ballon / près du banc.**
 
-### ENT03 — accessible
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
 
-- **ENT03-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le chat noir / ouvre son cahier / pendant la sieste.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
 
-- **ENT03-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **La petite tortue / cherche son ballon / près du banc.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
 
-- **ENT03-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
+### Entraînement 4 — standard
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
 
-- **ENT03-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
 
-- **ENT03-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Milo ouvre son cahier / près de la fenêtre.**
 
-### ENT04 — standard
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
 
-- **ENT04-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
 
-- **ENT04-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
+### Entraînement 5 — standard
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Tom arrose les plantes / à la bibliothèque.**
 
-- **ENT04-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Milo ouvre son cahier / près de la fenêtre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Lou observe les oiseaux / à la maison.**
 
-- **ENT04-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Le chat noir prépare une affiche / dans la classe.**
 
-- **ENT04-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / La petite tortue avance sur le chemin / à la bibliothèque.**
 
-### ENT05 — standard
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Lina ouvre son cahier / à la maison.**
 
-- **ENT05-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Tom arrose les plantes / à la bibliothèque.**
+### Entraînement 6 — standard
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Malo dort près du feu / dans sa chambre.**
 
-- **ENT05-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Lou observe les oiseaux / à la maison.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / Nora dessine un bateau / au jardin.**
 
-- **ENT05-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Le chat noir prépare une affiche / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Sami arrose les plantes / avant la pluie.**
 
-- **ENT05-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / La petite tortue avance sur le chemin / à la bibliothèque.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Zoé observe les oiseaux / dans sa chambre.**
 
-- **ENT05-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Lina ouvre son cahier / à la maison.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Milo prépare une affiche / au jardin.**
 
-### ENT06 — standard
+### Entraînement 7 — standard
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Inès range ses crayons / près du banc.**
 
-- **ENT06-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Malo dort près du feu / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Aya ferme la fenêtre / dans la cour.**
 
-- **ENT06-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / Nora dessine un bateau / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Tom dort près du feu / pendant la sieste.**
 
-- **ENT06-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Sami arrose les plantes / avant la pluie.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / Lou dessine un bateau / près du banc.**
 
-- **ENT06-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Zoé observe les oiseaux / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir arrose les plantes / dans la cour.**
 
-- **ENT06-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Milo prépare une affiche / au jardin.**
+### Entraînement 8 — plus résistant
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / porte un panier / sous le préau sans faire de bruit.**
 
-### ENT07 — standard
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Lina / lit une histoire / près de la fenêtre sans faire de bruit.**
 
-- **ENT07-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Inès range ses crayons / près du banc.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / range ses crayons / sur la terrasse sans faire de bruit.**
 
-- **ENT07-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Aya ferme la fenêtre / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Nora / ferme la fenêtre / sous le préau sans faire de bruit.**
 
-- **ENT07-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Tom dort près du feu / pendant la sieste.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Sami / dort près du feu / près de la fenêtre sans faire de bruit.**
 
-- **ENT07-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / Lou dessine un bateau / près du banc.**
+### Entraînement 9 — plus résistant
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Zoé / ouvre son cahier / à la maison sans faire de bruit.**
 
-- **ENT07-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir arrose les plantes / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Milo / cherche son ballon / dans la classe sans faire de bruit.**
 
-### ENT08 — plus résistant
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Inès / porte un panier / à la bibliothèque sans faire de bruit.**
 
-- **ENT08-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / porte un panier / sous le préau sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Aya / lit une histoire / à la maison sans faire de bruit.**
 
-- **ENT08-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Lina / lit une histoire / près de la fenêtre sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Tom / range ses crayons / dans la classe sans faire de bruit.**
 
-- **ENT08-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / range ses crayons / sur la terrasse sans faire de bruit.**
+### Entraînement 10 — plus résistant
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / Lou / prépare une affiche / au jardin sans faire de bruit.**
 
-- **ENT08-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Nora / ferme la fenêtre / sous le préau sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir / avance sur le chemin / avant la pluie sans faire de bruit.**
 
-- **ENT08-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Sami / dort près du feu / près de la fenêtre sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / ouvre son cahier / dans sa chambre sans faire de bruit.**
 
-### ENT09 — plus résistant
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Lina / cherche son ballon / au jardin sans faire de bruit.**
 
-- **ENT09-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Zoé / ouvre son cahier / à la maison sans faire de bruit.**
-
-- **ENT09-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Milo / cherche son ballon / dans la classe sans faire de bruit.**
-
-- **ENT09-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Inès / porte un panier / à la bibliothèque sans faire de bruit.**
-
-- **ENT09-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Aya / lit une histoire / à la maison sans faire de bruit.**
-
-- **ENT09-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Tom / range ses crayons / dans la classe sans faire de bruit.**
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / Lou / prépare une affiche / au jardin sans faire de bruit.**
-
-- **ENT10-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir / avance sur le chemin / avant la pluie sans faire de bruit.**
-
-- **ENT10-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / ouvre son cahier / dans sa chambre sans faire de bruit.**
-
-- **ENT10-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Lina / cherche son ballon / au jardin sans faire de bruit.**
-
-- **ENT10-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / porte un panier / avant la pluie sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / porte un panier / avant la pluie sans faire de bruit.**
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune associe un item accessible, deux items standard, un item plus résistant et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
 
-- **EVAL01-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Milo ouvre son cahier / près de la fenêtre.**
 
-- **EVAL01-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Milo ouvre son cahier / près de la fenêtre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / La petite tortue avance sur le chemin / à la bibliothèque.**
 
-- **EVAL01-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / La petite tortue avance sur le chemin / à la bibliothèque.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Sami / dort près du feu / près de la fenêtre sans faire de bruit.**
 
-- **EVAL01-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Sami / dort près du feu / près de la fenêtre sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Aya et Pablo / marchent vers le port / sous un ciel clair.**
 
-- **EVAL01-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Aya et Pablo / marchent vers le port / sous un ciel clair.**
+### Évaluation 2
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
 
-### EVAL02
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / La petite tortue avance sur le chemin / à la bibliothèque.**
 
-- **EVAL02-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Milo prépare une affiche / au jardin.**
 
-- **EVAL02-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / La petite tortue avance sur le chemin / à la bibliothèque.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Zoé / ouvre son cahier / à la maison sans faire de bruit.**
 
-- **EVAL02-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Milo prépare une affiche / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / le gardien du parc / ferme la grille / avant la tombée de la nuit.**
 
-- **EVAL02-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Zoé / ouvre son cahier / à la maison sans faire de bruit.**
+### Évaluation 3
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
 
-- **EVAL02-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / le gardien du parc / ferme la grille / avant la tombée de la nuit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Milo prépare une affiche / au jardin.**
 
-### EVAL03
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Inès range ses crayons / près du banc.**
 
-- **EVAL03-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir / avance sur le chemin / avant la pluie sans faire de bruit.**
 
-- **EVAL03-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Milo prépare une affiche / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / deux jeunes renards / longent le vieux mur / au bord du chemin.**
 
-- **EVAL03-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Inès range ses crayons / près du banc.**
+### Évaluation 4
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
 
-- **EVAL03-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir / avance sur le chemin / avant la pluie sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Inès range ses crayons / près du banc.**
 
-- **EVAL03-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / deux jeunes renards / longent le vieux mur / au bord du chemin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
 
-### EVAL04
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / range ses crayons / sur la terrasse sans faire de bruit.**
 
-- **EVAL04-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / la classe de CE1 / visite le musée / avec la maîtresse.**
 
-- **EVAL04-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Inès range ses crayons / près du banc.**
+### Évaluation 5
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
 
-- **EVAL04-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
 
-- **EVAL04-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / range ses crayons / sur la terrasse sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Le chat noir prépare une affiche / dans la classe.**
 
-- **EVAL04-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / la classe de CE1 / visite le musée / avec la maîtresse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Aya / lit une histoire / à la maison sans faire de bruit.**
 
-### EVAL05
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / une grande barque / avance sur la rivière / entre les roseaux verts.**
 
-- **EVAL05-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
+### Évaluation 6
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le chat noir / ouvre son cahier / pendant la sieste.**
 
-- **EVAL05-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Le chat noir prépare une affiche / dans la classe.**
 
-- **EVAL05-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Le chat noir prépare une affiche / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Zoé observe les oiseaux / dans sa chambre.**
 
-- **EVAL05-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Aya / lit une histoire / à la maison sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / porte un panier / avant la pluie sans faire de bruit.**
 
-- **EVAL05-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / une grande barque / avance sur la rivière / entre les roseaux verts.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Aya et Pablo / marchent vers le port / sous un ciel clair.**
 
-### EVAL06
+### Évaluation 7
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
 
-- **EVAL06-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le chat noir / ouvre son cahier / pendant la sieste.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Zoé observe les oiseaux / dans sa chambre.**
 
-- **EVAL06-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Le chat noir prépare une affiche / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir arrose les plantes / dans la cour.**
 
-- **EVAL06-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Zoé observe les oiseaux / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / porte un panier / sous le préau sans faire de bruit.**
 
-- **EVAL06-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Malo / porte un panier / avant la pluie sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / le gardien du parc / ferme la grille / avant la tombée de la nuit.**
 
-- **EVAL06-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Aya et Pablo / marchent vers le port / sous un ciel clair.**
+### Évaluation 8
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
 
-### EVAL07
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir arrose les plantes / dans la cour.**
 
-- **EVAL07-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
 
-- **EVAL07-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Zoé observe les oiseaux / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Milo / cherche son ballon / dans la classe sans faire de bruit.**
 
-- **EVAL07-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir arrose les plantes / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / deux jeunes renards / longent le vieux mur / au bord du chemin.**
 
-- **EVAL07-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / porte un panier / sous le préau sans faire de bruit.**
+### Évaluation 9
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
 
-- **EVAL07-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / le gardien du parc / ferme la grille / avant la tombée de la nuit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
 
-### EVAL08
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Lou observe les oiseaux / à la maison.**
 
-- **EVAL08-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / ouvre son cahier / dans sa chambre sans faire de bruit.**
 
-- **EVAL08-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Le chat noir arrose les plantes / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / la classe de CE1 / visite le musée / avec la maîtresse.**
 
-- **EVAL08-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
+### Évaluation 10
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
 
-- **EVAL08-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Milo / cherche son ballon / dans la classe sans faire de bruit.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Lou observe les oiseaux / à la maison.**
 
-- **EVAL08-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le soir, / deux jeunes renards / longent le vieux mur / au bord du chemin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Sami arrose les plantes / avant la pluie.**
 
-### EVAL09
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Nora / ferme la fenêtre / sous le préau sans faire de bruit.**
 
-- **EVAL09-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
-
-- **EVAL09-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
-
-- **EVAL09-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Lou observe les oiseaux / à la maison.**
-
-- **EVAL09-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / La petite tortue / ouvre son cahier / dans sa chambre sans faire de bruit.**
-
-- **EVAL09-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / la classe de CE1 / visite le musée / avec la maîtresse.**
-
-### EVAL10
-
-- **EVAL10-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
-
-- **EVAL10-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / Lou observe les oiseaux / à la maison.**
-
-- **EVAL10-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Ce matin, / Sami arrose les plantes / avant la pluie.**
-
-- **EVAL10-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Nora / ferme la fenêtre / sous le préau sans faire de bruit.**
-
-- **EVAL10-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / une grande barque / avance sur la rivière / entre les roseaux verts.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Après la classe, / une grande barque / avance sur la rivière / entre les roseaux verts.**
 
 ## Devoirs
 
 La consigne et le format sont identiques à ceux rencontrés en classe. Tous les items viennent des quatre premières séries.
 
-### DEV01
+### Devoir 1
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
 
-- **DEV01-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
 
-- **DEV01-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
 
-- **DEV01-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
 
-- **DEV01-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
 
-- **DEV01-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
+### Devoir 2
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
 
-### DEV02
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
 
-- **DEV02-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
 
-- **DEV02-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
 
-- **DEV02-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
 
-- **DEV02-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
+### Devoir 3
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
 
-- **DEV02-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
 
-### DEV03
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
 
-- **DEV03-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
 
-- **DEV03-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
 
-- **DEV03-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
+### Devoir 4
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
 
-- **DEV03-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / dort près du feu / à la maison.**
 
-- **DEV03-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Tom / ferme la fenêtre / avant la pluie.**
 
-### DEV04
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
 
-- **DEV04-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
 
-- **DEV04-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / dort près du feu / à la maison.**
+### Devoir 5
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
 
-- **DEV04-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Tom / ferme la fenêtre / avant la pluie.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
 
-- **DEV04-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le chat noir / ouvre son cahier / pendant la sieste.**
 
-- **DEV04-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
 
-### DEV05
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / dort près du feu / à la maison.**
 
-- **DEV05-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
+### Devoir 6
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Milo / porte un panier / avant la pluie.**
 
-- **DEV05-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **La petite tortue / cherche son ballon / près du banc.**
 
-- **DEV05-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Le chat noir / ouvre son cahier / pendant la sieste.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Milo ouvre son cahier / près de la fenêtre.**
 
-- **DEV05-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Chaque mercredi, / Zoé avance sur le chemin / sous le préau.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
 
-- **DEV05-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / dort près du feu / à la maison.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
 
-### DEV06
+### Devoir 7
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
 
-- **DEV06-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Milo / porte un panier / avant la pluie.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
 
-- **DEV06-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **La petite tortue / cherche son ballon / près du banc.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
 
-- **DEV06-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Dans un instant, / Milo ouvre son cahier / près de la fenêtre.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Milo / porte un panier / avant la pluie.**
 
-- **DEV06-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Sami / dessine un bateau / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **La petite tortue / cherche son ballon / près du banc.**
 
-- **DEV06-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lou / dort près du feu / dans sa chambre.**
+### Devoir 8
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
 
-### DEV07
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
 
-- **DEV07-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
 
-- **DEV07-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
 
-- **DEV07-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Zoé / arrose les plantes / à la bibliothèque.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
 
-- **DEV07-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Milo / porte un panier / avant la pluie.**
+### Devoir 9
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
 
-- **DEV07-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **La petite tortue / cherche son ballon / près du banc.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
 
-### DEV08
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
 
-- **DEV08-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
 
-- **DEV08-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
 
-- **DEV08-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Inès / lit une histoire / dans sa chambre.**
+### Devoir 10
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Tom / ferme la fenêtre / avant la pluie.**
 
-- **DEV08-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / porte un panier / dans la cour.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
 
-- **DEV08-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Cet après-midi, / Inès cherche son ballon / sur la terrasse.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
 
-### DEV09
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
 
-- **DEV09-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
-
-- **DEV09-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
-
-- **DEV09-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / lit une histoire / pendant la sieste.**
-
-- **DEV09-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant la récréation, / Aya porte un panier / sous le préau.**
-
-- **DEV09-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Lina / range ses crayons / dans la classe.**
-
-### DEV10
-
-- **DEV10-01** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Tom / ferme la fenêtre / avant la pluie.**
-
-- **DEV10-02** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Nora / range ses crayons / près du banc.**
-
-- **DEV10-03** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Avant le repas, / Sami prépare une affiche / sur la terrasse.**
-
-- **DEV10-04** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Malo / ferme la fenêtre / à la bibliothèque.**
-
-- **DEV10-05** — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
+- — Observe un groupe entre deux barres, cache-le avec ta main, puis copie-le de mémoire avant de regarder le suivant : **Aya / range ses crayons / au jardin.**
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Texte attendu : « Demain matin, la classe visitera le musée de la ville. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
-- **IMM02** — Texte attendu : « Près de la fenêtre, Nora observe les oiseaux du jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
-- **IMM03** — Texte attendu : « Quand la cloche sonne, tous les élèves ferment leur cahier. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
-- **IMM04** — Texte attendu : « Le petit chat dort sur le tapis. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
-- **IMM05** — Texte attendu : « Chaque matin, Milo ouvre les volets. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
-- **IMM06** — Texte attendu : « Dans la cour, les enfants jouent au ballon. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
-- **IMM07** — Texte attendu : « Une grenouille verte saute dans la grande mare. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+- — Texte attendu : « Demain matin, la classe visitera le musée de la ville. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+- — Texte attendu : « Près de la fenêtre, Nora observe les oiseaux du jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+- — Texte attendu : « Quand la cloche sonne, tous les élèves ferment leur cahier. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+- — Texte attendu : « Le petit chat dort sur le tapis. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+- — Texte attendu : « Chaque matin, Milo ouvre les volets. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+- — Texte attendu : « Dans la cour, les enfants jouent au ballon. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+- — Texte attendu : « Une grenouille verte saute dans la grande mare. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
 ### Corrections des entraînements
 
-#### ENT01
-1. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 11. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Malo ferme la fenêtre à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Nora dort près du feu à la maison. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Sami dessine un bateau dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Zoé arrose les plantes à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT02
-1. « Milo porte un panier avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 21. « Milo porte un panier avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Inès lit une histoire dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Aya range ses crayons au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Tom ferme la fenêtre avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Lou dort près du feu dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT03
-1. « Le chat noir ouvre son cahier pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 31. « Le chat noir ouvre son cahier pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « La petite tortue cherche son ballon près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Lina porte un panier dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Malo lit une histoire pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Nora range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT04
-1. « Avant le repas, Sami prépare une affiche sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 41. « Avant le repas, Sami prépare une affiche sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Chaque mercredi, Zoé avance sur le chemin sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Dans un instant, Milo ouvre son cahier près de la fenêtre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Cet après-midi, Inès cherche son ballon sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Avant la récréation, Aya porte un panier sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT05
-1. « Ce matin, Tom arrose les plantes à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 51. « Ce matin, Tom arrose les plantes à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Après la classe, Lou observe les oiseaux à la maison. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant le repas, Le chat noir prépare une affiche dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Chaque mercredi, La petite tortue avance sur le chemin à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Dans un instant, Lina ouvre son cahier à la maison. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT06
-1. « Avant la récréation, Malo dort près du feu dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 61. « Avant la récréation, Malo dort près du feu dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Le soir, Nora dessine un bateau au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Ce matin, Sami arrose les plantes avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Après la classe, Zoé observe les oiseaux dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Avant le repas, Milo prépare une affiche au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT07
-1. « Dans un instant, Inès range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 71. « Dans un instant, Inès range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Cet après-midi, Aya ferme la fenêtre dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant la récréation, Tom dort près du feu pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Le soir, Lou dessine un bateau près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Ce matin, Le chat noir arrose les plantes dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT08
-1. « Après la classe, La petite tortue porte un panier sous le préau sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 81. « Après la classe, La petite tortue porte un panier sous le préau sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Avant le repas, Lina lit une histoire près de la fenêtre sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Chaque mercredi, Malo range ses crayons sur la terrasse sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Dans un instant, Nora ferme la fenêtre sous le préau sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Cet après-midi, Sami dort près du feu près de la fenêtre sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT09
-1. « Ce matin, Zoé ouvre son cahier à la maison sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 91. « Ce matin, Zoé ouvre son cahier à la maison sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Après la classe, Milo cherche son ballon dans la classe sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant le repas, Inès porte un panier à la bibliothèque sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Chaque mercredi, Aya lit une histoire à la maison sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Dans un instant, Tom range ses crayons dans la classe sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### ENT10
-1. « Le soir, Lou prépare une affiche au jardin sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Entraînement 101. « Le soir, Lou prépare une affiche au jardin sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Ce matin, Le chat noir avance sur le chemin avant la pluie sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Après la classe, La petite tortue ouvre son cahier dans sa chambre sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Avant le repas, Lina cherche son ballon au jardin sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
@@ -589,71 +546,61 @@ La consigne et le format sont identiques à ceux rencontrés en classe. Tous les
 
 ### Corrections des évaluations
 
-#### EVAL01
-1. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 11. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Dans un instant, Milo ouvre son cahier près de la fenêtre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Chaque mercredi, La petite tortue avance sur le chemin à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Cet après-midi, Sami dort près du feu près de la fenêtre sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Ce matin, Aya et Pablo marchent vers le port sous un ciel clair. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL02
-1. « Inès lit une histoire dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 21. « Inès lit une histoire dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Chaque mercredi, La petite tortue avance sur le chemin à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant le repas, Milo prépare une affiche au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Ce matin, Zoé ouvre son cahier à la maison sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Après la classe, le gardien du parc ferme la grille avant la tombée de la nuit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL03
-1. « Lina porte un panier dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 31. « Lina porte un panier dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Avant le repas, Milo prépare une affiche au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Dans un instant, Inès range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Ce matin, Le chat noir avance sur le chemin avant la pluie sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Avant le repas, deux jeunes renards longent le vieux mur au bord du chemin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL04
-1. « Sami dessine un bateau dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 41. « Sami dessine un bateau dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Dans un instant, Inès range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Chaque mercredi, Zoé avance sur le chemin sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Chaque mercredi, Malo range ses crayons sur la terrasse sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Chaque mercredi, la classe de CE1 visite le musée avec la maîtresse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL05
-1. « Lou dort près du feu dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 51. « Lou dort près du feu dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Chaque mercredi, Zoé avance sur le chemin sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant le repas, Le chat noir prépare une affiche dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Chaque mercredi, Aya lit une histoire à la maison sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Dans un instant, une grande barque avance sur la rivière entre les roseaux verts. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL06
-1. « Le chat noir ouvre son cahier pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 61. « Le chat noir ouvre son cahier pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Avant le repas, Le chat noir prépare une affiche dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Après la classe, Zoé observe les oiseaux dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Chaque mercredi, Malo porte un panier avant la pluie sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Cet après-midi, Aya et Pablo marchent vers le port sous un ciel clair. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL07
-1. « Malo ferme la fenêtre à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 71. « Malo ferme la fenêtre à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Après la classe, Zoé observe les oiseaux dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Ce matin, Le chat noir arrose les plantes dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Après la classe, La petite tortue porte un panier sous le préau sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Avant la récréation, le gardien du parc ferme la grille avant la tombée de la nuit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL08
-1. « Aya range ses crayons au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 81. « Aya range ses crayons au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Ce matin, Le chat noir arrose les plantes dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant le repas, Sami prépare une affiche sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Après la classe, Milo cherche son ballon dans la classe sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Le soir, deux jeunes renards longent le vieux mur au bord du chemin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL09
-1. « Malo lit une histoire pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 91. « Malo lit une histoire pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Avant le repas, Sami prépare une affiche sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Après la classe, Lou observe les oiseaux à la maison. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Après la classe, La petite tortue ouvre son cahier dans sa chambre sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Ce matin, la classe de CE1 visite le musée avec la maîtresse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### EVAL10
-1. « Zoé arrose les plantes à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Évaluation 101. « Zoé arrose les plantes à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Après la classe, Lou observe les oiseaux à la maison. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Ce matin, Sami arrose les plantes avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Dans un instant, Nora ferme la fenêtre sous le préau sans faire de bruit. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
@@ -661,71 +608,61 @@ La consigne et le format sont identiques à ceux rencontrés en classe. Tous les
 
 ### Corrections des devoirs
 
-#### DEV01
-1. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 11. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Inès lit une histoire dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Lina porte un panier dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Cet après-midi, Inès cherche son ballon sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Zoé arrose les plantes à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV02
-1. « Aya range ses crayons au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 21. « Aya range ses crayons au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Malo lit une histoire pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant la récréation, Aya porte un panier sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Inès lit une histoire dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV03
-1. « Nora range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 31. « Nora range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Avant le repas, Sami prépare une affiche sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Malo ferme la fenêtre à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Aya range ses crayons au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Malo lit une histoire pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV04
-1. « Chaque mercredi, Zoé avance sur le chemin sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 41. « Chaque mercredi, Zoé avance sur le chemin sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Nora dort près du feu à la maison. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Tom ferme la fenêtre avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Nora range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Avant le repas, Sami prépare une affiche sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV05
-1. « Sami dessine un bateau dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 51. « Sami dessine un bateau dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Lou dort près du feu dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Le chat noir ouvre son cahier pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Chaque mercredi, Zoé avance sur le chemin sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Nora dort près du feu à la maison. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV06
-1. « Milo porte un panier avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 61. « Milo porte un panier avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « La petite tortue cherche son ballon près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Dans un instant, Milo ouvre son cahier près de la fenêtre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Sami dessine un bateau dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Lou dort près du feu dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV07
-1. « Lina porte un panier dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 71. « Lina porte un panier dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Cet après-midi, Inès cherche son ballon sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Zoé arrose les plantes à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Milo porte un panier avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « La petite tortue cherche son ballon près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV08
-1. « Avant la récréation, Aya porte un panier sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 81. « Avant la récréation, Aya porte un panier sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Inès lit une histoire dans sa chambre. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Lina porte un panier dans la cour. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Cet après-midi, Inès cherche son ballon sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV09
-1. « Malo ferme la fenêtre à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 91. « Malo ferme la fenêtre à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Aya range ses crayons au jardin. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Malo lit une histoire pendant la sieste. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Avant la récréation, Aya porte un panier sous le préau. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 5. « Lina range ses crayons dans la classe. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 
-#### DEV10
-1. « Tom ferme la fenêtre avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
+#### Devoir 101. « Tom ferme la fenêtre avant la pluie. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 2. « Nora range ses crayons près du banc. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 3. « Avant le repas, Sami prépare une affiche sur la terrasse. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.
 4. « Malo ferme la fenêtre à la bibliothèque. » Critères : les groupes indiqués sont pris d’un seul regard chacun (observation de l’enseignant), les lettres sont formées et attachées de façon lisible, les mots sont espacés et la ligne est tenue. Une erreur d’exactitude isolée est relevée mais ne suffit pas seule à invalider ECR12.

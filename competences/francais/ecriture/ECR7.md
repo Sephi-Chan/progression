@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **IMM02** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
-- **IMM03** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **IMM04** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **IMM05** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **IMM06** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **IMM07** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
 
 ## Variables didactiques
 
@@ -135,511 +132,451 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
 
-- **ENT01-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **ENT01-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **ENT01-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **ENT01-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **ENT01-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+### Entraînement 2 — accessible
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
 
-- **ENT02-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **ENT02-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **ENT02-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **ENT02-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **ENT02-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+### Entraînement 4 — standard
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
 
-- **ENT03-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **ENT03-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **ENT03-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **ENT03-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **ENT03-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+### Entraînement 6 — standard
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
 
-### ENT04 — standard
+### Entraînement 7 — standard
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
 
-- **ENT04-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **ENT04-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **ENT04-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **ENT04-04** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **ENT04-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+### Entraînement 8 — plus résistant
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
 
-- **ENT05-01** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **ENT05-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **ENT05-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **ENT05-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **ENT05-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-
-### ENT06 — standard
-
-- **ENT06-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **ENT06-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **ENT06-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **ENT06-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **ENT06-05** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-
-### ENT07 — standard
-
-- **ENT07-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **ENT07-02** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **ENT07-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **ENT07-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **ENT07-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-
-### ENT08 — plus résistant
-
-- **ENT08-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **ENT08-02** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **ENT08-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **ENT08-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
-- **ENT08-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-
-### ENT09 — plus résistant
-
-- **ENT09-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
-- **ENT09-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **ENT09-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **ENT09-04** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **ENT09-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **ENT10-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **ENT10-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
-- **ENT10-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **ENT10-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+### Entraînement 10 — plus résistant
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune combine quatre items entraînés issus des mêmes niveaux de série et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans la cour, le chat poursuit une feuille. » Nouvelles données : **dans le pré / le poulain / un papillon**.
 
-- **EVAL01-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **EVAL01-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **EVAL01-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **EVAL01-04** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **EVAL01-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans la cour, le chat poursuit une feuille. » Nouvelles données : **dans le pré / le poulain / un papillon**.
+### Évaluation 2
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque soir, Mila ferme les volets. » Nouvelles données : **chaque matin / Pablo / les fenêtres**.
 
-### EVAL02
+### Évaluation 3
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le déjeuner, je mange du riz et je bois de l’eau. » Nouvelles données : **pour le dîner / de la soupe / du lait**.
 
-- **EVAL02-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **EVAL02-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **EVAL02-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **EVAL02-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **EVAL02-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque soir, Mila ferme les volets. » Nouvelles données : **chaque matin / Pablo / les fenêtres**.
+### Évaluation 4
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le jeune marin avance prudemment vers le quai. » Nouvelles données : **le vieil homme / lentement / vers le pont**.
 
-### EVAL03
+### Évaluation 5
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il gèle, Aya met ses gants. » Nouvelles données : **quand il y a du vent / Maëlle / ferme la fenêtre**.
 
-- **EVAL03-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **EVAL03-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **EVAL03-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **EVAL03-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
-- **EVAL03-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le déjeuner, je mange du riz et je bois de l’eau. » Nouvelles données : **pour le dîner / de la soupe / du lait**.
+### Évaluation 6
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur l’étagère, il y a une boîte, un vase et un cadre. » Nouvelles données : **sur la table / un panier / une lampe / un livre**.
 
-### EVAL04
+### Évaluation 7
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter le port pour voir les bateaux. » Nouvelles données : **le zoo / les girafes**.
 
-- **EVAL04-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **EVAL04-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **EVAL04-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **EVAL04-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **EVAL04-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Le jeune marin avance prudemment vers le quai. » Nouvelles données : **le vieil homme / lentement / vers le pont**.
+### Évaluation 8
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Pablo lave la poire ; ensuite, il la coupe. » Nouvelles données : **Aya / la prune / elle la mange**.
 
-### EVAL05
+### Évaluation 9
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le mardi, la chorale répète un air dans la salle. » Nouvelles données : **le vendredi / la troupe / une scène / dans le théâtre**.
 
-- **EVAL05-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **EVAL05-02** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **EVAL05-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **EVAL05-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **EVAL05-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il gèle, Aya met ses gants. » Nouvelles données : **quand il y a du vent / Maëlle / ferme la fenêtre**.
-
-### EVAL06
-
-- **EVAL06-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **EVAL06-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **EVAL06-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **EVAL06-04** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **EVAL06-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur l’étagère, il y a une boîte, un vase et un cadre. » Nouvelles données : **sur la table / un panier / une lampe / un livre**.
-
-### EVAL07
-
-- **EVAL07-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **EVAL07-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **EVAL07-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **EVAL07-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **EVAL07-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter le port pour voir les bateaux. » Nouvelles données : **le zoo / les girafes**.
-
-### EVAL08
-
-- **EVAL08-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **EVAL08-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **EVAL08-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **EVAL08-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans sa valise, Sami range deux pulls et trois chaussettes. » Nouvelles données : **dans son sac / Léa / deux livres / trois cahiers**.
-- **EVAL08-05** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Pablo lave la poire ; ensuite, il la coupe. » Nouvelles données : **Aya / la prune / elle la mange**.
-
-### EVAL09
-
-- **EVAL09-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **EVAL09-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **EVAL09-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **EVAL09-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **EVAL09-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Le mardi, la chorale répète un air dans la salle. » Nouvelles données : **le vendredi / la troupe / une scène / dans le théâtre**.
-
-### EVAL10
-
-- **EVAL10-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **EVAL10-02** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **EVAL10-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **EVAL10-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **EVAL10-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans son panier, Maëlle range deux pommes et trois poires. » Nouvelles données : **dans sa caisse / Sami / deux melons / trois prunes**.
+### Évaluation 10
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans son panier, Maëlle range deux pommes et trois poires. » Nouvelles données : **dans sa caisse / Sami / deux melons / trois prunes**.
 
 ## Devoirs
 
 La consigne reste celle de la classe. Tous les items proviennent des quatre premières séries ; aucun matériel particulier n’est requis en dehors du support imprimé et d’un crayon.
 
-### DEV01
+### Devoir 1
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
 
-- **DEV01-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV01-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **DEV01-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **DEV01-04** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **DEV01-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+### Devoir 2
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
 
-### DEV02
+### Devoir 3
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
 
-- **DEV02-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV02-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **DEV02-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **DEV02-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV02-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+### Devoir 4
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
 
-### DEV03
+### Devoir 5
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
 
-- **DEV03-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV03-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **DEV03-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **DEV03-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV03-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+### Devoir 6
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
 
-### DEV04
+### Devoir 7
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
 
-- **DEV04-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **DEV04-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **DEV04-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **DEV04-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV04-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+### Devoir 8
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
 
-### DEV05
+### Devoir 9
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
 
-- **DEV05-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **DEV05-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **DEV05-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **DEV05-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Sur la table, il y a un livre, un crayon et une gomme. » Nouvelles données : **sur le bureau / un cahier / une règle / une trousse**.
-- **DEV05-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-
-### DEV06
-
-- **DEV06-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **DEV06-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-- **DEV06-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Je voudrais visiter la ferme pour voir les animaux. » Nouvelles données : **le musée / les tableaux**.
-- **DEV06-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **DEV06-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-
-### DEV07
-
-- **DEV07-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **DEV07-02** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-- **DEV07-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **DEV07-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **DEV07-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Pour le goûter, je mange une pomme et je bois de l’eau. » Nouvelles données : **pour le petit déjeuner / une tartine / du lait**.
-
-### DEV08
-
-- **DEV08-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **DEV08-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV08-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **DEV08-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le petit renard avance doucement vers la cabane. » Nouvelles données : **le grand loup / rapidement / vers la rivière**.
-- **DEV08-05** — Écris une nouvelle phrase avec la même structure. Modèle : « D’abord, Éva plie la feuille ; ensuite, elle la découpe. » Nouvelles données : **Nora / la carte / colle**.
-
-### DEV09
-
-- **DEV09-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **DEV09-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV09-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **DEV09-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Le lundi, la classe lit un conte à la bibliothèque. » Nouvelles données : **le jeudi / un poème / dans la salle**.
-- **DEV09-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-
-### DEV10
-
-- **DEV10-01** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **DEV10-02** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
-- **DEV10-03** — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
-- **DEV10-04** — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
-- **DEV10-05** — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+### Devoir 10
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Quand il pleut, Nora ouvre son parapluie. » Nouvelles données : **quand il neige / Malo / met son bonnet**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Chaque matin, Lina arrose les roses. » Nouvelles données : **chaque soir / Tom / les tomates**.
+- — Écris une nouvelle phrase avec la même structure. Modèle : « Dans le jardin, le chat regarde un papillon. » Nouvelles données : **dans la cour / le chien / un ballon**.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **IMM02** — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **IMM03** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **IMM04** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **IMM05** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **IMM06** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **IMM07** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **ENT01-01** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT01-02** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT01-03** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT01-04** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT01-05** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Entraînement 2
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### ENT02
+#### Entraînement 3
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **ENT02-01** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT02-02** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT02-03** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT02-04** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT02-05** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Entraînement 4
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### ENT03
+#### Entraînement 5
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **ENT03-01** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT03-02** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT03-03** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT03-04** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT03-05** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Entraînement 6
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### ENT04
+#### Entraînement 7
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **ENT04-01** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT04-02** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT04-03** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT04-04** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT04-05** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Entraînement 8
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### ENT05
+#### Entraînement 9
+- — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **ENT05-01** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT05-02** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT05-03** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT05-04** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT05-05** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### ENT06
-
-- **ENT06-01** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT06-02** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT06-03** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT06-04** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT06-05** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### ENT07
-
-- **ENT07-01** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT07-02** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT07-03** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT07-04** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT07-05** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### ENT08
-
-- **ENT08-01** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT08-02** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT08-03** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT08-04** — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT08-05** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### ENT09
-
-- **ENT09-01** — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT09-02** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT09-03** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT09-04** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT09-05** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### ENT10
-
-- **ENT10-01** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT10-02** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT10-03** — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT10-04** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **ENT10-05** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Entraînement 10
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans le pré, le poulain poursuit un papillon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **EVAL01-01** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL01-02** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL01-03** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL01-04** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL01-05** — Exemple attendu : « Dans le pré, le poulain poursuit un papillon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Évaluation 2
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque matin, Pablo ferme les fenêtres. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### EVAL02
+#### Évaluation 3
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le dîner, je mange de la soupe et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **EVAL02-01** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL02-02** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL02-03** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL02-04** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL02-05** — Exemple attendu : « Chaque matin, Pablo ferme les fenêtres. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Évaluation 4
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le vieil homme avance lentement vers le pont. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### EVAL03
+#### Évaluation 5
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il y a du vent, Maëlle ferme la fenêtre. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **EVAL03-01** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL03-02** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL03-03** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL03-04** — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL03-05** — Exemple attendu : « Pour le dîner, je mange de la soupe et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Évaluation 6
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur la table, il y a un panier, une lampe et un livre. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### EVAL04
+#### Évaluation 7
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le zoo pour voir les girafes. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **EVAL04-01** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL04-02** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL04-03** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL04-04** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL04-05** — Exemple attendu : « Le vieil homme avance lentement vers le pont. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Évaluation 8
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Aya lave la prune ; ensuite, elle la mange. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### EVAL05
+#### Évaluation 9
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le vendredi, la troupe répète une scène dans le théâtre. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **EVAL05-01** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL05-02** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL05-03** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL05-04** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL05-05** — Exemple attendu : « Quand il y a du vent, Maëlle ferme la fenêtre. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### EVAL06
-
-- **EVAL06-01** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL06-02** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL06-03** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL06-04** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL06-05** — Exemple attendu : « Sur la table, il y a un panier, une lampe et un livre. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### EVAL07
-
-- **EVAL07-01** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL07-02** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL07-03** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL07-04** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL07-05** — Exemple attendu : « Je voudrais visiter le zoo pour voir les girafes. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### EVAL08
-
-- **EVAL08-01** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL08-02** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL08-03** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL08-04** — Exemple attendu : « Dans son sac, Léa range deux livres et trois cahiers. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL08-05** — Exemple attendu : « D’abord, Aya lave la prune ; ensuite, elle la mange. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### EVAL09
-
-- **EVAL09-01** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL09-02** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL09-03** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL09-04** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL09-05** — Exemple attendu : « Le vendredi, la troupe répète une scène dans le théâtre. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### EVAL10
-
-- **EVAL10-01** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL10-02** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL10-03** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL10-04** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **EVAL10-05** — Exemple attendu : « Dans sa caisse, Sami range deux melons et trois prunes. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Évaluation 10
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans sa caisse, Sami range deux melons et trois prunes. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **DEV01-01** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV01-02** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV01-03** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV01-04** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV01-05** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Devoir 2
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### DEV02
+#### Devoir 3
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **DEV02-01** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV02-02** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV02-03** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV02-04** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV02-05** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Devoir 4
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### DEV03
+#### Devoir 5
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **DEV03-01** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV03-02** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV03-03** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV03-04** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV03-05** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Devoir 6
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### DEV04
+#### Devoir 7
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **DEV04-01** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV04-02** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV04-03** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV04-04** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV04-05** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Devoir 8
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-#### DEV05
+#### Devoir 9
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
-- **DEV05-01** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV05-02** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV05-03** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV05-04** — Exemple attendu : « Sur le bureau, il y a un cahier, une règle et une trousse. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV05-05** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### DEV06
-
-- **DEV06-01** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV06-02** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV06-03** — Exemple attendu : « Je voudrais visiter le musée pour voir les tableaux. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV06-04** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV06-05** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### DEV07
-
-- **DEV07-01** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV07-02** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV07-03** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV07-04** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV07-05** — Exemple attendu : « Pour le petit déjeuner, je mange une tartine et je bois du lait. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### DEV08
-
-- **DEV08-01** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV08-02** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV08-03** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV08-04** — Exemple attendu : « Le grand loup avance rapidement vers la rivière. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV08-05** — Exemple attendu : « D’abord, Nora plie la carte ; ensuite, elle la colle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### DEV09
-
-- **DEV09-01** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV09-02** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV09-03** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV09-04** — Exemple attendu : « Le jeudi, la classe lit un poème dans la salle. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV09-05** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-
-#### DEV10
-
-- **DEV10-01** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV10-02** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV10-03** — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV10-04** — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
-- **DEV10-05** — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+#### Devoir 10
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Quand il neige, Malo met son bonnet. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Chaque soir, Tom arrose les tomates. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
+- — Exemple attendu : « Dans la cour, le chien regarde un ballon. » Accepter une variation lexicale seulement si l’ordre et les éléments structurants du modèle sont conservés et si toutes les nouvelles données sont utilisées.
 
 ## Traçabilité des évaluations et devoirs
 

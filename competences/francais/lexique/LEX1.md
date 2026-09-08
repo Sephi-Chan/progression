@@ -58,8 +58,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Le bébé **ouvre les yeux**.
 
 **Attention portée d’abord sur :** les mots **ouvre les yeux**.
@@ -70,8 +69,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 **Contrôle final :** Je peux imaginer et observer l’action réelle d’ouvrir les yeux ; P convient.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** À midi, Lila **meurt de faim**.
 
 **Attention portée d’abord sur :** les mots **meurt de faim**.
@@ -82,8 +80,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 **Contrôle final :** Si je prenais les mots exactement, la phrase dirait qu’elle meurt ; ce n’est pas le sens voulu. F convient.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Le chat **retombe sur ses pattes**.
 
 **Attention portée d’abord sur :** les mots **retombe sur ses pattes**.
@@ -98,13 +95,13 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **IMM01** — Ce problème est **un jeu d’enfant**.
-2. **IMM02** — Yanis **porte un sac**.
-3. **IMM03** — Après la course, Inès **a les jambes en coton**.
-4. **IMM04** — La glace **fond au soleil**.
-5. **IMM05** — Nino **donne un coup de main** à sa sœur.
-6. **IMM06** — La pluie **tombe sur le toit**.
-7. **IMM07** — Cette élève **a une mémoire d’éléphant**.
+1. — Ce problème est **un jeu d’enfant**.
+2. — Yanis **porte un sac**.
+3. — Après la course, Inès **a les jambes en coton**.
+4. — La glace **fond au soleil**.
+5. — Nino **donne un coup de main** à sa sœur.
+6. — La pluie **tombe sur le toit**.
+7. — Cette élève **a une mémoire d’éléphant**.
 
 ## Variables didactiques
 
@@ -130,323 +127,293 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 
 La consigne reste celle de l’exercice type. ENT01 à ENT03 utilisent des indices très accessibles ; ENT04 à ENT07 réduisent les contrastes ; ENT08 à ENT10 demandent un contrôle plus attentif sans changer de procédure.
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+1. — Le bébé **ouvre les yeux**.
+2. — Le chat **retombe sur ses pattes**.
+3. — À midi, Lila **meurt de faim**.
+4. — Ce problème est **un jeu d’enfant**.
+5. — Malo **porte un sac**.
+6. — La glace **fond au soleil**.
+7. — Après la course, Inès **a les jambes en coton**.
+8. — Nino **donne un coup de main** à sa sœur.
 
-1. **ENT01-01** — Le bébé **ouvre les yeux**.
-2. **ENT01-02** — Le chat **retombe sur ses pattes**.
-3. **ENT01-03** — À midi, Lila **meurt de faim**.
-4. **ENT01-04** — Ce problème est **un jeu d’enfant**.
-5. **ENT01-05** — Malo **porte un sac**.
-6. **ENT01-06** — La glace **fond au soleil**.
-7. **ENT01-07** — Après la course, Inès **a les jambes en coton**.
-8. **ENT01-08** — Nino **donne un coup de main** à sa sœur.
+### Entraînement 2 — accessible
+1. — Yanis **porte un sac**.
+2. — Ce problème est **un jeu d’enfant**.
+3. — Après la course, Inès **a les jambes en coton**.
+4. — Nino **donne un coup de main** à sa sœur.
+5. — La glace **fond au soleil**.
+6. — La pluie **tombe sur le toit**.
+7. — Papa **ferme la porte**.
+8. — Cette élève **a une mémoire d’éléphant**.
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+1. — La glace **fond au soleil**.
+2. — Nino **donne un coup de main** à sa sœur.
+3. — Cette élève **a une mémoire d’éléphant**.
+4. — La pluie **tombe sur le toit**.
+5. — Inès **a la tête dans les nuages**.
+6. — Papa **ferme la porte**.
+7. — Le bébé **ouvre les yeux**.
+8. — À midi, Lila **meurt de faim**.
 
-1. **ENT02-01** — Yanis **porte un sac**.
-2. **ENT02-02** — Ce problème est **un jeu d’enfant**.
-3. **ENT02-03** — Après la course, Inès **a les jambes en coton**.
-4. **ENT02-04** — Nino **donne un coup de main** à sa sœur.
-5. **ENT02-05** — La glace **fond au soleil**.
-6. **ENT02-06** — La pluie **tombe sur le toit**.
-7. **ENT02-07** — Papa **ferme la porte**.
-8. **ENT02-08** — Cette élève **a une mémoire d’éléphant**.
+### Entraînement 4 — standard
+1. — La réponse de Noé **tombe à côté**.
+2. — Cette remarque **jette un froid**.
+3. — La maîtresse **efface le tableau**.
+4. — Cette nouvelle **me brise le cœur**.
+5. — Yanis **dévore son livre**.
+6. — Le cuisinier **casse un œuf**.
+7. — La lampe **éclaire la pièce**.
+8. — Le chien **montre les dents** au vétérinaire.
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+1. — Cette nouvelle **me brise le cœur**.
+2. — Yanis **dévore son livre**.
+3. — Le cuisinier **casse un œuf**.
+4. — La lampe **éclaire la pièce**.
+5. — Le chien **montre les dents** au vétérinaire.
+6. — Après sa bêtise, Sami **se fait tout petit**.
+7. — Zoé **garde un œil sur** son petit frère.
+8. — Le soleil **chauffe la cour**.
 
-1. **ENT03-01** — La glace **fond au soleil**.
-2. **ENT03-02** — Nino **donne un coup de main** à sa sœur.
-3. **ENT03-03** — Cette élève **a une mémoire d’éléphant**.
-4. **ENT03-04** — La pluie **tombe sur le toit**.
-5. **ENT03-05** — Inès **a la tête dans les nuages**.
-6. **ENT03-06** — Papa **ferme la porte**.
-7. **ENT03-07** — Le bébé **ouvre les yeux**.
-8. **ENT03-08** — À midi, Lila **meurt de faim**.
+### Entraînement 6 — standard
+1. — Yanis **dévore son livre**.
+2. — Zoé **garde un œil sur** son petit frère.
+3. — Le chien **montre les dents** au vétérinaire.
+4. — Le soleil **chauffe la cour**.
+5. — Après sa bêtise, Sami **se fait tout petit**.
+6. — Cette remarque **jette un froid**.
+7. — Le jardinier **coupe une branche**.
+8. — La maîtresse **efface le tableau**.
 
-### ENT04 — standard
+### Entraînement 7 — standard
+1. — Après sa bêtise, Sami **se fait tout petit**.
+2. — Le soleil **chauffe la cour**.
+3. — Le jardinier **coupe une branche**.
+4. — La maîtresse **efface le tableau**.
+5. — Cette remarque **jette un froid**.
+6. — La réponse de Noé **tombe à côté**.
+7. — Cette nouvelle **me brise le cœur**.
+8. — Le cuisinier **casse un œuf**.
 
-1. **ENT04-01** — La réponse de Noé **tombe à côté**.
-2. **ENT04-02** — Cette remarque **jette un froid**.
-3. **ENT04-03** — La maîtresse **efface le tableau**.
-4. **ENT04-04** — Cette nouvelle **me brise le cœur**.
-5. **ENT04-05** — Yanis **dévore son livre**.
-6. **ENT04-06** — Le cuisinier **casse un œuf**.
-7. **ENT04-07** — La lampe **éclaire la pièce**.
-8. **ENT04-08** — Le chien **montre les dents** au vétérinaire.
+### Entraînement 8 — plus résistant
+1. — Grâce à son idée, le projet **prend son envol**.
+2. — La couturière **tient le fil**.
+3. — Le facteur **glisse la lettre** dans la boîte.
+4. — Ce secret **pèse lourd** sur Nora.
+5. — Le bateau **quitte le port**.
+6. — Au spectacle, cette danseuse **brille de mille feux**.
+7. — Devant la classe, Amir **perd le fil** de son histoire.
+8. — Lou **tourne la page** de son cahier.
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+1. — Le bateau **quitte le port**.
+2. — Le facteur **glisse la lettre** dans la boîte.
+3. — Au spectacle, cette danseuse **brille de mille feux**.
+4. — Lou **tourne la page** de son cahier.
+5. — Le maçon **pose une pierre**.
+6. — Devant la classe, Amir **perd le fil** de son histoire.
+7. — Après leur dispute, les amis **tournent la page**.
+8. — Le projet de cabane **tombe à l’eau**.
 
-1. **ENT05-01** — Cette nouvelle **me brise le cœur**.
-2. **ENT05-02** — Yanis **dévore son livre**.
-3. **ENT05-03** — Le cuisinier **casse un œuf**.
-4. **ENT05-04** — La lampe **éclaire la pièce**.
-5. **ENT05-05** — Le chien **montre les dents** au vétérinaire.
-6. **ENT05-06** — Après sa bêtise, Sami **se fait tout petit**.
-7. **ENT05-07** — Zoé **garde un œil sur** son petit frère.
-8. **ENT05-08** — Le soleil **chauffe la cour**.
-
-### ENT06 — standard
-
-1. **ENT06-01** — Yanis **dévore son livre**.
-2. **ENT06-02** — Zoé **garde un œil sur** son petit frère.
-3. **ENT06-03** — Le chien **montre les dents** au vétérinaire.
-4. **ENT06-04** — Le soleil **chauffe la cour**.
-5. **ENT06-05** — Après sa bêtise, Sami **se fait tout petit**.
-6. **ENT06-06** — Cette remarque **jette un froid**.
-7. **ENT06-07** — Le jardinier **coupe une branche**.
-8. **ENT06-08** — La maîtresse **efface le tableau**.
-
-### ENT07 — standard
-
-1. **ENT07-01** — Après sa bêtise, Sami **se fait tout petit**.
-2. **ENT07-02** — Le soleil **chauffe la cour**.
-3. **ENT07-03** — Le jardinier **coupe une branche**.
-4. **ENT07-04** — La maîtresse **efface le tableau**.
-5. **ENT07-05** — Cette remarque **jette un froid**.
-6. **ENT07-06** — La réponse de Noé **tombe à côté**.
-7. **ENT07-07** — Cette nouvelle **me brise le cœur**.
-8. **ENT07-08** — Le cuisinier **casse un œuf**.
-
-### ENT08 — plus résistant
-
-1. **ENT08-01** — Grâce à son idée, le projet **prend son envol**.
-2. **ENT08-02** — La couturière **tient le fil**.
-3. **ENT08-03** — Le facteur **glisse la lettre** dans la boîte.
-4. **ENT08-04** — Ce secret **pèse lourd** sur Nora.
-5. **ENT08-05** — Le bateau **quitte le port**.
-6. **ENT08-06** — Au spectacle, cette danseuse **brille de mille feux**.
-7. **ENT08-07** — Devant la classe, Amir **perd le fil** de son histoire.
-8. **ENT08-08** — Lou **tourne la page** de son cahier.
-
-### ENT09 — plus résistant
-
-1. **ENT09-01** — Le bateau **quitte le port**.
-2. **ENT09-02** — Le facteur **glisse la lettre** dans la boîte.
-3. **ENT09-03** — Au spectacle, cette danseuse **brille de mille feux**.
-4. **ENT09-04** — Lou **tourne la page** de son cahier.
-5. **ENT09-05** — Le maçon **pose une pierre**.
-6. **ENT09-06** — Devant la classe, Amir **perd le fil** de son histoire.
-7. **ENT09-07** — Après leur dispute, les amis **tournent la page**.
-8. **ENT09-08** — Le projet de cabane **tombe à l’eau**.
-
-### ENT10 — plus résistant
-
-1. **ENT10-01** — Lou **tourne la page** de son cahier.
-2. **ENT10-02** — Le maçon **pose une pierre**.
-3. **ENT10-03** — Devant la classe, Amir **perd le fil** de son histoire.
-4. **ENT10-04** — Après leur dispute, les amis **tournent la page**.
-5. **ENT10-05** — Le projet de cabane **tombe à l’eau**.
-6. **ENT10-06** — La couturière **tient le fil**.
-7. **ENT10-07** — L’oiseau **prend son envol**.
-8. **ENT10-08** — Grâce à son idée, le projet **prend son envol**.
+### Entraînement 10 — plus résistant
+1. — Lou **tourne la page** de son cahier.
+2. — Le maçon **pose une pierre**.
+3. — Devant la classe, Amir **perd le fil** de son histoire.
+4. — Après leur dispute, les amis **tournent la page**.
+5. — Le projet de cabane **tombe à l’eau**.
+6. — La couturière **tient le fil**.
+7. — L’oiseau **prend son envol**.
+8. — Grâce à son idée, le projet **prend son envol**.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune contient trois reprises exactes, une transposition superficielle et un item nouveau strictement isomorphe.
 
-### EVAL01
-
+### Évaluation 1
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL01-01** — Le bébé **ouvre les yeux**.
-2. **EVAL01-02** — La maîtresse **efface le tableau**.
-3. **EVAL01-03** — Au spectacle, cette danseuse **brille de mille feux**.
-4. **EVAL01-04** — Aujourd’hui, Après sa bêtise, Sami **se fait tout petit**.
-5. **EVAL01-05** — Le jardinier **arrose les fleurs**.
+1. — Le bébé **ouvre les yeux**.
+2. — La maîtresse **efface le tableau**.
+3. — Au spectacle, cette danseuse **brille de mille feux**.
+4. — Aujourd’hui, Après sa bêtise, Sami **se fait tout petit**.
+5. — Le jardinier **arrose les fleurs**.
 
-### EVAL02
-
+### Évaluation 2
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL02-01** — La glace **fond au soleil**.
-2. **EVAL02-02** — La lampe **éclaire la pièce**.
-3. **EVAL02-03** — Devant la classe, Amir **perd le fil** de son histoire.
-4. **EVAL02-04** — Aujourd’hui, le jardinier **coupe une branche**.
-5. **EVAL02-05** — À l’annonce du voyage, Lina **rayonne de joie**.
+1. — La glace **fond au soleil**.
+2. — La lampe **éclaire la pièce**.
+3. — Devant la classe, Amir **perd le fil** de son histoire.
+4. — Aujourd’hui, le jardinier **coupe une branche**.
+5. — À l’annonce du voyage, Lina **rayonne de joie**.
 
-### EVAL03
-
+### Évaluation 3
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL03-01** — La pluie **tombe sur le toit**.
-2. **EVAL03-02** — Après sa bêtise, Sami **se fait tout petit**.
-3. **EVAL03-03** — Grâce à son idée, le projet **prend son envol**.
-4. **EVAL03-04** — Aujourd’hui, la réponse de Noé **tombe à côté**.
-5. **EVAL03-05** — Le vent **fait claquer la fenêtre**.
+1. — La pluie **tombe sur le toit**.
+2. — Après sa bêtise, Sami **se fait tout petit**.
+3. — Grâce à son idée, le projet **prend son envol**.
+4. — Aujourd’hui, la réponse de Noé **tombe à côté**.
+5. — Le vent **fait claquer la fenêtre**.
 
-### EVAL04
-
+### Évaluation 4
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL04-01** — Malo **porte un sac**.
-2. **EVAL04-02** — La réponse de Noé **tombe à côté**.
-3. **EVAL04-03** — Lou **tourne la page** de son cahier.
-4. **EVAL04-04** — Aujourd’hui, la lampe **éclaire la pièce**.
-5. **EVAL04-05** — Cette bonne nouvelle **réchauffe le cœur** de Malo.
+1. — Malo **porte un sac**.
+2. — La réponse de Noé **tombe à côté**.
+3. — Lou **tourne la page** de son cahier.
+4. — Aujourd’hui, la lampe **éclaire la pièce**.
+5. — Cette bonne nouvelle **réchauffe le cœur** de Malo.
 
-### EVAL05
-
+### Évaluation 5
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL05-01** — Cette élève **a une mémoire d’éléphant**.
-2. **EVAL05-02** — La lampe **éclaire la pièce**.
-3. **EVAL05-03** — Au spectacle, cette danseuse **brille de mille feux**.
-4. **EVAL05-04** — Aujourd’hui, le soleil **chauffe la cour**.
-5. **EVAL05-05** — La souris **se cache sous le meuble**.
+1. — Cette élève **a une mémoire d’éléphant**.
+2. — La lampe **éclaire la pièce**.
+3. — Au spectacle, cette danseuse **brille de mille feux**.
+4. — Aujourd’hui, le soleil **chauffe la cour**.
+5. — La souris **se cache sous le meuble**.
 
-### EVAL06
-
+### Évaluation 6
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL06-01** — Papa **ferme la porte**.
-2. **EVAL06-02** — Cette nouvelle **me brise le cœur**.
-3. **EVAL06-03** — Devant la classe, Amir **perd le fil** de son histoire.
-4. **EVAL06-04** — Ce chien **montre les dents** au vétérinaire.
-5. **EVAL06-05** — Nora **boit les paroles** de la conteuse.
+1. — Papa **ferme la porte**.
+2. — Cette nouvelle **me brise le cœur**.
+3. — Devant la classe, Amir **perd le fil** de son histoire.
+4. — Ce chien **montre les dents** au vétérinaire.
+5. — Nora **boit les paroles** de la conteuse.
 
-### EVAL07
-
+### Évaluation 7
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL07-01** — Après la course, Inès **a les jambes en coton**.
-2. **EVAL07-02** — Yanis **dévore son livre**.
-3. **EVAL07-03** — Le facteur **glisse la lettre** dans la boîte.
-4. **EVAL07-04** — Aujourd’hui, le soleil **chauffe la cour**.
-5. **EVAL07-05** — Le peintre **mélange deux couleurs**.
+1. — Après la course, Inès **a les jambes en coton**.
+2. — Yanis **dévore son livre**.
+3. — Le facteur **glisse la lettre** dans la boîte.
+4. — Aujourd’hui, le soleil **chauffe la cour**.
+5. — Le peintre **mélange deux couleurs**.
 
-### EVAL08
-
+### Évaluation 8
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL08-01** — Cette élève **a une mémoire d’éléphant**.
-2. **EVAL08-02** — Le soleil **chauffe la cour**.
-3. **EVAL08-03** — Lou **tourne la page** de son cahier.
-4. **EVAL08-04** — Aujourd’hui, cette nouvelle **me brise le cœur**.
-5. **EVAL08-05** — Devant la difficulté, Sami **prend son courage à deux mains**.
+1. — Cette élève **a une mémoire d’éléphant**.
+2. — Le soleil **chauffe la cour**.
+3. — Lou **tourne la page** de son cahier.
+4. — Aujourd’hui, cette nouvelle **me brise le cœur**.
+5. — Devant la difficulté, Sami **prend son courage à deux mains**.
 
-### EVAL09
-
+### Évaluation 9
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL09-01** — Nino **donne un coup de main** à sa sœur.
-2. **EVAL09-02** — Cette nouvelle **me brise le cœur**.
-3. **EVAL09-03** — Le projet de cabane **tombe à l’eau**.
-4. **EVAL09-04** — Aujourd’hui, la lampe **éclaire la pièce**.
-5. **EVAL09-05** — La poule **gratte la terre**.
+1. — Nino **donne un coup de main** à sa sœur.
+2. — Cette nouvelle **me brise le cœur**.
+3. — Le projet de cabane **tombe à l’eau**.
+4. — Aujourd’hui, la lampe **éclaire la pièce**.
+5. — La poule **gratte la terre**.
 
-### EVAL10
-
+### Évaluation 10
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **EVAL10-01** — Le chat **retombe sur ses pattes**.
-2. **EVAL10-02** — La lampe **éclaire la pièce**.
-3. **EVAL10-03** — Lou **tourne la page** de son cahier.
-4. **EVAL10-04** — Aujourd’hui, Après sa bêtise, Sami **se fait tout petit**.
-5. **EVAL10-05** — Après le départ de son ami, Malo **a le cœur gros**.
+1. — Le chat **retombe sur ses pattes**.
+2. — La lampe **éclaire la pièce**.
+3. — Lou **tourne la page** de son cahier.
+4. — Aujourd’hui, Après sa bêtise, Sami **se fait tout petit**.
+5. — Après le départ de son ami, Malo **a le cœur gros**.
 
 ## Devoirs
 
 Les devoirs reprennent uniquement des items accessibles déjà rencontrés dans ENT01 à ENT03.
 
-### DEV01
-
+### Devoir 1
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV01-01** — Le bébé **ouvre les yeux**.
-2. **DEV01-02** — Le chat **retombe sur ses pattes**.
-3. **DEV01-03** — Malo **porte un sac**.
-4. **DEV01-04** — Après la course, Inès **a les jambes en coton**.
-5. **DEV01-05** — Nino **donne un coup de main** à sa sœur.
+1. — Le bébé **ouvre les yeux**.
+2. — Le chat **retombe sur ses pattes**.
+3. — Malo **porte un sac**.
+4. — Après la course, Inès **a les jambes en coton**.
+5. — Nino **donne un coup de main** à sa sœur.
 
-### DEV02
-
+### Devoir 2
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV02-01** — Yanis **porte un sac**.
-2. **DEV02-02** — La glace **fond au soleil**.
-3. **DEV02-03** — Cette élève **a une mémoire d’éléphant**.
-4. **DEV02-04** — La pluie **tombe sur le toit**.
-5. **DEV02-05** — Inès **a la tête dans les nuages**.
+1. — Yanis **porte un sac**.
+2. — La glace **fond au soleil**.
+3. — Cette élève **a une mémoire d’éléphant**.
+4. — La pluie **tombe sur le toit**.
+5. — Inès **a la tête dans les nuages**.
 
-### DEV03
-
+### Devoir 3
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV03-01** — Papa **ferme la porte**.
-2. **DEV03-02** — La glace **fond au soleil**.
-3. **DEV03-03** — Nino **donne un coup de main** à sa sœur.
-4. **DEV03-04** — Cette élève **a une mémoire d’éléphant**.
-5. **DEV03-05** — La pluie **tombe sur le toit**.
+1. — Papa **ferme la porte**.
+2. — La glace **fond au soleil**.
+3. — Nino **donne un coup de main** à sa sœur.
+4. — Cette élève **a une mémoire d’éléphant**.
+5. — La pluie **tombe sur le toit**.
 
-### DEV04
-
+### Devoir 4
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV04-01** — Papa **ferme la porte**.
-2. **DEV04-02** — Le bébé **ouvre les yeux**.
-3. **DEV04-03** — À midi, Lila **meurt de faim**.
-4. **DEV04-04** — Ce problème est **un jeu d’enfant**.
-5. **DEV04-05** — Après la course, Inès **a les jambes en coton**.
+1. — Papa **ferme la porte**.
+2. — Le bébé **ouvre les yeux**.
+3. — À midi, Lila **meurt de faim**.
+4. — Ce problème est **un jeu d’enfant**.
+5. — Après la course, Inès **a les jambes en coton**.
 
-### DEV05
-
+### Devoir 5
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV05-01** — Malo **porte un sac**.
-2. **DEV05-02** — Après la course, Inès **a les jambes en coton**.
-3. **DEV05-03** — Yanis **porte un sac**.
-4. **DEV05-04** — La glace **fond au soleil**.
-5. **DEV05-05** — Cette élève **a une mémoire d’éléphant**.
+1. — Malo **porte un sac**.
+2. — Après la course, Inès **a les jambes en coton**.
+3. — Yanis **porte un sac**.
+4. — La glace **fond au soleil**.
+5. — Cette élève **a une mémoire d’éléphant**.
 
-### DEV06
-
+### Devoir 6
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV06-01** — La glace **fond au soleil**.
-2. **DEV06-02** — Cette élève **a une mémoire d’éléphant**.
-3. **DEV06-03** — La pluie **tombe sur le toit**.
-4. **DEV06-04** — Inès **a la tête dans les nuages**.
-5. **DEV06-05** — À midi, Lila **meurt de faim**.
+1. — La glace **fond au soleil**.
+2. — Cette élève **a une mémoire d’éléphant**.
+3. — La pluie **tombe sur le toit**.
+4. — Inès **a la tête dans les nuages**.
+5. — À midi, Lila **meurt de faim**.
 
-### DEV07
-
+### Devoir 7
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV07-01** — La pluie **tombe sur le toit**.
-2. **DEV07-02** — Inès **a la tête dans les nuages**.
-3. **DEV07-03** — À midi, Lila **meurt de faim**.
-4. **DEV07-04** — Le bébé **ouvre les yeux**.
-5. **DEV07-05** — Le chat **retombe sur ses pattes**.
+1. — La pluie **tombe sur le toit**.
+2. — Inès **a la tête dans les nuages**.
+3. — À midi, Lila **meurt de faim**.
+4. — Le bébé **ouvre les yeux**.
+5. — Le chat **retombe sur ses pattes**.
 
-### DEV08
-
+### Devoir 8
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV08-01** — Le chat **retombe sur ses pattes**.
-2. **DEV08-02** — À midi, Lila **meurt de faim**.
-3. **DEV08-03** — Ce problème est **un jeu d’enfant**.
-4. **DEV08-04** — Malo **porte un sac**.
-5. **DEV08-05** — Après la course, Inès **a les jambes en coton**.
+1. — Le chat **retombe sur ses pattes**.
+2. — À midi, Lila **meurt de faim**.
+3. — Ce problème est **un jeu d’enfant**.
+4. — Malo **porte un sac**.
+5. — Après la course, Inès **a les jambes en coton**.
 
-### DEV09
-
+### Devoir 9
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV09-01** — Yanis **porte un sac**.
-2. **DEV09-02** — Ce problème est **un jeu d’enfant**.
-3. **DEV09-03** — Après la course, Inès **a les jambes en coton**.
-4. **DEV09-04** — Nino **donne un coup de main** à sa sœur.
-5. **DEV09-05** — La glace **fond au soleil**.
+1. — Yanis **porte un sac**.
+2. — Ce problème est **un jeu d’enfant**.
+3. — Après la course, Inès **a les jambes en coton**.
+4. — Nino **donne un coup de main** à sa sœur.
+5. — La glace **fond au soleil**.
 
-### DEV10
-
+### Devoir 10
 Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s’ils sont au sens figuré.
 
-1. **DEV10-01** — Cette élève **a une mémoire d’éléphant**.
-2. **DEV10-02** — La glace **fond au soleil**.
-3. **DEV10-03** — La pluie **tombe sur le toit**.
-4. **DEV10-04** — Papa **ferme la porte**.
-5. **DEV10-05** — À midi, Lila **meurt de faim**.
+1. — Cette élève **a une mémoire d’éléphant**.
+2. — La glace **fond au soleil**.
+3. — La pluie **tombe sur le toit**.
+4. — Papa **ferme la porte**.
+5. — À midi, Lila **meurt de faim**.
 
 ## Corrections
 
@@ -462,8 +429,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. **P**
 2. **P**
 3. **F**
@@ -473,8 +439,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **F**
 8. **F**
 
-#### ENT02
-
+#### Entraînement 2
 1. **P**
 2. **F**
 3. **F**
@@ -484,8 +449,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **P**
 8. **F**
 
-#### ENT03
-
+#### Entraînement 3
 1. **P**
 2. **F**
 3. **F**
@@ -495,8 +459,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **P**
 8. **F**
 
-#### ENT04
-
+#### Entraînement 4
 1. **F**
 2. **F**
 3. **P**
@@ -506,8 +469,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **P**
 8. **P**
 
-#### ENT05
-
+#### Entraînement 5
 1. **F**
 2. **F**
 3. **P**
@@ -517,8 +479,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **F**
 8. **P**
 
-#### ENT06
-
+#### Entraînement 6
 1. **F**
 2. **F**
 3. **P**
@@ -528,8 +489,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **P**
 8. **P**
 
-#### ENT07
-
+#### Entraînement 7
 1. **F**
 2. **P**
 3. **P**
@@ -539,8 +499,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **F**
 8. **P**
 
-#### ENT08
-
+#### Entraînement 8
 1. **F**
 2. **P**
 3. **P**
@@ -550,8 +509,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **F**
 8. **P**
 
-#### ENT09
-
+#### Entraînement 9
 1. **P**
 2. **P**
 3. **F**
@@ -561,8 +519,7 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 7. **F**
 8. **F**
 
-#### ENT10
-
+#### Entraînement 10
 1. **P**
 2. **P**
 3. **F**
@@ -574,80 +531,70 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. **P**
 2. **P**
 3. **F**
 4. **F**
 5. **P**
 
-#### EVAL02
-
+#### Évaluation 2
 1. **P**
 2. **P**
 3. **F**
 4. **P**
 5. **F**
 
-#### EVAL03
-
+#### Évaluation 3
 1. **P**
 2. **F**
 3. **F**
 4. **F**
 5. **P**
 
-#### EVAL04
-
+#### Évaluation 4
 1. **P**
 2. **F**
 3. **P**
 4. **P**
 5. **F**
 
-#### EVAL05
-
+#### Évaluation 5
 1. **F**
 2. **P**
 3. **F**
 4. **P**
 5. **P**
 
-#### EVAL06
-
+#### Évaluation 6
 1. **P**
 2. **F**
 3. **F**
 4. **P**
 5. **F**
 
-#### EVAL07
-
+#### Évaluation 7
 1. **F**
 2. **F**
 3. **P**
 4. **P**
 5. **P**
 
-#### EVAL08
-
+#### Évaluation 8
 1. **F**
 2. **P**
 3. **P**
 4. **F**
 5. **F**
 
-#### EVAL09
-
+#### Évaluation 9
 1. **F**
 2. **F**
 3. **F**
 4. **P**
 5. **P**
 
-#### EVAL10
-
+#### Évaluation 10
 1. **P**
 2. **P**
 3. **P**
@@ -656,80 +603,70 @@ Lis la phrase. Écris **P** si les mots en gras sont au sens propre ou **F** s�
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. **P**
 2. **P**
 3. **P**
 4. **F**
 5. **F**
 
-#### DEV02
-
+#### Devoir 2
 1. **P**
 2. **P**
 3. **F**
 4. **P**
 5. **F**
 
-#### DEV03
-
+#### Devoir 3
 1. **P**
 2. **P**
 3. **F**
 4. **F**
 5. **P**
 
-#### DEV04
-
+#### Devoir 4
 1. **P**
 2. **P**
 3. **F**
 4. **F**
 5. **F**
 
-#### DEV05
-
+#### Devoir 5
 1. **P**
 2. **F**
 3. **P**
 4. **P**
 5. **F**
 
-#### DEV06
-
+#### Devoir 6
 1. **P**
 2. **F**
 3. **P**
 4. **F**
 5. **F**
 
-#### DEV07
-
+#### Devoir 7
 1. **P**
 2. **F**
 3. **F**
 4. **P**
 5. **P**
 
-#### DEV08
-
+#### Devoir 8
 1. **P**
 2. **F**
 3. **F**
 4. **P**
 5. **F**
 
-#### DEV09
-
+#### Devoir 9
 1. **P**
 2. **F**
 3. **F**
 4. **F**
 5. **P**
 
-#### DEV10
-
+#### Devoir 10
 1. **F**
 2. **P**
 3. **P**

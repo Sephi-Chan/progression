@@ -48,21 +48,21 @@ Le temps, le sujet et l’infinitif étant donnés, la réponse mesure directeme
 
 ## Modelage explicite — 3 items
 
-**MOD01 — modelage complet.** « Demain, nous … ensemble. (*chanter*) » Pointer *nous*. Dire : « Je garde *chanter* et j’ajoute la fin de *nous*, *-ons* : *chanterons*. » **Réponse :** *chanterons*. **Contrôle :** relire et vérifier *-erons*.
+— modelage complet.** « Demain, nous … ensemble. (*chanter*) » Pointer *nous*. Dire : « Je garde *chanter* et j’ajoute la fin de *nous*, *-ons* : *chanterons*. » **Réponse :** *chanterons*. **Contrôle :** relire et vérifier *-erons*.
 
-**MOD02 — modelage interactif.** « Demain, les filles … dehors. (*jouer*) » Faire remplacer le sujet par *elles*, puis choisir *-ont*. **Réponse :** *joueront*. **Contrôle :** *elles* commande *-ont*.
+— modelage interactif.** « Demain, les filles … dehors. (*jouer*) » Faire remplacer le sujet par *elles*, puis choisir *-ont*. **Réponse :** *joueront*. **Contrôle :** *elles* commande *-ont*.
 
-**MOD03 — guidage allégé.** « Demain, tu … un ballon. (*avoir*) » Faire nommer la base et la terminaison. **Réponse :** *auras*. **Contrôle :** *aur-* + *-as* ; relecture de la phrase.
+— guidage allégé.** « Demain, tu … un ballon. (*avoir*) » Faire nommer la base et la terminaison. **Réponse :** *auras*. **Contrôle :** *aur-* + *-as* ; relecture de la phrase.
 
 ## À toi de jouer — 7 items
 
-1. **IMM01** Demain, je … ici. (*habiter*)
-2. **IMM02** Demain, tu … à pied. (*marcher*)
-3. **IMM03** Demain, il … souvent. (*dessiner*)
-4. **IMM04** Demain, nous … dehors. (*jouer*)
-5. **IMM05** Demain, vous … la radio. (*écouter*)
-6. **IMM06** Demain, elles … voisines. (*être*)
-7. **IMM07** Demain, ils … un jardin. (*avoir*)
+1. Demain, je … ici. (*habiter*)
+2. Demain, tu … à pied. (*marcher*)
+3. Demain, il … souvent. (*dessiner*)
+4. Demain, nous … dehors. (*jouer*)
+5. Demain, vous … la radio. (*écouter*)
+6. Demain, elles … voisines. (*être*)
+7. Demain, ils … un jardin. (*avoir*)
 
 ## Variables didactiques
 
@@ -76,269 +76,238 @@ Le temps, le sujet et l’infinitif étant donnés, la réponse mesure directeme
 
 Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 
-### ENT01
-1. **ENT01-01** Demain, je … ici. (*habiter*)
-2. **ENT01-02** Demain, tu … vite. (*marcher*)
-3. **ENT01-03** Demain, il … la balle. (*lancer*)
-4. **ENT01-04** Demain, elle … souvent. (*chanter*)
-5. **ENT01-05** Demain, nous … dehors. (*jouer*)
-6. **ENT01-06** Demain, vous … la porte. (*fermer*)
-7. **ENT01-07** Demain, ils … la table. (*laver*)
-8. **ENT01-08** Demain, elles … la date. (*copier*)
+### Entraînement 11. **ENT01-01** Demain, je … ici. (*habiter*)
+2. Demain, tu … vite. (*marcher*)
+3. Demain, il … la balle. (*lancer*)
+4. Demain, elle … souvent. (*chanter*)
+5. Demain, nous … dehors. (*jouer*)
+6. Demain, vous … la porte. (*fermer*)
+7. Demain, ils … la table. (*laver*)
+8. Demain, elles … la date. (*copier*)
 
-### ENT02
-1. **ENT02-01** J’… calme. (*être*)
-2. **ENT02-02** Tu … content. (*être*)
-3. **ENT02-03** Il … malade. (*être*)
-4. **ENT02-04** Nous … en classe. (*être*)
-5. **ENT02-05** Vous … prêts. (*être*)
-6. **ENT02-06** Elles … dehors. (*être*)
-7. **ENT02-07** J’… un livre. (*avoir*)
-8. **ENT02-08** Tu … huit ans. (*avoir*)
+### Entraînement 21. **ENT02-01** J’… calme. (*être*)
+2. Tu … content. (*être*)
+3. Il … malade. (*être*)
+4. Nous … en classe. (*être*)
+5. Vous … prêts. (*être*)
+6. Elles … dehors. (*être*)
+7. J’… un livre. (*avoir*)
+8. Tu … huit ans. (*avoir*)
 
-### ENT03
-1. **ENT03-01** Il … un vélo. (*avoir*)
-2. **ENT03-02** Nous … une idée. (*avoir*)
-3. **ENT03-03** Vous … le temps. (*avoir*)
-4. **ENT03-04** Elles … des cartes. (*avoir*)
-5. **ENT03-05** Je … mon sac. (*porter*)
-6. **ENT03-06** Tu … la consigne. (*écouter*)
-7. **ENT03-07** Nous … nos affaires. (*ranger*)
-8. **ENT03-08** Vous … Lina. (*aider*)
+### Entraînement 31. **ENT03-01** Il … un vélo. (*avoir*)
+2. Nous … une idée. (*avoir*)
+3. Vous … le temps. (*avoir*)
+4. Elles … des cartes. (*avoir*)
+5. Je … mon sac. (*porter*)
+6. Tu … la consigne. (*écouter*)
+7. Nous … nos affaires. (*ranger*)
+8. Vous … Lina. (*aider*)
 
-### ENT04
-1. **ENT04-01** Le chat … sur le mur. (*grimper*)
-2. **ENT04-02** Les enfants … dans la cour. (*danser*)
-3. **ENT04-03** Ma sœur … une histoire. (*raconter*)
-4. **ENT04-04** Les oiseaux … au-dessus du jardin. (*voler*)
-5. **ENT04-05** Mon ami et moi … la carte. (*regarder*)
-6. **ENT04-06** Léa et toi … le puzzle. (*terminer*)
-7. **ENT04-07** Le gardien … la lampe. (*allumer*)
-8. **ENT04-08** Les élèves … une affiche. (*préparer*)
+### Entraînement 41. **ENT04-01** Le chat … sur le mur. (*grimper*)
+2. Les enfants … dans la cour. (*danser*)
+3. Ma sœur … une histoire. (*raconter*)
+4. Les oiseaux … au-dessus du jardin. (*voler*)
+5. Mon ami et moi … la carte. (*regarder*)
+6. Léa et toi … le puzzle. (*terminer*)
+7. Le gardien … la lampe. (*allumer*)
+8. Les élèves … une affiche. (*préparer*)
 
-### ENT05
-1. **ENT05-01** Demain soir, je … chez ma voisine. (*rester*)
-2. **ENT05-02** Demain, tu … les plantes. (*arroser*)
-3. **ENT05-03** En classe, il … la date. (*noter*)
-4. **ENT05-04** Pour la prochaine fête, nous … la salle. (*décorer*)
-5. **ENT05-05** L’été prochain, vous … le musée. (*visiter*)
-6. **ENT05-06** Mercredi prochain, elles … des feuilles. (*ramasser*)
-7. **ENT05-07** Demain, j’… disponible. (*être*)
-8. **ENT05-08** Demain, nous … plus de temps. (*avoir*)
+### Entraînement 51. **ENT05-01** Demain soir, je … chez ma voisine. (*rester*)
+2. Demain, tu … les plantes. (*arroser*)
+3. En classe, il … la date. (*noter*)
+4. Pour la prochaine fête, nous … la salle. (*décorer*)
+5. L’été prochain, vous … le musée. (*visiter*)
+6. Mercredi prochain, elles … des feuilles. (*ramasser*)
+7. Demain, j’… disponible. (*être*)
+8. Demain, nous … plus de temps. (*avoir*)
 
-### ENT06
-1. **ENT06-01** Dans la cour, Sami … le ballon. (*attraper*)
-2. **ENT06-02** Près du portail, les familles … calmement. (*patienter*)
-3. **ENT06-03** Au tableau, tu … un cercle. (*tracer*)
-4. **ENT06-04** Après le repas, nous … les verres. (*ranger*)
-5. **ENT06-05** Sous la table, le chat … nos pieds. (*observer*)
-6. **ENT06-06** Dans le jardin, vous … les outils. (*abriter*)
-7. **ENT06-07** Devant l’école, ils … en rang. (*être*)
-8. **ENT06-08** Pour le jeu, elles … trois cartes. (*avoir*)
+### Entraînement 61. **ENT06-01** Dans la cour, Sami … le ballon. (*attraper*)
+2. Près du portail, les familles … calmement. (*patienter*)
+3. Au tableau, tu … un cercle. (*tracer*)
+4. Après le repas, nous … les verres. (*ranger*)
+5. Sous la table, le chat … nos pieds. (*observer*)
+6. Dans le jardin, vous … les outils. (*abriter*)
+7. Devant l’école, ils … en rang. (*être*)
+8. Pour le jeu, elles … trois cartes. (*avoir*)
 
-### ENT07
-1. **ENT07-01** Avec soin, Nora … les formes. (*découper*)
-2. **ENT07-02** Sans bruit, les enfants … le livre. (*refermer*)
-3. **ENT07-03** Dans son carnet, Hugo … ses idées. (*noter*)
-4. **ENT07-04** Au loin, nous … les montagnes. (*observer*)
-5. **ENT07-05** Avant de sortir, vous … vos sacs. (*vérifier*)
-6. **ENT07-06** Sur l’affiche, je … la date. (*repérer*)
-7. **ENT07-07** Les deux classes … réunies. (*être*)
-8. **ENT07-08** Pour l’atelier, tu … une règle. (*avoir*)
+### Entraînement 71. **ENT07-01** Avec soin, Nora … les formes. (*découper*)
+2. Sans bruit, les enfants … le livre. (*refermer*)
+3. Dans son carnet, Hugo … ses idées. (*noter*)
+4. Au loin, nous … les montagnes. (*observer*)
+5. Avant de sortir, vous … vos sacs. (*vérifier*)
+6. Sur l’affiche, je … la date. (*repérer*)
+7. Les deux classes … réunies. (*être*)
+8. Pour l’atelier, tu … une règle. (*avoir*)
 
-### ENT08
-1. **ENT08-01** Au signal, les coureurs … ensemble. (*démarrer*)
-2. **ENT08-02** Dans le silence, vous … un bruit lointain. (*distinguer*)
-3. **ENT08-03** Sous son manteau, Amir … son dessin. (*protéger*)
-4. **ENT08-04** À la fin, tu … la dernière case. (*compléter*)
-5. **ENT08-05** Devant le groupe, je … notre affiche. (*présenter*)
-6. **ENT08-06** Le vent … les graines. (*transporter*)
-7. **ENT08-07** Après l’effort, nous … fiers. (*être*)
-8. **ENT08-08** Pour finir, elles … encore une minute. (*avoir*)
+### Entraînement 81. **ENT08-01** Au signal, les coureurs … ensemble. (*démarrer*)
+2. Dans le silence, vous … un bruit lointain. (*distinguer*)
+3. Sous son manteau, Amir … son dessin. (*protéger*)
+4. À la fin, tu … la dernière case. (*compléter*)
+5. Devant le groupe, je … notre affiche. (*présenter*)
+6. Le vent … les graines. (*transporter*)
+7. Après l’effort, nous … fiers. (*être*)
+8. Pour finir, elles … encore une minute. (*avoir*)
 
-### ENT09
-1. **ENT09-01** Pendant l’expérience, la classe … les consignes. (*respecter*)
-2. **ENT09-02** Au-dessus des arbres, des nuages … le soleil. (*cacher*)
-3. **ENT09-03** Avec patience, nous … les pièces. (*assembler*)
-4. **ENT09-04** Sur le plan, vous … l’école. (*localiser*)
-5. **ENT09-05** Dans sa réponse, Lina … son choix. (*expliquer*)
-6. **ENT09-06** Près de la fenêtre, tu … la plante. (*installer*)
-7. **ENT09-07** Les deux équipes … prêtes. (*être*)
-8. **ENT09-08** Pour ce travail, j’… une consigne claire. (*avoir*)
+### Entraînement 91. **ENT09-01** Pendant l’expérience, la classe … les consignes. (*respecter*)
+2. Au-dessus des arbres, des nuages … le soleil. (*cacher*)
+3. Avec patience, nous … les pièces. (*assembler*)
+4. Sur le plan, vous … l’école. (*localiser*)
+5. Dans sa réponse, Lina … son choix. (*expliquer*)
+6. Près de la fenêtre, tu … la plante. (*installer*)
+7. Les deux équipes … prêtes. (*être*)
+8. Pour ce travail, j’… une consigne claire. (*avoir*)
 
-### ENT10
-1. **ENT10-01** Avant le départ, la maîtresse … les règles. (*expliquer*)
-2. **ENT10-02** Dans leur exposé, les élèves … trois animaux. (*présenter*)
-3. **ENT10-03** Malgré le bruit, vous … attentivement. (*écouter*)
-4. **ENT10-04** À l’aide des indices, nous … le chemin. (*retrouver*)
-5. **ENT10-05** Sur une feuille, tu … le parcours. (*représenter*)
-6. **ENT10-06** Chaque semaine, le groupe … son travail. (*organiser*)
-7. **ENT10-07** Mes amis et moi … responsables. (*être*)
-8. **ENT10-08** Pour l’exposé, Lina et toi … deux images. (*avoir*)
+### Entraînement 101. **ENT10-01** Avant le départ, la maîtresse … les règles. (*expliquer*)
+2. Dans leur exposé, les élèves … trois animaux. (*présenter*)
+3. Malgré le bruit, vous … attentivement. (*écouter*)
+4. À l’aide des indices, nous … le chemin. (*retrouver*)
+5. Sur une feuille, tu … le parcours. (*représenter*)
+6. Chaque semaine, le groupe … son travail. (*organiser*)
+7. Mes amis et moi … responsables. (*être*)
+8. Pour l’exposé, Lina et toi … deux images. (*avoir*)
 
 ## Évaluations
 
 Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 
-### EVAL01
-1. **EVAL01-01** Tu … vite. (*marcher*)
-2. **EVAL01-02** Nous … une idée. (*avoir*)
-3. **EVAL01-03** Les enfants … dans la cour. (*danser*)
-4. **EVAL01-04** Vous … l’école sur le plan. (*localiser*)
-5. **EVAL01-05** Près du banc, Lila … son bonnet. (*retrouver*)
+### Évaluation 11. **EVAL01-01** Tu … vite. (*marcher*)
+2. Nous … une idée. (*avoir*)
+3. Les enfants … dans la cour. (*danser*)
+4. Vous … l’école sur le plan. (*localiser*)
+5. Près du banc, Lila … son bonnet. (*retrouver*)
 
-### EVAL02
-1. **EVAL02-01** Elle … souvent. (*chanter*)
-2. **EVAL02-02** Vous … prêts. (*être*)
-3. **EVAL02-03** Le chat … sur le mur. (*grimper*)
-4. **EVAL02-04** La classe … les consignes. (*respecter*)
-5. **EVAL02-05** Au soleil, les vitres … vivement. (*briller*)
+### Évaluation 21. **EVAL02-01** Elle … souvent. (*chanter*)
+2. Vous … prêts. (*être*)
+3. Le chat … sur le mur. (*grimper*)
+4. La classe … les consignes. (*respecter*)
+5. Au soleil, les vitres … vivement. (*briller*)
 
-### EVAL03
-1. **EVAL03-01** Nous … dehors. (*jouer*)
-2. **EVAL03-02** Elles … des cartes. (*avoir*)
-3. **EVAL03-03** Ma sœur … une histoire. (*raconter*)
-4. **EVAL03-04** Tu … le parcours. (*représenter*)
-5. **EVAL03-05** Au signal, Zoé … sa carte. (*retourner*)
+### Évaluation 31. **EVAL03-01** Nous … dehors. (*jouer*)
+2. Elles … des cartes. (*avoir*)
+3. Ma sœur … une histoire. (*raconter*)
+4. Tu … le parcours. (*représenter*)
+5. Au signal, Zoé … sa carte. (*retourner*)
 
-### EVAL04
-1. **EVAL04-01** Vous … la porte. (*fermer*)
-2. **EVAL04-02** Il … un vélo. (*avoir*)
-3. **EVAL04-03** Les oiseaux … au-dessus du jardin. (*voler*)
-4. **EVAL04-04** Nous … les pièces. (*assembler*)
-5. **EVAL04-05** Dans le bus, Yanis … les maisons. (*observer*)
+### Évaluation 41. **EVAL04-01** Vous … la porte. (*fermer*)
+2. Il … un vélo. (*avoir*)
+3. Les oiseaux … au-dessus du jardin. (*voler*)
+4. Nous … les pièces. (*assembler*)
+5. Dans le bus, Yanis … les maisons. (*observer*)
 
-### EVAL05
-1. **EVAL05-01** Ils … la table. (*laver*)
-2. **EVAL05-02** Nous … en classe. (*être*)
-3. **EVAL05-03** Léa et toi … le puzzle. (*terminer*)
-4. **EVAL05-04** Lina … son choix. (*expliquer*)
-5. **EVAL05-05** Sur la table, Nora … les jetons. (*disposer*)
+### Évaluation 51. **EVAL05-01** Ils … la table. (*laver*)
+2. Nous … en classe. (*être*)
+3. Léa et toi … le puzzle. (*terminer*)
+4. Lina … son choix. (*expliquer*)
+5. Sur la table, Nora … les jetons. (*disposer*)
 
-### EVAL06
-1. **EVAL06-01** Elles … la date. (*copier*)
-2. **EVAL06-02** Tu … huit ans. (*avoir*)
-3. **EVAL06-03** Le gardien … la lampe. (*allumer*)
-4. **EVAL06-04** Vous … attentivement. (*écouter*)
-5. **EVAL06-05** Avant la classe, Malo … la salle. (*aérer*)
+### Évaluation 61. **EVAL06-01** Elles … la date. (*copier*)
+2. Tu … huit ans. (*avoir*)
+3. Le gardien … la lampe. (*allumer*)
+4. Vous … attentivement. (*écouter*)
+5. Avant la classe, Malo … la salle. (*aérer*)
 
-### EVAL07
-1. **EVAL07-01** Je … mon sac. (*porter*)
-2. **EVAL07-02** Elles … dehors. (*être*)
-3. **EVAL07-03** Les élèves … une affiche. (*préparer*)
-4. **EVAL07-04** Le groupe … son travail. (*organiser*)
-5. **EVAL07-05** Au portail, les familles … calmement. (*patienter*)
+### Évaluation 71. **EVAL07-01** Je … mon sac. (*porter*)
+2. Elles … dehors. (*être*)
+3. Les élèves … une affiche. (*préparer*)
+4. Le groupe … son travail. (*organiser*)
+5. Au portail, les familles … calmement. (*patienter*)
 
-### EVAL08
-1. **EVAL08-01** Tu … la consigne. (*écouter*)
-2. **EVAL08-02** Vous … le temps. (*avoir*)
-3. **EVAL08-03** Mon ami et moi … la carte. (*regarder*)
-4. **EVAL08-04** Tu … la dernière case. (*compléter*)
-5. **EVAL08-05** Dans le sable, Lou … une étoile. (*dessiner*)
+### Évaluation 81. **EVAL08-01** Tu … la consigne. (*écouter*)
+2. Vous … le temps. (*avoir*)
+3. Mon ami et moi … la carte. (*regarder*)
+4. Tu … la dernière case. (*compléter*)
+5. Dans le sable, Lou … une étoile. (*dessiner*)
 
-### EVAL09
-1. **EVAL09-01** Nous … nos affaires. (*ranger*)
-2. **EVAL09-02** J’… calme. (*être*)
-3. **EVAL09-03** Les élèves … trois animaux. (*présenter*)
-4. **EVAL09-04** Vous … l’école. (*localiser*)
-5. **EVAL09-05** Sous le préau, les enfants … leurs dessins. (*abriter*)
+### Évaluation 91. **EVAL09-01** Nous … nos affaires. (*ranger*)
+2. J’… calme. (*être*)
+3. Les élèves … trois animaux. (*présenter*)
+4. Vous … l’école. (*localiser*)
+5. Sous le préau, les enfants … leurs dessins. (*abriter*)
 
-### EVAL10
-1. **EVAL10-01** Vous … Lina. (*aider*)
-2. **EVAL10-02** Elles … des cartes. (*avoir*)
-3. **EVAL10-03** Sami … le ballon. (*attraper*)
-4. **EVAL10-04** Nous … le chemin. (*retrouver*)
-5. **EVAL10-05** Dans le calme, la classe … son travail. (*commencer*)
+### Évaluation 101. **EVAL10-01** Vous … Lina. (*aider*)
+2. Elles … des cartes. (*avoir*)
+3. Sami … le ballon. (*attraper*)
+4. Nous … le chemin. (*retrouver*)
+5. Dans le calme, la classe … son travail. (*commencer*)
 
 ## Devoirs
 
 Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 
-### DEV01
-1. **DEV01-01** Je … ici. (*habiter*)
-2. **DEV01-02** Tu … vite. (*marcher*)
-3. **DEV01-03** Il … la balle. (*lancer*)
-4. **DEV01-04** Elle … souvent. (*chanter*)
-5. **DEV01-05** Nous … dehors. (*jouer*)
+### Devoir 11. **DEV01-01** Je … ici. (*habiter*)
+2. Tu … vite. (*marcher*)
+3. Il … la balle. (*lancer*)
+4. Elle … souvent. (*chanter*)
+5. Nous … dehors. (*jouer*)
 
-### DEV02
-1. **DEV02-01** Vous … la porte. (*fermer*)
-2. **DEV02-02** Ils … la table. (*laver*)
-3. **DEV02-03** Elles … la date. (*copier*)
-4. **DEV02-04** J’… calme. (*être*)
-5. **DEV02-05** Tu … content. (*être*)
+### Devoir 21. **DEV02-01** Vous … la porte. (*fermer*)
+2. Ils … la table. (*laver*)
+3. Elles … la date. (*copier*)
+4. J’… calme. (*être*)
+5. Tu … content. (*être*)
 
-### DEV03
-1. **DEV03-01** Il … malade. (*être*)
-2. **DEV03-02** Nous … en classe. (*être*)
-3. **DEV03-03** Vous … prêts. (*être*)
-4. **DEV03-04** J’… un livre. (*avoir*)
-5. **DEV03-05** Tu … huit ans. (*avoir*)
+### Devoir 31. **DEV03-01** Il … malade. (*être*)
+2. Nous … en classe. (*être*)
+3. Vous … prêts. (*être*)
+4. J’… un livre. (*avoir*)
+5. Tu … huit ans. (*avoir*)
 
-### DEV04
-1. **DEV04-01** Il … un vélo. (*avoir*)
-2. **DEV04-02** Nous … une idée. (*avoir*)
-3. **DEV04-03** Vous … le temps. (*avoir*)
-4. **DEV04-04** Elles … des cartes. (*avoir*)
-5. **DEV04-05** Je … mon sac. (*porter*)
+### Devoir 41. **DEV04-01** Il … un vélo. (*avoir*)
+2. Nous … une idée. (*avoir*)
+3. Vous … le temps. (*avoir*)
+4. Elles … des cartes. (*avoir*)
+5. Je … mon sac. (*porter*)
 
-### DEV05
-1. **DEV05-01** Tu … la consigne. (*écouter*)
-2. **DEV05-02** Nous … nos affaires. (*ranger*)
-3. **DEV05-03** Vous … Lina. (*aider*)
-4. **DEV05-04** Elle … la date. (*copier*)
-5. **DEV05-05** J’… calme. (*être*)
+### Devoir 51. **DEV05-01** Tu … la consigne. (*écouter*)
+2. Nous … nos affaires. (*ranger*)
+3. Vous … Lina. (*aider*)
+4. Elle … la date. (*copier*)
+5. J’… calme. (*être*)
 
-### DEV06
-1. **DEV06-01** Tu … vite. (*marcher*)
-2. **DEV06-02** Nous … dehors. (*jouer*)
-3. **DEV06-03** Tu … huit ans. (*avoir*)
-4. **DEV06-04** Vous … la porte. (*fermer*)
-5. **DEV06-05** Il … un vélo. (*avoir*)
+### Devoir 61. **DEV06-01** Tu … vite. (*marcher*)
+2. Nous … dehors. (*jouer*)
+3. Tu … huit ans. (*avoir*)
+4. Vous … la porte. (*fermer*)
+5. Il … un vélo. (*avoir*)
 
-### DEV07
-1. **DEV07-01** Je … ici. (*habiter*)
-2. **DEV07-02** Vous … prêts. (*être*)
-3. **DEV07-03** Ils … la table. (*laver*)
-4. **DEV07-04** Nous … une idée. (*avoir*)
-5. **DEV07-05** Tu … la consigne. (*écouter*)
+### Devoir 71. **DEV07-01** Je … ici. (*habiter*)
+2. Vous … prêts. (*être*)
+3. Ils … la table. (*laver*)
+4. Nous … une idée. (*avoir*)
+5. Tu … la consigne. (*écouter*)
 
-### DEV08
-1. **DEV08-01** Elle … souvent. (*chanter*)
-2. **DEV08-02** J’… un livre. (*avoir*)
-3. **DEV08-03** Nous … nos affaires. (*ranger*)
-4. **DEV08-04** Tu … content. (*être*)
-5. **DEV08-05** Elles … la date. (*copier*)
+### Devoir 81. **DEV08-01** Elle … souvent. (*chanter*)
+2. J’… un livre. (*avoir*)
+3. Nous … nos affaires. (*ranger*)
+4. Tu … content. (*être*)
+5. Elles … la date. (*copier*)
 
-### DEV09
-1. **DEV09-01** Il … la balle. (*lancer*)
-2. **DEV09-02** Nous … en classe. (*être*)
-3. **DEV09-03** Vous … Lina. (*aider*)
-4. **DEV09-04** Elles … des cartes. (*avoir*)
-5. **DEV09-05** Je … mon sac. (*porter*)
+### Devoir 91. **DEV09-01** Il … la balle. (*lancer*)
+2. Nous … en classe. (*être*)
+3. Vous … Lina. (*aider*)
+4. Elles … des cartes. (*avoir*)
+5. Je … mon sac. (*porter*)
 
-### DEV10
-1. **DEV10-01** Nous … dehors. (*jouer*)
-2. **DEV10-02** Tu … huit ans. (*avoir*)
-3. **DEV10-03** J’… calme. (*être*)
-4. **DEV10-04** Vous … la porte. (*fermer*)
-5. **DEV10-05** Tu … la consigne. (*écouter*)
+### Devoir 101. **DEV10-01** Nous … dehors. (*jouer*)
+2. Tu … huit ans. (*avoir*)
+3. J’… calme. (*être*)
+4. Vous … la porte. (*fermer*)
+5. Tu … la consigne. (*écouter*)
 
 ## Corrections
 
 ### Correction — À toi de jouer
-1. **IMM01** habiterai
-2. **IMM02** marcheras
-3. **IMM03** dessinera
-4. **IMM04** jouerons
-5. **IMM05** écouterez
-6. **IMM06** seront
-7. **IMM07** auront
+1. habiterai
+2. marcheras
+3. dessinera
+4. jouerons
+5. écouterez
+6. seront
+7. auront
 
 ### Corrections des entraînements
 
-#### ENT01
-1. habiterai
+#### Entraînement 11. habiterai
 2. marcheras
 3. lancera
 4. chantera
@@ -347,8 +316,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. laveront
 8. copieront
 
-#### ENT02
-1. serai
+#### Entraînement 21. serai
 2. seras
 3. sera
 4. serons
@@ -357,8 +325,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. aurai
 8. auras
 
-#### ENT03
-1. aura
+#### Entraînement 31. aura
 2. aurons
 3. aurez
 4. auront
@@ -367,8 +334,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. rangerons
 8. aiderez
 
-#### ENT04
-1. grimpera
+#### Entraînement 41. grimpera
 2. danseront
 3. racontera
 4. voleront
@@ -377,8 +343,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. allumera
 8. prépareront
 
-#### ENT05
-1. resterai
+#### Entraînement 51. resterai
 2. arroseras
 3. notera
 4. décorerons
@@ -387,8 +352,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. serai
 8. aurons
 
-#### ENT06
-1. attrapera
+#### Entraînement 61. attrapera
 2. patienteront
 3. traceras
 4. rangerons
@@ -397,8 +361,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. seront
 8. auront
 
-#### ENT07
-1. découpera
+#### Entraînement 71. découpera
 2. refermeront
 3. notera
 4. observerons
@@ -407,8 +370,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. seront
 8. auras
 
-#### ENT08
-1. démarreront
+#### Entraînement 81. démarreront
 2. distinguerez
 3. protégera
 4. compléteras
@@ -417,8 +379,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. serons
 8. auront
 
-#### ENT09
-1. respectera
+#### Entraînement 91. respectera
 2. cacheront
 3. assemblerons
 4. localiserez
@@ -427,8 +388,7 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 7. seront
 8. aurai
 
-#### ENT10
-1. expliquera
+#### Entraînement 101. expliquera
 2. présenteront
 3. écouterez
 4. retrouverons
@@ -439,71 +399,61 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 
 ### Corrections des évaluations
 
-#### EVAL01
-1. marcheras
+#### Évaluation 11. marcheras
 2. aurons
 3. danseront
 4. localiserez
 5. retrouvera
 
-#### EVAL02
-1. chantera
+#### Évaluation 21. chantera
 2. serez
 3. grimpera
 4. respectera
 5. brilleront
 
-#### EVAL03
-1. jouerons
+#### Évaluation 31. jouerons
 2. auront
 3. racontera
 4. représenteras
 5. retournera
 
-#### EVAL04
-1. fermerez
+#### Évaluation 41. fermerez
 2. aura
 3. voleront
 4. assemblerons
 5. observera
 
-#### EVAL05
-1. laveront
+#### Évaluation 51. laveront
 2. serons
 3. terminerez
 4. expliquera
 5. disposera
 
-#### EVAL06
-1. copieront
+#### Évaluation 61. copieront
 2. auras
 3. allumera
 4. écouterez
 5. aérera
 
-#### EVAL07
-1. porterai
+#### Évaluation 71. porterai
 2. seront
 3. prépareront
 4. organisera
 5. patienteront
 
-#### EVAL08
-1. écouteras
+#### Évaluation 81. écouteras
 2. aurez
 3. regarderons
 4. compléteras
 5. dessinera
 
-#### EVAL09
-1. rangerons
+#### Évaluation 91. rangerons
 2. serai
 3. présenteront
 4. localiserez
 5. abriteront
 
-#### EVAL10
-1. aiderez
+#### Évaluation 101. aiderez
 2. auront
 3. attrapera
 4. retrouverons
@@ -511,71 +461,61 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au futur.**
 
 ### Corrections des devoirs
 
-#### DEV01
-1. habiterai
+#### Devoir 11. habiterai
 2. marcheras
 3. lancera
 4. chantera
 5. jouerons
 
-#### DEV02
-1. fermerez
+#### Devoir 21. fermerez
 2. laveront
 3. copieront
 4. serai
 5. seras
 
-#### DEV03
-1. sera
+#### Devoir 31. sera
 2. serons
 3. serez
 4. aurai
 5. auras
 
-#### DEV04
-1. aura
+#### Devoir 41. aura
 2. aurons
 3. aurez
 4. auront
 5. porterai
 
-#### DEV05
-1. écouteras
+#### Devoir 51. écouteras
 2. rangerons
 3. aiderez
 4. copiera
 5. serai
 
-#### DEV06
-1. marcheras
+#### Devoir 61. marcheras
 2. jouerons
 3. auras
 4. fermerez
 5. aura
 
-#### DEV07
-1. habiterai
+#### Devoir 71. habiterai
 2. serez
 3. laveront
 4. aurons
 5. écouteras
 
-#### DEV08
-1. chantera
+#### Devoir 81. chantera
 2. aurai
 3. rangerons
 4. seras
 5. copieront
 
-#### DEV09
-1. lancera
+#### Devoir 91. lancera
 2. serons
 3. aiderez
 4. auront
 5. porterai
 
-#### DEV10
-1. jouerons
+#### Devoir 101. jouerons
 2. auras
 3. serai
 4. fermerez

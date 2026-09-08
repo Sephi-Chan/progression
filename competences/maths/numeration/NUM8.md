@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 1.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 2.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **IMM02** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **IMM03** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **IMM04** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **IMM05** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **IMM06** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **IMM07** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
 
-- **ENT01-01** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **ENT01-02** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **ENT01-03** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **ENT01-04** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **ENT01-05** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+### Entraînement 2
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
 
-### ENT02
+### Entraînement 3
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
 
-- **ENT02-01** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **ENT02-02** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **ENT02-03** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **ENT02-04** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **ENT02-05** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+### Entraînement 4
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
 
-### ENT03
+### Entraînement 5
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
 
-- **ENT03-01** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **ENT03-02** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **ENT03-03** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **ENT03-04** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **ENT03-05** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+### Entraînement 6
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
 
-### ENT04
+### Entraînement 7
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
 
-- **ENT04-01** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **ENT04-02** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **ENT04-03** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **ENT04-04** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **ENT04-05** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+### Entraînement 8
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
 
-### ENT05
+### Entraînement 9
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
 
-- **ENT05-01** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **ENT05-02** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **ENT05-03** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **ENT05-04** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **ENT05-05** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-
-### ENT06
-
-- **ENT06-01** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **ENT06-02** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **ENT06-03** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **ENT06-04** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **ENT06-05** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-
-### ENT07
-
-- **ENT07-01** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **ENT07-02** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **ENT07-03** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **ENT07-04** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **ENT07-05** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-
-### ENT08
-
-- **ENT08-01** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **ENT08-02** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **ENT08-03** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **ENT08-04** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **ENT08-05** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-
-### ENT09
-
-- **ENT09-01** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **ENT09-02** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **ENT09-03** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **ENT09-04** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **ENT09-05** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-
-### ENT10
-
-- **ENT10-01** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **ENT10-02** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **ENT10-03** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **ENT10-04** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **ENT10-05** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+### Entraînement 10
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
 
-- **EVAL01-01** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **EVAL01-02** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **EVAL01-03** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **EVAL01-04** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **EVAL01-05** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+### Évaluation 2
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
 
-### EVAL02
+### Évaluation 3
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
 
-- **EVAL02-01** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **EVAL02-02** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **EVAL02-03** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **EVAL02-04** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **EVAL02-05** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+### Évaluation 4
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
 
-### EVAL03
+### Évaluation 5
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
 
-- **EVAL03-01** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **EVAL03-02** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **EVAL03-03** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **EVAL03-04** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **EVAL03-05** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+### Évaluation 6
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
 
-### EVAL04
+### Évaluation 7
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
 
-- **EVAL04-01** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **EVAL04-02** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **EVAL04-03** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **EVAL04-04** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **EVAL04-05** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+### Évaluation 8
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
 
-### EVAL05
+### Évaluation 9
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
 
-- **EVAL05-01** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **EVAL05-02** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **EVAL05-03** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **EVAL05-04** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **EVAL05-05** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-
-### EVAL06
-
-- **EVAL06-01** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **EVAL06-02** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **EVAL06-03** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **EVAL06-04** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **EVAL06-05** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-
-### EVAL07
-
-- **EVAL07-01** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **EVAL07-02** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **EVAL07-03** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **EVAL07-04** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **EVAL07-05** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-
-### EVAL08
-
-- **EVAL08-01** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **EVAL08-02** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **EVAL08-03** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **EVAL08-04** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **EVAL08-05** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-
-### EVAL09
-
-- **EVAL09-01** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **EVAL09-02** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **EVAL09-03** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **EVAL09-04** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **EVAL09-05** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-
-### EVAL10
-
-- **EVAL10-01** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **EVAL10-02** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **EVAL10-03** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **EVAL10-04** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **EVAL10-05** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+### Évaluation 10
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
 
-- **DEV01-01** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **DEV01-02** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **DEV01-03** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **DEV01-04** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **DEV01-05** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+### Devoir 2
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
 
-### DEV02
+### Devoir 3
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
 
-- **DEV02-01** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **DEV02-02** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **DEV02-03** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **DEV02-04** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **DEV02-05** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+### Devoir 4
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
 
-### DEV03
+### Devoir 5
+- Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
 
-- **DEV03-01** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **DEV03-02** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **DEV03-03** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **DEV03-04** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **DEV03-05** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+### Devoir 6
+- Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
 
-### DEV04
+### Devoir 7
+- Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
 
-- **DEV04-01** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
-- **DEV04-02** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **DEV04-03** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **DEV04-04** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **DEV04-05** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+### Devoir 8
+- Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
 
-### DEV05
+### Devoir 9
+- Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
 
-- **DEV05-01** Sur `0 | 672 | 627 | ? | 8 |`, quelle valeur est à ?
-- **DEV05-02** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **DEV05-03** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **DEV05-04** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **DEV05-05** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-
-### DEV06
-
-- **DEV06-01** Sur `0 | 781 | 718 | ? | 10 |`, quelle valeur est à ?
-- **DEV06-02** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **DEV06-03** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **DEV06-04** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **DEV06-05** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-
-### DEV07
-
-- **DEV07-01** Sur `0 | 804 | 840 | ? | 12 |`, quelle valeur est à ?
-- **DEV07-02** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **DEV07-03** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **DEV07-04** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **DEV07-05** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-
-### DEV08
-
-- **DEV08-01** Sur `0 | 915 | 951 | ? | 3 |`, quelle valeur est à ?
-- **DEV08-02** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **DEV08-03** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **DEV08-04** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **DEV08-05** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-
-### DEV09
-
-- **DEV09-01** Sur `0 | 990 | 909 | ? | 4 |`, quelle valeur est à ?
-- **DEV09-02** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **DEV09-03** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **DEV09-04** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **DEV09-05** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-
-### DEV10
-
-- **DEV10-01** Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
-- **DEV10-02** Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
-- **DEV10-03** Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
-- **DEV10-04** Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
-- **DEV10-05** Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
+### Devoir 10
+- Sur `0 | 124 | 142 | ? | 2 |`, quelle valeur est à ?
+- Sur `0 | 236 | 263 | ? | 3 |`, quelle valeur est à ?
+- Sur `0 | 347 | 374 | ? | 4 |`, quelle valeur est à ?
+- Sur `0 | 458 | 485 | ? | 5 |`, quelle valeur est à ?
+- Sur `0 | 569 | 596 | ? | 6 |`, quelle valeur est à ?
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 3.
 2. 4.
 3. 5.
 4. 6.
 5. 7.
 
-#### ENT02
-
+#### Entraînement 2
 1. 5.
 2. 6.
 3. 7.
 4. 8.
 5. 9.
 
-#### ENT03
-
+#### Entraînement 3
 1. 7.
 2. 8.
 3. 9.
 4. 9.
 5. 1.
 
-#### ENT04
-
+#### Entraînement 4
 1. 9.
 2. 9.
 3. 1.
 4. 2.
 5. 3.
 
-#### ENT05
-
+#### Entraînement 5
 1. 1.
 2. 2.
 3. 3.
 4. 4.
 5. 5.
 
-#### ENT06
-
+#### Entraînement 6
 1. 3.
 2. 4.
 3. 5.
 4. 6.
 5. 7.
 
-#### ENT07
-
+#### Entraînement 7
 1. 5.
 2. 6.
 3. 7.
 4. 8.
 5. 9.
 
-#### ENT08
-
+#### Entraînement 8
 1. 7.
 2. 8.
 3. 9.
 4. 9.
 5. 1.
 
-#### ENT09
-
+#### Entraînement 9
 1. 9.
 2. 9.
 3. 1.
 4. 2.
 5. 3.
 
-#### ENT10
-
+#### Entraînement 10
 1. 1.
 2. 2.
 3. 3.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 3.
 2. 4.
 3. 5.
 4. 6.
 5. 7.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 5.
 2. 6.
 3. 7.
 4. 8.
 5. 9.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 7.
 2. 8.
 3. 9.
 4. 9.
 5. 1.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 9.
 2. 9.
 3. 1.
 4. 2.
 5. 3.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 1.
 2. 2.
 3. 3.
 4. 4.
 5. 5.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 3.
 2. 4.
 3. 5.
 4. 6.
 5. 7.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 5.
 2. 6.
 3. 7.
 4. 8.
 5. 9.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 7.
 2. 8.
 3. 9.
 4. 9.
 5. 1.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 9.
 2. 9.
 3. 1.
 4. 2.
 5. 3.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 1.
 2. 2.
 3. 3.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 2.
 2. 3.
 3. 4.
 4. 5.
 5. 6.
 
-#### DEV02
-
+#### Devoir 2
 1. 3.
 2. 4.
 3. 5.
 4. 6.
 5. 7.
 
-#### DEV03
-
+#### Devoir 3
 1. 4.
 2. 5.
 3. 6.
 4. 7.
 5. 8.
 
-#### DEV04
-
+#### Devoir 4
 1. 5.
 2. 6.
 3. 7.
 4. 8.
 5. 9.
 
-#### DEV05
-
+#### Devoir 5
 1. 6.
 2. 7.
 3. 8.
 4. 9.
 5. 9.
 
-#### DEV06
-
+#### Devoir 6
 1. 7.
 2. 8.
 3. 9.
 4. 9.
 5. 1.
 
-#### DEV07
-
+#### Devoir 7
 1. 8.
 2. 9.
 3. 9.
 4. 1.
 5. 2.
 
-#### DEV08
-
+#### Devoir 8
 1. 9.
 2. 9.
 3. 1.
 4. 2.
 5. 3.
 
-#### DEV09
-
+#### Devoir 9
 1. 9.
 2. 1.
 3. 2.
 4. 3.
 5. 4.
 
-#### DEV10
-
+#### Devoir 10
 1. 1.
 2. 2.
 3. 3.

@@ -61,8 +61,7 @@ Le format sollicite directement la compétence et produit une réponse corrigeab
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 Complète : **1 kg = … g**.
 
 - **Attention portée :** utiliser le groupement de 1 000 g pour 1 kg.
@@ -70,8 +69,7 @@ Complète : **1 kg = … g**.
 - **Réponse :** 1000 g.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 Complète : **2 kg = … g**.
 
 - **Attention portée :** utiliser le groupement de 1 000 g pour 1 kg.
@@ -79,8 +77,7 @@ Complète : **2 kg = … g**.
 - **Réponse :** 2000 g.
 - **Contrôle final :** relire la consigne et vérifier que la réponse utilise le symbole ou l’unité attendu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 Complète : **3 kg = … g**.
 
 - **Attention portée :** utiliser le groupement de 1 000 g pour 1 kg.
@@ -90,13 +87,13 @@ Complète : **3 kg = … g**.
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Complète : **4 kg = … g**.
-- **IMM02** Complète : **5 kg = … g**.
-- **IMM03** Complète : **6 kg = … g**.
-- **IMM04** Complète : **7 kg = … g**.
-- **IMM05** Complète : **8 kg = … g**.
-- **IMM06** Complète : **1 kg = … g**.
-- **IMM07** Complète : **2 kg = … g**.
+- Complète : **4 kg = … g**.
+- Complète : **5 kg = … g**.
+- Complète : **6 kg = … g**.
+- Complète : **7 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **2 kg = … g**.
 
 ## Variables didactiques
 
@@ -106,507 +103,447 @@ Complète : **3 kg = … g**.
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Complète : **1 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **3 kg = … g**.
+- Complète : **4 kg = … g**.
+- Complète : **5 kg = … g**.
 
-- **ENT01-01** Complète : **1 kg = … g**.
-- **ENT01-02** Complète : **2 kg = … g**.
-- **ENT01-03** Complète : **3 kg = … g**.
-- **ENT01-04** Complète : **4 kg = … g**.
-- **ENT01-05** Complète : **5 kg = … g**.
+### Entraînement 2
+- Complète : **6 kg = … g**.
+- Complète : **7 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **2 kg = … g**.
 
-### ENT02
+### Entraînement 3
+- Complète : **3 kg = … g**.
+- Complète : **4 kg = … g**.
+- Complète : **5 kg = … g**.
+- Complète : **6 kg = … g**.
+- Complète : **7 kg = … g**.
 
-- **ENT02-01** Complète : **6 kg = … g**.
-- **ENT02-02** Complète : **7 kg = … g**.
-- **ENT02-03** Complète : **8 kg = … g**.
-- **ENT02-04** Complète : **1 kg = … g**.
-- **ENT02-05** Complète : **2 kg = … g**.
+### Entraînement 4
+- Complète : **8 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **5 kg 716 g = … g**.
+- Complète : **6 kg 853 g = … g**.
 
-### ENT03
+### Entraînement 5
+- Complète : **7 kg 90 g = … g**.
+- Complète : **1 kg 227 g = … g**.
+- Complète : **2 kg 364 g = … g**.
+- Complète : **3 kg 501 g = … g**.
+- Complète : **4 kg 638 g = … g**.
 
-- **ENT03-01** Complète : **3 kg = … g**.
-- **ENT03-02** Complète : **4 kg = … g**.
-- **ENT03-03** Complète : **5 kg = … g**.
-- **ENT03-04** Complète : **6 kg = … g**.
-- **ENT03-05** Complète : **7 kg = … g**.
+### Entraînement 6
+- Complète : **5 kg 775 g = … g**.
+- Complète : **6 kg 912 g = … g**.
+- Complète : **7 kg 149 g = … g**.
+- Complète : **1 kg 286 g = … g**.
+- Complète : **2 kg 423 g = … g**.
 
-### ENT04
+### Entraînement 7
+- Complète : **3 kg 560 g = … g**.
+- Complète : **4 kg 697 g = … g**.
+- Complète : **5 kg 834 g = … g**.
+- Complète : **6 kg 71 g = … g**.
+- Complète : **7 kg 208 g = … g**.
 
-- **ENT04-01** Complète : **8 kg = … g**.
-- **ENT04-02** Complète : **1 kg = … g**.
-- **ENT04-03** Complète : **2 kg = … g**.
-- **ENT04-04** Complète : **5 kg 716 g = … g**.
-- **ENT04-05** Complète : **6 kg 853 g = … g**.
+### Entraînement 8
+- Complète : **1 kg 345 g = … g**.
+- Complète : **3688 g = … kg … g**.
+- Complète : **4771 g = … kg … g**.
+- Complète : **5854 g = … kg … g**.
+- Complète : **6137 g = … kg … g**.
 
-### ENT05
+### Entraînement 9
+- Complète : **7220 g = … kg … g**.
+- Complète : **8303 g = … kg … g**.
+- Complète : **2386 g = … kg … g**.
+- Complète : **3469 g = … kg … g**.
+- Complète : **4552 g = … kg … g**.
 
-- **ENT05-01** Complète : **7 kg 90 g = … g**.
-- **ENT05-02** Complète : **1 kg 227 g = … g**.
-- **ENT05-03** Complète : **2 kg 364 g = … g**.
-- **ENT05-04** Complète : **3 kg 501 g = … g**.
-- **ENT05-05** Complète : **4 kg 638 g = … g**.
-
-### ENT06
-
-- **ENT06-01** Complète : **5 kg 775 g = … g**.
-- **ENT06-02** Complète : **6 kg 912 g = … g**.
-- **ENT06-03** Complète : **7 kg 149 g = … g**.
-- **ENT06-04** Complète : **1 kg 286 g = … g**.
-- **ENT06-05** Complète : **2 kg 423 g = … g**.
-
-### ENT07
-
-- **ENT07-01** Complète : **3 kg 560 g = … g**.
-- **ENT07-02** Complète : **4 kg 697 g = … g**.
-- **ENT07-03** Complète : **5 kg 834 g = … g**.
-- **ENT07-04** Complète : **6 kg 71 g = … g**.
-- **ENT07-05** Complète : **7 kg 208 g = … g**.
-
-### ENT08
-
-- **ENT08-01** Complète : **1 kg 345 g = … g**.
-- **ENT08-02** Complète : **3688 g = … kg … g**.
-- **ENT08-03** Complète : **4771 g = … kg … g**.
-- **ENT08-04** Complète : **5854 g = … kg … g**.
-- **ENT08-05** Complète : **6137 g = … kg … g**.
-
-### ENT09
-
-- **ENT09-01** Complète : **7220 g = … kg … g**.
-- **ENT09-02** Complète : **8303 g = … kg … g**.
-- **ENT09-03** Complète : **2386 g = … kg … g**.
-- **ENT09-04** Complète : **3469 g = … kg … g**.
-- **ENT09-05** Complète : **4552 g = … kg … g**.
-
-### ENT10
-
-- **ENT10-01** Complète : **5635 g = … kg … g**.
-- **ENT10-02** Complète : **6718 g = … kg … g**.
-- **ENT10-03** Complète : **7801 g = … kg … g**.
-- **ENT10-04** Complète : **8884 g = … kg … g**.
-- **ENT10-05** Complète : **2167 g = … kg … g**.
+### Entraînement 10
+- Complète : **5635 g = … kg … g**.
+- Complète : **6718 g = … kg … g**.
+- Complète : **7801 g = … kg … g**.
+- Complète : **8884 g = … kg … g**.
+- Complète : **2167 g = … kg … g**.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Complète : **6 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **7 kg 208 g = … g**.
+- Écris la masse équivalente : **1 kg 286 g = … g**.
+- Complète : **1 kg 220 g = … g**.
 
-- **EVAL01-01** Complète : **6 kg = … g**.
-- **EVAL01-02** Complète : **2 kg = … g**.
-- **EVAL01-03** Complète : **7 kg 208 g = … g**.
-- **EVAL01-04** Écris la masse équivalente : **1 kg 286 g = … g**.
-- **EVAL01-05** Complète : **1 kg 220 g = … g**.
+### Évaluation 2
+- Complète : **7 kg = … g**.
+- Complète : **5 kg 716 g = … g**.
+- Complète : **3 kg 560 g = … g**.
+- Écris la masse équivalente : **2 kg 423 g = … g**.
+- Complète : **1 kg 230 g = … g**.
 
-### EVAL02
+### Évaluation 3
+- Complète : **8 kg = … g**.
+- Complète : **6 kg 853 g = … g**.
+- Complète : **4 kg 697 g = … g**.
+- Écris la masse équivalente : **5 kg 775 g = … g**.
+- Complète : **1 kg 240 g = … g**.
 
-- **EVAL02-01** Complète : **7 kg = … g**.
-- **EVAL02-02** Complète : **5 kg 716 g = … g**.
-- **EVAL02-03** Complète : **3 kg 560 g = … g**.
-- **EVAL02-04** Écris la masse équivalente : **2 kg 423 g = … g**.
-- **EVAL02-05** Complète : **1 kg 230 g = … g**.
+### Évaluation 4
+- Complète : **1 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **5 kg 834 g = … g**.
+- Écris la masse équivalente : **6 kg 912 g = … g**.
+- Complète : **1 kg 250 g = … g**.
 
-### EVAL03
+### Évaluation 5
+- Complète : **2 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **6 kg 71 g = … g**.
+- Écris la masse équivalente : **7 kg 149 g = … g**.
+- Complète : **1 kg 260 g = … g**.
 
-- **EVAL03-01** Complète : **8 kg = … g**.
-- **EVAL03-02** Complète : **6 kg 853 g = … g**.
-- **EVAL03-03** Complète : **4 kg 697 g = … g**.
-- **EVAL03-04** Écris la masse équivalente : **5 kg 775 g = … g**.
-- **EVAL03-05** Complète : **1 kg 240 g = … g**.
+### Évaluation 6
+- Complète : **6 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **7 kg 208 g = … g**.
+- Écris la masse équivalente : **1 kg 286 g = … g**.
+- Complète : **1 kg 270 g = … g**.
 
-### EVAL04
+### Évaluation 7
+- Complète : **7 kg = … g**.
+- Complète : **5 kg 716 g = … g**.
+- Complète : **3 kg 560 g = … g**.
+- Écris la masse équivalente : **2 kg 423 g = … g**.
+- Complète : **1 kg 280 g = … g**.
 
-- **EVAL04-01** Complète : **1 kg = … g**.
-- **EVAL04-02** Complète : **8 kg = … g**.
-- **EVAL04-03** Complète : **5 kg 834 g = … g**.
-- **EVAL04-04** Écris la masse équivalente : **6 kg 912 g = … g**.
-- **EVAL04-05** Complète : **1 kg 250 g = … g**.
+### Évaluation 8
+- Complète : **8 kg = … g**.
+- Complète : **6 kg 853 g = … g**.
+- Complète : **4 kg 697 g = … g**.
+- Écris la masse équivalente : **5 kg 775 g = … g**.
+- Complète : **1 kg 290 g = … g**.
 
-### EVAL05
+### Évaluation 9
+- Complète : **1 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **5 kg 834 g = … g**.
+- Écris la masse équivalente : **6 kg 912 g = … g**.
+- Complète : **1 kg 300 g = … g**.
 
-- **EVAL05-01** Complète : **2 kg = … g**.
-- **EVAL05-02** Complète : **1 kg = … g**.
-- **EVAL05-03** Complète : **6 kg 71 g = … g**.
-- **EVAL05-04** Écris la masse équivalente : **7 kg 149 g = … g**.
-- **EVAL05-05** Complète : **1 kg 260 g = … g**.
-
-### EVAL06
-
-- **EVAL06-01** Complète : **6 kg = … g**.
-- **EVAL06-02** Complète : **2 kg = … g**.
-- **EVAL06-03** Complète : **7 kg 208 g = … g**.
-- **EVAL06-04** Écris la masse équivalente : **1 kg 286 g = … g**.
-- **EVAL06-05** Complète : **1 kg 270 g = … g**.
-
-### EVAL07
-
-- **EVAL07-01** Complète : **7 kg = … g**.
-- **EVAL07-02** Complète : **5 kg 716 g = … g**.
-- **EVAL07-03** Complète : **3 kg 560 g = … g**.
-- **EVAL07-04** Écris la masse équivalente : **2 kg 423 g = … g**.
-- **EVAL07-05** Complète : **1 kg 280 g = … g**.
-
-### EVAL08
-
-- **EVAL08-01** Complète : **8 kg = … g**.
-- **EVAL08-02** Complète : **6 kg 853 g = … g**.
-- **EVAL08-03** Complète : **4 kg 697 g = … g**.
-- **EVAL08-04** Écris la masse équivalente : **5 kg 775 g = … g**.
-- **EVAL08-05** Complète : **1 kg 290 g = … g**.
-
-### EVAL09
-
-- **EVAL09-01** Complète : **1 kg = … g**.
-- **EVAL09-02** Complète : **8 kg = … g**.
-- **EVAL09-03** Complète : **5 kg 834 g = … g**.
-- **EVAL09-04** Écris la masse équivalente : **6 kg 912 g = … g**.
-- **EVAL09-05** Complète : **1 kg 300 g = … g**.
-
-### EVAL10
-
-- **EVAL10-01** Complète : **2 kg = … g**.
-- **EVAL10-02** Complète : **1 kg = … g**.
-- **EVAL10-03** Complète : **6 kg 71 g = … g**.
-- **EVAL10-04** Écris la masse équivalente : **7 kg 149 g = … g**.
-- **EVAL10-05** Complète : **1 kg 310 g = … g**.
+### Évaluation 10
+- Complète : **2 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **6 kg 71 g = … g**.
+- Écris la masse équivalente : **7 kg 149 g = … g**.
+- Complète : **1 kg 310 g = … g**.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Complète : **1 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **6 kg = … g**.
+- Complète : **6 kg 853 g = … g**.
+- Complète : **1 kg = … g**.
 
-- **DEV01-01** Complète : **1 kg = … g**.
-- **DEV01-02** Complète : **8 kg = … g**.
-- **DEV01-03** Complète : **6 kg = … g**.
-- **DEV01-04** Complète : **6 kg 853 g = … g**.
-- **DEV01-05** Complète : **1 kg = … g**.
+### Devoir 2
+- Complète : **2 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **7 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **2 kg = … g**.
 
-### DEV02
+### Devoir 3
+- Complète : **3 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **3 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **3 kg = … g**.
 
-- **DEV02-01** Complète : **2 kg = … g**.
-- **DEV02-02** Complète : **1 kg = … g**.
-- **DEV02-03** Complète : **7 kg = … g**.
-- **DEV02-04** Complète : **8 kg = … g**.
-- **DEV02-05** Complète : **2 kg = … g**.
+### Devoir 4
+- Complète : **4 kg = … g**.
+- Complète : **6 kg = … g**.
+- Complète : **4 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **4 kg = … g**.
 
-### DEV03
+### Devoir 5
+- Complète : **5 kg = … g**.
+- Complète : **7 kg = … g**.
+- Complète : **5 kg = … g**.
+- Complète : **5 kg 716 g = … g**.
+- Complète : **5 kg = … g**.
 
-- **DEV03-01** Complète : **3 kg = … g**.
-- **DEV03-02** Complète : **2 kg = … g**.
-- **DEV03-03** Complète : **3 kg = … g**.
-- **DEV03-04** Complète : **1 kg = … g**.
-- **DEV03-05** Complète : **3 kg = … g**.
+### Devoir 6
+- Complète : **1 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **6 kg = … g**.
+- Complète : **6 kg 853 g = … g**.
+- Complète : **1 kg = … g**.
 
-### DEV04
+### Devoir 7
+- Complète : **2 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **7 kg = … g**.
+- Complète : **8 kg = … g**.
+- Complète : **2 kg = … g**.
 
-- **DEV04-01** Complète : **4 kg = … g**.
-- **DEV04-02** Complète : **6 kg = … g**.
-- **DEV04-03** Complète : **4 kg = … g**.
-- **DEV04-04** Complète : **2 kg = … g**.
-- **DEV04-05** Complète : **4 kg = … g**.
+### Devoir 8
+- Complète : **3 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **3 kg = … g**.
+- Complète : **1 kg = … g**.
+- Complète : **3 kg = … g**.
 
-### DEV05
+### Devoir 9
+- Complète : **4 kg = … g**.
+- Complète : **6 kg = … g**.
+- Complète : **4 kg = … g**.
+- Complète : **2 kg = … g**.
+- Complète : **4 kg = … g**.
 
-- **DEV05-01** Complète : **5 kg = … g**.
-- **DEV05-02** Complète : **7 kg = … g**.
-- **DEV05-03** Complète : **5 kg = … g**.
-- **DEV05-04** Complète : **5 kg 716 g = … g**.
-- **DEV05-05** Complète : **5 kg = … g**.
-
-### DEV06
-
-- **DEV06-01** Complète : **1 kg = … g**.
-- **DEV06-02** Complète : **8 kg = … g**.
-- **DEV06-03** Complète : **6 kg = … g**.
-- **DEV06-04** Complète : **6 kg 853 g = … g**.
-- **DEV06-05** Complète : **1 kg = … g**.
-
-### DEV07
-
-- **DEV07-01** Complète : **2 kg = … g**.
-- **DEV07-02** Complète : **1 kg = … g**.
-- **DEV07-03** Complète : **7 kg = … g**.
-- **DEV07-04** Complète : **8 kg = … g**.
-- **DEV07-05** Complète : **2 kg = … g**.
-
-### DEV08
-
-- **DEV08-01** Complète : **3 kg = … g**.
-- **DEV08-02** Complète : **2 kg = … g**.
-- **DEV08-03** Complète : **3 kg = … g**.
-- **DEV08-04** Complète : **1 kg = … g**.
-- **DEV08-05** Complète : **3 kg = … g**.
-
-### DEV09
-
-- **DEV09-01** Complète : **4 kg = … g**.
-- **DEV09-02** Complète : **6 kg = … g**.
-- **DEV09-03** Complète : **4 kg = … g**.
-- **DEV09-04** Complète : **2 kg = … g**.
-- **DEV09-05** Complète : **4 kg = … g**.
-
-### DEV10
-
-- **DEV10-01** Complète : **5 kg = … g**.
-- **DEV10-02** Complète : **7 kg = … g**.
-- **DEV10-03** Complète : **5 kg = … g**.
-- **DEV10-04** Complète : **5 kg 716 g = … g**.
-- **DEV10-05** Complète : **5 kg = … g**.
+### Devoir 10
+- Complète : **5 kg = … g**.
+- Complète : **7 kg = … g**.
+- Complète : **5 kg = … g**.
+- Complète : **5 kg 716 g = … g**.
+- Complète : **5 kg = … g**.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — 4000 g.
-2. **IMM02** — 5000 g.
-3. **IMM03** — 6000 g.
-4. **IMM04** — 7000 g.
-5. **IMM05** — 8000 g.
-6. **IMM06** — 1000 g.
-7. **IMM07** — 2000 g.
+1. — 4000 g.
+2. — 5000 g.
+3. — 6000 g.
+4. — 7000 g.
+5. — 8000 g.
+6. — 1000 g.
+7. — 2000 g.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. — 1000 g.
+2. — 2000 g.
+3. — 3000 g.
+4. — 4000 g.
+5. — 5000 g.
 
-1. **ENT01-01** — 1000 g.
-2. **ENT01-02** — 2000 g.
-3. **ENT01-03** — 3000 g.
-4. **ENT01-04** — 4000 g.
-5. **ENT01-05** — 5000 g.
+#### Entraînement 2
+1. — 6000 g.
+2. — 7000 g.
+3. — 8000 g.
+4. — 1000 g.
+5. — 2000 g.
 
-#### ENT02
+#### Entraînement 3
+1. — 3000 g.
+2. — 4000 g.
+3. — 5000 g.
+4. — 6000 g.
+5. — 7000 g.
 
-1. **ENT02-01** — 6000 g.
-2. **ENT02-02** — 7000 g.
-3. **ENT02-03** — 8000 g.
-4. **ENT02-04** — 1000 g.
-5. **ENT02-05** — 2000 g.
+#### Entraînement 4
+1. — 8000 g.
+2. — 1000 g.
+3. — 2000 g.
+4. — 5716 g.
+5. — 6853 g.
 
-#### ENT03
+#### Entraînement 5
+1. — 7090 g.
+2. — 1227 g.
+3. — 2364 g.
+4. — 3501 g.
+5. — 4638 g.
 
-1. **ENT03-01** — 3000 g.
-2. **ENT03-02** — 4000 g.
-3. **ENT03-03** — 5000 g.
-4. **ENT03-04** — 6000 g.
-5. **ENT03-05** — 7000 g.
+#### Entraînement 6
+1. — 5775 g.
+2. — 6912 g.
+3. — 7149 g.
+4. — 1286 g.
+5. — 2423 g.
 
-#### ENT04
+#### Entraînement 7
+1. — 3560 g.
+2. — 4697 g.
+3. — 5834 g.
+4. — 6071 g.
+5. — 7208 g.
 
-1. **ENT04-01** — 8000 g.
-2. **ENT04-02** — 1000 g.
-3. **ENT04-03** — 2000 g.
-4. **ENT04-04** — 5716 g.
-5. **ENT04-05** — 6853 g.
+#### Entraînement 8
+1. — 1345 g.
+2. — 3 kg 688 g.
+3. — 4 kg 771 g.
+4. — 5 kg 854 g.
+5. — 6 kg 137 g.
 
-#### ENT05
+#### Entraînement 9
+1. — 7 kg 220 g.
+2. — 8 kg 303 g.
+3. — 2 kg 386 g.
+4. — 3 kg 469 g.
+5. — 4 kg 552 g.
 
-1. **ENT05-01** — 7090 g.
-2. **ENT05-02** — 1227 g.
-3. **ENT05-03** — 2364 g.
-4. **ENT05-04** — 3501 g.
-5. **ENT05-05** — 4638 g.
-
-#### ENT06
-
-1. **ENT06-01** — 5775 g.
-2. **ENT06-02** — 6912 g.
-3. **ENT06-03** — 7149 g.
-4. **ENT06-04** — 1286 g.
-5. **ENT06-05** — 2423 g.
-
-#### ENT07
-
-1. **ENT07-01** — 3560 g.
-2. **ENT07-02** — 4697 g.
-3. **ENT07-03** — 5834 g.
-4. **ENT07-04** — 6071 g.
-5. **ENT07-05** — 7208 g.
-
-#### ENT08
-
-1. **ENT08-01** — 1345 g.
-2. **ENT08-02** — 3 kg 688 g.
-3. **ENT08-03** — 4 kg 771 g.
-4. **ENT08-04** — 5 kg 854 g.
-5. **ENT08-05** — 6 kg 137 g.
-
-#### ENT09
-
-1. **ENT09-01** — 7 kg 220 g.
-2. **ENT09-02** — 8 kg 303 g.
-3. **ENT09-03** — 2 kg 386 g.
-4. **ENT09-04** — 3 kg 469 g.
-5. **ENT09-05** — 4 kg 552 g.
-
-#### ENT10
-
-1. **ENT10-01** — 5 kg 635 g.
-2. **ENT10-02** — 6 kg 718 g.
-3. **ENT10-03** — 7 kg 801 g.
-4. **ENT10-04** — 8 kg 884 g.
-5. **ENT10-05** — 2 kg 167 g.
+#### Entraînement 10
+1. — 5 kg 635 g.
+2. — 6 kg 718 g.
+3. — 7 kg 801 g.
+4. — 8 kg 884 g.
+5. — 2 kg 167 g.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. — 6000 g.
+2. — 2000 g.
+3. — 7208 g.
+4. — 1286 g.
+5. — 1220 g.
 
-1. **EVAL01-01** — 6000 g.
-2. **EVAL01-02** — 2000 g.
-3. **EVAL01-03** — 7208 g.
-4. **EVAL01-04** — 1286 g.
-5. **EVAL01-05** — 1220 g.
+#### Évaluation 2
+1. — 7000 g.
+2. — 5716 g.
+3. — 3560 g.
+4. — 2423 g.
+5. — 1230 g.
 
-#### EVAL02
+#### Évaluation 3
+1. — 8000 g.
+2. — 6853 g.
+3. — 4697 g.
+4. — 5775 g.
+5. — 1240 g.
 
-1. **EVAL02-01** — 7000 g.
-2. **EVAL02-02** — 5716 g.
-3. **EVAL02-03** — 3560 g.
-4. **EVAL02-04** — 2423 g.
-5. **EVAL02-05** — 1230 g.
+#### Évaluation 4
+1. — 1000 g.
+2. — 8000 g.
+3. — 5834 g.
+4. — 6912 g.
+5. — 1250 g.
 
-#### EVAL03
+#### Évaluation 5
+1. — 2000 g.
+2. — 1000 g.
+3. — 6071 g.
+4. — 7149 g.
+5. — 1260 g.
 
-1. **EVAL03-01** — 8000 g.
-2. **EVAL03-02** — 6853 g.
-3. **EVAL03-03** — 4697 g.
-4. **EVAL03-04** — 5775 g.
-5. **EVAL03-05** — 1240 g.
+#### Évaluation 6
+1. — 6000 g.
+2. — 2000 g.
+3. — 7208 g.
+4. — 1286 g.
+5. — 1270 g.
 
-#### EVAL04
+#### Évaluation 7
+1. — 7000 g.
+2. — 5716 g.
+3. — 3560 g.
+4. — 2423 g.
+5. — 1280 g.
 
-1. **EVAL04-01** — 1000 g.
-2. **EVAL04-02** — 8000 g.
-3. **EVAL04-03** — 5834 g.
-4. **EVAL04-04** — 6912 g.
-5. **EVAL04-05** — 1250 g.
+#### Évaluation 8
+1. — 8000 g.
+2. — 6853 g.
+3. — 4697 g.
+4. — 5775 g.
+5. — 1290 g.
 
-#### EVAL05
+#### Évaluation 9
+1. — 1000 g.
+2. — 8000 g.
+3. — 5834 g.
+4. — 6912 g.
+5. — 1300 g.
 
-1. **EVAL05-01** — 2000 g.
-2. **EVAL05-02** — 1000 g.
-3. **EVAL05-03** — 6071 g.
-4. **EVAL05-04** — 7149 g.
-5. **EVAL05-05** — 1260 g.
-
-#### EVAL06
-
-1. **EVAL06-01** — 6000 g.
-2. **EVAL06-02** — 2000 g.
-3. **EVAL06-03** — 7208 g.
-4. **EVAL06-04** — 1286 g.
-5. **EVAL06-05** — 1270 g.
-
-#### EVAL07
-
-1. **EVAL07-01** — 7000 g.
-2. **EVAL07-02** — 5716 g.
-3. **EVAL07-03** — 3560 g.
-4. **EVAL07-04** — 2423 g.
-5. **EVAL07-05** — 1280 g.
-
-#### EVAL08
-
-1. **EVAL08-01** — 8000 g.
-2. **EVAL08-02** — 6853 g.
-3. **EVAL08-03** — 4697 g.
-4. **EVAL08-04** — 5775 g.
-5. **EVAL08-05** — 1290 g.
-
-#### EVAL09
-
-1. **EVAL09-01** — 1000 g.
-2. **EVAL09-02** — 8000 g.
-3. **EVAL09-03** — 5834 g.
-4. **EVAL09-04** — 6912 g.
-5. **EVAL09-05** — 1300 g.
-
-#### EVAL10
-
-1. **EVAL10-01** — 2000 g.
-2. **EVAL10-02** — 1000 g.
-3. **EVAL10-03** — 6071 g.
-4. **EVAL10-04** — 7149 g.
-5. **EVAL10-05** — 1310 g.
+#### Évaluation 10
+1. — 2000 g.
+2. — 1000 g.
+3. — 6071 g.
+4. — 7149 g.
+5. — 1310 g.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. — 1000 g.
+2. — 8000 g.
+3. — 6000 g.
+4. — 6853 g.
+5. — 1000 g.
 
-1. **DEV01-01** — 1000 g.
-2. **DEV01-02** — 8000 g.
-3. **DEV01-03** — 6000 g.
-4. **DEV01-04** — 6853 g.
-5. **DEV01-05** — 1000 g.
+#### Devoir 2
+1. — 2000 g.
+2. — 1000 g.
+3. — 7000 g.
+4. — 8000 g.
+5. — 2000 g.
 
-#### DEV02
+#### Devoir 3
+1. — 3000 g.
+2. — 2000 g.
+3. — 3000 g.
+4. — 1000 g.
+5. — 3000 g.
 
-1. **DEV02-01** — 2000 g.
-2. **DEV02-02** — 1000 g.
-3. **DEV02-03** — 7000 g.
-4. **DEV02-04** — 8000 g.
-5. **DEV02-05** — 2000 g.
+#### Devoir 4
+1. — 4000 g.
+2. — 6000 g.
+3. — 4000 g.
+4. — 2000 g.
+5. — 4000 g.
 
-#### DEV03
+#### Devoir 5
+1. — 5000 g.
+2. — 7000 g.
+3. — 5000 g.
+4. — 5716 g.
+5. — 5000 g.
 
-1. **DEV03-01** — 3000 g.
-2. **DEV03-02** — 2000 g.
-3. **DEV03-03** — 3000 g.
-4. **DEV03-04** — 1000 g.
-5. **DEV03-05** — 3000 g.
+#### Devoir 6
+1. — 1000 g.
+2. — 8000 g.
+3. — 6000 g.
+4. — 6853 g.
+5. — 1000 g.
 
-#### DEV04
+#### Devoir 7
+1. — 2000 g.
+2. — 1000 g.
+3. — 7000 g.
+4. — 8000 g.
+5. — 2000 g.
 
-1. **DEV04-01** — 4000 g.
-2. **DEV04-02** — 6000 g.
-3. **DEV04-03** — 4000 g.
-4. **DEV04-04** — 2000 g.
-5. **DEV04-05** — 4000 g.
+#### Devoir 8
+1. — 3000 g.
+2. — 2000 g.
+3. — 3000 g.
+4. — 1000 g.
+5. — 3000 g.
 
-#### DEV05
+#### Devoir 9
+1. — 4000 g.
+2. — 6000 g.
+3. — 4000 g.
+4. — 2000 g.
+5. — 4000 g.
 
-1. **DEV05-01** — 5000 g.
-2. **DEV05-02** — 7000 g.
-3. **DEV05-03** — 5000 g.
-4. **DEV05-04** — 5716 g.
-5. **DEV05-05** — 5000 g.
-
-#### DEV06
-
-1. **DEV06-01** — 1000 g.
-2. **DEV06-02** — 8000 g.
-3. **DEV06-03** — 6000 g.
-4. **DEV06-04** — 6853 g.
-5. **DEV06-05** — 1000 g.
-
-#### DEV07
-
-1. **DEV07-01** — 2000 g.
-2. **DEV07-02** — 1000 g.
-3. **DEV07-03** — 7000 g.
-4. **DEV07-04** — 8000 g.
-5. **DEV07-05** — 2000 g.
-
-#### DEV08
-
-1. **DEV08-01** — 3000 g.
-2. **DEV08-02** — 2000 g.
-3. **DEV08-03** — 3000 g.
-4. **DEV08-04** — 1000 g.
-5. **DEV08-05** — 3000 g.
-
-#### DEV09
-
-1. **DEV09-01** — 4000 g.
-2. **DEV09-02** — 6000 g.
-3. **DEV09-03** — 4000 g.
-4. **DEV09-04** — 2000 g.
-5. **DEV09-05** — 4000 g.
-
-#### DEV10
-
-1. **DEV10-01** — 5000 g.
-2. **DEV10-02** — 7000 g.
-3. **DEV10-03** — 5000 g.
-4. **DEV10-04** — 5716 g.
-5. **DEV10-05** — 5000 g.
+#### Devoir 10
+1. — 5000 g.
+2. — 7000 g.
+3. — 5000 g.
+4. — 5716 g.
+5. — 5000 g.
 
 ## Traçabilité des évaluations et devoirs
 

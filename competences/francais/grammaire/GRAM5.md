@@ -69,8 +69,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 ## Modelage explicite — 3 items
 
-### MOD01 — Modelage complet
-
+### Modelage 1 — Modelage complet
 **Énoncé :** Transforme en phrase interrogative : « Le chat dort. »
 
 - **Attention d’abord :** Le type cible est interrogatif.
@@ -78,8 +77,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Est-ce que le chat dort ?
 - **Contrôle final :** La phrase pose bien une question et porte le bon signe final.
 
-### MOD02 — Modelage interactif
-
+### Modelage 2 — Modelage interactif
 **Énoncé :** Transforme en phrase déclarative : « Est-ce que Lina ferme la porte ? »
 
 - **Attention d’abord :** Que veut-on maintenant : informer ou questionner ?
@@ -87,8 +85,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Lina ferme la porte.
 - **Contrôle final :** La phrase donne l’information sans poser de question.
 
-### MOD03 — Guidage allégé
-
+### Modelage 3 — Guidage allégé
 **Énoncé :** Transforme en phrase impérative : « Tu ranges ton cahier. »
 
 - **Attention d’abord :** Repérez la consigne à donner.
@@ -100,13 +97,13 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 Transforme chaque phrase selon le type demandé.
 
-- **IMM01** Transforme en phrase interrogative : « Le chat dort. »
-- **IMM02** Transforme en phrase interrogative : « Lina ferme la fenêtre. »
-- **IMM03** Transforme en phrase déclarative : « Est-ce que le chat dort ? »
-- **IMM04** Transforme en phrase interrogative : « Le train arrive à midi. »
-- **IMM05** Transforme en phrase impérative : « Tu fermes la porte. »
-- **IMM06** Transforme en phrase impérative : « Tu ranges ton cahier. »
-- **IMM07** Transforme en phrase déclarative : « Ferme la porte. »
+- Transforme en phrase interrogative : « Le chat dort. »
+- Transforme en phrase interrogative : « Lina ferme la fenêtre. »
+- Transforme en phrase déclarative : « Est-ce que le chat dort ? »
+- Transforme en phrase interrogative : « Le train arrive à midi. »
+- Transforme en phrase impérative : « Tu fermes la porte. »
+- Transforme en phrase impérative : « Tu ranges ton cahier. »
+- Transforme en phrase déclarative : « Ferme la porte. »
 
 ## Variables didactiques
 
@@ -137,562 +134,502 @@ Transforme chaque phrase selon le type demandé.
 ## Entraînements
 
 
-### ENT01
-
+### Entraînement 1
 Transforme chaque phrase selon le type demandé.
 
-- **ENT01-01** Transforme en phrase interrogative : « Le chat dort. »
-- **ENT01-02** Transforme en phrase déclarative : « Est-ce que le chat dort ? »
-- **ENT01-03** Transforme en phrase interrogative : « Lina ferme la fenêtre. »
-- **ENT01-04** Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
-- **ENT01-05** Transforme en phrase interrogative : « Le train arrive à midi. »
-- **ENT01-06** Transforme en phrase déclarative : « Est-ce que le train arrive à midi ? »
+- Transforme en phrase interrogative : « Le chat dort. »
+- Transforme en phrase déclarative : « Est-ce que le chat dort ? »
+- Transforme en phrase interrogative : « Lina ferme la fenêtre. »
+- Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
+- Transforme en phrase interrogative : « Le train arrive à midi. »
+- Transforme en phrase déclarative : « Est-ce que le train arrive à midi ? »
 
-### ENT02
-
+### Entraînement 2
 Transforme chaque phrase selon le type demandé.
 
-- **ENT02-01** Transforme en phrase interrogative : « Malo prend son goûter. »
-- **ENT02-02** Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
-- **ENT02-03** Transforme en phrase interrogative : « La pluie tombe. »
-- **ENT02-04** Transforme en phrase déclarative : « Est-ce que la pluie tombe ? »
-- **ENT02-05** Transforme en phrase interrogative : « Le chien cherche sa balle. »
-- **ENT02-06** Transforme en phrase déclarative : « Est-ce que le chien cherche sa balle ? »
+- Transforme en phrase interrogative : « Malo prend son goûter. »
+- Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
+- Transforme en phrase interrogative : « La pluie tombe. »
+- Transforme en phrase déclarative : « Est-ce que la pluie tombe ? »
+- Transforme en phrase interrogative : « Le chien cherche sa balle. »
+- Transforme en phrase déclarative : « Est-ce que le chien cherche sa balle ? »
 
-### ENT03
-
+### Entraînement 3
 Transforme chaque phrase selon le type demandé.
 
-- **ENT03-01** Transforme en phrase interrogative : « Nina range son livre. »
-- **ENT03-02** Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
-- **ENT03-03** Transforme en phrase interrogative : « Le bateau quitte le port. »
-- **ENT03-04** Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
-- **ENT03-05** Transforme en phrase interrogative : « Les élèves entrent en classe. »
-- **ENT03-06** Transforme en phrase déclarative : « Est-ce que les élèves entrent en classe ? »
+- Transforme en phrase interrogative : « Nina range son livre. »
+- Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
+- Transforme en phrase interrogative : « Le bateau quitte le port. »
+- Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
+- Transforme en phrase interrogative : « Les élèves entrent en classe. »
+- Transforme en phrase déclarative : « Est-ce que les élèves entrent en classe ? »
 
-### ENT04
-
+### Entraînement 4
 Transforme chaque phrase selon le type demandé.
 
-- **ENT04-01** Transforme en phrase interrogative : « Papa prépare une soupe. »
-- **ENT04-02** Transforme en phrase impérative : « Tu fermes la porte. »
-- **ENT04-03** Transforme en phrase déclarative : « Est-ce que Papa prépare une soupe ? »
-- **ENT04-04** Transforme en phrase déclarative : « Ferme la porte. »
-- **ENT04-05** Transforme en phrase interrogative : « La tortue avance lentement. »
-- **ENT04-06** Transforme en phrase impérative : « Tu ranges ton cahier. »
+- Transforme en phrase interrogative : « Papa prépare une soupe. »
+- Transforme en phrase impérative : « Tu fermes la porte. »
+- Transforme en phrase déclarative : « Est-ce que Papa prépare une soupe ? »
+- Transforme en phrase déclarative : « Ferme la porte. »
+- Transforme en phrase interrogative : « La tortue avance lentement. »
+- Transforme en phrase impérative : « Tu ranges ton cahier. »
 
-### ENT05
-
+### Entraînement 5
 Transforme chaque phrase selon le type demandé.
 
-- **ENT05-01** Transforme en phrase déclarative : « Est-ce que la tortue avance lentement ? »
-- **ENT05-02** Transforme en phrase déclarative : « Range ton cahier. »
-- **ENT05-03** Transforme en phrase interrogative : « Le facteur apporte le courrier. »
-- **ENT05-04** Transforme en phrase impérative : « Tu écoutes la consigne. »
-- **ENT05-05** Transforme en phrase déclarative : « Est-ce que le facteur apporte le courrier ? »
-- **ENT05-06** Transforme en phrase déclarative : « Écoute la consigne. »
+- Transforme en phrase déclarative : « Est-ce que la tortue avance lentement ? »
+- Transforme en phrase déclarative : « Range ton cahier. »
+- Transforme en phrase interrogative : « Le facteur apporte le courrier. »
+- Transforme en phrase impérative : « Tu écoutes la consigne. »
+- Transforme en phrase déclarative : « Est-ce que le facteur apporte le courrier ? »
+- Transforme en phrase déclarative : « Écoute la consigne. »
 
-### ENT06
-
+### Entraînement 6
 Transforme chaque phrase selon le type demandé.
 
-- **ENT06-01** Transforme en phrase interrogative : « Zoé porte un manteau. »
-- **ENT06-02** Transforme en phrase impérative : « Tu regardes le tableau. »
-- **ENT06-03** Transforme en phrase déclarative : « Est-ce que Zoé porte un manteau ? »
-- **ENT06-04** Transforme en phrase déclarative : « Regarde le tableau. »
-- **ENT06-05** Transforme en phrase interrogative : « Le soleil brille. »
-- **ENT06-06** Transforme en phrase impérative : « Tu poses ton crayon. »
+- Transforme en phrase interrogative : « Zoé porte un manteau. »
+- Transforme en phrase impérative : « Tu regardes le tableau. »
+- Transforme en phrase déclarative : « Est-ce que Zoé porte un manteau ? »
+- Transforme en phrase déclarative : « Regarde le tableau. »
+- Transforme en phrase interrogative : « Le soleil brille. »
+- Transforme en phrase impérative : « Tu poses ton crayon. »
 
-### ENT07
-
+### Entraînement 7
 Transforme chaque phrase selon le type demandé.
 
-- **ENT07-01** Transforme en phrase déclarative : « Est-ce que le soleil brille ? »
-- **ENT07-02** Transforme en phrase déclarative : « Pose ton crayon. »
-- **ENT07-03** Transforme en phrase interrogative : « Le lapin mange une carotte. »
-- **ENT07-04** Transforme en phrase impérative : « Tu ouvres ton livre. »
-- **ENT07-05** Transforme en phrase déclarative : « Est-ce que le lapin mange une carotte ? »
-- **ENT07-06** Transforme en phrase déclarative : « Ouvre ton livre. »
+- Transforme en phrase déclarative : « Est-ce que le soleil brille ? »
+- Transforme en phrase déclarative : « Pose ton crayon. »
+- Transforme en phrase interrogative : « Le lapin mange une carotte. »
+- Transforme en phrase impérative : « Tu ouvres ton livre. »
+- Transforme en phrase déclarative : « Est-ce que le lapin mange une carotte ? »
+- Transforme en phrase déclarative : « Ouvre ton livre. »
 
-### ENT08
-
+### Entraînement 8
 Transforme chaque phrase selon le type demandé.
 
-- **ENT08-01** Transforme en phrase interrogative : « La maîtresse lit une histoire. »
-- **ENT08-02** Transforme en phrase impérative : « Tu traces un cercle. »
-- **ENT08-03** Transforme en phrase déclarative : « Est-ce que la maîtresse lit une histoire ? »
-- **ENT08-04** Transforme en phrase déclarative : « Trace un cercle. »
-- **ENT08-05** Transforme en phrase interrogative : « Le poisson nage dans le bassin. »
-- **ENT08-06** Transforme en phrase impérative : « Tu découpes la feuille. »
+- Transforme en phrase interrogative : « La maîtresse lit une histoire. »
+- Transforme en phrase impérative : « Tu traces un cercle. »
+- Transforme en phrase déclarative : « Est-ce que la maîtresse lit une histoire ? »
+- Transforme en phrase déclarative : « Trace un cercle. »
+- Transforme en phrase interrogative : « Le poisson nage dans le bassin. »
+- Transforme en phrase impérative : « Tu découpes la feuille. »
 
-### ENT09
-
+### Entraînement 9
 Transforme chaque phrase selon le type demandé.
 
-- **ENT09-01** Transforme en phrase déclarative : « Découpe la feuille. »
-- **ENT09-02** Transforme en phrase déclarative : « Est-ce que le poisson nage dans le bassin ? »
-- **ENT09-03** Transforme en phrase impérative : « Tu colles l’étiquette. »
-- **ENT09-04** Transforme en phrase interrogative : « Le vent pousse les feuilles. »
-- **ENT09-05** Transforme en phrase déclarative : « Colle l’étiquette. »
-- **ENT09-06** Transforme en phrase déclarative : « Est-ce que le vent pousse les feuilles ? »
+- Transforme en phrase déclarative : « Découpe la feuille. »
+- Transforme en phrase déclarative : « Est-ce que le poisson nage dans le bassin ? »
+- Transforme en phrase impérative : « Tu colles l’étiquette. »
+- Transforme en phrase interrogative : « Le vent pousse les feuilles. »
+- Transforme en phrase déclarative : « Colle l’étiquette. »
+- Transforme en phrase déclarative : « Est-ce que le vent pousse les feuilles ? »
 
-### ENT10
-
+### Entraînement 10
 Transforme chaque phrase selon le type demandé.
 
-- **ENT10-01** Transforme en phrase impérative : « Tu lèves la main. »
-- **ENT10-02** Transforme en phrase interrogative : « Le bébé boit son lait. »
-- **ENT10-03** Transforme en phrase déclarative : « Lève la main. »
-- **ENT10-04** Transforme en phrase déclarative : « Est-ce que le bébé boit son lait ? »
-- **ENT10-05** Transforme en phrase impérative : « Tu avances de deux pas. »
-- **ENT10-06** Transforme en phrase interrogative : « Le jardinier arrose les fleurs. »
+- Transforme en phrase impérative : « Tu lèves la main. »
+- Transforme en phrase interrogative : « Le bébé boit son lait. »
+- Transforme en phrase déclarative : « Lève la main. »
+- Transforme en phrase déclarative : « Est-ce que le bébé boit son lait ? »
+- Transforme en phrase impérative : « Tu avances de deux pas. »
+- Transforme en phrase interrogative : « Le jardinier arrose les fleurs. »
 
 ## Évaluations
 
 
-### EVAL01
-
+### Évaluation 1
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL01-01** Transforme en phrase interrogative : « Le chat dort. »
-- **EVAL01-02** Transforme en phrase impérative : « Tu fermes la porte. »
-- **EVAL01-03** Transforme en phrase interrogative : « Le lapin mange une carotte. »
-- **EVAL01-04** Transforme en phrase interrogative : « Le chat dort maintenant. »
-- **EVAL01-05** Transforme en phrase impérative : « Tu tires le rideau. »
+- Transforme en phrase interrogative : « Le chat dort. »
+- Transforme en phrase impérative : « Tu fermes la porte. »
+- Transforme en phrase interrogative : « Le lapin mange une carotte. »
+- Transforme en phrase interrogative : « Le chat dort maintenant. »
+- Transforme en phrase impérative : « Tu tires le rideau. »
 
-### EVAL02
-
+### Évaluation 2
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL02-01** Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
-- **EVAL02-02** Transforme en phrase interrogative : « Le facteur apporte le courrier. »
-- **EVAL02-03** Transforme en phrase déclarative : « Trace un cercle. »
-- **EVAL02-04** Transforme en phrase interrogative : « Malo prend son goûter maintenant. »
-- **EVAL02-05** Transforme en phrase impérative : « Tu pousses la chaise. »
+- Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
+- Transforme en phrase interrogative : « Le facteur apporte le courrier. »
+- Transforme en phrase déclarative : « Trace un cercle. »
+- Transforme en phrase interrogative : « Malo prend son goûter maintenant. »
+- Transforme en phrase impérative : « Tu pousses la chaise. »
 
-### EVAL03
-
+### Évaluation 3
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL03-01** Transforme en phrase interrogative : « Le bateau quitte le port. »
-- **EVAL03-02** Transforme en phrase déclarative : « Regarde le tableau. »
-- **EVAL03-03** Transforme en phrase déclarative : « Colle l’étiquette. »
-- **EVAL03-04** Transforme en phrase interrogative : « Nina range son livre maintenant. »
-- **EVAL03-05** Transforme en phrase impérative : « Tu lances le dé. »
+- Transforme en phrase interrogative : « Le bateau quitte le port. »
+- Transforme en phrase déclarative : « Regarde le tableau. »
+- Transforme en phrase déclarative : « Colle l’étiquette. »
+- Transforme en phrase interrogative : « Nina range son livre maintenant. »
+- Transforme en phrase impérative : « Tu lances le dé. »
 
-### EVAL04
-
+### Évaluation 4
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL04-01** Transforme en phrase déclarative : « Ferme la porte. »
-- **EVAL04-02** Transforme en phrase déclarative : « Est-ce que le lapin mange une carotte ? »
-- **EVAL04-03** Transforme en phrase interrogative : « Le jardinier arrose les fleurs. »
-- **EVAL04-04** Transforme en phrase interrogative : « Papa prépare une soupe maintenant. »
-- **EVAL04-05** Transforme en phrase impérative : « Tu remplis le verre. »
+- Transforme en phrase déclarative : « Ferme la porte. »
+- Transforme en phrase déclarative : « Est-ce que le lapin mange une carotte ? »
+- Transforme en phrase interrogative : « Le jardinier arrose les fleurs. »
+- Transforme en phrase interrogative : « Papa prépare une soupe maintenant. »
+- Transforme en phrase impérative : « Tu remplis le verre. »
 
-### EVAL05
-
+### Évaluation 5
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL05-01** Transforme en phrase déclarative : « Est-ce que le facteur apporte le courrier ? »
-- **EVAL05-02** Transforme en phrase impérative : « Tu découpes la feuille. »
-- **EVAL05-03** Transforme en phrase interrogative : « Malo prend son goûter. »
-- **EVAL05-04** Transforme en phrase déclarative : « Est-ce que la tortue avance lentement maintenant ? »
-- **EVAL05-05** Transforme en phrase impérative : « Tu lis la première ligne. »
+- Transforme en phrase déclarative : « Est-ce que le facteur apporte le courrier ? »
+- Transforme en phrase impérative : « Tu découpes la feuille. »
+- Transforme en phrase interrogative : « Malo prend son goûter. »
+- Transforme en phrase déclarative : « Est-ce que la tortue avance lentement maintenant ? »
+- Transforme en phrase impérative : « Tu lis la première ligne. »
 
-### EVAL06
-
+### Évaluation 6
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL06-01** Transforme en phrase impérative : « Tu poses ton crayon. »
-- **EVAL06-02** Transforme en phrase impérative : « Tu lèves la main. »
-- **EVAL06-03** Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
-- **EVAL06-04** Transforme en phrase interrogative : « Zoé porte un manteau maintenant. »
-- **EVAL06-05** Transforme en phrase impérative : « Tu suis le chemin. »
+- Transforme en phrase impérative : « Tu poses ton crayon. »
+- Transforme en phrase impérative : « Tu lèves la main. »
+- Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
+- Transforme en phrase interrogative : « Zoé porte un manteau maintenant. »
+- Transforme en phrase impérative : « Tu suis le chemin. »
 
-### EVAL07
-
+### Évaluation 7
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL07-01** Transforme en phrase interrogative : « La maîtresse lit une histoire. »
-- **EVAL07-02** Transforme en phrase déclarative : « Est-ce que le chat dort ? »
-- **EVAL07-03** Transforme en phrase déclarative : « Est-ce que Papa prépare une soupe ? »
-- **EVAL07-04** Transforme en phrase déclarative : « Est-ce que le soleil brille maintenant ? »
-- **EVAL07-05** Transforme en phrase impérative : « Tu touches le carré. »
+- Transforme en phrase interrogative : « La maîtresse lit une histoire. »
+- Transforme en phrase déclarative : « Est-ce que le chat dort ? »
+- Transforme en phrase déclarative : « Est-ce que Papa prépare une soupe ? »
+- Transforme en phrase déclarative : « Est-ce que le soleil brille maintenant ? »
+- Transforme en phrase impérative : « Tu touches le carré. »
 
-### EVAL08
-
+### Évaluation 8
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL08-01** Transforme en phrase déclarative : « Est-ce que le poisson nage dans le bassin ? »
-- **EVAL08-02** Transforme en phrase interrogative : « La pluie tombe. »
-- **EVAL08-03** Transforme en phrase impérative : « Tu écoutes la consigne. »
-- **EVAL08-04** Transforme en phrase interrogative : « La maîtresse lit une histoire maintenant. »
-- **EVAL08-05** Transforme en phrase impérative : « Tu demandes la parole. »
+- Transforme en phrase déclarative : « Est-ce que le poisson nage dans le bassin ? »
+- Transforme en phrase interrogative : « La pluie tombe. »
+- Transforme en phrase impérative : « Tu écoutes la consigne. »
+- Transforme en phrase interrogative : « La maîtresse lit une histoire maintenant. »
+- Transforme en phrase impérative : « Tu demandes la parole. »
 
-### EVAL09
-
+### Évaluation 9
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL09-01** Transforme en phrase déclarative : « Lève la main. »
-- **EVAL09-02** Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
-- **EVAL09-03** Transforme en phrase interrogative : « Le soleil brille. »
-- **EVAL09-04** Transforme en phrase déclarative : « Découpe la feuille maintenant. »
-- **EVAL09-05** Transforme en phrase impérative : « Tu gardes le silence. »
+- Transforme en phrase déclarative : « Lève la main. »
+- Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
+- Transforme en phrase interrogative : « Le soleil brille. »
+- Transforme en phrase déclarative : « Découpe la feuille maintenant. »
+- Transforme en phrase impérative : « Tu gardes le silence. »
 
-### EVAL10
-
+### Évaluation 10
 Transforme chaque phrase selon le type demandé.
 
-- **EVAL10-01** Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
-- **EVAL10-02** Transforme en phrase interrogative : « La tortue avance lentement. »
-- **EVAL10-03** Transforme en phrase déclarative : « Ouvre ton livre. »
-- **EVAL10-04** Transforme en phrase impérative : « Tu lèves la main maintenant. »
-- **EVAL10-05** Transforme en phrase impérative : « Tu poses la carte ici. »
+- Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
+- Transforme en phrase interrogative : « La tortue avance lentement. »
+- Transforme en phrase déclarative : « Ouvre ton livre. »
+- Transforme en phrase impérative : « Tu lèves la main maintenant. »
+- Transforme en phrase impérative : « Tu poses la carte ici. »
 
 ## Devoirs
 
 
-### DEV01
-
+### Devoir 1
 Transforme chaque phrase selon le type demandé.
 
-- **DEV01-01** Transforme en phrase interrogative : « Le chat dort. »
-- **DEV01-02** Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
-- **DEV01-03** Transforme en phrase interrogative : « Le bateau quitte le port. »
-- **DEV01-04** Transforme en phrase déclarative : « Ferme la porte. »
-- **DEV01-05** Transforme en phrase interrogative : « Le train arrive à midi. »
+- Transforme en phrase interrogative : « Le chat dort. »
+- Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
+- Transforme en phrase interrogative : « Le bateau quitte le port. »
+- Transforme en phrase déclarative : « Ferme la porte. »
+- Transforme en phrase interrogative : « Le train arrive à midi. »
 
-### DEV02
-
+### Devoir 2
 Transforme chaque phrase selon le type demandé.
 
-- **DEV02-01** Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
-- **DEV02-02** Transforme en phrase interrogative : « Le chien cherche sa balle. »
-- **DEV02-03** Transforme en phrase déclarative : « Est-ce que les élèves entrent en classe ? »
-- **DEV02-04** Transforme en phrase interrogative : « Le chat dort. »
-- **DEV02-05** Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
+- Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
+- Transforme en phrase interrogative : « Le chien cherche sa balle. »
+- Transforme en phrase déclarative : « Est-ce que les élèves entrent en classe ? »
+- Transforme en phrase interrogative : « Le chat dort. »
+- Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
 
-### DEV03
-
+### Devoir 3
 Transforme chaque phrase selon le type demandé.
 
-- **DEV03-01** Transforme en phrase interrogative : « Malo prend son goûter. »
-- **DEV03-02** Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
-- **DEV03-03** Transforme en phrase déclarative : « Est-ce que Papa prépare une soupe ? »
-- **DEV03-04** Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
-- **DEV03-05** Transforme en phrase interrogative : « Le chien cherche sa balle. »
+- Transforme en phrase interrogative : « Malo prend son goûter. »
+- Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
+- Transforme en phrase déclarative : « Est-ce que Papa prépare une soupe ? »
+- Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
+- Transforme en phrase interrogative : « Le chien cherche sa balle. »
 
-### DEV04
-
+### Devoir 4
 Transforme chaque phrase selon le type demandé.
 
-- **DEV04-01** Transforme en phrase déclarative : « Est-ce que la pluie tombe ? »
-- **DEV04-02** Transforme en phrase interrogative : « Les élèves entrent en classe. »
-- **DEV04-03** Transforme en phrase impérative : « Tu ranges ton cahier. »
-- **DEV04-04** Transforme en phrase interrogative : « Malo prend son goûter. »
-- **DEV04-05** Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
+- Transforme en phrase déclarative : « Est-ce que la pluie tombe ? »
+- Transforme en phrase interrogative : « Les élèves entrent en classe. »
+- Transforme en phrase impérative : « Tu ranges ton cahier. »
+- Transforme en phrase interrogative : « Malo prend son goûter. »
+- Transforme en phrase déclarative : « Est-ce que Nina range son livre ? »
 
-### DEV05
-
+### Devoir 5
 Transforme chaque phrase selon le type demandé.
 
-- **DEV05-01** Transforme en phrase interrogative : « Nina range son livre. »
-- **DEV05-02** Transforme en phrase impérative : « Tu fermes la porte. »
-- **DEV05-03** Transforme en phrase interrogative : « Lina ferme la fenêtre. »
-- **DEV05-04** Transforme en phrase déclarative : « Est-ce que la pluie tombe ? »
-- **DEV05-05** Transforme en phrase interrogative : « Les élèves entrent en classe. »
+- Transforme en phrase interrogative : « Nina range son livre. »
+- Transforme en phrase impérative : « Tu fermes la porte. »
+- Transforme en phrase interrogative : « Lina ferme la fenêtre. »
+- Transforme en phrase déclarative : « Est-ce que la pluie tombe ? »
+- Transforme en phrase interrogative : « Les élèves entrent en classe. »
 
-### DEV06
-
+### Devoir 6
 Transforme chaque phrase selon le type demandé.
 
-- **DEV06-01** Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
-- **DEV06-02** Transforme en phrase interrogative : « La tortue avance lentement. »
-- **DEV06-03** Transforme en phrase déclarative : « Est-ce que le train arrive à midi ? »
-- **DEV06-04** Transforme en phrase interrogative : « Nina range son livre. »
-- **DEV06-05** Transforme en phrase impérative : « Tu fermes la porte. »
+- Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
+- Transforme en phrase interrogative : « La tortue avance lentement. »
+- Transforme en phrase déclarative : « Est-ce que le train arrive à midi ? »
+- Transforme en phrase interrogative : « Nina range son livre. »
+- Transforme en phrase impérative : « Tu fermes la porte. »
 
-### DEV07
-
+### Devoir 7
 Transforme chaque phrase selon le type demandé.
 
-- **DEV07-01** Transforme en phrase interrogative : « Papa prépare une soupe. »
-- **DEV07-02** Transforme en phrase déclarative : « Est-ce que le chat dort ? »
-- **DEV07-03** Transforme en phrase interrogative : « La pluie tombe. »
-- **DEV07-04** Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
-- **DEV07-05** Transforme en phrase interrogative : « La tortue avance lentement. »
+- Transforme en phrase interrogative : « Papa prépare une soupe. »
+- Transforme en phrase déclarative : « Est-ce que le chat dort ? »
+- Transforme en phrase interrogative : « La pluie tombe. »
+- Transforme en phrase déclarative : « Est-ce que le bateau quitte le port ? »
+- Transforme en phrase interrogative : « La tortue avance lentement. »
 
-### DEV08
-
+### Devoir 8
 Transforme chaque phrase selon le type demandé.
 
-- **DEV08-01** Transforme en phrase déclarative : « Ferme la porte. »
-- **DEV08-02** Transforme en phrase interrogative : « Le train arrive à midi. »
-- **DEV08-03** Transforme en phrase déclarative : « Est-ce que le chien cherche sa balle ? »
-- **DEV08-04** Transforme en phrase interrogative : « Papa prépare une soupe. »
-- **DEV08-05** Transforme en phrase déclarative : « Est-ce que le chat dort ? »
+- Transforme en phrase déclarative : « Ferme la porte. »
+- Transforme en phrase interrogative : « Le train arrive à midi. »
+- Transforme en phrase déclarative : « Est-ce que le chien cherche sa balle ? »
+- Transforme en phrase interrogative : « Papa prépare une soupe. »
+- Transforme en phrase déclarative : « Est-ce que le chat dort ? »
 
-### DEV09
-
+### Devoir 9
 Transforme chaque phrase selon le type demandé.
 
-- **DEV09-01** Transforme en phrase interrogative : « Le chat dort. »
-- **DEV09-02** Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
-- **DEV09-03** Transforme en phrase interrogative : « Le bateau quitte le port. »
-- **DEV09-04** Transforme en phrase déclarative : « Ferme la porte. »
-- **DEV09-05** Transforme en phrase interrogative : « Le train arrive à midi. »
+- Transforme en phrase interrogative : « Le chat dort. »
+- Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
+- Transforme en phrase interrogative : « Le bateau quitte le port. »
+- Transforme en phrase déclarative : « Ferme la porte. »
+- Transforme en phrase interrogative : « Le train arrive à midi. »
 
-### DEV10
-
+### Devoir 10
 Transforme chaque phrase selon le type demandé.
 
-- **DEV10-01** Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
-- **DEV10-02** Transforme en phrase interrogative : « Le chien cherche sa balle. »
-- **DEV10-03** Transforme en phrase déclarative : « Est-ce que les élèves entrent en classe ? »
-- **DEV10-04** Transforme en phrase interrogative : « Le chat dort. »
-- **DEV10-05** Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
+- Transforme en phrase déclarative : « Est-ce que Lina ferme la fenêtre ? »
+- Transforme en phrase interrogative : « Le chien cherche sa balle. »
+- Transforme en phrase déclarative : « Est-ce que les élèves entrent en classe ? »
+- Transforme en phrase interrogative : « Le chat dort. »
+- Transforme en phrase déclarative : « Est-ce que Malo prend son goûter ? »
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — Est-ce que le chat dort ?
-2. **IMM02** — Est-ce que Lina ferme la fenêtre ?
-3. **IMM03** — Le chat dort.
-4. **IMM04** — Est-ce que le train arrive à midi ?
-5. **IMM05** — Ferme la porte.
-6. **IMM06** — Range ton cahier.
-7. **IMM07** — Tu fermes la porte.
+1. — Est-ce que le chat dort ?
+2. — Est-ce que Lina ferme la fenêtre ?
+3. — Le chat dort.
+4. — Est-ce que le train arrive à midi ?
+5. — Ferme la porte.
+6. — Range ton cahier.
+7. — Tu fermes la porte.
 
 ### Corrections des entraînements
 
 
-#### ENT01
-1. **ENT01-01** — Est-ce que le chat dort ?
-2. **ENT01-02** — Le chat dort.
-3. **ENT01-03** — Est-ce que Lina ferme la fenêtre ?
-4. **ENT01-04** — Lina ferme la fenêtre.
-5. **ENT01-05** — Est-ce que le train arrive à midi ?
-6. **ENT01-06** — Le train arrive à midi.
+#### Entraînement 11. **ENT01-01** — Est-ce que le chat dort ?
+2. — Le chat dort.
+3. — Est-ce que Lina ferme la fenêtre ?
+4. — Lina ferme la fenêtre.
+5. — Est-ce que le train arrive à midi ?
+6. — Le train arrive à midi.
 
-#### ENT02
-1. **ENT02-01** — Est-ce que Malo prend son goûter ?
-2. **ENT02-02** — Malo prend son goûter.
-3. **ENT02-03** — Est-ce que la pluie tombe ?
-4. **ENT02-04** — La pluie tombe.
-5. **ENT02-05** — Est-ce que le chien cherche sa balle ?
-6. **ENT02-06** — Le chien cherche sa balle.
+#### Entraînement 21. **ENT02-01** — Est-ce que Malo prend son goûter ?
+2. — Malo prend son goûter.
+3. — Est-ce que la pluie tombe ?
+4. — La pluie tombe.
+5. — Est-ce que le chien cherche sa balle ?
+6. — Le chien cherche sa balle.
 
-#### ENT03
-1. **ENT03-01** — Est-ce que Nina range son livre ?
-2. **ENT03-02** — Nina range son livre.
-3. **ENT03-03** — Est-ce que le bateau quitte le port ?
-4. **ENT03-04** — Le bateau quitte le port.
-5. **ENT03-05** — Est-ce que les élèves entrent en classe ?
-6. **ENT03-06** — Les élèves entrent en classe.
+#### Entraînement 31. **ENT03-01** — Est-ce que Nina range son livre ?
+2. — Nina range son livre.
+3. — Est-ce que le bateau quitte le port ?
+4. — Le bateau quitte le port.
+5. — Est-ce que les élèves entrent en classe ?
+6. — Les élèves entrent en classe.
 
-#### ENT04
-1. **ENT04-01** — Est-ce que Papa prépare une soupe ?
-2. **ENT04-02** — Ferme la porte.
-3. **ENT04-03** — Papa prépare une soupe.
-4. **ENT04-04** — Tu fermes la porte.
-5. **ENT04-05** — Est-ce que la tortue avance lentement ?
-6. **ENT04-06** — Range ton cahier.
+#### Entraînement 41. **ENT04-01** — Est-ce que Papa prépare une soupe ?
+2. — Ferme la porte.
+3. — Papa prépare une soupe.
+4. — Tu fermes la porte.
+5. — Est-ce que la tortue avance lentement ?
+6. — Range ton cahier.
 
-#### ENT05
-1. **ENT05-01** — La tortue avance lentement.
-2. **ENT05-02** — Tu ranges ton cahier.
-3. **ENT05-03** — Est-ce que le facteur apporte le courrier ?
-4. **ENT05-04** — Écoute la consigne.
-5. **ENT05-05** — Le facteur apporte le courrier.
-6. **ENT05-06** — Tu écoutes la consigne.
+#### Entraînement 51. **ENT05-01** — La tortue avance lentement.
+2. — Tu ranges ton cahier.
+3. — Est-ce que le facteur apporte le courrier ?
+4. — Écoute la consigne.
+5. — Le facteur apporte le courrier.
+6. — Tu écoutes la consigne.
 
-#### ENT06
-1. **ENT06-01** — Est-ce que Zoé porte un manteau ?
-2. **ENT06-02** — Regarde le tableau.
-3. **ENT06-03** — Zoé porte un manteau.
-4. **ENT06-04** — Tu regardes le tableau.
-5. **ENT06-05** — Est-ce que le soleil brille ?
-6. **ENT06-06** — Pose ton crayon.
+#### Entraînement 61. **ENT06-01** — Est-ce que Zoé porte un manteau ?
+2. — Regarde le tableau.
+3. — Zoé porte un manteau.
+4. — Tu regardes le tableau.
+5. — Est-ce que le soleil brille ?
+6. — Pose ton crayon.
 
-#### ENT07
-1. **ENT07-01** — Le soleil brille.
-2. **ENT07-02** — Tu poses ton crayon.
-3. **ENT07-03** — Est-ce que le lapin mange une carotte ?
-4. **ENT07-04** — Ouvre ton livre.
-5. **ENT07-05** — Le lapin mange une carotte.
-6. **ENT07-06** — Tu ouvres ton livre.
+#### Entraînement 71. **ENT07-01** — Le soleil brille.
+2. — Tu poses ton crayon.
+3. — Est-ce que le lapin mange une carotte ?
+4. — Ouvre ton livre.
+5. — Le lapin mange une carotte.
+6. — Tu ouvres ton livre.
 
-#### ENT08
-1. **ENT08-01** — Est-ce que la maîtresse lit une histoire ?
-2. **ENT08-02** — Trace un cercle.
-3. **ENT08-03** — La maîtresse lit une histoire.
-4. **ENT08-04** — Tu traces un cercle.
-5. **ENT08-05** — Est-ce que le poisson nage dans le bassin ?
-6. **ENT08-06** — Découpe la feuille.
+#### Entraînement 81. **ENT08-01** — Est-ce que la maîtresse lit une histoire ?
+2. — Trace un cercle.
+3. — La maîtresse lit une histoire.
+4. — Tu traces un cercle.
+5. — Est-ce que le poisson nage dans le bassin ?
+6. — Découpe la feuille.
 
-#### ENT09
-1. **ENT09-01** — Tu découpes la feuille.
-2. **ENT09-02** — Le poisson nage dans le bassin.
-3. **ENT09-03** — Colle l’étiquette.
-4. **ENT09-04** — Est-ce que le vent pousse les feuilles ?
-5. **ENT09-05** — Tu colles l’étiquette.
-6. **ENT09-06** — Le vent pousse les feuilles.
+#### Entraînement 91. **ENT09-01** — Tu découpes la feuille.
+2. — Le poisson nage dans le bassin.
+3. — Colle l’étiquette.
+4. — Est-ce que le vent pousse les feuilles ?
+5. — Tu colles l’étiquette.
+6. — Le vent pousse les feuilles.
 
-#### ENT10
-1. **ENT10-01** — Lève la main.
-2. **ENT10-02** — Est-ce que le bébé boit son lait ?
-3. **ENT10-03** — Tu lèves la main.
-4. **ENT10-04** — Le bébé boit son lait.
-5. **ENT10-05** — Avance de deux pas.
-6. **ENT10-06** — Est-ce que le jardinier arrose les fleurs ?
+#### Entraînement 101. **ENT10-01** — Lève la main.
+2. — Est-ce que le bébé boit son lait ?
+3. — Tu lèves la main.
+4. — Le bébé boit son lait.
+5. — Avance de deux pas.
+6. — Est-ce que le jardinier arrose les fleurs ?
 
 ### Corrections des évaluations
 
 
-#### EVAL01
-1. **EVAL01-01** — Est-ce que le chat dort ?
-2. **EVAL01-02** — Ferme la porte.
-3. **EVAL01-03** — Est-ce que le lapin mange une carotte ?
-4. **EVAL01-04** — Est-ce que le chat dort maintenant ?
-5. **EVAL01-05** — Tire le rideau.
+#### Évaluation 11. **EVAL01-01** — Est-ce que le chat dort ?
+2. — Ferme la porte.
+3. — Est-ce que le lapin mange une carotte ?
+4. — Est-ce que le chat dort maintenant ?
+5. — Tire le rideau.
 
-#### EVAL02
-1. **EVAL02-01** — Malo prend son goûter.
-2. **EVAL02-02** — Est-ce que le facteur apporte le courrier ?
-3. **EVAL02-03** — Tu traces un cercle.
-4. **EVAL02-04** — Est-ce que Malo prend son goûter maintenant ?
-5. **EVAL02-05** — Pousse la chaise.
+#### Évaluation 21. **EVAL02-01** — Malo prend son goûter.
+2. — Est-ce que le facteur apporte le courrier ?
+3. — Tu traces un cercle.
+4. — Est-ce que Malo prend son goûter maintenant ?
+5. — Pousse la chaise.
 
-#### EVAL03
-1. **EVAL03-01** — Est-ce que le bateau quitte le port ?
-2. **EVAL03-02** — Tu regardes le tableau.
-3. **EVAL03-03** — Tu colles l’étiquette.
-4. **EVAL03-04** — Est-ce que Nina range son livre maintenant ?
-5. **EVAL03-05** — Lance le dé.
+#### Évaluation 31. **EVAL03-01** — Est-ce que le bateau quitte le port ?
+2. — Tu regardes le tableau.
+3. — Tu colles l’étiquette.
+4. — Est-ce que Nina range son livre maintenant ?
+5. — Lance le dé.
 
-#### EVAL04
-1. **EVAL04-01** — Tu fermes la porte.
-2. **EVAL04-02** — Le lapin mange une carotte.
-3. **EVAL04-03** — Est-ce que le jardinier arrose les fleurs ?
-4. **EVAL04-04** — Est-ce que Papa prépare une soupe maintenant ?
-5. **EVAL04-05** — Remplis le verre.
+#### Évaluation 41. **EVAL04-01** — Tu fermes la porte.
+2. — Le lapin mange une carotte.
+3. — Est-ce que le jardinier arrose les fleurs ?
+4. — Est-ce que Papa prépare une soupe maintenant ?
+5. — Remplis le verre.
 
-#### EVAL05
-1. **EVAL05-01** — Le facteur apporte le courrier.
-2. **EVAL05-02** — Découpe la feuille.
-3. **EVAL05-03** — Est-ce que Malo prend son goûter ?
-4. **EVAL05-04** — La tortue avance lentement maintenant.
-5. **EVAL05-05** — Lis la première ligne.
+#### Évaluation 51. **EVAL05-01** — Le facteur apporte le courrier.
+2. — Découpe la feuille.
+3. — Est-ce que Malo prend son goûter ?
+4. — La tortue avance lentement maintenant.
+5. — Lis la première ligne.
 
-#### EVAL06
-1. **EVAL06-01** — Pose ton crayon.
-2. **EVAL06-02** — Lève la main.
-3. **EVAL06-03** — Nina range son livre.
-4. **EVAL06-04** — Est-ce que Zoé porte un manteau maintenant ?
-5. **EVAL06-05** — Suis le chemin.
+#### Évaluation 61. **EVAL06-01** — Pose ton crayon.
+2. — Lève la main.
+3. — Nina range son livre.
+4. — Est-ce que Zoé porte un manteau maintenant ?
+5. — Suis le chemin.
 
-#### EVAL07
-1. **EVAL07-01** — Est-ce que la maîtresse lit une histoire ?
-2. **EVAL07-02** — Le chat dort.
-3. **EVAL07-03** — Papa prépare une soupe.
-4. **EVAL07-04** — Le soleil brille maintenant.
-5. **EVAL07-05** — Touche le carré.
+#### Évaluation 71. **EVAL07-01** — Est-ce que la maîtresse lit une histoire ?
+2. — Le chat dort.
+3. — Papa prépare une soupe.
+4. — Le soleil brille maintenant.
+5. — Touche le carré.
 
-#### EVAL08
-1. **EVAL08-01** — Le poisson nage dans le bassin.
-2. **EVAL08-02** — Est-ce que la pluie tombe ?
-3. **EVAL08-03** — Écoute la consigne.
-4. **EVAL08-04** — Est-ce que la maîtresse lit une histoire maintenant ?
-5. **EVAL08-05** — Demande la parole.
+#### Évaluation 81. **EVAL08-01** — Le poisson nage dans le bassin.
+2. — Est-ce que la pluie tombe ?
+3. — Écoute la consigne.
+4. — Est-ce que la maîtresse lit une histoire maintenant ?
+5. — Demande la parole.
 
-#### EVAL09
-1. **EVAL09-01** — Tu lèves la main.
-2. **EVAL09-02** — Le bateau quitte le port.
-3. **EVAL09-03** — Est-ce que le soleil brille ?
-4. **EVAL09-04** — Tu découpes la feuille maintenant.
-5. **EVAL09-05** — Garde le silence.
+#### Évaluation 91. **EVAL09-01** — Tu lèves la main.
+2. — Le bateau quitte le port.
+3. — Est-ce que le soleil brille ?
+4. — Tu découpes la feuille maintenant.
+5. — Garde le silence.
 
-#### EVAL10
-1. **EVAL10-01** — Lina ferme la fenêtre.
-2. **EVAL10-02** — Est-ce que la tortue avance lentement ?
-3. **EVAL10-03** — Tu ouvres ton livre.
-4. **EVAL10-04** — Lève la main maintenant.
-5. **EVAL10-05** — Pose la carte ici.
+#### Évaluation 101. **EVAL10-01** — Lina ferme la fenêtre.
+2. — Est-ce que la tortue avance lentement ?
+3. — Tu ouvres ton livre.
+4. — Lève la main maintenant.
+5. — Pose la carte ici.
 
 ### Corrections des devoirs
 
 
-#### DEV01
-1. **DEV01-01** — Est-ce que le chat dort ?
-2. **DEV01-02** — Malo prend son goûter.
-3. **DEV01-03** — Est-ce que le bateau quitte le port ?
-4. **DEV01-04** — Tu fermes la porte.
-5. **DEV01-05** — Est-ce que le train arrive à midi ?
+#### Devoir 11. **DEV01-01** — Est-ce que le chat dort ?
+2. — Malo prend son goûter.
+3. — Est-ce que le bateau quitte le port ?
+4. — Tu fermes la porte.
+5. — Est-ce que le train arrive à midi ?
 
-#### DEV02
-1. **DEV02-01** — Lina ferme la fenêtre.
-2. **DEV02-02** — Est-ce que le chien cherche sa balle ?
-3. **DEV02-03** — Les élèves entrent en classe.
-4. **DEV02-04** — Est-ce que le chat dort ?
-5. **DEV02-05** — Malo prend son goûter.
+#### Devoir 21. **DEV02-01** — Lina ferme la fenêtre.
+2. — Est-ce que le chien cherche sa balle ?
+3. — Les élèves entrent en classe.
+4. — Est-ce que le chat dort ?
+5. — Malo prend son goûter.
 
-#### DEV03
-1. **DEV03-01** — Est-ce que Malo prend son goûter ?
-2. **DEV03-02** — Nina range son livre.
-3. **DEV03-03** — Papa prépare une soupe.
-4. **DEV03-04** — Lina ferme la fenêtre.
-5. **DEV03-05** — Est-ce que le chien cherche sa balle ?
+#### Devoir 31. **DEV03-01** — Est-ce que Malo prend son goûter ?
+2. — Nina range son livre.
+3. — Papa prépare une soupe.
+4. — Lina ferme la fenêtre.
+5. — Est-ce que le chien cherche sa balle ?
 
-#### DEV04
-1. **DEV04-01** — La pluie tombe.
-2. **DEV04-02** — Est-ce que les élèves entrent en classe ?
-3. **DEV04-03** — Range ton cahier.
-4. **DEV04-04** — Est-ce que Malo prend son goûter ?
-5. **DEV04-05** — Nina range son livre.
+#### Devoir 41. **DEV04-01** — La pluie tombe.
+2. — Est-ce que les élèves entrent en classe ?
+3. — Range ton cahier.
+4. — Est-ce que Malo prend son goûter ?
+5. — Nina range son livre.
 
-#### DEV05
-1. **DEV05-01** — Est-ce que Nina range son livre ?
-2. **DEV05-02** — Ferme la porte.
-3. **DEV05-03** — Est-ce que Lina ferme la fenêtre ?
-4. **DEV05-04** — La pluie tombe.
-5. **DEV05-05** — Est-ce que les élèves entrent en classe ?
+#### Devoir 51. **DEV05-01** — Est-ce que Nina range son livre ?
+2. — Ferme la porte.
+3. — Est-ce que Lina ferme la fenêtre ?
+4. — La pluie tombe.
+5. — Est-ce que les élèves entrent en classe ?
 
-#### DEV06
-1. **DEV06-01** — Le bateau quitte le port.
-2. **DEV06-02** — Est-ce que la tortue avance lentement ?
-3. **DEV06-03** — Le train arrive à midi.
-4. **DEV06-04** — Est-ce que Nina range son livre ?
-5. **DEV06-05** — Ferme la porte.
+#### Devoir 61. **DEV06-01** — Le bateau quitte le port.
+2. — Est-ce que la tortue avance lentement ?
+3. — Le train arrive à midi.
+4. — Est-ce que Nina range son livre ?
+5. — Ferme la porte.
 
-#### DEV07
-1. **DEV07-01** — Est-ce que Papa prépare une soupe ?
-2. **DEV07-02** — Le chat dort.
-3. **DEV07-03** — Est-ce que la pluie tombe ?
-4. **DEV07-04** — Le bateau quitte le port.
-5. **DEV07-05** — Est-ce que la tortue avance lentement ?
+#### Devoir 71. **DEV07-01** — Est-ce que Papa prépare une soupe ?
+2. — Le chat dort.
+3. — Est-ce que la pluie tombe ?
+4. — Le bateau quitte le port.
+5. — Est-ce que la tortue avance lentement ?
 
-#### DEV08
-1. **DEV08-01** — Tu fermes la porte.
-2. **DEV08-02** — Est-ce que le train arrive à midi ?
-3. **DEV08-03** — Le chien cherche sa balle.
-4. **DEV08-04** — Est-ce que Papa prépare une soupe ?
-5. **DEV08-05** — Le chat dort.
+#### Devoir 81. **DEV08-01** — Tu fermes la porte.
+2. — Est-ce que le train arrive à midi ?
+3. — Le chien cherche sa balle.
+4. — Est-ce que Papa prépare une soupe ?
+5. — Le chat dort.
 
-#### DEV09
-1. **DEV09-01** — Est-ce que le chat dort ?
-2. **DEV09-02** — Malo prend son goûter.
-3. **DEV09-03** — Est-ce que le bateau quitte le port ?
-4. **DEV09-04** — Tu fermes la porte.
-5. **DEV09-05** — Est-ce que le train arrive à midi ?
+#### Devoir 91. **DEV09-01** — Est-ce que le chat dort ?
+2. — Malo prend son goûter.
+3. — Est-ce que le bateau quitte le port ?
+4. — Tu fermes la porte.
+5. — Est-ce que le train arrive à midi ?
 
-#### DEV10
-1. **DEV10-01** — Lina ferme la fenêtre.
-2. **DEV10-02** — Est-ce que le chien cherche sa balle ?
-3. **DEV10-03** — Les élèves entrent en classe.
-4. **DEV10-04** — Est-ce que le chat dort ?
-5. **DEV10-05** — Malo prend son goûter.
+#### Devoir 101. **DEV10-01** — Lina ferme la fenêtre.
+2. — Est-ce que le chien cherche sa balle ?
+3. — Les élèves entrent en classe.
+4. — Est-ce que le chat dort ?
+5. — Malo prend son goûter.
 
 ## Traçabilité des évaluations et devoirs
 

@@ -58,24 +58,21 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** cercle centré en O passant par A ; trace continu et écartement conservé.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** cercle centré en B passant par C.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **IMM02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **IMM03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **IMM04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **IMM05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **IMM06** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **IMM07** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
 
-- **ENT01-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **ENT01-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **ENT01-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **ENT01-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **ENT01-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+### Entraînement 2
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
 
-### ENT02
+### Entraînement 3
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
 
-- **ENT02-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **ENT02-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **ENT02-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **ENT02-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **ENT02-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+### Entraînement 4
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
 
-### ENT03
+### Entraînement 5
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
 
-- **ENT03-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **ENT03-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **ENT03-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **ENT03-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **ENT03-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+### Entraînement 6
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
 
-### ENT04
+### Entraînement 7
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
 
-- **ENT04-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
-- **ENT04-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
-- **ENT04-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
-- **ENT04-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
-- **ENT04-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
+### Entraînement 8
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O près du bord ; point A dirigé vers l’intérieur de la feuille.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B, point C et deux distracteurs X et Y ; seul C est nommé dans la consigne.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
 
-### ENT05
+### Entraînement 9
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
 
-- **ENT05-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
-- **ENT05-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
-- **ENT05-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
-- **ENT05-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
-- **ENT05-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
-
-### ENT06
-
-- **ENT06-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
-- **ENT06-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
-- **ENT06-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
-- **ENT06-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
-- **ENT06-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
-
-### ENT07
-
-- **ENT07-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
-- **ENT07-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
-- **ENT07-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
-- **ENT07-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
-- **ENT07-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
-
-### ENT08
-
-- **ENT08-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O près du bord ; point A dirigé vers l’intérieur de la feuille.
-- **ENT08-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B, point C et deux distracteurs X et Y ; seul C est nommé dans la consigne.
-- **ENT08-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
-- **ENT08-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
-- **ENT08-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
-
-### ENT09
-
-- **ENT09-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
-- **ENT09-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
-- **ENT09-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
-- **ENT09-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
-- **ENT09-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
-
-### ENT10
-
-- **ENT10-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
-- **ENT10-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
-- **ENT10-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
-- **ENT10-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O près du bord ; point A dirigé vers l’intérieur de la feuille.
-- **ENT10-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B, point C et deux distracteurs X et Y ; seul C est nommé dans la consigne.
+### Entraînement 10
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O près du bord ; point A dirigé vers l’intérieur de la feuille.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B, point C et deux distracteurs X et Y ; seul C est nommé dans la consigne.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre P et point Q espacés de 3 cm.
 
-- **EVAL01-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **EVAL01-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
-- **EVAL01-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
-- **EVAL01-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
-- **EVAL01-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre P et point Q espacés de 3 cm.
+### Évaluation 2
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre R et point S en diagonale.
 
-### EVAL02
+### Évaluation 3
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre T et point U espacés de 5 cm.
 
-- **EVAL02-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **EVAL02-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
-- **EVAL02-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
-- **EVAL02-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
-- **EVAL02-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre R et point S en diagonale.
+### Évaluation 4
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre V près du bord, point W vers l’intérieur.
 
-### EVAL03
+### Évaluation 5
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre P et point Q espacés de 3 cm.
 
-- **EVAL03-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **EVAL03-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
-- **EVAL03-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
-- **EVAL03-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
-- **EVAL03-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre T et point U espacés de 5 cm.
+### Évaluation 6
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre R et point S en diagonale.
 
-### EVAL04
+### Évaluation 7
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre T et point U espacés de 5 cm.
 
-- **EVAL04-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **EVAL04-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
-- **EVAL04-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
-- **EVAL04-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
-- **EVAL04-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre V près du bord, point W vers l’intérieur.
+### Évaluation 8
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre V près du bord, point W vers l’intérieur.
 
-### EVAL05
+### Évaluation 9
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre P et point Q espacés de 3 cm.
 
-- **EVAL05-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **EVAL05-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
-- **EVAL05-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
-- **EVAL05-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
-- **EVAL05-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre P et point Q espacés de 3 cm.
-
-### EVAL06
-
-- **EVAL06-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **EVAL06-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
-- **EVAL06-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 4 cm ; O est décalé à gauche de la zone.
-- **EVAL06-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J près du haut de la feuille et point K en dessous.
-- **EVAL06-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre R et point S en diagonale.
-
-### EVAL07
-
-- **EVAL07-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **EVAL07-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G ; un point X distracteur est plus proche de F.
-- **EVAL07-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
-- **EVAL07-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L, point M et un cercle imprimé distracteur de centre X.
-- **EVAL07-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre T et point U espacés de 5 cm.
-
-### EVAL08
-
-- **EVAL08-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **EVAL08-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I ; I est en bas à gauche de H.
-- **EVAL08-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 5 cm.
-- **EVAL08-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E espacés de 6 cm.
-- **EVAL08-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre V près du bord, point W vers l’intérieur.
-
-### EVAL09
-
-- **EVAL09-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **EVAL09-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
-- **EVAL09-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K ; K est en haut à droite.
-- **EVAL09-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G presque verticalement alignés.
-- **EVAL09-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre P et point Q espacés de 3 cm.
-
-### EVAL10
-
-- **EVAL10-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **EVAL10-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
-- **EVAL10-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
-- **EVAL10-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
-- **EVAL10-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre R et point S en diagonale.
+### Évaluation 10
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3,5 cm ; C est en diagonale de B.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M espacés de 4,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I en diagonale ; le dessin contient déjà un segment [HI].
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre R et point S en diagonale.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
 
-- **DEV01-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **DEV01-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **DEV01-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **DEV01-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **DEV01-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+### Devoir 2
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
 
-### DEV02
+### Devoir 3
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
 
-- **DEV02-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **DEV02-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV02-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **DEV02-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV02-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+### Devoir 4
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
 
-### DEV03
+### Devoir 5
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
 
-- **DEV03-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **DEV03-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **DEV03-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **DEV03-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **DEV03-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+### Devoir 6
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
 
-### DEV04
+### Devoir 7
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
 
-- **DEV04-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **DEV04-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **DEV04-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV04-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **DEV04-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+### Devoir 8
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
 
-### DEV05
+### Devoir 9
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
 
-- **DEV05-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV05-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **DEV05-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **DEV05-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **DEV05-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-
-### DEV06
-
-- **DEV06-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **DEV06-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **DEV06-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **DEV06-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **DEV06-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-
-### DEV07
-
-- **DEV07-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **DEV07-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV07-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **DEV07-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV07-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-
-### DEV08
-
-- **DEV08-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **DEV08-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **DEV08-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **DEV08-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre O et point A espacés de 2 cm.
-- **DEV08-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-
-### DEV09
-
-- **DEV09-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre F et point G, G au-dessus de F.
-- **DEV09-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre L et point M, M sous L.
-- **DEV09-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV09-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre B et point C espacés de 3 cm.
-- **DEV09-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-
-### DEV10
-
-- **DEV10-01** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
-- **DEV10-02** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **DEV10-03** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
-- **DEV10-04** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
-- **DEV10-05** Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+### Devoir 10
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre H et point I espacés de 2,5 cm.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre D et point E, E à droite de D.
+- Place la pointe sèche sur le centre indiqué, règle la mine sur l’autre point, puis trace le cercle sans changer l’écartement. Centre J et point K, K à gauche de J.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** cercle centré en F passant par G
-2. **IMM02** cercle centré en H passant par I
-3. **IMM03** cercle centré en J passant par K
-4. **IMM04** cercle centré en L passant par M
-5. **IMM05** cercle centré en O passant par A ; trace continu et écartement conservé
-6. **IMM06** cercle centré en B passant par C
-7. **IMM07** cercle centré en D passant par E
+1. cercle centré en F passant par G
+2. cercle centré en H passant par I
+3. cercle centré en J passant par K
+4. cercle centré en L passant par M
+5. cercle centré en O passant par A ; trace continu et écartement conservé
+6. cercle centré en B passant par C
+7. cercle centré en D passant par E
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. cercle centré en O passant par A ; trace continu et écartement conservé
+2. cercle centré en B passant par C
+3. cercle centré en D passant par E
+4. cercle centré en F passant par G
+5. cercle centré en H passant par I
 
-1. **ENT01-01** cercle centré en O passant par A ; trace continu et écartement conservé
-2. **ENT01-02** cercle centré en B passant par C
-3. **ENT01-03** cercle centré en D passant par E
-4. **ENT01-04** cercle centré en F passant par G
-5. **ENT01-05** cercle centré en H passant par I
+#### Entraînement 2
+1. cercle centré en D passant par E
+2. cercle centré en F passant par G
+3. cercle centré en H passant par I
+4. cercle centré en J passant par K
+5. cercle centré en L passant par M
 
-#### ENT02
+#### Entraînement 3
+1. cercle centré en H passant par I
+2. cercle centré en J passant par K
+3. cercle centré en L passant par M
+4. cercle centré en O passant par A ; trace continu et écartement conservé
+5. cercle centré en B passant par C
 
-1. **ENT02-01** cercle centré en D passant par E
-2. **ENT02-02** cercle centré en F passant par G
-3. **ENT02-03** cercle centré en H passant par I
-4. **ENT02-04** cercle centré en J passant par K
-5. **ENT02-05** cercle centré en L passant par M
+#### Entraînement 4
+1. cercle centré en L passant par M
+2. cercle complet centré en O passant par A
+3. cercle centré en B passant par C
+4. cercle centré en D passant par E
+5. cercle centré en F passant par G, X ignoré
 
-#### ENT03
+#### Entraînement 5
+1. cercle centré en B passant par C
+2. cercle centré en D passant par E
+3. cercle centré en F passant par G, X ignoré
+4. cercle centré en H passant par I
+5. cercle centré en J passant par K
 
-1. **ENT03-01** cercle centré en H passant par I
-2. **ENT03-02** cercle centré en J passant par K
-3. **ENT03-03** cercle centré en L passant par M
-4. **ENT03-04** cercle centré en O passant par A ; trace continu et écartement conservé
-5. **ENT03-05** cercle centré en B passant par C
+#### Entraînement 6
+1. cercle centré en F passant par G, X ignoré
+2. cercle centré en H passant par I
+3. cercle centré en J passant par K
+4. cercle centré en L passant par M
+5. cercle complet centré en O passant par A
 
-#### ENT04
+#### Entraînement 7
+1. cercle centré en J passant par K
+2. cercle centré en L passant par M
+3. cercle complet centré en O passant par A
+4. cercle centré en B passant par C
+5. cercle centré en D passant par E
 
-1. **ENT04-01** cercle centré en L passant par M
-2. **ENT04-02** cercle complet centré en O passant par A
-3. **ENT04-03** cercle centré en B passant par C
-4. **ENT04-04** cercle centré en D passant par E
-5. **ENT04-05** cercle centré en F passant par G, X ignoré
+#### Entraînement 8
+1. cercle complet centré en O passant par A, feuille repositionnée si nécessaire
+2. cercle centré en B passant par C
+3. cercle centré en D passant par E, écartement conservé
+4. cercle centré en F passant par G
+5. cercle centré en H passant par I ; segment sans effet
 
-#### ENT05
+#### Entraînement 9
+1. cercle centré en D passant par E, écartement conservé
+2. cercle centré en F passant par G
+3. cercle centré en H passant par I ; segment sans effet
+4. cercle complet centré en J passant par K
+5. nouveau cercle centré en L passant par M
 
-1. **ENT05-01** cercle centré en B passant par C
-2. **ENT05-02** cercle centré en D passant par E
-3. **ENT05-03** cercle centré en F passant par G, X ignoré
-4. **ENT05-04** cercle centré en H passant par I
-5. **ENT05-05** cercle centré en J passant par K
-
-#### ENT06
-
-1. **ENT06-01** cercle centré en F passant par G, X ignoré
-2. **ENT06-02** cercle centré en H passant par I
-3. **ENT06-03** cercle centré en J passant par K
-4. **ENT06-04** cercle centré en L passant par M
-5. **ENT06-05** cercle complet centré en O passant par A
-
-#### ENT07
-
-1. **ENT07-01** cercle centré en J passant par K
-2. **ENT07-02** cercle centré en L passant par M
-3. **ENT07-03** cercle complet centré en O passant par A
-4. **ENT07-04** cercle centré en B passant par C
-5. **ENT07-05** cercle centré en D passant par E
-
-#### ENT08
-
-1. **ENT08-01** cercle complet centré en O passant par A, feuille repositionnée si nécessaire
-2. **ENT08-02** cercle centré en B passant par C
-3. **ENT08-03** cercle centré en D passant par E, écartement conservé
-4. **ENT08-04** cercle centré en F passant par G
-5. **ENT08-05** cercle centré en H passant par I ; segment sans effet
-
-#### ENT09
-
-1. **ENT09-01** cercle centré en D passant par E, écartement conservé
-2. **ENT09-02** cercle centré en F passant par G
-3. **ENT09-03** cercle centré en H passant par I ; segment sans effet
-4. **ENT09-04** cercle complet centré en J passant par K
-5. **ENT09-05** nouveau cercle centré en L passant par M
-
-#### ENT10
-
-1. **ENT10-01** cercle centré en H passant par I ; segment sans effet
-2. **ENT10-02** cercle complet centré en J passant par K
-3. **ENT10-03** nouveau cercle centré en L passant par M
-4. **ENT10-04** cercle complet centré en O passant par A, feuille repositionnée si nécessaire
-5. **ENT10-05** cercle centré en B passant par C
+#### Entraînement 10
+1. cercle centré en H passant par I ; segment sans effet
+2. cercle complet centré en J passant par K
+3. nouveau cercle centré en L passant par M
+4. cercle complet centré en O passant par A, feuille repositionnée si nécessaire
+5. cercle centré en B passant par C
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. cercle centré en H passant par I
+2. cercle centré en D passant par E
+3. cercle complet centré en O passant par A
+4. cercle complet centré en J passant par K
+5. cercle centré en P passant par Q
 
-1. **EVAL01-01** cercle centré en H passant par I
-2. **EVAL01-02** cercle centré en D passant par E
-3. **EVAL01-03** cercle complet centré en O passant par A
-4. **EVAL01-04** cercle complet centré en J passant par K
-5. **EVAL01-05** cercle centré en P passant par Q
+#### Évaluation 2
+1. cercle centré en J passant par K
+2. cercle centré en F passant par G, X ignoré
+3. cercle centré en B passant par C
+4. nouveau cercle centré en L passant par M
+5. cercle centré en R passant par S
 
-#### EVAL02
+#### Évaluation 3
+1. cercle centré en L passant par M
+2. cercle centré en H passant par I
+3. cercle centré en D passant par E
+4. cercle centré en D passant par E, écartement conservé
+5. cercle centré en T passant par U
 
-1. **EVAL02-01** cercle centré en J passant par K
-2. **EVAL02-02** cercle centré en F passant par G, X ignoré
-3. **EVAL02-03** cercle centré en B passant par C
-4. **EVAL02-04** nouveau cercle centré en L passant par M
-5. **EVAL02-05** cercle centré en R passant par S
+#### Évaluation 4
+1. cercle centré en O passant par A ; trace continu et écartement conservé
+2. cercle centré en J passant par K
+3. cercle centré en J passant par K
+4. cercle centré en F passant par G
+5. cercle complet centré en V passant par W
 
-#### EVAL03
+#### Évaluation 5
+1. cercle centré en B passant par C
+2. cercle centré en B passant par C
+3. cercle centré en L passant par M
+4. cercle centré en H passant par I ; segment sans effet
+5. cercle centré en P passant par Q
 
-1. **EVAL03-01** cercle centré en L passant par M
-2. **EVAL03-02** cercle centré en H passant par I
-3. **EVAL03-03** cercle centré en D passant par E
-4. **EVAL03-04** cercle centré en D passant par E, écartement conservé
-5. **EVAL03-05** cercle centré en T passant par U
+#### Évaluation 6
+1. cercle centré en H passant par I
+2. cercle centré en D passant par E
+3. cercle complet centré en O passant par A
+4. cercle complet centré en J passant par K
+5. cercle centré en R passant par S
 
-#### EVAL04
+#### Évaluation 7
+1. cercle centré en J passant par K
+2. cercle centré en F passant par G, X ignoré
+3. cercle centré en B passant par C
+4. nouveau cercle centré en L passant par M
+5. cercle centré en T passant par U
 
-1. **EVAL04-01** cercle centré en O passant par A ; trace continu et écartement conservé
-2. **EVAL04-02** cercle centré en J passant par K
-3. **EVAL04-03** cercle centré en J passant par K
-4. **EVAL04-04** cercle centré en F passant par G
-5. **EVAL04-05** cercle complet centré en V passant par W
+#### Évaluation 8
+1. cercle centré en L passant par M
+2. cercle centré en H passant par I
+3. cercle centré en D passant par E
+4. cercle centré en D passant par E, écartement conservé
+5. cercle complet centré en V passant par W
 
-#### EVAL05
+#### Évaluation 9
+1. cercle centré en O passant par A ; trace continu et écartement conservé
+2. cercle centré en J passant par K
+3. cercle centré en J passant par K
+4. cercle centré en F passant par G
+5. cercle centré en P passant par Q
 
-1. **EVAL05-01** cercle centré en B passant par C
-2. **EVAL05-02** cercle centré en B passant par C
-3. **EVAL05-03** cercle centré en L passant par M
-4. **EVAL05-04** cercle centré en H passant par I ; segment sans effet
-5. **EVAL05-05** cercle centré en P passant par Q
-
-#### EVAL06
-
-1. **EVAL06-01** cercle centré en H passant par I
-2. **EVAL06-02** cercle centré en D passant par E
-3. **EVAL06-03** cercle complet centré en O passant par A
-4. **EVAL06-04** cercle complet centré en J passant par K
-5. **EVAL06-05** cercle centré en R passant par S
-
-#### EVAL07
-
-1. **EVAL07-01** cercle centré en J passant par K
-2. **EVAL07-02** cercle centré en F passant par G, X ignoré
-3. **EVAL07-03** cercle centré en B passant par C
-4. **EVAL07-04** nouveau cercle centré en L passant par M
-5. **EVAL07-05** cercle centré en T passant par U
-
-#### EVAL08
-
-1. **EVAL08-01** cercle centré en L passant par M
-2. **EVAL08-02** cercle centré en H passant par I
-3. **EVAL08-03** cercle centré en D passant par E
-4. **EVAL08-04** cercle centré en D passant par E, écartement conservé
-5. **EVAL08-05** cercle complet centré en V passant par W
-
-#### EVAL09
-
-1. **EVAL09-01** cercle centré en O passant par A ; trace continu et écartement conservé
-2. **EVAL09-02** cercle centré en J passant par K
-3. **EVAL09-03** cercle centré en J passant par K
-4. **EVAL09-04** cercle centré en F passant par G
-5. **EVAL09-05** cercle centré en P passant par Q
-
-#### EVAL10
-
-1. **EVAL10-01** cercle centré en B passant par C
-2. **EVAL10-02** cercle centré en B passant par C
-3. **EVAL10-03** cercle centré en L passant par M
-4. **EVAL10-04** cercle centré en H passant par I ; segment sans effet
-5. **EVAL10-05** cercle centré en R passant par S
+#### Évaluation 10
+1. cercle centré en B passant par C
+2. cercle centré en B passant par C
+3. cercle centré en L passant par M
+4. cercle centré en H passant par I ; segment sans effet
+5. cercle centré en R passant par S
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. cercle centré en O passant par A ; trace continu et écartement conservé
+2. cercle centré en F passant par G
+3. cercle centré en L passant par M
+4. cercle centré en F passant par G
+5. cercle centré en L passant par M
 
-1. **DEV01-01** cercle centré en O passant par A ; trace continu et écartement conservé
-2. **DEV01-02** cercle centré en F passant par G
-3. **DEV01-03** cercle centré en L passant par M
-4. **DEV01-04** cercle centré en F passant par G
-5. **DEV01-05** cercle centré en L passant par M
+#### Devoir 2
+1. cercle centré en B passant par C
+2. cercle centré en H passant par I
+3. cercle centré en O passant par A ; trace continu et écartement conservé
+4. cercle centré en H passant par I
+5. cercle centré en D passant par E
 
-#### DEV02
+#### Devoir 3
+1. cercle centré en D passant par E
+2. cercle centré en J passant par K
+3. cercle centré en B passant par C
+4. cercle centré en O passant par A ; trace continu et écartement conservé
+5. cercle centré en F passant par G
 
-1. **DEV02-01** cercle centré en B passant par C
-2. **DEV02-02** cercle centré en H passant par I
-3. **DEV02-03** cercle centré en O passant par A ; trace continu et écartement conservé
-4. **DEV02-04** cercle centré en H passant par I
-5. **DEV02-05** cercle centré en D passant par E
+#### Devoir 4
+1. cercle centré en F passant par G
+2. cercle centré en L passant par M
+3. cercle centré en H passant par I
+4. cercle centré en B passant par C
+5. cercle centré en H passant par I
 
-#### DEV03
+#### Devoir 5
+1. cercle centré en H passant par I
+2. cercle centré en D passant par E
+3. cercle centré en J passant par K
+4. cercle centré en D passant par E
+5. cercle centré en J passant par K
 
-1. **DEV03-01** cercle centré en D passant par E
-2. **DEV03-02** cercle centré en J passant par K
-3. **DEV03-03** cercle centré en B passant par C
-4. **DEV03-04** cercle centré en O passant par A ; trace continu et écartement conservé
-5. **DEV03-05** cercle centré en F passant par G
+#### Devoir 6
+1. cercle centré en O passant par A ; trace continu et écartement conservé
+2. cercle centré en F passant par G
+3. cercle centré en L passant par M
+4. cercle centré en F passant par G
+5. cercle centré en L passant par M
 
-#### DEV04
+#### Devoir 7
+1. cercle centré en B passant par C
+2. cercle centré en H passant par I
+3. cercle centré en O passant par A ; trace continu et écartement conservé
+4. cercle centré en H passant par I
+5. cercle centré en D passant par E
 
-1. **DEV04-01** cercle centré en F passant par G
-2. **DEV04-02** cercle centré en L passant par M
-3. **DEV04-03** cercle centré en H passant par I
-4. **DEV04-04** cercle centré en B passant par C
-5. **DEV04-05** cercle centré en H passant par I
+#### Devoir 8
+1. cercle centré en D passant par E
+2. cercle centré en J passant par K
+3. cercle centré en B passant par C
+4. cercle centré en O passant par A ; trace continu et écartement conservé
+5. cercle centré en F passant par G
 
-#### DEV05
+#### Devoir 9
+1. cercle centré en F passant par G
+2. cercle centré en L passant par M
+3. cercle centré en H passant par I
+4. cercle centré en B passant par C
+5. cercle centré en H passant par I
 
-1. **DEV05-01** cercle centré en H passant par I
-2. **DEV05-02** cercle centré en D passant par E
-3. **DEV05-03** cercle centré en J passant par K
-4. **DEV05-04** cercle centré en D passant par E
-5. **DEV05-05** cercle centré en J passant par K
-
-#### DEV06
-
-1. **DEV06-01** cercle centré en O passant par A ; trace continu et écartement conservé
-2. **DEV06-02** cercle centré en F passant par G
-3. **DEV06-03** cercle centré en L passant par M
-4. **DEV06-04** cercle centré en F passant par G
-5. **DEV06-05** cercle centré en L passant par M
-
-#### DEV07
-
-1. **DEV07-01** cercle centré en B passant par C
-2. **DEV07-02** cercle centré en H passant par I
-3. **DEV07-03** cercle centré en O passant par A ; trace continu et écartement conservé
-4. **DEV07-04** cercle centré en H passant par I
-5. **DEV07-05** cercle centré en D passant par E
-
-#### DEV08
-
-1. **DEV08-01** cercle centré en D passant par E
-2. **DEV08-02** cercle centré en J passant par K
-3. **DEV08-03** cercle centré en B passant par C
-4. **DEV08-04** cercle centré en O passant par A ; trace continu et écartement conservé
-5. **DEV08-05** cercle centré en F passant par G
-
-#### DEV09
-
-1. **DEV09-01** cercle centré en F passant par G
-2. **DEV09-02** cercle centré en L passant par M
-3. **DEV09-03** cercle centré en H passant par I
-4. **DEV09-04** cercle centré en B passant par C
-5. **DEV09-05** cercle centré en H passant par I
-
-#### DEV10
-
-1. **DEV10-01** cercle centré en H passant par I
-2. **DEV10-02** cercle centré en D passant par E
-3. **DEV10-03** cercle centré en J passant par K
-4. **DEV10-04** cercle centré en D passant par E
-5. **DEV10-05** cercle centré en J passant par K
+#### Devoir 10
+1. cercle centré en H passant par I
+2. cercle centré en D passant par E
+3. cercle centré en J passant par K
+4. cercle centré en D passant par E
+5. cercle centré en J passant par K
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

@@ -59,8 +59,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** **minuscule** : très petit. Écris une phrase située dans la classe.
 
 **Attention portée d’abord sur :** le mot **minuscule** et la définition “très petit”.
@@ -71,8 +70,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 **Contrôle final :** Le mot est présent, la miette peut être très petite, et la phrase a une majuscule et un point.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** **observer** : regarder avec attention. Écris une phrase située dans la classe.
 
 **Attention portée d’abord sur :** le mot **observer** et l’idée de regarder avec attention.
@@ -83,8 +81,7 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 **Contrôle final :** La forme observons appartient au verbe observer et le contexte en montre le sens.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
 
 **Attention portée d’abord sur :** le mot **fragile** et le risque de casse.
@@ -99,13 +96,13 @@ Le format répété fait porter l’attention sur la décision lexicale attendue
 
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **IMM01** — **murmurer** : parler très doucement. Écris une phrase située à la maison.
-2. **IMM02** — **abriter** : protéger dans un lieu couvert. Écris une phrase située à la maison.
-3. **IMM03** — **immobile** : qui ne bouge pas. Écris une phrase située à la maison.
-4. **IMM04** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
-5. **IMM05** — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
-6. **IMM06** — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
-7. **IMM07** — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
+1. — **murmurer** : parler très doucement. Écris une phrase située à la maison.
+2. — **abriter** : protéger dans un lieu couvert. Écris une phrase située à la maison.
+3. — **immobile** : qui ne bouge pas. Écris une phrase située à la maison.
+4. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+5. — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
+6. — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
+7. — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
 
 ## Variables didactiques
 
@@ -131,293 +128,263 @@ Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phras
 
 La consigne reste celle de l’exercice type. ENT01 à ENT03 utilisent des indices très accessibles ; ENT04 à ENT07 réduisent les contrastes ; ENT08 à ENT10 demandent un contrôle plus attentif sans changer de procédure.
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+1. — **minuscule** : très petit. Écris une phrase située dans la classe.
+2. — **observer** : regarder avec attention. Écris une phrase située dans la classe.
+3. — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
+4. — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
+5. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
 
-1. **ENT01-01** — **minuscule** : très petit. Écris une phrase située dans la classe.
-2. **ENT01-02** — **observer** : regarder avec attention. Écris une phrase située dans la classe.
-3. **ENT01-03** — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
-4. **ENT01-04** — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
-5. **ENT01-05** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
+### Entraînement 2 — accessible
+1. — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
+2. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la cour.
+3. — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
+4. — **généreux** : qui aime donner ou partager. Écris une phrase située dans la cour.
+5. — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+1. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+2. — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
+3. — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
+4. — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
+5. — **souple** : qui se plie facilement. Écris une phrase située à la maison.
 
-1. **ENT02-01** — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
-2. **ENT02-02** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la cour.
-3. **ENT02-03** — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
-4. **ENT02-04** — **généreux** : qui aime donner ou partager. Écris une phrase située dans la cour.
-5. **ENT02-05** — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
+### Entraînement 4 — standard
+1. — **épuisé** : très fatigué. Écris une phrase située pendant une promenade.
+2. — **réparer** : remettre en bon état. Écris une phrase située pendant une promenade.
+3. — **sombre** : où il y a peu de lumière. Écris une phrase située pendant une promenade.
+4. — **patient** : qui sait attendre calmement. Écris une phrase située pendant une promenade.
+5. — **bondir** : faire un saut brusque. Écris une phrase située pendant une promenade.
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+1. — **patient** : qui sait attendre calmement. Écris une phrase située dans un atelier.
+2. — **bondir** : faire un saut brusque. Écris une phrase située dans un atelier.
+3. — **prudent** : qui évite les dangers. Écris une phrase située dans un atelier.
+4. — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située dans un atelier.
+5. — **apercevoir** : voir pendant un court moment. Écris une phrase située dans un atelier.
 
-1. **ENT03-01** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
-2. **ENT03-02** — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
-3. **ENT03-03** — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
-4. **ENT03-04** — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
-5. **ENT03-05** — **souple** : qui se plie facilement. Écris une phrase située à la maison.
+### Entraînement 6 — standard
+1. — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située dans la classe.
+2. — **apercevoir** : voir pendant un court moment. Écris une phrase située dans la classe.
+3. — **épuisé** : très fatigué. Écris une phrase située dans la classe.
+4. — **réparer** : remettre en bon état. Écris une phrase située dans la classe.
+5. — **sombre** : où il y a peu de lumière. Écris une phrase située dans la classe.
 
-### ENT04 — standard
+### Entraînement 7 — standard
+1. — **réparer** : remettre en bon état. Écris une phrase située dans la cour.
+2. — **sombre** : où il y a peu de lumière. Écris une phrase située dans la cour.
+3. — **patient** : qui sait attendre calmement. Écris une phrase située dans la cour.
+4. — **bondir** : faire un saut brusque. Écris une phrase située dans la cour.
+5. — **prudent** : qui évite les dangers. Écris une phrase située dans la cour.
 
-1. **ENT04-01** — **épuisé** : très fatigué. Écris une phrase située pendant une promenade.
-2. **ENT04-02** — **réparer** : remettre en bon état. Écris une phrase située pendant une promenade.
-3. **ENT04-03** — **sombre** : où il y a peu de lumière. Écris une phrase située pendant une promenade.
-4. **ENT04-04** — **patient** : qui sait attendre calmement. Écris une phrase située pendant une promenade.
-5. **ENT04-05** — **bondir** : faire un saut brusque. Écris une phrase située pendant une promenade.
+### Entraînement 8 — plus résistant
+1. — **se précipiter** : aller très vite vers un endroit. Écris une phrase située à la maison.
+2. — **discret** : qui attire peu l’attention. Écris une phrase située à la maison.
+3. — **résister** : ne pas céder malgré une difficulté. Écris une phrase située à la maison.
+4. — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située à la maison.
+5. — **paisible** : calme et sans agitation. Écris une phrase située à la maison.
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+1. — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située pendant une promenade.
+2. — **paisible** : calme et sans agitation. Écris une phrase située pendant une promenade.
+3. — **s’éloigner** : aller de plus en plus loin. Écris une phrase située pendant une promenade.
+4. — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située pendant une promenade.
+5. — **rassurer** : rendre moins inquiet. Écris une phrase située pendant une promenade.
 
-1. **ENT05-01** — **patient** : qui sait attendre calmement. Écris une phrase située dans un atelier.
-2. **ENT05-02** — **bondir** : faire un saut brusque. Écris une phrase située dans un atelier.
-3. **ENT05-03** — **prudent** : qui évite les dangers. Écris une phrase située dans un atelier.
-4. **ENT05-04** — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située dans un atelier.
-5. **ENT05-05** — **apercevoir** : voir pendant un court moment. Écris une phrase située dans un atelier.
-
-### ENT06 — standard
-
-1. **ENT06-01** — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située dans la classe.
-2. **ENT06-02** — **apercevoir** : voir pendant un court moment. Écris une phrase située dans la classe.
-3. **ENT06-03** — **épuisé** : très fatigué. Écris une phrase située dans la classe.
-4. **ENT06-04** — **réparer** : remettre en bon état. Écris une phrase située dans la classe.
-5. **ENT06-05** — **sombre** : où il y a peu de lumière. Écris une phrase située dans la classe.
-
-### ENT07 — standard
-
-1. **ENT07-01** — **réparer** : remettre en bon état. Écris une phrase située dans la cour.
-2. **ENT07-02** — **sombre** : où il y a peu de lumière. Écris une phrase située dans la cour.
-3. **ENT07-03** — **patient** : qui sait attendre calmement. Écris une phrase située dans la cour.
-4. **ENT07-04** — **bondir** : faire un saut brusque. Écris une phrase située dans la cour.
-5. **ENT07-05** — **prudent** : qui évite les dangers. Écris une phrase située dans la cour.
-
-### ENT08 — plus résistant
-
-1. **ENT08-01** — **se précipiter** : aller très vite vers un endroit. Écris une phrase située à la maison.
-2. **ENT08-02** — **discret** : qui attire peu l’attention. Écris une phrase située à la maison.
-3. **ENT08-03** — **résister** : ne pas céder malgré une difficulté. Écris une phrase située à la maison.
-4. **ENT08-04** — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située à la maison.
-5. **ENT08-05** — **paisible** : calme et sans agitation. Écris une phrase située à la maison.
-
-### ENT09 — plus résistant
-
-1. **ENT09-01** — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située pendant une promenade.
-2. **ENT09-02** — **paisible** : calme et sans agitation. Écris une phrase située pendant une promenade.
-3. **ENT09-03** — **s’éloigner** : aller de plus en plus loin. Écris une phrase située pendant une promenade.
-4. **ENT09-04** — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située pendant une promenade.
-5. **ENT09-05** — **rassurer** : rendre moins inquiet. Écris une phrase située pendant une promenade.
-
-### ENT10 — plus résistant
-
-1. **ENT10-01** — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située dans un atelier.
-2. **ENT10-02** — **rassurer** : rendre moins inquiet. Écris une phrase située dans un atelier.
-3. **ENT10-03** — **se précipiter** : aller très vite vers un endroit. Écris une phrase située dans un atelier.
-4. **ENT10-04** — **discret** : qui attire peu l’attention. Écris une phrase située dans un atelier.
-5. **ENT10-05** — **résister** : ne pas céder malgré une difficulté. Écris une phrase située dans un atelier.
+### Entraînement 10 — plus résistant
+1. — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située dans un atelier.
+2. — **rassurer** : rendre moins inquiet. Écris une phrase située dans un atelier.
+3. — **se précipiter** : aller très vite vers un endroit. Écris une phrase située dans un atelier.
+4. — **discret** : qui attire peu l’attention. Écris une phrase située dans un atelier.
+5. — **résister** : ne pas céder malgré une difficulté. Écris une phrase située dans un atelier.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune contient trois reprises exactes, une transposition superficielle et un item nouveau strictement isomorphe.
 
-### EVAL01
-
+### Évaluation 1
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL01-01** — **minuscule** : très petit. Écris une phrase située dans la classe.
-2. **EVAL01-02** — **réparer** : remettre en bon état. Écris une phrase située pendant une promenade.
-3. **EVAL01-03** — **résister** : ne pas céder malgré une difficulté. Écris une phrase située à la maison.
-4. **EVAL01-04** — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située pendant un travail manuel.
-5. **EVAL01-05** — **humide** : légèrement mouillé. Écris une phrase située après la pluie.
+1. — **minuscule** : très petit. Écris une phrase située dans la classe.
+2. — **réparer** : remettre en bon état. Écris une phrase située pendant une promenade.
+3. — **résister** : ne pas céder malgré une difficulté. Écris une phrase située à la maison.
+4. — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située pendant un travail manuel.
+5. — **humide** : légèrement mouillé. Écris une phrase située après la pluie.
 
-### EVAL02
-
+### Évaluation 2
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL02-01** — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
-2. **EVAL02-02** — **apercevoir** : voir pendant un court moment. Écris une phrase située dans un atelier.
-3. **EVAL02-03** — **paisible** : calme et sans agitation. Écris une phrase située pendant une promenade.
-4. **EVAL02-04** — **réparer** : remettre en bon état. Écris une phrase située dans la bibliothèque.
-5. **EVAL02-05** — **protéger** : mettre à l’abri d’un danger. Écris une phrase située dans la cour.
+1. — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
+2. — **apercevoir** : voir pendant un court moment. Écris une phrase située dans un atelier.
+3. — **paisible** : calme et sans agitation. Écris une phrase située pendant une promenade.
+4. — **réparer** : remettre en bon état. Écris une phrase située dans la bibliothèque.
+5. — **protéger** : mettre à l’abri d’un danger. Écris une phrase située dans la cour.
 
-### EVAL03
-
+### Évaluation 3
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL03-01** — **souple** : qui se plie facilement. Écris une phrase située à la maison.
-2. **EVAL03-02** — **épuisé** : très fatigué. Écris une phrase située dans la classe.
-3. **EVAL03-03** — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située dans un atelier.
-4. **EVAL03-04** — **bondir** : faire un saut brusque. Écris une phrase située dans le jardin.
-5. **EVAL03-05** — **lointain** : situé très loin. Écris une phrase de paysage.
+1. — **souple** : qui se plie facilement. Écris une phrase située à la maison.
+2. — **épuisé** : très fatigué. Écris une phrase située dans la classe.
+3. — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située dans un atelier.
+4. — **bondir** : faire un saut brusque. Écris une phrase située dans le jardin.
+5. — **lointain** : situé très loin. Écris une phrase de paysage.
 
-### EVAL04
-
+### Évaluation 4
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL04-01** — **observer** : regarder avec attention. Écris une phrase située dans la classe.
-2. **EVAL04-02** — **réparer** : remettre en bon état. Écris une phrase située dans la cour.
-3. **EVAL04-03** — **paisible** : calme et sans agitation. Écris une phrase située à la maison.
-4. **EVAL04-04** — **patient** : qui sait attendre calmement. Écris une phrase située au cours d’une sortie.
-5. **EVAL04-05** — **surgir** : apparaître tout à coup. Écris une phrase avec un animal.
+1. — **observer** : regarder avec attention. Écris une phrase située dans la classe.
+2. — **réparer** : remettre en bon état. Écris une phrase située dans la cour.
+3. — **paisible** : calme et sans agitation. Écris une phrase située à la maison.
+4. — **patient** : qui sait attendre calmement. Écris une phrase située au cours d’une sortie.
+5. — **surgir** : apparaître tout à coup. Écris une phrase avec un animal.
 
-### EVAL05
-
+### Évaluation 5
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL05-01** — **généreux** : qui aime donner ou partager. Écris une phrase située dans la cour.
-2. **EVAL05-02** — **patient** : qui sait attendre calmement. Écris une phrase située pendant une promenade.
-3. **EVAL05-03** — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située pendant une promenade.
-4. **EVAL05-04** — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située pendant un travail manuel.
-5. **EVAL05-05** — **précis** : exact et sans flou. Écris une phrase située en classe.
+1. — **généreux** : qui aime donner ou partager. Écris une phrase située dans la cour.
+2. — **patient** : qui sait attendre calmement. Écris une phrase située pendant une promenade.
+3. — **éblouissant** : si lumineux qu’il gêne les yeux. Écris une phrase située pendant une promenade.
+4. — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située pendant un travail manuel.
+5. — **précis** : exact et sans flou. Écris une phrase située en classe.
 
-### EVAL06
-
+### Évaluation 6
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL06-01** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
-2. **EVAL06-02** — **bondir** : faire un saut brusque. Écris une phrase située dans un atelier.
-3. **EVAL06-03** — **se précipiter** : aller très vite vers un endroit. Écris une phrase située dans un atelier.
-4. **EVAL06-04** — **réparer** : remettre en bon état. Écris une phrase située dans la bibliothèque.
-5. **EVAL06-05** — **délicat** : qui demande du soin. Écris une phrase dans un atelier.
+1. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+2. — **bondir** : faire un saut brusque. Écris une phrase située dans un atelier.
+3. — **se précipiter** : aller très vite vers un endroit. Écris une phrase située dans un atelier.
+4. — **réparer** : remettre en bon état. Écris une phrase située dans la bibliothèque.
+5. — **délicat** : qui demande du soin. Écris une phrase dans un atelier.
 
-### EVAL07
-
+### Évaluation 7
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL07-01** — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
-2. **EVAL07-02** — **sombre** : où il y a peu de lumière. Écris une phrase située dans la classe.
-3. **EVAL07-03** — **discret** : qui attire peu l’attention. Écris une phrase située à la maison.
-4. **EVAL07-04** — **bondir** : faire un saut brusque. Écris une phrase située dans le jardin.
-5. **EVAL07-05** — **inquiet** : qui ressent de la peur ou du souci. Écris une phrase avec un personnage.
+1. — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
+2. — **sombre** : où il y a peu de lumière. Écris une phrase située dans la classe.
+3. — **discret** : qui attire peu l’attention. Écris une phrase située à la maison.
+4. — **bondir** : faire un saut brusque. Écris une phrase située dans le jardin.
+5. — **inquiet** : qui ressent de la peur ou du souci. Écris une phrase avec un personnage.
 
-### EVAL08
-
+### Évaluation 8
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL08-01** — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
-2. **EVAL08-02** — **patient** : qui sait attendre calmement. Écris une phrase située dans la cour.
-3. **EVAL08-03** — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située pendant une promenade.
-4. **EVAL08-04** — **patient** : qui sait attendre calmement. Écris une phrase située au cours d’une sortie.
-5. **EVAL08-05** — **brusque** : soudain et sans douceur. Écris une phrase sur un mouvement.
+1. — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
+2. — **patient** : qui sait attendre calmement. Écris une phrase située dans la cour.
+3. — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située pendant une promenade.
+4. — **patient** : qui sait attendre calmement. Écris une phrase située au cours d’une sortie.
+5. — **brusque** : soudain et sans douceur. Écris une phrase sur un mouvement.
 
-### EVAL09
-
+### Évaluation 9
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL09-01** — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
-2. **EVAL09-02** — **épuisé** : très fatigué. Écris une phrase située pendant une promenade.
-3. **EVAL09-03** — **résister** : ne pas céder malgré une difficulté. Écris une phrase située dans un atelier.
-4. **EVAL09-04** — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située pendant un travail manuel.
-5. **EVAL09-05** — **proche** : situé à peu de distance. Écris une phrase sur un lieu.
+1. — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
+2. — **épuisé** : très fatigué. Écris une phrase située pendant une promenade.
+3. — **résister** : ne pas céder malgré une difficulté. Écris une phrase située dans un atelier.
+4. — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située pendant un travail manuel.
+5. — **proche** : situé à peu de distance. Écris une phrase sur un lieu.
 
-### EVAL10
-
+### Évaluation 10
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **EVAL10-01** — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
-2. **EVAL10-02** — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située dans un atelier.
-3. **EVAL10-03** — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située à la maison.
-4. **EVAL10-04** — **réparer** : remettre en bon état. Écris une phrase située dans la bibliothèque.
-5. **EVAL10-05** — **rapide** : qui va vite. Écris une phrase avec un déplacement.
+1. — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
+2. — **minutieux** : qui agit avec beaucoup de soin. Écris une phrase située dans un atelier.
+3. — **hésiter** : ne pas réussir à choisir tout de suite. Écris une phrase située à la maison.
+4. — **réparer** : remettre en bon état. Écris une phrase située dans la bibliothèque.
+5. — **rapide** : qui va vite. Écris une phrase avec un déplacement.
 
 ## Devoirs
 
 Les devoirs reprennent uniquement des items accessibles déjà rencontrés dans ENT01 à ENT03.
 
-### DEV01
-
+### Devoir 1
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV01-01** — **minuscule** : très petit. Écris une phrase située dans la classe.
-2. **DEV01-02** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la cour.
-3. **DEV01-03** — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
-4. **DEV01-04** — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
-5. **DEV01-05** — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
+1. — **minuscule** : très petit. Écris une phrase située dans la classe.
+2. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la cour.
+3. — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
+4. — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
+5. — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
 
-### DEV02
-
+### Devoir 2
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV02-01** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la cour.
-2. **DEV02-02** — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
-3. **DEV02-03** — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
-4. **DEV02-04** — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
-5. **DEV02-05** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+1. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la cour.
+2. — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
+3. — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
+4. — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
+5. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
 
-### DEV03
-
+### Devoir 3
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV03-01** — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
-2. **DEV03-02** — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
-3. **DEV03-03** — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
-4. **DEV03-04** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
-5. **DEV03-05** — **observer** : regarder avec attention. Écris une phrase située dans la classe.
+1. — **ranger** : mettre chaque chose à sa place. Écris une phrase située à la maison.
+2. — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
+3. — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
+4. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+5. — **observer** : regarder avec attention. Écris une phrase située dans la classe.
 
-### DEV04
-
+### Devoir 4
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV04-01** — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
-2. **DEV04-02** — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
-3. **DEV04-03** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
-4. **DEV04-04** — **observer** : regarder avec attention. Écris une phrase située dans la classe.
-5. **DEV04-05** — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
+1. — **murmurer** : parler très doucement. Écris une phrase située dans la classe.
+2. — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
+3. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+4. — **observer** : regarder avec attention. Écris une phrase située dans la classe.
+5. — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
 
-### DEV05
-
+### Devoir 5
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV05-01** — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
-2. **DEV05-02** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
-3. **DEV05-03** — **observer** : regarder avec attention. Écris une phrase située dans la classe.
-4. **DEV05-04** — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
-5. **DEV05-05** — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
+1. — **étroit** : qui manque de largeur. Écris une phrase située dans la cour.
+2. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+3. — **observer** : regarder avec attention. Écris une phrase située dans la classe.
+4. — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
+5. — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
 
-### DEV06
-
+### Devoir 6
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV06-01** — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
-2. **DEV06-02** — **observer** : regarder avec attention. Écris une phrase située dans la classe.
-3. **DEV06-03** — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
-4. **DEV06-04** — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
-5. **DEV06-05** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
+1. — **généreux** : qui aime donner ou partager. Écris une phrase située à la maison.
+2. — **observer** : regarder avec attention. Écris une phrase située dans la classe.
+3. — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
+4. — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
+5. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
 
-### DEV07
-
+### Devoir 7
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV07-01** — **observer** : regarder avec attention. Écris une phrase située dans la classe.
-2. **DEV07-02** — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
-3. **DEV07-03** — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
-4. **DEV07-04** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
-5. **DEV07-05** — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
+1. — **observer** : regarder avec attention. Écris une phrase située dans la classe.
+2. — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
+3. — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
+4. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
+5. — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
 
-### DEV08
-
+### Devoir 8
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV08-01** — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
-2. **DEV08-02** — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
-3. **DEV08-03** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
-4. **DEV08-04** — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
-5. **DEV08-05** — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
+1. — **immobile** : qui ne bouge pas. Écris une phrase située dans la cour.
+2. — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
+3. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
+4. — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
+5. — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
 
-### DEV09
-
+### Devoir 9
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV09-01** — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
-2. **DEV09-02** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
-3. **DEV09-03** — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
-4. **DEV09-04** — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
-5. **DEV09-05** — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
+1. — **bruyant** : qui fait beaucoup de bruit. Écris une phrase située à la maison.
+2. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
+3. — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
+4. — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
+5. — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
 
-### DEV10
-
+### Devoir 10
 Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phrase doit montrer son sens.
 
-1. **DEV10-01** — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
-2. **DEV10-02** — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
-3. **DEV10-03** — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
-4. **DEV10-04** — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
-5. **DEV10-05** — **généreux** : qui aime donner ou partager. Écris une phrase située dans la cour.
+1. — **abriter** : protéger dans un lieu couvert. Écris une phrase située dans la classe.
+2. — **murmurer** : parler très doucement. Écris une phrase située dans la cour.
+3. — **étroit** : qui manque de largeur. Écris une phrase située à la maison.
+4. — **fragile** : qui peut se casser facilement. Écris une phrase située dans la classe.
+5. — **généreux** : qui aime donner ou partager. Écris une phrase située dans la cour.
 
 ## Corrections
 
@@ -433,80 +400,70 @@ Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phras
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. **Exemple : « La fourmi porte une minuscule miette. »** Accepter toute phrase complète employant « minuscule » ou une forme correctement accordée ou conjuguée, cohérente avec « très petit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Nous observons les traces avec attention. »** Accepter toute phrase complète employant « observer » ou une forme correctement accordée ou conjuguée, cohérente avec « regarder avec attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Ce verre fragile peut se casser. »** Accepter toute phrase complète employant « fragile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui peut se casser facilement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT02
-
+#### Entraînement 2
 1. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le chat reste immobile devant la porte. »** Accepter toute phrase complète employant « immobile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui ne bouge pas » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT03
-
+#### Entraînement 3
 1. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Je range chaque feutre dans sa boîte. »** Accepter toute phrase complète employant « ranger » ou une forme correctement accordée ou conjuguée, cohérente avec « mettre chaque chose à sa place » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le couloir bruyant résonne de voix. »** Accepter toute phrase complète employant « bruyant » ou une forme correctement accordée ou conjuguée, cohérente avec « qui fait beaucoup de bruit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Cette branche souple se plie sans casser. »** Accepter toute phrase complète employant « souple » ou une forme correctement accordée ou conjuguée, cohérente avec « qui se plie facilement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT04
-
+#### Entraînement 4
 1. **Exemple : « Après la course, Yanis est épuisé. »** Accepter toute phrase complète employant « épuisé » ou une forme correctement accordée ou conjuguée, cohérente avec « très fatigué » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Nous réparons la roue du vélo. »** Accepter toute phrase complète employant « réparer » ou une forme correctement accordée ou conjuguée, cohérente avec « remettre en bon état » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « La cave est sombre sans lampe. »** Accepter toute phrase complète employant « sombre » ou une forme correctement accordée ou conjuguée, cohérente avec « où il y a peu de lumière » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Nora est patiente et attend son tour calmement. »** Accepter toute phrase complète employant « patient » ou une forme correctement accordée ou conjuguée, cohérente avec « qui sait attendre calmement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le chat bondit sur le coussin. »** Accepter toute phrase complète employant « bondir » ou une forme correctement accordée ou conjuguée, cohérente avec « faire un saut brusque » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT05
-
+#### Entraînement 5
 1. **Exemple : « Nora est patiente et attend son tour calmement. »** Accepter toute phrase complète employant « patient » ou une forme correctement accordée ou conjuguée, cohérente avec « qui sait attendre calmement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le chat bondit sur le coussin. »** Accepter toute phrase complète employant « bondir » ou une forme correctement accordée ou conjuguée, cohérente avec « faire un saut brusque » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Léo est prudent et marche lentement sur le sol mouillé. »** Accepter toute phrase complète employant « prudent » ou une forme correctement accordée ou conjuguée, cohérente avec « qui évite les dangers » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le peintre minutieux trace chaque petit détail. »** Accepter toute phrase complète employant « minutieux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui agit avec beaucoup de soin » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « J’aperçois un oiseau avant qu’il s’envole. »** Accepter toute phrase complète employant « apercevoir » ou une forme correctement accordée ou conjuguée, cohérente avec « voir pendant un court moment » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT06
-
+#### Entraînement 6
 1. **Exemple : « Le peintre minutieux trace chaque petit détail. »** Accepter toute phrase complète employant « minutieux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui agit avec beaucoup de soin » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « J’aperçois un oiseau avant qu’il s’envole. »** Accepter toute phrase complète employant « apercevoir » ou une forme correctement accordée ou conjuguée, cohérente avec « voir pendant un court moment » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Après la course, Yanis est épuisé. »** Accepter toute phrase complète employant « épuisé » ou une forme correctement accordée ou conjuguée, cohérente avec « très fatigué » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Nous réparons la roue du vélo. »** Accepter toute phrase complète employant « réparer » ou une forme correctement accordée ou conjuguée, cohérente avec « remettre en bon état » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « La cave est sombre sans lampe. »** Accepter toute phrase complète employant « sombre » ou une forme correctement accordée ou conjuguée, cohérente avec « où il y a peu de lumière » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT07
-
+#### Entraînement 7
 1. **Exemple : « Nous réparons la roue du vélo. »** Accepter toute phrase complète employant « réparer » ou une forme correctement accordée ou conjuguée, cohérente avec « remettre en bon état » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « La cave est sombre sans lampe. »** Accepter toute phrase complète employant « sombre » ou une forme correctement accordée ou conjuguée, cohérente avec « où il y a peu de lumière » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Nora est patiente et attend son tour calmement. »** Accepter toute phrase complète employant « patient » ou une forme correctement accordée ou conjuguée, cohérente avec « qui sait attendre calmement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le chat bondit sur le coussin. »** Accepter toute phrase complète employant « bondir » ou une forme correctement accordée ou conjuguée, cohérente avec « faire un saut brusque » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Léo est prudent et marche lentement sur le sol mouillé. »** Accepter toute phrase complète employant « prudent » ou une forme correctement accordée ou conjuguée, cohérente avec « qui évite les dangers » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT08
-
+#### Entraînement 8
 1. **Exemple : « À la sonnerie, les élèves ne doivent pas se précipiter. »** Accepter toute phrase complète employant « se précipiter » ou une forme correctement accordée ou conjuguée, cohérente avec « aller très vite vers un endroit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le hérisson discret reste caché sous les feuilles. »** Accepter toute phrase complète employant « discret » ou une forme correctement accordée ou conjuguée, cohérente avec « qui attire peu l’attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Ce parapluie résiste au vent fort. »** Accepter toute phrase complète employant « résister » ou une forme correctement accordée ou conjuguée, cohérente avec « ne pas céder malgré une difficulté » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « J’hésite entre le crayon bleu et le crayon vert. »** Accepter toute phrase complète employant « hésiter » ou une forme correctement accordée ou conjuguée, cohérente avec « ne pas réussir à choisir tout de suite » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le jardin est paisible au lever du jour. »** Accepter toute phrase complète employant « paisible » ou une forme correctement accordée ou conjuguée, cohérente avec « calme et sans agitation » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT09
-
+#### Entraînement 9
 1. **Exemple : « J’hésite entre le crayon bleu et le crayon vert. »** Accepter toute phrase complète employant « hésiter » ou une forme correctement accordée ou conjuguée, cohérente avec « ne pas réussir à choisir tout de suite » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le jardin est paisible au lever du jour. »** Accepter toute phrase complète employant « paisible » ou une forme correctement accordée ou conjuguée, cohérente avec « calme et sans agitation » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le bateau s’éloigne peu à peu du port. »** Accepter toute phrase complète employant « s’éloigner » ou une forme correctement accordée ou conjuguée, cohérente avec « aller de plus en plus loin » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le reflet éblouissant du soleil me gêne les yeux. »** Accepter toute phrase complète employant « éblouissant » ou une forme correctement accordée ou conjuguée, cohérente avec « si lumineux qu’il gêne les yeux » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « La maîtresse rassure l’enfant inquiet. »** Accepter toute phrase complète employant « rassurer » ou une forme correctement accordée ou conjuguée, cohérente avec « rendre moins inquiet » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### ENT10
-
+#### Entraînement 10
 1. **Exemple : « Le reflet éblouissant du soleil me gêne les yeux. »** Accepter toute phrase complète employant « éblouissant » ou une forme correctement accordée ou conjuguée, cohérente avec « si lumineux qu’il gêne les yeux » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « La maîtresse rassure l’enfant inquiet. »** Accepter toute phrase complète employant « rassurer » ou une forme correctement accordée ou conjuguée, cohérente avec « rendre moins inquiet » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « À la sonnerie, les élèves ne doivent pas se précipiter. »** Accepter toute phrase complète employant « se précipiter » ou une forme correctement accordée ou conjuguée, cohérente avec « aller très vite vers un endroit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
@@ -515,80 +472,70 @@ Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phras
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. **Exemple : « La fourmi porte une minuscule miette. »** Accepter toute phrase complète employant « minuscule » ou une forme correctement accordée ou conjuguée, cohérente avec « très petit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Nous réparons la roue du vélo. »** Accepter toute phrase complète employant « réparer » ou une forme correctement accordée ou conjuguée, cohérente avec « remettre en bon état » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Ce parapluie résiste au vent fort. »** Accepter toute phrase complète employant « résister » ou une forme correctement accordée ou conjuguée, cohérente avec « ne pas céder malgré une difficulté » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le peintre minutieux trace chaque petit détail. »** Accepter toute phrase complète employant « minutieux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui agit avec beaucoup de soin » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Après la pluie, le banc reste humide. »** Accepter toute phrase complète contenant « humide », cohérente avec « légèrement mouillé » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### EVAL02
-
+#### Évaluation 2
 1. **Exemple : « Le chat reste immobile devant la porte. »** Accepter toute phrase complète employant « immobile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui ne bouge pas » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « J’aperçois un oiseau avant qu’il s’envole. »** Accepter toute phrase complète employant « apercevoir » ou une forme correctement accordée ou conjuguée, cohérente avec « voir pendant un court moment » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le jardin est paisible au lever du jour. »** Accepter toute phrase complète employant « paisible » ou une forme correctement accordée ou conjuguée, cohérente avec « calme et sans agitation » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Nous réparons la roue du vélo. »** Accepter toute phrase complète employant « réparer » ou une forme correctement accordée ou conjuguée, cohérente avec « remettre en bon état » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le préau protège les élèves de la grêle. »** Accepter toute phrase complète employant « protéger » sous une forme correcte, avec l’idée de mise à l’abri. Exiger majuscule et point ; ne pas sanctionner une autre erreur qui ne masque pas le sens.
 
-#### EVAL03
-
+#### Évaluation 3
 1. **Exemple : « Cette branche souple se plie sans casser. »** Accepter toute phrase complète employant « souple » ou une forme correctement accordée ou conjuguée, cohérente avec « qui se plie facilement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Après la course, Yanis est épuisé. »** Accepter toute phrase complète employant « épuisé » ou une forme correctement accordée ou conjuguée, cohérente avec « très fatigué » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le reflet éblouissant du soleil me gêne les yeux. »** Accepter toute phrase complète employant « éblouissant » ou une forme correctement accordée ou conjuguée, cohérente avec « si lumineux qu’il gêne les yeux » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le chat bondit sur le coussin. »** Accepter toute phrase complète employant « bondir » ou une forme correctement accordée ou conjuguée, cohérente avec « faire un saut brusque » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Nous apercevons un village lointain. »** Accepter toute phrase complète contenant « lointain » ou « lointaine » et exprimant une grande distance. Exiger majuscule et point ; tolérer les erreurs qui ne masquent pas le sens.
 
-#### EVAL04
-
+#### Évaluation 4
 1. **Exemple : « Nous observons les traces avec attention. »** Accepter toute phrase complète employant « observer » ou une forme correctement accordée ou conjuguée, cohérente avec « regarder avec attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Nous réparons la roue du vélo. »** Accepter toute phrase complète employant « réparer » ou une forme correctement accordée ou conjuguée, cohérente avec « remettre en bon état » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le jardin est paisible au lever du jour. »** Accepter toute phrase complète employant « paisible » ou une forme correctement accordée ou conjuguée, cohérente avec « calme et sans agitation » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Nora est patiente et attend son tour calmement. »** Accepter toute phrase complète employant « patient » ou une forme correctement accordée ou conjuguée, cohérente avec « qui sait attendre calmement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Un lapin surgit derrière le buisson. »** Accepter toute phrase complète employant une forme de « surgir » et montrant une apparition soudaine. Exiger majuscule et point ; tolérer les erreurs qui ne masquent pas le sens.
 
-#### EVAL05
-
+#### Évaluation 5
 1. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Nora est patiente et attend son tour calmement. »** Accepter toute phrase complète employant « patient » ou une forme correctement accordée ou conjuguée, cohérente avec « qui sait attendre calmement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le reflet éblouissant du soleil me gêne les yeux. »** Accepter toute phrase complète employant « éblouissant » ou une forme correctement accordée ou conjuguée, cohérente avec « si lumineux qu’il gêne les yeux » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le peintre minutieux trace chaque petit détail. »** Accepter toute phrase complète employant « minutieux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui agit avec beaucoup de soin » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Lina donne une réponse précise. »** Accepter toute phrase complète contenant « précis » ou une forme accordée, avec l’idée d’exactitude. Exiger majuscule et point ; tolérer les erreurs qui ne masquent pas le sens.
 
-#### EVAL06
-
+#### Évaluation 6
 1. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le chat bondit sur le coussin. »** Accepter toute phrase complète employant « bondir » ou une forme correctement accordée ou conjuguée, cohérente avec « faire un saut brusque » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « À la sonnerie, les élèves ne doivent pas se précipiter. »** Accepter toute phrase complète employant « se précipiter » ou une forme correctement accordée ou conjuguée, cohérente avec « aller très vite vers un endroit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Nous réparons la roue du vélo. »** Accepter toute phrase complète employant « réparer » ou une forme correctement accordée ou conjuguée, cohérente avec « remettre en bon état » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Recoller cette petite pièce est un travail délicat. »** Accepter toute phrase complète contenant une forme de « délicat » et montrant qu’une action demande du soin. Exiger majuscule et point ; tolérer les erreurs qui ne masquent pas le sens.
 
-#### EVAL07
-
+#### Évaluation 7
 1. **Exemple : « Ce verre fragile peut se casser. »** Accepter toute phrase complète employant « fragile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui peut se casser facilement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « La cave est sombre sans lampe. »** Accepter toute phrase complète employant « sombre » ou une forme correctement accordée ou conjuguée, cohérente avec « où il y a peu de lumière » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le hérisson discret reste caché sous les feuilles. »** Accepter toute phrase complète employant « discret » ou une forme correctement accordée ou conjuguée, cohérente avec « qui attire peu l’attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le chat bondit sur le coussin. »** Accepter toute phrase complète employant « bondir » ou une forme correctement accordée ou conjuguée, cohérente avec « faire un saut brusque » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Yanis est inquiet car il ne voit plus son chien. »** Accepter toute phrase complète contenant une forme de « inquiet » et une situation de peur ou de souci. Exiger majuscule et point ; tolérer les erreurs qui ne masquent pas le sens.
 
-#### EVAL08
-
+#### Évaluation 8
 1. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Nora est patiente et attend son tour calmement. »** Accepter toute phrase complète employant « patient » ou une forme correctement accordée ou conjuguée, cohérente avec « qui sait attendre calmement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « J’hésite entre le crayon bleu et le crayon vert. »** Accepter toute phrase complète employant « hésiter » ou une forme correctement accordée ou conjuguée, cohérente avec « ne pas réussir à choisir tout de suite » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Nora est patiente et attend son tour calmement. »** Accepter toute phrase complète employant « patient » ou une forme correctement accordée ou conjuguée, cohérente avec « qui sait attendre calmement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Un mouvement brusque renverse le verre. »** Accepter toute phrase complète contenant une forme de « brusque » et exprimant un mouvement soudain, sans douceur. Exiger majuscule et point ; tolérer les erreurs qui ne masquent pas le sens.
 
-#### EVAL09
-
+#### Évaluation 9
 1. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Après la course, Yanis est épuisé. »** Accepter toute phrase complète employant « épuisé » ou une forme correctement accordée ou conjuguée, cohérente avec « très fatigué » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Ce parapluie résiste au vent fort. »** Accepter toute phrase complète employant « résister » ou une forme correctement accordée ou conjuguée, cohérente avec « ne pas céder malgré une difficulté » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le peintre minutieux trace chaque petit détail. »** Accepter toute phrase complète employant « minutieux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui agit avec beaucoup de soin » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « La bibliothèque est proche de l’école. »** Accepter toute phrase complète contenant une forme de « proche » et exprimant une faible distance. Exiger majuscule et point ; tolérer les erreurs qui ne masquent pas le sens.
 
-#### EVAL10
-
+#### Évaluation 10
 1. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le peintre minutieux trace chaque petit détail. »** Accepter toute phrase complète employant « minutieux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui agit avec beaucoup de soin » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « J’hésite entre le crayon bleu et le crayon vert. »** Accepter toute phrase complète employant « hésiter » ou une forme correctement accordée ou conjuguée, cohérente avec « ne pas réussir à choisir tout de suite » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
@@ -597,80 +544,70 @@ Lis le mot et sa définition. Écris une phrase complète avec ce mot ; ta phras
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. **Exemple : « La fourmi porte une minuscule miette. »** Accepter toute phrase complète employant « minuscule » ou une forme correctement accordée ou conjuguée, cohérente avec « très petit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Je range chaque feutre dans sa boîte. »** Accepter toute phrase complète employant « ranger » ou une forme correctement accordée ou conjuguée, cohérente avec « mettre chaque chose à sa place » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV02
-
+#### Devoir 2
 1. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Je range chaque feutre dans sa boîte. »** Accepter toute phrase complète employant « ranger » ou une forme correctement accordée ou conjuguée, cohérente avec « mettre chaque chose à sa place » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV03
-
+#### Devoir 3
 1. **Exemple : « Je range chaque feutre dans sa boîte. »** Accepter toute phrase complète employant « ranger » ou une forme correctement accordée ou conjuguée, cohérente avec « mettre chaque chose à sa place » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Nous observons les traces avec attention. »** Accepter toute phrase complète employant « observer » ou une forme correctement accordée ou conjuguée, cohérente avec « regarder avec attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV04
-
+#### Devoir 4
 1. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Nous observons les traces avec attention. »** Accepter toute phrase complète employant « observer » ou une forme correctement accordée ou conjuguée, cohérente avec « regarder avec attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le chat reste immobile devant la porte. »** Accepter toute phrase complète employant « immobile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui ne bouge pas » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV05
-
+#### Devoir 5
 1. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Nous observons les traces avec attention. »** Accepter toute phrase complète employant « observer » ou une forme correctement accordée ou conjuguée, cohérente avec « regarder avec attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le chat reste immobile devant la porte. »** Accepter toute phrase complète employant « immobile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui ne bouge pas » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le couloir bruyant résonne de voix. »** Accepter toute phrase complète employant « bruyant » ou une forme correctement accordée ou conjuguée, cohérente avec « qui fait beaucoup de bruit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV06
-
+#### Devoir 6
 1. **Exemple : « Malo est généreux et partage son goûter. »** Accepter toute phrase complète employant « généreux » ou une forme correctement accordée ou conjuguée, cohérente avec « qui aime donner ou partager » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Nous observons les traces avec attention. »** Accepter toute phrase complète employant « observer » ou une forme correctement accordée ou conjuguée, cohérente avec « regarder avec attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le chat reste immobile devant la porte. »** Accepter toute phrase complète employant « immobile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui ne bouge pas » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le couloir bruyant résonne de voix. »** Accepter toute phrase complète employant « bruyant » ou une forme correctement accordée ou conjuguée, cohérente avec « qui fait beaucoup de bruit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV07
-
+#### Devoir 7
 1. **Exemple : « Nous observons les traces avec attention. »** Accepter toute phrase complète employant « observer » ou une forme correctement accordée ou conjuguée, cohérente avec « regarder avec attention » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le chat reste immobile devant la porte. »** Accepter toute phrase complète employant « immobile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui ne bouge pas » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le couloir bruyant résonne de voix. »** Accepter toute phrase complète employant « bruyant » ou une forme correctement accordée ou conjuguée, cohérente avec « qui fait beaucoup de bruit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV08
-
+#### Devoir 8
 1. **Exemple : « Le chat reste immobile devant la porte. »** Accepter toute phrase complète employant « immobile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui ne bouge pas » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le couloir bruyant résonne de voix. »** Accepter toute phrase complète employant « bruyant » ou une forme correctement accordée ou conjuguée, cohérente avec « qui fait beaucoup de bruit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV09
-
+#### Devoir 9
 1. **Exemple : « Le couloir bruyant résonne de voix. »** Accepter toute phrase complète employant « bruyant » ou une forme correctement accordée ou conjuguée, cohérente avec « qui fait beaucoup de bruit » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 4. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 5. **Exemple : « Ce verre fragile peut se casser. »** Accepter toute phrase complète employant « fragile » ou une forme correctement accordée ou conjuguée, cohérente avec « qui peut se casser facilement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 
-#### DEV10
-
+#### Devoir 10
 1. **Exemple : « Le préau peut abriter les élèves de la pluie. »** Accepter toute phrase complète employant « abriter » ou une forme correctement accordée ou conjuguée, cohérente avec « protéger dans un lieu couvert » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 2. **Exemple : « Lina murmure sa réponse pour ne pas réveiller le bébé. »** Accepter toute phrase complète employant « murmurer » ou une forme correctement accordée ou conjuguée, cohérente avec « parler très doucement » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.
 3. **Exemple : « Le passage est si étroit qu’une seule personne avance. »** Accepter toute phrase complète employant « étroit » ou une forme correctement accordée ou conjuguée, cohérente avec « qui manque de largeur » et dont le contexte rend ce sens observable. Exiger majuscule et point ; ne pas sanctionner une autre erreur d’orthographe qui ne masque pas le sens.

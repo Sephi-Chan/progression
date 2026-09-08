@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Construis 124 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 1 centaines, 2 dizaines, 4 unités.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Construis 236 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 2 centaines, 3 dizaines, 6 unités.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Construis 347 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Construis 458 avec le matériel base 10.
-- **IMM02** Construis 569 avec le matériel base 10.
-- **IMM03** Construis 672 avec le matériel base 10.
-- **IMM04** Construis 781 avec le matériel base 10.
-- **IMM05** Construis 804 avec le matériel base 10.
-- **IMM06** Construis 915 avec le matériel base 10.
-- **IMM07** Construis 990 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
 
-- **ENT01-01** Construis 347 avec le matériel base 10.
-- **ENT01-02** Construis 458 avec le matériel base 10.
-- **ENT01-03** Construis 569 avec le matériel base 10.
-- **ENT01-04** Construis 672 avec le matériel base 10.
-- **ENT01-05** Construis 781 avec le matériel base 10.
+### Entraînement 2
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
 
-### ENT02
+### Entraînement 3
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
 
-- **ENT02-01** Construis 569 avec le matériel base 10.
-- **ENT02-02** Construis 672 avec le matériel base 10.
-- **ENT02-03** Construis 781 avec le matériel base 10.
-- **ENT02-04** Construis 804 avec le matériel base 10.
-- **ENT02-05** Construis 915 avec le matériel base 10.
+### Entraînement 4
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
 
-### ENT03
+### Entraînement 5
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
 
-- **ENT03-01** Construis 781 avec le matériel base 10.
-- **ENT03-02** Construis 804 avec le matériel base 10.
-- **ENT03-03** Construis 915 avec le matériel base 10.
-- **ENT03-04** Construis 990 avec le matériel base 10.
-- **ENT03-05** Construis 124 avec le matériel base 10.
+### Entraînement 6
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
 
-### ENT04
+### Entraînement 7
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
 
-- **ENT04-01** Construis 915 avec le matériel base 10.
-- **ENT04-02** Construis 990 avec le matériel base 10.
-- **ENT04-03** Construis 124 avec le matériel base 10.
-- **ENT04-04** Construis 236 avec le matériel base 10.
-- **ENT04-05** Construis 347 avec le matériel base 10.
+### Entraînement 8
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
 
-### ENT05
+### Entraînement 9
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
 
-- **ENT05-01** Construis 124 avec le matériel base 10.
-- **ENT05-02** Construis 236 avec le matériel base 10.
-- **ENT05-03** Construis 347 avec le matériel base 10.
-- **ENT05-04** Construis 458 avec le matériel base 10.
-- **ENT05-05** Construis 569 avec le matériel base 10.
-
-### ENT06
-
-- **ENT06-01** Construis 347 avec le matériel base 10.
-- **ENT06-02** Construis 458 avec le matériel base 10.
-- **ENT06-03** Construis 569 avec le matériel base 10.
-- **ENT06-04** Construis 672 avec le matériel base 10.
-- **ENT06-05** Construis 781 avec le matériel base 10.
-
-### ENT07
-
-- **ENT07-01** Construis 569 avec le matériel base 10.
-- **ENT07-02** Construis 672 avec le matériel base 10.
-- **ENT07-03** Construis 781 avec le matériel base 10.
-- **ENT07-04** Construis 804 avec le matériel base 10.
-- **ENT07-05** Construis 915 avec le matériel base 10.
-
-### ENT08
-
-- **ENT08-01** Construis 781 avec le matériel base 10.
-- **ENT08-02** Construis 804 avec le matériel base 10.
-- **ENT08-03** Construis 915 avec le matériel base 10.
-- **ENT08-04** Construis 990 avec le matériel base 10.
-- **ENT08-05** Construis 124 avec le matériel base 10.
-
-### ENT09
-
-- **ENT09-01** Construis 915 avec le matériel base 10.
-- **ENT09-02** Construis 990 avec le matériel base 10.
-- **ENT09-03** Construis 124 avec le matériel base 10.
-- **ENT09-04** Construis 236 avec le matériel base 10.
-- **ENT09-05** Construis 347 avec le matériel base 10.
-
-### ENT10
-
-- **ENT10-01** Construis 124 avec le matériel base 10.
-- **ENT10-02** Construis 236 avec le matériel base 10.
-- **ENT10-03** Construis 347 avec le matériel base 10.
-- **ENT10-04** Construis 458 avec le matériel base 10.
-- **ENT10-05** Construis 569 avec le matériel base 10.
+### Entraînement 10
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
 
-- **EVAL01-01** Construis 347 avec le matériel base 10.
-- **EVAL01-02** Construis 458 avec le matériel base 10.
-- **EVAL01-03** Construis 569 avec le matériel base 10.
-- **EVAL01-04** Construis 672 avec le matériel base 10.
-- **EVAL01-05** Construis 781 avec le matériel base 10.
+### Évaluation 2
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
 
-### EVAL02
+### Évaluation 3
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
 
-- **EVAL02-01** Construis 569 avec le matériel base 10.
-- **EVAL02-02** Construis 672 avec le matériel base 10.
-- **EVAL02-03** Construis 781 avec le matériel base 10.
-- **EVAL02-04** Construis 804 avec le matériel base 10.
-- **EVAL02-05** Construis 915 avec le matériel base 10.
+### Évaluation 4
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
 
-### EVAL03
+### Évaluation 5
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
 
-- **EVAL03-01** Construis 781 avec le matériel base 10.
-- **EVAL03-02** Construis 804 avec le matériel base 10.
-- **EVAL03-03** Construis 915 avec le matériel base 10.
-- **EVAL03-04** Construis 990 avec le matériel base 10.
-- **EVAL03-05** Construis 124 avec le matériel base 10.
+### Évaluation 6
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
 
-### EVAL04
+### Évaluation 7
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
 
-- **EVAL04-01** Construis 915 avec le matériel base 10.
-- **EVAL04-02** Construis 990 avec le matériel base 10.
-- **EVAL04-03** Construis 124 avec le matériel base 10.
-- **EVAL04-04** Construis 236 avec le matériel base 10.
-- **EVAL04-05** Construis 347 avec le matériel base 10.
+### Évaluation 8
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
 
-### EVAL05
+### Évaluation 9
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
 
-- **EVAL05-01** Construis 124 avec le matériel base 10.
-- **EVAL05-02** Construis 236 avec le matériel base 10.
-- **EVAL05-03** Construis 347 avec le matériel base 10.
-- **EVAL05-04** Construis 458 avec le matériel base 10.
-- **EVAL05-05** Construis 569 avec le matériel base 10.
-
-### EVAL06
-
-- **EVAL06-01** Construis 347 avec le matériel base 10.
-- **EVAL06-02** Construis 458 avec le matériel base 10.
-- **EVAL06-03** Construis 569 avec le matériel base 10.
-- **EVAL06-04** Construis 672 avec le matériel base 10.
-- **EVAL06-05** Construis 781 avec le matériel base 10.
-
-### EVAL07
-
-- **EVAL07-01** Construis 569 avec le matériel base 10.
-- **EVAL07-02** Construis 672 avec le matériel base 10.
-- **EVAL07-03** Construis 781 avec le matériel base 10.
-- **EVAL07-04** Construis 804 avec le matériel base 10.
-- **EVAL07-05** Construis 915 avec le matériel base 10.
-
-### EVAL08
-
-- **EVAL08-01** Construis 781 avec le matériel base 10.
-- **EVAL08-02** Construis 804 avec le matériel base 10.
-- **EVAL08-03** Construis 915 avec le matériel base 10.
-- **EVAL08-04** Construis 990 avec le matériel base 10.
-- **EVAL08-05** Construis 124 avec le matériel base 10.
-
-### EVAL09
-
-- **EVAL09-01** Construis 915 avec le matériel base 10.
-- **EVAL09-02** Construis 990 avec le matériel base 10.
-- **EVAL09-03** Construis 124 avec le matériel base 10.
-- **EVAL09-04** Construis 236 avec le matériel base 10.
-- **EVAL09-05** Construis 347 avec le matériel base 10.
-
-### EVAL10
-
-- **EVAL10-01** Construis 124 avec le matériel base 10.
-- **EVAL10-02** Construis 236 avec le matériel base 10.
-- **EVAL10-03** Construis 347 avec le matériel base 10.
-- **EVAL10-04** Construis 458 avec le matériel base 10.
-- **EVAL10-05** Construis 569 avec le matériel base 10.
+### Évaluation 10
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
 
-- **DEV01-01** Construis 236 avec le matériel base 10.
-- **DEV01-02** Construis 347 avec le matériel base 10.
-- **DEV01-03** Construis 458 avec le matériel base 10.
-- **DEV01-04** Construis 569 avec le matériel base 10.
-- **DEV01-05** Construis 672 avec le matériel base 10.
+### Devoir 2
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
 
-### DEV02
+### Devoir 3
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
 
-- **DEV02-01** Construis 347 avec le matériel base 10.
-- **DEV02-02** Construis 458 avec le matériel base 10.
-- **DEV02-03** Construis 569 avec le matériel base 10.
-- **DEV02-04** Construis 672 avec le matériel base 10.
-- **DEV02-05** Construis 781 avec le matériel base 10.
+### Devoir 4
+- Construis 569 avec le matériel base 10.
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
 
-### DEV03
+### Devoir 5
+- Construis 672 avec le matériel base 10.
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
 
-- **DEV03-01** Construis 458 avec le matériel base 10.
-- **DEV03-02** Construis 569 avec le matériel base 10.
-- **DEV03-03** Construis 672 avec le matériel base 10.
-- **DEV03-04** Construis 781 avec le matériel base 10.
-- **DEV03-05** Construis 804 avec le matériel base 10.
+### Devoir 6
+- Construis 781 avec le matériel base 10.
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
 
-### DEV04
+### Devoir 7
+- Construis 804 avec le matériel base 10.
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
 
-- **DEV04-01** Construis 569 avec le matériel base 10.
-- **DEV04-02** Construis 672 avec le matériel base 10.
-- **DEV04-03** Construis 781 avec le matériel base 10.
-- **DEV04-04** Construis 804 avec le matériel base 10.
-- **DEV04-05** Construis 915 avec le matériel base 10.
+### Devoir 8
+- Construis 915 avec le matériel base 10.
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
 
-### DEV05
+### Devoir 9
+- Construis 990 avec le matériel base 10.
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
 
-- **DEV05-01** Construis 672 avec le matériel base 10.
-- **DEV05-02** Construis 781 avec le matériel base 10.
-- **DEV05-03** Construis 804 avec le matériel base 10.
-- **DEV05-04** Construis 915 avec le matériel base 10.
-- **DEV05-05** Construis 990 avec le matériel base 10.
-
-### DEV06
-
-- **DEV06-01** Construis 781 avec le matériel base 10.
-- **DEV06-02** Construis 804 avec le matériel base 10.
-- **DEV06-03** Construis 915 avec le matériel base 10.
-- **DEV06-04** Construis 990 avec le matériel base 10.
-- **DEV06-05** Construis 124 avec le matériel base 10.
-
-### DEV07
-
-- **DEV07-01** Construis 804 avec le matériel base 10.
-- **DEV07-02** Construis 915 avec le matériel base 10.
-- **DEV07-03** Construis 990 avec le matériel base 10.
-- **DEV07-04** Construis 124 avec le matériel base 10.
-- **DEV07-05** Construis 236 avec le matériel base 10.
-
-### DEV08
-
-- **DEV08-01** Construis 915 avec le matériel base 10.
-- **DEV08-02** Construis 990 avec le matériel base 10.
-- **DEV08-03** Construis 124 avec le matériel base 10.
-- **DEV08-04** Construis 236 avec le matériel base 10.
-- **DEV08-05** Construis 347 avec le matériel base 10.
-
-### DEV09
-
-- **DEV09-01** Construis 990 avec le matériel base 10.
-- **DEV09-02** Construis 124 avec le matériel base 10.
-- **DEV09-03** Construis 236 avec le matériel base 10.
-- **DEV09-04** Construis 347 avec le matériel base 10.
-- **DEV09-05** Construis 458 avec le matériel base 10.
-
-### DEV10
-
-- **DEV10-01** Construis 124 avec le matériel base 10.
-- **DEV10-02** Construis 236 avec le matériel base 10.
-- **DEV10-03** Construis 347 avec le matériel base 10.
-- **DEV10-04** Construis 458 avec le matériel base 10.
-- **DEV10-05** Construis 569 avec le matériel base 10.
+### Devoir 10
+- Construis 124 avec le matériel base 10.
+- Construis 236 avec le matériel base 10.
+- Construis 347 avec le matériel base 10.
+- Construis 458 avec le matériel base 10.
+- Construis 569 avec le matériel base 10.
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 3 centaines, 4 dizaines, 7 unités.
 2. 4 centaines, 5 dizaines, 8 unités.
 3. 5 centaines, 6 dizaines, 9 unités.
 4. 6 centaines, 8 dizaines, 2 unités.
 5. 7 centaines, 10 dizaines, 1 unités.
 
-#### ENT02
-
+#### Entraînement 2
 1. 5 centaines, 6 dizaines, 9 unités.
 2. 6 centaines, 8 dizaines, 2 unités.
 3. 7 centaines, 10 dizaines, 1 unités.
 4. 8 centaines, 12 dizaines, 4 unités.
 5. 9 centaines, 3 dizaines, 5 unités.
 
-#### ENT03
-
+#### Entraînement 3
 1. 7 centaines, 10 dizaines, 1 unités.
 2. 8 centaines, 12 dizaines, 4 unités.
 3. 9 centaines, 3 dizaines, 5 unités.
 4. 9 centaines, 4 dizaines, 0 unités.
 5. 1 centaines, 2 dizaines, 4 unités.
 
-#### ENT04
-
+#### Entraînement 4
 1. 9 centaines, 3 dizaines, 5 unités.
 2. 9 centaines, 4 dizaines, 0 unités.
 3. 1 centaines, 2 dizaines, 4 unités.
 4. 2 centaines, 3 dizaines, 6 unités.
 5. 3 centaines, 4 dizaines, 7 unités.
 
-#### ENT05
-
+#### Entraînement 5
 1. 1 centaines, 2 dizaines, 4 unités.
 2. 2 centaines, 3 dizaines, 6 unités.
 3. 3 centaines, 4 dizaines, 7 unités.
 4. 4 centaines, 5 dizaines, 8 unités.
 5. 5 centaines, 6 dizaines, 9 unités.
 
-#### ENT06
-
+#### Entraînement 6
 1. 3 centaines, 4 dizaines, 7 unités.
 2. 4 centaines, 5 dizaines, 8 unités.
 3. 5 centaines, 6 dizaines, 9 unités.
 4. 6 centaines, 8 dizaines, 2 unités.
 5. 7 centaines, 10 dizaines, 1 unités.
 
-#### ENT07
-
+#### Entraînement 7
 1. 5 centaines, 6 dizaines, 9 unités.
 2. 6 centaines, 8 dizaines, 2 unités.
 3. 7 centaines, 10 dizaines, 1 unités.
 4. 8 centaines, 12 dizaines, 4 unités.
 5. 9 centaines, 3 dizaines, 5 unités.
 
-#### ENT08
-
+#### Entraînement 8
 1. 7 centaines, 10 dizaines, 1 unités.
 2. 8 centaines, 12 dizaines, 4 unités.
 3. 9 centaines, 3 dizaines, 5 unités.
 4. 9 centaines, 4 dizaines, 0 unités.
 5. 1 centaines, 2 dizaines, 4 unités.
 
-#### ENT09
-
+#### Entraînement 9
 1. 9 centaines, 3 dizaines, 5 unités.
 2. 9 centaines, 4 dizaines, 0 unités.
 3. 1 centaines, 2 dizaines, 4 unités.
 4. 2 centaines, 3 dizaines, 6 unités.
 5. 3 centaines, 4 dizaines, 7 unités.
 
-#### ENT10
-
+#### Entraînement 10
 1. 1 centaines, 2 dizaines, 4 unités.
 2. 2 centaines, 3 dizaines, 6 unités.
 3. 3 centaines, 4 dizaines, 7 unités.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 3 centaines, 4 dizaines, 7 unités.
 2. 4 centaines, 5 dizaines, 8 unités.
 3. 5 centaines, 6 dizaines, 9 unités.
 4. 6 centaines, 8 dizaines, 2 unités.
 5. 7 centaines, 10 dizaines, 1 unités.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 5 centaines, 6 dizaines, 9 unités.
 2. 6 centaines, 8 dizaines, 2 unités.
 3. 7 centaines, 10 dizaines, 1 unités.
 4. 8 centaines, 12 dizaines, 4 unités.
 5. 9 centaines, 3 dizaines, 5 unités.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 7 centaines, 10 dizaines, 1 unités.
 2. 8 centaines, 12 dizaines, 4 unités.
 3. 9 centaines, 3 dizaines, 5 unités.
 4. 9 centaines, 4 dizaines, 0 unités.
 5. 1 centaines, 2 dizaines, 4 unités.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 9 centaines, 3 dizaines, 5 unités.
 2. 9 centaines, 4 dizaines, 0 unités.
 3. 1 centaines, 2 dizaines, 4 unités.
 4. 2 centaines, 3 dizaines, 6 unités.
 5. 3 centaines, 4 dizaines, 7 unités.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 1 centaines, 2 dizaines, 4 unités.
 2. 2 centaines, 3 dizaines, 6 unités.
 3. 3 centaines, 4 dizaines, 7 unités.
 4. 4 centaines, 5 dizaines, 8 unités.
 5. 5 centaines, 6 dizaines, 9 unités.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 3 centaines, 4 dizaines, 7 unités.
 2. 4 centaines, 5 dizaines, 8 unités.
 3. 5 centaines, 6 dizaines, 9 unités.
 4. 6 centaines, 8 dizaines, 2 unités.
 5. 7 centaines, 10 dizaines, 1 unités.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 5 centaines, 6 dizaines, 9 unités.
 2. 6 centaines, 8 dizaines, 2 unités.
 3. 7 centaines, 10 dizaines, 1 unités.
 4. 8 centaines, 12 dizaines, 4 unités.
 5. 9 centaines, 3 dizaines, 5 unités.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 7 centaines, 10 dizaines, 1 unités.
 2. 8 centaines, 12 dizaines, 4 unités.
 3. 9 centaines, 3 dizaines, 5 unités.
 4. 9 centaines, 4 dizaines, 0 unités.
 5. 1 centaines, 2 dizaines, 4 unités.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 9 centaines, 3 dizaines, 5 unités.
 2. 9 centaines, 4 dizaines, 0 unités.
 3. 1 centaines, 2 dizaines, 4 unités.
 4. 2 centaines, 3 dizaines, 6 unités.
 5. 3 centaines, 4 dizaines, 7 unités.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 1 centaines, 2 dizaines, 4 unités.
 2. 2 centaines, 3 dizaines, 6 unités.
 3. 3 centaines, 4 dizaines, 7 unités.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 2 centaines, 3 dizaines, 6 unités.
 2. 3 centaines, 4 dizaines, 7 unités.
 3. 4 centaines, 5 dizaines, 8 unités.
 4. 5 centaines, 6 dizaines, 9 unités.
 5. 6 centaines, 8 dizaines, 2 unités.
 
-#### DEV02
-
+#### Devoir 2
 1. 3 centaines, 4 dizaines, 7 unités.
 2. 4 centaines, 5 dizaines, 8 unités.
 3. 5 centaines, 6 dizaines, 9 unités.
 4. 6 centaines, 8 dizaines, 2 unités.
 5. 7 centaines, 10 dizaines, 1 unités.
 
-#### DEV03
-
+#### Devoir 3
 1. 4 centaines, 5 dizaines, 8 unités.
 2. 5 centaines, 6 dizaines, 9 unités.
 3. 6 centaines, 8 dizaines, 2 unités.
 4. 7 centaines, 10 dizaines, 1 unités.
 5. 8 centaines, 12 dizaines, 4 unités.
 
-#### DEV04
-
+#### Devoir 4
 1. 5 centaines, 6 dizaines, 9 unités.
 2. 6 centaines, 8 dizaines, 2 unités.
 3. 7 centaines, 10 dizaines, 1 unités.
 4. 8 centaines, 12 dizaines, 4 unités.
 5. 9 centaines, 3 dizaines, 5 unités.
 
-#### DEV05
-
+#### Devoir 5
 1. 6 centaines, 8 dizaines, 2 unités.
 2. 7 centaines, 10 dizaines, 1 unités.
 3. 8 centaines, 12 dizaines, 4 unités.
 4. 9 centaines, 3 dizaines, 5 unités.
 5. 9 centaines, 4 dizaines, 0 unités.
 
-#### DEV06
-
+#### Devoir 6
 1. 7 centaines, 10 dizaines, 1 unités.
 2. 8 centaines, 12 dizaines, 4 unités.
 3. 9 centaines, 3 dizaines, 5 unités.
 4. 9 centaines, 4 dizaines, 0 unités.
 5. 1 centaines, 2 dizaines, 4 unités.
 
-#### DEV07
-
+#### Devoir 7
 1. 8 centaines, 12 dizaines, 4 unités.
 2. 9 centaines, 3 dizaines, 5 unités.
 3. 9 centaines, 4 dizaines, 0 unités.
 4. 1 centaines, 2 dizaines, 4 unités.
 5. 2 centaines, 3 dizaines, 6 unités.
 
-#### DEV08
-
+#### Devoir 8
 1. 9 centaines, 3 dizaines, 5 unités.
 2. 9 centaines, 4 dizaines, 0 unités.
 3. 1 centaines, 2 dizaines, 4 unités.
 4. 2 centaines, 3 dizaines, 6 unités.
 5. 3 centaines, 4 dizaines, 7 unités.
 
-#### DEV09
-
+#### Devoir 9
 1. 9 centaines, 4 dizaines, 0 unités.
 2. 1 centaines, 2 dizaines, 4 unités.
 3. 2 centaines, 3 dizaines, 6 unités.
 4. 3 centaines, 4 dizaines, 7 unités.
 5. 4 centaines, 5 dizaines, 8 unités.
 
-#### DEV10
-
+#### Devoir 10
 1. 1 centaines, 2 dizaines, 4 unités.
 2. 2 centaines, 3 dizaines, 6 unités.
 3. 3 centaines, 4 dizaines, 7 unités.

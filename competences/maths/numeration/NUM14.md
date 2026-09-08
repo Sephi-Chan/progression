@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Le nombre 124 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** pair.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Le nombre 236 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** pair.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Le nombre 347 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Le nombre 458 est-il pair ou impair ?
-- **IMM02** Le nombre 569 est-il pair ou impair ?
-- **IMM03** Le nombre 672 est-il pair ou impair ?
-- **IMM04** Le nombre 781 est-il pair ou impair ?
-- **IMM05** Le nombre 804 est-il pair ou impair ?
-- **IMM06** Le nombre 915 est-il pair ou impair ?
-- **IMM07** Le nombre 990 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
 
-- **ENT01-01** Le nombre 347 est-il pair ou impair ?
-- **ENT01-02** Le nombre 458 est-il pair ou impair ?
-- **ENT01-03** Le nombre 569 est-il pair ou impair ?
-- **ENT01-04** Le nombre 672 est-il pair ou impair ?
-- **ENT01-05** Le nombre 781 est-il pair ou impair ?
+### Entraînement 2
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
 
-### ENT02
+### Entraînement 3
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
 
-- **ENT02-01** Le nombre 569 est-il pair ou impair ?
-- **ENT02-02** Le nombre 672 est-il pair ou impair ?
-- **ENT02-03** Le nombre 781 est-il pair ou impair ?
-- **ENT02-04** Le nombre 804 est-il pair ou impair ?
-- **ENT02-05** Le nombre 915 est-il pair ou impair ?
+### Entraînement 4
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
 
-### ENT03
+### Entraînement 5
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
 
-- **ENT03-01** Le nombre 781 est-il pair ou impair ?
-- **ENT03-02** Le nombre 804 est-il pair ou impair ?
-- **ENT03-03** Le nombre 915 est-il pair ou impair ?
-- **ENT03-04** Le nombre 990 est-il pair ou impair ?
-- **ENT03-05** Le nombre 124 est-il pair ou impair ?
+### Entraînement 6
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
 
-### ENT04
+### Entraînement 7
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
 
-- **ENT04-01** Le nombre 915 est-il pair ou impair ?
-- **ENT04-02** Le nombre 990 est-il pair ou impair ?
-- **ENT04-03** Le nombre 124 est-il pair ou impair ?
-- **ENT04-04** Le nombre 236 est-il pair ou impair ?
-- **ENT04-05** Le nombre 347 est-il pair ou impair ?
+### Entraînement 8
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
 
-### ENT05
+### Entraînement 9
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
 
-- **ENT05-01** Le nombre 124 est-il pair ou impair ?
-- **ENT05-02** Le nombre 236 est-il pair ou impair ?
-- **ENT05-03** Le nombre 347 est-il pair ou impair ?
-- **ENT05-04** Le nombre 458 est-il pair ou impair ?
-- **ENT05-05** Le nombre 569 est-il pair ou impair ?
-
-### ENT06
-
-- **ENT06-01** Le nombre 347 est-il pair ou impair ?
-- **ENT06-02** Le nombre 458 est-il pair ou impair ?
-- **ENT06-03** Le nombre 569 est-il pair ou impair ?
-- **ENT06-04** Le nombre 672 est-il pair ou impair ?
-- **ENT06-05** Le nombre 781 est-il pair ou impair ?
-
-### ENT07
-
-- **ENT07-01** Le nombre 569 est-il pair ou impair ?
-- **ENT07-02** Le nombre 672 est-il pair ou impair ?
-- **ENT07-03** Le nombre 781 est-il pair ou impair ?
-- **ENT07-04** Le nombre 804 est-il pair ou impair ?
-- **ENT07-05** Le nombre 915 est-il pair ou impair ?
-
-### ENT08
-
-- **ENT08-01** Le nombre 781 est-il pair ou impair ?
-- **ENT08-02** Le nombre 804 est-il pair ou impair ?
-- **ENT08-03** Le nombre 915 est-il pair ou impair ?
-- **ENT08-04** Le nombre 990 est-il pair ou impair ?
-- **ENT08-05** Le nombre 124 est-il pair ou impair ?
-
-### ENT09
-
-- **ENT09-01** Le nombre 915 est-il pair ou impair ?
-- **ENT09-02** Le nombre 990 est-il pair ou impair ?
-- **ENT09-03** Le nombre 124 est-il pair ou impair ?
-- **ENT09-04** Le nombre 236 est-il pair ou impair ?
-- **ENT09-05** Le nombre 347 est-il pair ou impair ?
-
-### ENT10
-
-- **ENT10-01** Le nombre 124 est-il pair ou impair ?
-- **ENT10-02** Le nombre 236 est-il pair ou impair ?
-- **ENT10-03** Le nombre 347 est-il pair ou impair ?
-- **ENT10-04** Le nombre 458 est-il pair ou impair ?
-- **ENT10-05** Le nombre 569 est-il pair ou impair ?
+### Entraînement 10
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
 
-- **EVAL01-01** Le nombre 347 est-il pair ou impair ?
-- **EVAL01-02** Le nombre 458 est-il pair ou impair ?
-- **EVAL01-03** Le nombre 569 est-il pair ou impair ?
-- **EVAL01-04** Le nombre 672 est-il pair ou impair ?
-- **EVAL01-05** Le nombre 781 est-il pair ou impair ?
+### Évaluation 2
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
 
-### EVAL02
+### Évaluation 3
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
 
-- **EVAL02-01** Le nombre 569 est-il pair ou impair ?
-- **EVAL02-02** Le nombre 672 est-il pair ou impair ?
-- **EVAL02-03** Le nombre 781 est-il pair ou impair ?
-- **EVAL02-04** Le nombre 804 est-il pair ou impair ?
-- **EVAL02-05** Le nombre 915 est-il pair ou impair ?
+### Évaluation 4
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
 
-### EVAL03
+### Évaluation 5
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
 
-- **EVAL03-01** Le nombre 781 est-il pair ou impair ?
-- **EVAL03-02** Le nombre 804 est-il pair ou impair ?
-- **EVAL03-03** Le nombre 915 est-il pair ou impair ?
-- **EVAL03-04** Le nombre 990 est-il pair ou impair ?
-- **EVAL03-05** Le nombre 124 est-il pair ou impair ?
+### Évaluation 6
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
 
-### EVAL04
+### Évaluation 7
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
 
-- **EVAL04-01** Le nombre 915 est-il pair ou impair ?
-- **EVAL04-02** Le nombre 990 est-il pair ou impair ?
-- **EVAL04-03** Le nombre 124 est-il pair ou impair ?
-- **EVAL04-04** Le nombre 236 est-il pair ou impair ?
-- **EVAL04-05** Le nombre 347 est-il pair ou impair ?
+### Évaluation 8
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
 
-### EVAL05
+### Évaluation 9
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
 
-- **EVAL05-01** Le nombre 124 est-il pair ou impair ?
-- **EVAL05-02** Le nombre 236 est-il pair ou impair ?
-- **EVAL05-03** Le nombre 347 est-il pair ou impair ?
-- **EVAL05-04** Le nombre 458 est-il pair ou impair ?
-- **EVAL05-05** Le nombre 569 est-il pair ou impair ?
-
-### EVAL06
-
-- **EVAL06-01** Le nombre 347 est-il pair ou impair ?
-- **EVAL06-02** Le nombre 458 est-il pair ou impair ?
-- **EVAL06-03** Le nombre 569 est-il pair ou impair ?
-- **EVAL06-04** Le nombre 672 est-il pair ou impair ?
-- **EVAL06-05** Le nombre 781 est-il pair ou impair ?
-
-### EVAL07
-
-- **EVAL07-01** Le nombre 569 est-il pair ou impair ?
-- **EVAL07-02** Le nombre 672 est-il pair ou impair ?
-- **EVAL07-03** Le nombre 781 est-il pair ou impair ?
-- **EVAL07-04** Le nombre 804 est-il pair ou impair ?
-- **EVAL07-05** Le nombre 915 est-il pair ou impair ?
-
-### EVAL08
-
-- **EVAL08-01** Le nombre 781 est-il pair ou impair ?
-- **EVAL08-02** Le nombre 804 est-il pair ou impair ?
-- **EVAL08-03** Le nombre 915 est-il pair ou impair ?
-- **EVAL08-04** Le nombre 990 est-il pair ou impair ?
-- **EVAL08-05** Le nombre 124 est-il pair ou impair ?
-
-### EVAL09
-
-- **EVAL09-01** Le nombre 915 est-il pair ou impair ?
-- **EVAL09-02** Le nombre 990 est-il pair ou impair ?
-- **EVAL09-03** Le nombre 124 est-il pair ou impair ?
-- **EVAL09-04** Le nombre 236 est-il pair ou impair ?
-- **EVAL09-05** Le nombre 347 est-il pair ou impair ?
-
-### EVAL10
-
-- **EVAL10-01** Le nombre 124 est-il pair ou impair ?
-- **EVAL10-02** Le nombre 236 est-il pair ou impair ?
-- **EVAL10-03** Le nombre 347 est-il pair ou impair ?
-- **EVAL10-04** Le nombre 458 est-il pair ou impair ?
-- **EVAL10-05** Le nombre 569 est-il pair ou impair ?
+### Évaluation 10
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
 
-- **DEV01-01** Le nombre 236 est-il pair ou impair ?
-- **DEV01-02** Le nombre 347 est-il pair ou impair ?
-- **DEV01-03** Le nombre 458 est-il pair ou impair ?
-- **DEV01-04** Le nombre 569 est-il pair ou impair ?
-- **DEV01-05** Le nombre 672 est-il pair ou impair ?
+### Devoir 2
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
 
-### DEV02
+### Devoir 3
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
 
-- **DEV02-01** Le nombre 347 est-il pair ou impair ?
-- **DEV02-02** Le nombre 458 est-il pair ou impair ?
-- **DEV02-03** Le nombre 569 est-il pair ou impair ?
-- **DEV02-04** Le nombre 672 est-il pair ou impair ?
-- **DEV02-05** Le nombre 781 est-il pair ou impair ?
+### Devoir 4
+- Le nombre 569 est-il pair ou impair ?
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
 
-### DEV03
+### Devoir 5
+- Le nombre 672 est-il pair ou impair ?
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
 
-- **DEV03-01** Le nombre 458 est-il pair ou impair ?
-- **DEV03-02** Le nombre 569 est-il pair ou impair ?
-- **DEV03-03** Le nombre 672 est-il pair ou impair ?
-- **DEV03-04** Le nombre 781 est-il pair ou impair ?
-- **DEV03-05** Le nombre 804 est-il pair ou impair ?
+### Devoir 6
+- Le nombre 781 est-il pair ou impair ?
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
 
-### DEV04
+### Devoir 7
+- Le nombre 804 est-il pair ou impair ?
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
 
-- **DEV04-01** Le nombre 569 est-il pair ou impair ?
-- **DEV04-02** Le nombre 672 est-il pair ou impair ?
-- **DEV04-03** Le nombre 781 est-il pair ou impair ?
-- **DEV04-04** Le nombre 804 est-il pair ou impair ?
-- **DEV04-05** Le nombre 915 est-il pair ou impair ?
+### Devoir 8
+- Le nombre 915 est-il pair ou impair ?
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
 
-### DEV05
+### Devoir 9
+- Le nombre 990 est-il pair ou impair ?
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
 
-- **DEV05-01** Le nombre 672 est-il pair ou impair ?
-- **DEV05-02** Le nombre 781 est-il pair ou impair ?
-- **DEV05-03** Le nombre 804 est-il pair ou impair ?
-- **DEV05-04** Le nombre 915 est-il pair ou impair ?
-- **DEV05-05** Le nombre 990 est-il pair ou impair ?
-
-### DEV06
-
-- **DEV06-01** Le nombre 781 est-il pair ou impair ?
-- **DEV06-02** Le nombre 804 est-il pair ou impair ?
-- **DEV06-03** Le nombre 915 est-il pair ou impair ?
-- **DEV06-04** Le nombre 990 est-il pair ou impair ?
-- **DEV06-05** Le nombre 124 est-il pair ou impair ?
-
-### DEV07
-
-- **DEV07-01** Le nombre 804 est-il pair ou impair ?
-- **DEV07-02** Le nombre 915 est-il pair ou impair ?
-- **DEV07-03** Le nombre 990 est-il pair ou impair ?
-- **DEV07-04** Le nombre 124 est-il pair ou impair ?
-- **DEV07-05** Le nombre 236 est-il pair ou impair ?
-
-### DEV08
-
-- **DEV08-01** Le nombre 915 est-il pair ou impair ?
-- **DEV08-02** Le nombre 990 est-il pair ou impair ?
-- **DEV08-03** Le nombre 124 est-il pair ou impair ?
-- **DEV08-04** Le nombre 236 est-il pair ou impair ?
-- **DEV08-05** Le nombre 347 est-il pair ou impair ?
-
-### DEV09
-
-- **DEV09-01** Le nombre 990 est-il pair ou impair ?
-- **DEV09-02** Le nombre 124 est-il pair ou impair ?
-- **DEV09-03** Le nombre 236 est-il pair ou impair ?
-- **DEV09-04** Le nombre 347 est-il pair ou impair ?
-- **DEV09-05** Le nombre 458 est-il pair ou impair ?
-
-### DEV10
-
-- **DEV10-01** Le nombre 124 est-il pair ou impair ?
-- **DEV10-02** Le nombre 236 est-il pair ou impair ?
-- **DEV10-03** Le nombre 347 est-il pair ou impair ?
-- **DEV10-04** Le nombre 458 est-il pair ou impair ?
-- **DEV10-05** Le nombre 569 est-il pair ou impair ?
+### Devoir 10
+- Le nombre 124 est-il pair ou impair ?
+- Le nombre 236 est-il pair ou impair ?
+- Le nombre 347 est-il pair ou impair ?
+- Le nombre 458 est-il pair ou impair ?
+- Le nombre 569 est-il pair ou impair ?
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### ENT02
-
+#### Entraînement 2
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### ENT03
-
+#### Entraînement 3
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. pair.
 
-#### ENT04
-
+#### Entraînement 4
 1. impair.
 2. pair.
 3. pair.
 4. pair.
 5. impair.
 
-#### ENT05
-
+#### Entraînement 5
 1. pair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### ENT06
-
+#### Entraînement 6
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### ENT07
-
+#### Entraînement 7
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### ENT08
-
+#### Entraînement 8
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. pair.
 
-#### ENT09
-
+#### Entraînement 9
 1. impair.
 2. pair.
 3. pair.
 4. pair.
 5. impair.
 
-#### ENT10
-
+#### Entraînement 10
 1. pair.
 2. pair.
 3. impair.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### EVAL02
-
+#### Évaluation 2
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### EVAL03
-
+#### Évaluation 3
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. pair.
 
-#### EVAL04
-
+#### Évaluation 4
 1. impair.
 2. pair.
 3. pair.
 4. pair.
 5. impair.
 
-#### EVAL05
-
+#### Évaluation 5
 1. pair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### EVAL06
-
+#### Évaluation 6
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### EVAL07
-
+#### Évaluation 7
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### EVAL08
-
+#### Évaluation 8
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. pair.
 
-#### EVAL09
-
+#### Évaluation 9
 1. impair.
 2. pair.
 3. pair.
 4. pair.
 5. impair.
 
-#### EVAL10
-
+#### Évaluation 10
 1. pair.
 2. pair.
 3. impair.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. pair.
 2. impair.
 3. pair.
 4. impair.
 5. pair.
 
-#### DEV02
-
+#### Devoir 2
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### DEV03
-
+#### Devoir 3
 1. pair.
 2. impair.
 3. pair.
 4. impair.
 5. pair.
 
-#### DEV04
-
+#### Devoir 4
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. impair.
 
-#### DEV05
-
+#### Devoir 5
 1. pair.
 2. impair.
 3. pair.
 4. impair.
 5. pair.
 
-#### DEV06
-
+#### Devoir 6
 1. impair.
 2. pair.
 3. impair.
 4. pair.
 5. pair.
 
-#### DEV07
-
+#### Devoir 7
 1. pair.
 2. impair.
 3. pair.
 4. pair.
 5. pair.
 
-#### DEV08
-
+#### Devoir 8
 1. impair.
 2. pair.
 3. pair.
 4. pair.
 5. impair.
 
-#### DEV09
-
+#### Devoir 9
 1. pair.
 2. pair.
 3. pair.
 4. impair.
 5. pair.
 
-#### DEV10
-
+#### Devoir 10
 1. pair.
 2. pair.
 3. impair.

@@ -52,8 +52,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** **Adapté de Jean de La Fontaine, *Le Lion et le Rat*, livre II, fable 11 (texte modernisé et abrégé).** Un lion est pris dans un filet. Un rat ronge les mailles et le libère.
 - **Source de consultation :** Bibliothèque nationale de France, Catalogue général/Gallica, Jean de La Fontaine, *Fables choisies, mises en vers par M. de La Fontaine*, édition H. Charpentier, 1709, [notice bibliographique exacte](https://catalogue.bnf.fr/ark:/12148/cb307158188).
 - **Question :** Quel est le problème principal ?
@@ -62,8 +61,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** Le lion est pris dans un filet.
 - **Contrôle final :** La réponse est confrontée mot à mot au support.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
 - **Question :** Quel est le problème principal ?
 - **Attention :** L'enseignant demande : « Que cherchons-nous ? Quels mots du texte nous aident ? »
@@ -71,8 +69,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** Une planche est trop courte.
 - **Contrôle final :** La classe vérifie que la réponse utilise bien l'indice retenu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
 - **Question :** Quel est le problème principal ?
 - **Attention :** Les élèves choisissent les indices ; l'enseignant ne relance qu'avec : « Comment peux-tu le vérifier ? »
@@ -84,25 +81,25 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Textes créés pour l'exercice.*
 
-1. **IMM01** « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
+1. « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-2. **IMM02** « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
+2. « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-3. **IMM03** « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
+3. « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-4. **IMM04** « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
+4. « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
    Quel est le problème principal ?
 
-5. **IMM05** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
+5. « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-6. **IMM06** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
+6. « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
    Quel est le problème principal ?
 
-7. **IMM07** « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
+7. « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
    Quel est le problème principal ?
 
 ## Variables didactiques
@@ -115,781 +112,721 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Tous les supports de cette section sont des textes créés pour l'exercice. La consigne reste : « Lis le petit texte. Réponds à la question et vérifie dans le texte. »*
 
-### ENT01
-
-1. **ENT01-01** « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
+### Entraînement 1
+1. « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-2. **ENT01-02** « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
+2. « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-3. **ENT01-03** « Lundi matin, Maya veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Maya fait un nouveau nœud. »
+3. « Lundi matin, Maya veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Maya fait un nouveau nœud. »
    Quel est le problème principal ?
 
-4. **ENT01-04** « Après le déjeuner, Sami prépare une affiche. Mais la colle ne tient plus. Alors Sami cherche un autre tube. »
+4. « Après le déjeuner, Sami prépare une affiche. Mais la colle ne tient plus. Alors Sami cherche un autre tube. »
    Quel est le problème principal ?
 
-5. **ENT01-05** « Après le déjeuner, Inès construit une cabane. Mais une planche est trop courte. Alors Inès mesure une autre planche. »
+5. « Après le déjeuner, Inès construit une cabane. Mais une planche est trop courte. Alors Inès mesure une autre planche. »
    Quel est le problème principal ?
 
-### ENT02
-
-1. **ENT02-01** « Après le déjeuner, Léo prépare une soupe. Mais il manque les carottes. Alors Léo va en chercher. »
+### Entraînement 2
+1. « Après le déjeuner, Léo prépare une soupe. Mais il manque les carottes. Alors Léo va en chercher. »
    Quel est le problème principal ?
 
-2. **ENT02-02** « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
+2. « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
    Quel est le problème principal ?
 
-3. **ENT02-03** « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
+3. « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
    Quel est le problème principal ?
 
-4. **ENT02-04** « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
+4. « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-5. **ENT02-05** « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
+5. « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-### ENT03
-
-1. **ENT03-01** « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
+### Entraînement 3
+1. « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-2. **ENT03-02** « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
+2. « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
    Quel est le problème principal ?
 
-3. **ENT03-03** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
+3. « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-4. **ENT03-04** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
+4. « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
    Quel est le problème principal ?
 
-5. **ENT03-05** « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
+5. « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
    Quel est le problème principal ?
 
-### ENT04
-
-1. **ENT04-01** « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
+### Entraînement 4
+1. « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
    Quel est le problème principal ?
 
-2. **ENT04-02** « Un matin d'hiver, Inès veut arroser les semis. L'arrosoir est vide. Inès va remplir l'arrosoir. »
+2. « Un matin d'hiver, Inès veut arroser les semis. L'arrosoir est vide. Inès va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-3. **ENT04-03** « Un matin d'hiver, Léo veut rentrer chez lui. La chaîne de son vélo a déraillé. Léo pose le vélo contre un mur. »
+3. « Un matin d'hiver, Léo veut rentrer chez lui. La chaîne de son vélo a déraillé. Léo pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-4. **ENT04-04** « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
+4. « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
    Quel est le problème principal ?
 
-5. **ENT04-05** « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
+5. « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
    Quel est le problème principal ?
 
-### ENT05
-
-1. **ENT05-01** « À midi, Zoé construit une cabane. Une planche est trop courte. Zoé mesure une autre planche. »
+### Entraînement 5
+1. « À midi, Zoé construit une cabane. Une planche est trop courte. Zoé mesure une autre planche. »
    Quel est le problème principal ?
 
-2. **ENT05-02** « Samedi matin, Adam prépare une soupe. Il manque les carottes. Adam va en chercher. »
+2. « Samedi matin, Adam prépare une soupe. Il manque les carottes. Adam va en chercher. »
    Quel est le problème principal ?
 
-3. **ENT05-03** « Samedi matin, Lou apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Lou ramasse les fruits. »
+3. « Samedi matin, Lou apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Lou ramasse les fruits. »
    Quel est le problème principal ?
 
-4. **ENT05-04** « Samedi matin, Émile doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Émile demande une copie. »
+4. « Samedi matin, Émile doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Émile demande une copie. »
    Quel est le problème principal ?
 
-5. **ENT05-05** « Lundi matin, Lina veut arroser les semis. L'arrosoir est vide. Lina va remplir l'arrosoir. »
+5. « Lundi matin, Lina veut arroser les semis. L'arrosoir est vide. Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-### ENT06
-
-1. **ENT06-01** « Lundi matin, Noé veut rentrer chez lui. La chaîne de son vélo a déraillé. Noé pose le vélo contre un mur. »
+### Entraînement 6
+1. « Lundi matin, Noé veut rentrer chez lui. La chaîne de son vélo a déraillé. Noé pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-2. **ENT06-02** « Lundi matin, Maya veut faire voler son cerf-volant. La ficelle s'est cassée. Maya fait un nouveau nœud. »
+2. « Lundi matin, Maya veut faire voler son cerf-volant. La ficelle s'est cassée. Maya fait un nouveau nœud. »
    Quel est le problème principal ?
 
-3. **ENT06-03** « Après le déjeuner, Sami prépare une affiche. La colle ne tient plus. Sami cherche un autre tube. »
+3. « Après le déjeuner, Sami prépare une affiche. La colle ne tient plus. Sami cherche un autre tube. »
    Quel est le problème principal ?
 
-4. **ENT06-04** « Après le déjeuner, Inès construit une cabane. Une planche est trop courte. Inès mesure une autre planche. »
+4. « Après le déjeuner, Inès construit une cabane. Une planche est trop courte. Inès mesure une autre planche. »
    Quel est le problème principal ?
 
-5. **ENT06-05** « Après le déjeuner, Léo prépare une soupe. Il manque les carottes. Léo va en chercher. »
+5. « Après le déjeuner, Léo prépare une soupe. Il manque les carottes. Léo va en chercher. »
    Quel est le problème principal ?
 
-### ENT07
-
-1. **ENT07-01** « À la tombée du soir, Nora apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Nora ramasse les fruits. »
+### Entraînement 7
+1. « À la tombée du soir, Nora apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Nora ramasse les fruits. »
    Quel est le problème principal ?
 
-2. **ENT07-02** « À la tombée du soir, Hugo doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Hugo demande une copie. »
+2. « À la tombée du soir, Hugo doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Hugo demande une copie. »
    Quel est le problème principal ?
 
-3. **ENT07-03** « À la tombée du soir, Zoé veut arroser les semis. L'arrosoir est vide. Zoé va remplir l'arrosoir. »
+3. « À la tombée du soir, Zoé veut arroser les semis. L'arrosoir est vide. Zoé va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-4. **ENT07-04** « Mercredi après-midi, Adam veut rentrer chez lui. La chaîne de son vélo a déraillé. Adam pose le vélo contre un mur. »
+4. « Mercredi après-midi, Adam veut rentrer chez lui. La chaîne de son vélo a déraillé. Adam pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-5. **ENT07-05** « Mercredi après-midi, Lou veut faire voler son cerf-volant. La ficelle s'est cassée. Lou fait un nouveau nœud. »
+5. « Mercredi après-midi, Lou veut faire voler son cerf-volant. La ficelle s'est cassée. Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-### ENT08
-
-1. **ENT08-01** « Mercredi après-midi, Émile prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Émile cherche un autre tube. »
+### Entraînement 8
+1. « Mercredi après-midi, Émile prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Émile cherche un autre tube. »
    Quel est le problème principal ?
 
-2. **ENT08-02** « Avant la récréation, Lina construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Lina mesure une autre planche. »
+2. « Avant la récréation, Lina construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-3. **ENT08-03** « Avant la récréation, Noé prépare une soupe. Un oiseau chante tout près. Il manque les carottes. Après un instant, Noé va en chercher. »
+3. « Avant la récréation, Noé prépare une soupe. Un oiseau chante tout près. Il manque les carottes. Après un instant, Noé va en chercher. »
    Quel est le problème principal ?
 
-4. **ENT08-04** « Avant la récréation, Maya apporte un goûter. Un oiseau chante tout près. Le sac s'est ouvert et les fruits sont tombés. Après un instant, Maya ramasse les fruits. »
+4. « Avant la récréation, Maya apporte un goûter. Un oiseau chante tout près. Le sac s'est ouvert et les fruits sont tombés. Après un instant, Maya ramasse les fruits. »
    Quel est le problème principal ?
 
-5. **ENT08-05** « Un matin d'hiver, Sami doit lire son texte. Un oiseau chante tout près. La feuille est tachée et plusieurs mots sont cachés. Après un instant, Sami demande une copie. »
+5. « Un matin d'hiver, Sami doit lire son texte. Un oiseau chante tout près. La feuille est tachée et plusieurs mots sont cachés. Après un instant, Sami demande une copie. »
    Quel est le problème principal ?
 
-### ENT09
-
-1. **ENT09-01** « Un matin d'hiver, Inès veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Inès va remplir l'arrosoir. »
+### Entraînement 9
+1. « Un matin d'hiver, Inès veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Inès va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-2. **ENT09-02** « Un matin d'hiver, Léo veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Léo pose le vélo contre un mur. »
+2. « Un matin d'hiver, Léo veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Léo pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-3. **ENT09-03** « À midi, Nora veut faire voler son cerf-volant. Un oiseau chante tout près. La ficelle s'est cassée. Après un instant, Nora fait un nouveau nœud. »
+3. « À midi, Nora veut faire voler son cerf-volant. Un oiseau chante tout près. La ficelle s'est cassée. Après un instant, Nora fait un nouveau nœud. »
    Quel est le problème principal ?
 
-4. **ENT09-04** « À midi, Hugo prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Hugo cherche un autre tube. »
+4. « À midi, Hugo prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Hugo cherche un autre tube. »
    Quel est le problème principal ?
 
-5. **ENT09-05** « À midi, Zoé construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Zoé mesure une autre planche. »
+5. « À midi, Zoé construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Zoé mesure une autre planche. »
    Quel est le problème principal ?
 
-### ENT10
-
-1. **ENT10-01** « Samedi matin, Adam prépare une soupe. Un oiseau chante tout près. Il manque les carottes. Après un instant, Adam va en chercher. »
+### Entraînement 10
+1. « Samedi matin, Adam prépare une soupe. Un oiseau chante tout près. Il manque les carottes. Après un instant, Adam va en chercher. »
    Quel est le problème principal ?
 
-2. **ENT10-02** « Samedi matin, Lou apporte un goûter. Un oiseau chante tout près. Le sac s'est ouvert et les fruits sont tombés. Après un instant, Lou ramasse les fruits. »
+2. « Samedi matin, Lou apporte un goûter. Un oiseau chante tout près. Le sac s'est ouvert et les fruits sont tombés. Après un instant, Lou ramasse les fruits. »
    Quel est le problème principal ?
 
-3. **ENT10-03** « Samedi matin, Émile doit lire son texte. Un oiseau chante tout près. La feuille est tachée et plusieurs mots sont cachés. Après un instant, Émile demande une copie. »
+3. « Samedi matin, Émile doit lire son texte. Un oiseau chante tout près. La feuille est tachée et plusieurs mots sont cachés. Après un instant, Émile demande une copie. »
    Quel est le problème principal ?
 
-4. **ENT10-04** « Lundi matin, Lina veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Lina va remplir l'arrosoir. »
+4. « Lundi matin, Lina veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-5. **ENT10-05** « Lundi matin, Noé veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Noé pose le vélo contre un mur. »
+5. « Lundi matin, Noé veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Noé pose le vélo contre un mur. »
    Quel est le problème principal ?
 
 ## Évaluations
 
 *Tous les supports sont créés pour l'exercice. Chaque forme comporte quatre items déjà entraînés et un item nouveau isomorphe ; les dix formes échantillonnent les mêmes niveaux de difficulté.*
 
-### EVAL01
-
-1. **EVAL01-01** « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
+### Évaluation 1
+1. « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-2. **EVAL01-02** « Samedi matin, Adam prépare une soupe. Il manque les carottes. Adam va en chercher. »
+2. « Samedi matin, Adam prépare une soupe. Il manque les carottes. Adam va en chercher. »
    Quel est le problème principal ?
 
-3. **EVAL01-03** « À la tombée du soir, Zoé veut arroser les semis. L'arrosoir est vide. Zoé va remplir l'arrosoir. »
+3. « À la tombée du soir, Zoé veut arroser les semis. L'arrosoir est vide. Zoé va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-4. **EVAL01-04** « À midi, Hugo prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Hugo cherche un autre tube. »
+4. « À midi, Hugo prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Hugo cherche un autre tube. »
    Quel est le problème principal ?
 
-5. **EVAL01-05** « Aya veut ouvrir la boîte, mais la clé est perdue. Elle cherche la clé sous le meuble. »
+5. « Aya veut ouvrir la boîte, mais la clé est perdue. Elle cherche la clé sous le meuble. »
    Quel est le problème principal ?
 
-### EVAL02
-
-1. **EVAL02-01** « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
+### Évaluation 2
+1. « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
    Quel est le problème principal ?
 
-2. **EVAL02-02** « Samedi matin, Lou apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Lou ramasse les fruits. »
+2. « Samedi matin, Lou apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Lou ramasse les fruits. »
    Quel est le problème principal ?
 
-3. **EVAL02-03** « Mercredi après-midi, Adam veut rentrer chez lui. La chaîne de son vélo a déraillé. Adam pose le vélo contre un mur. »
+3. « Mercredi après-midi, Adam veut rentrer chez lui. La chaîne de son vélo a déraillé. Adam pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-4. **EVAL02-04** « À midi, Zoé construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Zoé mesure une autre planche. »
+4. « À midi, Zoé construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Zoé mesure une autre planche. »
    Quel est le problème principal ?
 
-5. **EVAL02-05** « Tom prépare son exposé. Son affiche s'est déchirée. Il prend une nouvelle feuille. »
+5. « Tom prépare son exposé. Son affiche s'est déchirée. Il prend une nouvelle feuille. »
    Quel est le problème principal ?
 
-### EVAL03
-
-1. **EVAL03-01** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
+### Évaluation 3
+1. « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-2. **EVAL03-02** « Samedi matin, Émile doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Émile demande une copie. »
+2. « Samedi matin, Émile doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Émile demande une copie. »
    Quel est le problème principal ?
 
-3. **EVAL03-03** « Mercredi après-midi, Lou veut faire voler son cerf-volant. La ficelle s'est cassée. Lou fait un nouveau nœud. »
+3. « Mercredi après-midi, Lou veut faire voler son cerf-volant. La ficelle s'est cassée. Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-4. **EVAL03-04** « Un matin d'hiver, Inès veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Inès va remplir l'arrosoir. »
+4. « Un matin d'hiver, Inès veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Inès va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-5. **EVAL03-05** « Eva doit traverser le ruisseau, mais le petit pont est fermé. Elle cherche un autre passage. »
+5. « Eva doit traverser le ruisseau, mais le petit pont est fermé. Elle cherche un autre passage. »
    Quel est le problème principal ?
 
-### EVAL04
-
-1. **EVAL04-01** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
+### Évaluation 4
+1. « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
    Quel est le problème principal ?
 
-2. **EVAL04-02** « Lundi matin, Lina veut arroser les semis. L'arrosoir est vide. Lina va remplir l'arrosoir. »
+2. « Lundi matin, Lina veut arroser les semis. L'arrosoir est vide. Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-3. **EVAL04-03** « À la tombée du soir, Nora apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Nora ramasse les fruits. »
+3. « À la tombée du soir, Nora apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Nora ramasse les fruits. »
    Quel est le problème principal ?
 
-4. **EVAL04-04** « Un matin d'hiver, Léo veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Léo pose le vélo contre un mur. »
+4. « Un matin d'hiver, Léo veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Léo pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-5. **EVAL04-05** « Ali veut appeler sa grand-mère. Son téléphone n'a plus de batterie. Il cherche le chargeur. »
+5. « Ali veut appeler sa grand-mère. Son téléphone n'a plus de batterie. Il cherche le chargeur. »
    Quel est le problème principal ?
 
-### EVAL05
-
-1. **EVAL05-01** « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
+### Évaluation 5
+1. « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
    Quel est le problème principal ?
 
-2. **EVAL05-02** « À midi, Zoé construit une cabane. Une planche est trop courte. Zoé mesure une autre planche. »
+2. « À midi, Zoé construit une cabane. Une planche est trop courte. Zoé mesure une autre planche. »
    Quel est le problème principal ?
 
-3. **EVAL05-03** « À la tombée du soir, Hugo doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Hugo demande une copie. »
+3. « À la tombée du soir, Hugo doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Hugo demande une copie. »
    Quel est le problème principal ?
 
-4. **EVAL05-04** « À midi, Nora veut faire voler son cerf-volant. Un oiseau chante tout près. La ficelle s'est cassée. Après un instant, Nora fait un nouveau nœud. »
+4. « À midi, Nora veut faire voler son cerf-volant. Un oiseau chante tout près. La ficelle s'est cassée. Après un instant, Nora fait un nouveau nœud. »
    Quel est le problème principal ?
 
-5. **EVAL05-05** « Ana apporte le puzzle. Une pièce manque. Elle regarde sous la table. »
+5. « Ana apporte le puzzle. Une pièce manque. Elle regarde sous la table. »
    Quel est le problème principal ?
 
-### EVAL06
-
-1. **EVAL06-01** « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
+### Évaluation 6
+1. « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-2. **EVAL06-02** « Samedi matin, Adam prépare une soupe. Il manque les carottes. Adam va en chercher. »
+2. « Samedi matin, Adam prépare une soupe. Il manque les carottes. Adam va en chercher. »
    Quel est le problème principal ?
 
-3. **EVAL06-03** « À la tombée du soir, Zoé veut arroser les semis. L'arrosoir est vide. Zoé va remplir l'arrosoir. »
+3. « À la tombée du soir, Zoé veut arroser les semis. L'arrosoir est vide. Zoé va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-4. **EVAL06-04** « À midi, Hugo prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Hugo cherche un autre tube. »
+4. « À midi, Hugo prépare une affiche. Un oiseau chante tout près. La colle ne tient plus. Après un instant, Hugo cherche un autre tube. »
    Quel est le problème principal ?
 
-5. **EVAL06-05** « Paul veut lire dehors, mais le vent emporte les pages. Il rentre dans la maison. »
+5. « Paul veut lire dehors, mais le vent emporte les pages. Il rentre dans la maison. »
    Quel est le problème principal ?
 
-### EVAL07
-
-1. **EVAL07-01** « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
+### Évaluation 7
+1. « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
    Quel est le problème principal ?
 
-2. **EVAL07-02** « Samedi matin, Lou apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Lou ramasse les fruits. »
+2. « Samedi matin, Lou apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Lou ramasse les fruits. »
    Quel est le problème principal ?
 
-3. **EVAL07-03** « Mercredi après-midi, Adam veut rentrer chez lui. La chaîne de son vélo a déraillé. Adam pose le vélo contre un mur. »
+3. « Mercredi après-midi, Adam veut rentrer chez lui. La chaîne de son vélo a déraillé. Adam pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-4. **EVAL07-04** « À midi, Zoé construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Zoé mesure une autre planche. »
+4. « À midi, Zoé construit une cabane. Un oiseau chante tout près. Une planche est trop courte. Après un instant, Zoé mesure une autre planche. »
    Quel est le problème principal ?
 
-5. **EVAL07-05** « Iris prépare une tarte. Le four ne chauffe pas. Elle appelle un adulte. »
+5. « Iris prépare une tarte. Le four ne chauffe pas. Elle appelle un adulte. »
    Quel est le problème principal ?
 
-### EVAL08
-
-1. **EVAL08-01** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
+### Évaluation 8
+1. « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-2. **EVAL08-02** « Samedi matin, Émile doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Émile demande une copie. »
+2. « Samedi matin, Émile doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Émile demande une copie. »
    Quel est le problème principal ?
 
-3. **EVAL08-03** « Mercredi après-midi, Lou veut faire voler son cerf-volant. La ficelle s'est cassée. Lou fait un nouveau nœud. »
+3. « Mercredi après-midi, Lou veut faire voler son cerf-volant. La ficelle s'est cassée. Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-4. **EVAL08-04** « Un matin d'hiver, Inès veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Inès va remplir l'arrosoir. »
+4. « Un matin d'hiver, Inès veut arroser les semis. Un oiseau chante tout près. L'arrosoir est vide. Après un instant, Inès va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-5. **EVAL08-05** « Yanis doit rendre son livre. Il ne le trouve plus dans son sac. Il vide toutes les poches. »
+5. « Yanis doit rendre son livre. Il ne le trouve plus dans son sac. Il vide toutes les poches. »
    Quel est le problème principal ?
 
-### EVAL09
-
-1. **EVAL09-01** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
+### Évaluation 9
+1. « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
    Quel est le problème principal ?
 
-2. **EVAL09-02** « Lundi matin, Lina veut arroser les semis. L'arrosoir est vide. Lina va remplir l'arrosoir. »
+2. « Lundi matin, Lina veut arroser les semis. L'arrosoir est vide. Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-3. **EVAL09-03** « À la tombée du soir, Nora apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Nora ramasse les fruits. »
+3. « À la tombée du soir, Nora apporte un goûter. Le sac s'est ouvert et les fruits sont tombés. Nora ramasse les fruits. »
    Quel est le problème principal ?
 
-4. **EVAL09-04** « Un matin d'hiver, Léo veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Léo pose le vélo contre un mur. »
+4. « Un matin d'hiver, Léo veut rentrer chez lui. Un oiseau chante tout près. La chaîne de son vélo a déraillé. Après un instant, Léo pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-5. **EVAL09-05** « Mila veut arroser les fleurs. Le tuyau est percé. Elle prend un arrosoir. »
+5. « Mila veut arroser les fleurs. Le tuyau est percé. Elle prend un arrosoir. »
    Quel est le problème principal ?
 
-### EVAL10
-
-1. **EVAL10-01** « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
+### Évaluation 10
+1. « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
    Quel est le problème principal ?
 
-2. **EVAL10-02** « À midi, Zoé construit une cabane. Une planche est trop courte. Zoé mesure une autre planche. »
+2. « À midi, Zoé construit une cabane. Une planche est trop courte. Zoé mesure une autre planche. »
    Quel est le problème principal ?
 
-3. **EVAL10-03** « À la tombée du soir, Hugo doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Hugo demande une copie. »
+3. « À la tombée du soir, Hugo doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Hugo demande une copie. »
    Quel est le problème principal ?
 
-4. **EVAL10-04** « À midi, Nora veut faire voler son cerf-volant. Un oiseau chante tout près. La ficelle s'est cassée. Après un instant, Nora fait un nouveau nœud. »
+4. « À midi, Nora veut faire voler son cerf-volant. Un oiseau chante tout près. La ficelle s'est cassée. Après un instant, Nora fait un nouveau nœud. »
    Quel est le problème principal ?
 
-5. **EVAL10-05** « Oscar part en promenade. Un lacet de sa chaussure casse. Il s'arrête pour le remplacer. »
+5. « Oscar part en promenade. Un lacet de sa chaussure casse. Il s'arrête pour le remplacer. »
    Quel est le problème principal ?
 
 ## Devoirs
 
 *Tous les supports sont créés pour l'exercice et reprennent uniquement ENT01 à ENT04. Même consigne, sans matériel particulier.*
 
-### DEV01
-
-1. **DEV01-01** « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
+### Devoir 1
+1. « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-2. **DEV01-02** « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
+2. « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
    Quel est le problème principal ?
 
-3. **DEV01-03** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
+3. « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-4. **DEV01-04** « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
+4. « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
    Quel est le problème principal ?
 
-5. **DEV01-05** « Après le déjeuner, Inès construit une cabane. Mais une planche est trop courte. Alors Inès mesure une autre planche. »
+5. « Après le déjeuner, Inès construit une cabane. Mais une planche est trop courte. Alors Inès mesure une autre planche. »
    Quel est le problème principal ?
 
-### DEV02
-
-1. **DEV02-01** « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
+### Devoir 2
+1. « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
    Quel est le problème principal ?
 
-2. **DEV02-02** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
+2. « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
    Quel est le problème principal ?
 
-3. **DEV02-03** « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
+3. « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
    Quel est le problème principal ?
 
-4. **DEV02-04** « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
+4. « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-5. **DEV02-05** « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
+5. « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
    Quel est le problème principal ?
 
-### DEV03
-
-1. **DEV03-01** « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
+### Devoir 3
+1. « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
    Quel est le problème principal ?
 
-2. **DEV03-02** « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
+2. « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
    Quel est le problème principal ?
 
-3. **DEV03-03** « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
+3. « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-4. **DEV03-04** « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
+4. « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
    Quel est le problème principal ?
 
-5. **DEV03-05** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
+5. « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
    Quel est le problème principal ?
 
-### DEV04
-
-1. **DEV04-01** « Un matin d'hiver, Inès veut arroser les semis. L'arrosoir est vide. Inès va remplir l'arrosoir. »
+### Devoir 4
+1. « Un matin d'hiver, Inès veut arroser les semis. L'arrosoir est vide. Inès va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-2. **DEV04-02** « Lundi matin, Maya veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Maya fait un nouveau nœud. »
+2. « Lundi matin, Maya veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Maya fait un nouveau nœud. »
    Quel est le problème principal ?
 
-3. **DEV04-03** « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
+3. « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-4. **DEV04-04** « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
+4. « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
    Quel est le problème principal ?
 
-5. **DEV04-05** « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
+5. « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
    Quel est le problème principal ?
 
-### DEV05
-
-1. **DEV05-01** « Après le déjeuner, Sami prépare une affiche. Mais la colle ne tient plus. Alors Sami cherche un autre tube. »
+### Devoir 5
+1. « Après le déjeuner, Sami prépare une affiche. Mais la colle ne tient plus. Alors Sami cherche un autre tube. »
    Quel est le problème principal ?
 
-2. **DEV05-02** « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
+2. « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-3. **DEV05-03** « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
+3. « Mercredi après-midi, Lou veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Lou fait un nouveau nœud. »
    Quel est le problème principal ?
 
-4. **DEV05-04** « Un matin d'hiver, Inès veut arroser les semis. L'arrosoir est vide. Inès va remplir l'arrosoir. »
+4. « Un matin d'hiver, Inès veut arroser les semis. L'arrosoir est vide. Inès va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-5. **DEV05-05** « Lundi matin, Maya veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Maya fait un nouveau nœud. »
+5. « Lundi matin, Maya veut faire voler son cerf-volant. Mais la ficelle s'est cassée. Alors Maya fait un nouveau nœud. »
    Quel est le problème principal ?
 
-### DEV06
-
-1. **DEV06-01** « Après le déjeuner, Léo prépare une soupe. Mais il manque les carottes. Alors Léo va en chercher. »
+### Devoir 6
+1. « Après le déjeuner, Léo prépare une soupe. Mais il manque les carottes. Alors Léo va en chercher. »
    Quel est le problème principal ?
 
-2. **DEV06-02** « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
+2. « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
    Quel est le problème principal ?
 
-3. **DEV06-03** « Un matin d'hiver, Léo veut rentrer chez lui. La chaîne de son vélo a déraillé. Léo pose le vélo contre un mur. »
+3. « Un matin d'hiver, Léo veut rentrer chez lui. La chaîne de son vélo a déraillé. Léo pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-4. **DEV06-04** « Après le déjeuner, Sami prépare une affiche. Mais la colle ne tient plus. Alors Sami cherche un autre tube. »
+4. « Après le déjeuner, Sami prépare une affiche. Mais la colle ne tient plus. Alors Sami cherche un autre tube. »
    Quel est le problème principal ?
 
-5. **DEV06-05** « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
+5. « Mercredi après-midi, Adam veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Adam pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-### DEV07
-
-1. **DEV07-01** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
+### Devoir 7
+1. « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-2. **DEV07-02** « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
+2. « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
    Quel est le problème principal ?
 
-3. **DEV07-03** « Après le déjeuner, Inès construit une cabane. Mais une planche est trop courte. Alors Inès mesure une autre planche. »
+3. « Après le déjeuner, Inès construit une cabane. Mais une planche est trop courte. Alors Inès mesure une autre planche. »
    Quel est le problème principal ?
 
-4. **DEV07-04** « Après le déjeuner, Léo prépare une soupe. Mais il manque les carottes. Alors Léo va en chercher. »
+4. « Après le déjeuner, Léo prépare une soupe. Mais il manque les carottes. Alors Léo va en chercher. »
    Quel est le problème principal ?
 
-5. **DEV07-05** « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
+5. « Mercredi après-midi, Émile prépare une affiche. Mais la colle ne tient plus. Alors Émile cherche un autre tube. »
    Quel est le problème principal ?
 
-### DEV08
-
-1. **DEV08-01** « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
+### Devoir 8
+1. « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
    Quel est le problème principal ?
 
-2. **DEV08-02** « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
+2. « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-3. **DEV08-03** « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
+3. « À la tombée du soir, Nora apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Nora ramasse les fruits. »
    Quel est le problème principal ?
 
-4. **DEV08-04** « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
+4. « Avant la récréation, Lina construit une cabane. Mais une planche est trop courte. Alors Lina mesure une autre planche. »
    Quel est le problème principal ?
 
-5. **DEV08-05** « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
+5. « À midi, Nora veut faire voler son cerf-volant. La ficelle s'est cassée. Nora fait un nouveau nœud. »
    Quel est le problème principal ?
 
-### DEV09
-
-1. **DEV09-01** « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
+### Devoir 9
+1. « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-2. **DEV09-02** « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
+2. « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
    Quel est le problème principal ?
 
-3. **DEV09-03** « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
+3. « Avant la récréation, Noé prépare une soupe. Mais il manque les carottes. Alors Noé va en chercher. »
    Quel est le problème principal ?
 
-4. **DEV09-04** « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
+4. « À midi, Hugo prépare une affiche. La colle ne tient plus. Hugo cherche un autre tube. »
    Quel est le problème principal ?
 
-5. **DEV09-05** « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
+5. « Lundi matin, Lina veut arroser les semis. Mais l'arrosoir est vide. Alors Lina va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-### DEV10
-
-1. **DEV10-01** « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
+### Devoir 10
+1. « À la tombée du soir, Zoé veut arroser les semis. Mais l'arrosoir est vide. Alors Zoé va remplir l'arrosoir. »
    Quel est le problème principal ?
 
-2. **DEV10-02** « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
+2. « Avant la récréation, Maya apporte un goûter. Mais le sac s'est ouvert et les fruits sont tombés. Alors Maya ramasse les fruits. »
    Quel est le problème principal ?
 
-3. **DEV10-03** « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
+3. « Un matin d'hiver, Sami doit lire son texte. La feuille est tachée et plusieurs mots sont cachés. Sami demande une copie. »
    Quel est le problème principal ?
 
-4. **DEV10-04** « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
+4. « Lundi matin, Noé veut rentrer chez lui. Mais la chaîne de son vélo a déraillé. Alors Noé pose le vélo contre un mur. »
    Quel est le problème principal ?
 
-5. **DEV10-05** « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
+5. « À la tombée du soir, Hugo doit lire son texte. Mais la feuille est tachée et plusieurs mots sont cachés. Alors Hugo demande une copie. »
    Quel est le problème principal ?
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** L'arrosoir est vide.
-2. **IMM02** La chaîne du vélo a déraillé.
-3. **IMM03** La ficelle du cerf-volant s'est cassée.
-4. **IMM04** La colle ne tient plus.
-5. **IMM05** Une planche est trop courte.
-6. **IMM06** Il manque les carottes.
-7. **IMM07** Les fruits sont tombés du sac.
+1. L'arrosoir est vide.
+2. La chaîne du vélo a déraillé.
+3. La ficelle du cerf-volant s'est cassée.
+4. La colle ne tient plus.
+5. Une planche est trop courte.
+6. Il manque les carottes.
+7. Les fruits sont tombés du sac.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. L'arrosoir est vide.
+2. La chaîne du vélo a déraillé.
+3. La ficelle du cerf-volant s'est cassée.
+4. La colle ne tient plus.
+5. Une planche est trop courte.
 
-1. **ENT01-01** L'arrosoir est vide.
-2. **ENT01-02** La chaîne du vélo a déraillé.
-3. **ENT01-03** La ficelle du cerf-volant s'est cassée.
-4. **ENT01-04** La colle ne tient plus.
-5. **ENT01-05** Une planche est trop courte.
+#### Entraînement 2
+1. Il manque les carottes.
+2. Les fruits sont tombés du sac.
+3. Plusieurs mots sont cachés par une tache.
+4. L'arrosoir est vide.
+5. La chaîne du vélo a déraillé.
 
-#### ENT02
+#### Entraînement 3
+1. La ficelle du cerf-volant s'est cassée.
+2. La colle ne tient plus.
+3. Une planche est trop courte.
+4. Il manque les carottes.
+5. Les fruits sont tombés du sac.
 
-1. **ENT02-01** Il manque les carottes.
-2. **ENT02-02** Les fruits sont tombés du sac.
-3. **ENT02-03** Plusieurs mots sont cachés par une tache.
-4. **ENT02-04** L'arrosoir est vide.
-5. **ENT02-05** La chaîne du vélo a déraillé.
+#### Entraînement 4
+1. Plusieurs mots sont cachés par une tache.
+2. L'arrosoir est vide.
+3. La chaîne du vélo a déraillé.
+4. La ficelle du cerf-volant s'est cassée.
+5. La colle ne tient plus.
 
-#### ENT03
+#### Entraînement 5
+1. Une planche est trop courte.
+2. Il manque les carottes.
+3. Les fruits sont tombés du sac.
+4. Plusieurs mots sont cachés par une tache.
+5. L'arrosoir est vide.
 
-1. **ENT03-01** La ficelle du cerf-volant s'est cassée.
-2. **ENT03-02** La colle ne tient plus.
-3. **ENT03-03** Une planche est trop courte.
-4. **ENT03-04** Il manque les carottes.
-5. **ENT03-05** Les fruits sont tombés du sac.
+#### Entraînement 6
+1. La chaîne du vélo a déraillé.
+2. La ficelle du cerf-volant s'est cassée.
+3. La colle ne tient plus.
+4. Une planche est trop courte.
+5. Il manque les carottes.
 
-#### ENT04
+#### Entraînement 7
+1. Les fruits sont tombés du sac.
+2. Plusieurs mots sont cachés par une tache.
+3. L'arrosoir est vide.
+4. La chaîne du vélo a déraillé.
+5. La ficelle du cerf-volant s'est cassée.
 
-1. **ENT04-01** Plusieurs mots sont cachés par une tache.
-2. **ENT04-02** L'arrosoir est vide.
-3. **ENT04-03** La chaîne du vélo a déraillé.
-4. **ENT04-04** La ficelle du cerf-volant s'est cassée.
-5. **ENT04-05** La colle ne tient plus.
+#### Entraînement 8
+1. La colle ne tient plus.
+2. Une planche est trop courte.
+3. Il manque les carottes.
+4. Les fruits sont tombés du sac.
+5. Plusieurs mots sont cachés par une tache.
 
-#### ENT05
+#### Entraînement 9
+1. L'arrosoir est vide.
+2. La chaîne du vélo a déraillé.
+3. La ficelle du cerf-volant s'est cassée.
+4. La colle ne tient plus.
+5. Une planche est trop courte.
 
-1. **ENT05-01** Une planche est trop courte.
-2. **ENT05-02** Il manque les carottes.
-3. **ENT05-03** Les fruits sont tombés du sac.
-4. **ENT05-04** Plusieurs mots sont cachés par une tache.
-5. **ENT05-05** L'arrosoir est vide.
-
-#### ENT06
-
-1. **ENT06-01** La chaîne du vélo a déraillé.
-2. **ENT06-02** La ficelle du cerf-volant s'est cassée.
-3. **ENT06-03** La colle ne tient plus.
-4. **ENT06-04** Une planche est trop courte.
-5. **ENT06-05** Il manque les carottes.
-
-#### ENT07
-
-1. **ENT07-01** Les fruits sont tombés du sac.
-2. **ENT07-02** Plusieurs mots sont cachés par une tache.
-3. **ENT07-03** L'arrosoir est vide.
-4. **ENT07-04** La chaîne du vélo a déraillé.
-5. **ENT07-05** La ficelle du cerf-volant s'est cassée.
-
-#### ENT08
-
-1. **ENT08-01** La colle ne tient plus.
-2. **ENT08-02** Une planche est trop courte.
-3. **ENT08-03** Il manque les carottes.
-4. **ENT08-04** Les fruits sont tombés du sac.
-5. **ENT08-05** Plusieurs mots sont cachés par une tache.
-
-#### ENT09
-
-1. **ENT09-01** L'arrosoir est vide.
-2. **ENT09-02** La chaîne du vélo a déraillé.
-3. **ENT09-03** La ficelle du cerf-volant s'est cassée.
-4. **ENT09-04** La colle ne tient plus.
-5. **ENT09-05** Une planche est trop courte.
-
-#### ENT10
-
-1. **ENT10-01** Il manque les carottes.
-2. **ENT10-02** Les fruits sont tombés du sac.
-3. **ENT10-03** Plusieurs mots sont cachés par une tache.
-4. **ENT10-04** L'arrosoir est vide.
-5. **ENT10-05** La chaîne du vélo a déraillé.
+#### Entraînement 10
+1. Il manque les carottes.
+2. Les fruits sont tombés du sac.
+3. Plusieurs mots sont cachés par une tache.
+4. L'arrosoir est vide.
+5. La chaîne du vélo a déraillé.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. La ficelle du cerf-volant s'est cassée.
+2. Il manque les carottes.
+3. L'arrosoir est vide.
+4. La colle ne tient plus.
+5. La clé de la boîte est perdue.
 
-1. **EVAL01-01** La ficelle du cerf-volant s'est cassée.
-2. **EVAL01-02** Il manque les carottes.
-3. **EVAL01-03** L'arrosoir est vide.
-4. **EVAL01-04** La colle ne tient plus.
-5. **EVAL01-05** La clé de la boîte est perdue.
+#### Évaluation 2
+1. La colle ne tient plus.
+2. Les fruits sont tombés du sac.
+3. La chaîne du vélo a déraillé.
+4. Une planche est trop courte.
+5. L'affiche de Tom s'est déchirée.
 
-#### EVAL02
+#### Évaluation 3
+1. Une planche est trop courte.
+2. Plusieurs mots sont cachés par une tache.
+3. La ficelle du cerf-volant s'est cassée.
+4. L'arrosoir est vide.
+5. Le petit pont est fermé.
 
-1. **EVAL02-01** La colle ne tient plus.
-2. **EVAL02-02** Les fruits sont tombés du sac.
-3. **EVAL02-03** La chaîne du vélo a déraillé.
-4. **EVAL02-04** Une planche est trop courte.
-5. **EVAL02-05** L'affiche de Tom s'est déchirée.
+#### Évaluation 4
+1. Il manque les carottes.
+2. L'arrosoir est vide.
+3. Les fruits sont tombés du sac.
+4. La chaîne du vélo a déraillé.
+5. Le téléphone n'a plus de batterie.
 
-#### EVAL03
+#### Évaluation 5
+1. Les fruits sont tombés du sac.
+2. Une planche est trop courte.
+3. Plusieurs mots sont cachés par une tache.
+4. La ficelle du cerf-volant s'est cassée.
+5. Une pièce du puzzle manque.
 
-1. **EVAL03-01** Une planche est trop courte.
-2. **EVAL03-02** Plusieurs mots sont cachés par une tache.
-3. **EVAL03-03** La ficelle du cerf-volant s'est cassée.
-4. **EVAL03-04** L'arrosoir est vide.
-5. **EVAL03-05** Le petit pont est fermé.
+#### Évaluation 6
+1. La ficelle du cerf-volant s'est cassée.
+2. Il manque les carottes.
+3. L'arrosoir est vide.
+4. La colle ne tient plus.
+5. Le vent emporte les pages.
 
-#### EVAL04
+#### Évaluation 7
+1. La colle ne tient plus.
+2. Les fruits sont tombés du sac.
+3. La chaîne du vélo a déraillé.
+4. Une planche est trop courte.
+5. Le four ne chauffe pas.
 
-1. **EVAL04-01** Il manque les carottes.
-2. **EVAL04-02** L'arrosoir est vide.
-3. **EVAL04-03** Les fruits sont tombés du sac.
-4. **EVAL04-04** La chaîne du vélo a déraillé.
-5. **EVAL04-05** Le téléphone n'a plus de batterie.
+#### Évaluation 8
+1. Une planche est trop courte.
+2. Plusieurs mots sont cachés par une tache.
+3. La ficelle du cerf-volant s'est cassée.
+4. L'arrosoir est vide.
+5. Yanis ne trouve plus son livre.
 
-#### EVAL05
+#### Évaluation 9
+1. Il manque les carottes.
+2. L'arrosoir est vide.
+3. Les fruits sont tombés du sac.
+4. La chaîne du vélo a déraillé.
+5. Le tuyau est percé.
 
-1. **EVAL05-01** Les fruits sont tombés du sac.
-2. **EVAL05-02** Une planche est trop courte.
-3. **EVAL05-03** Plusieurs mots sont cachés par une tache.
-4. **EVAL05-04** La ficelle du cerf-volant s'est cassée.
-5. **EVAL05-05** Une pièce du puzzle manque.
-
-#### EVAL06
-
-1. **EVAL06-01** La ficelle du cerf-volant s'est cassée.
-2. **EVAL06-02** Il manque les carottes.
-3. **EVAL06-03** L'arrosoir est vide.
-4. **EVAL06-04** La colle ne tient plus.
-5. **EVAL06-05** Le vent emporte les pages.
-
-#### EVAL07
-
-1. **EVAL07-01** La colle ne tient plus.
-2. **EVAL07-02** Les fruits sont tombés du sac.
-3. **EVAL07-03** La chaîne du vélo a déraillé.
-4. **EVAL07-04** Une planche est trop courte.
-5. **EVAL07-05** Le four ne chauffe pas.
-
-#### EVAL08
-
-1. **EVAL08-01** Une planche est trop courte.
-2. **EVAL08-02** Plusieurs mots sont cachés par une tache.
-3. **EVAL08-03** La ficelle du cerf-volant s'est cassée.
-4. **EVAL08-04** L'arrosoir est vide.
-5. **EVAL08-05** Yanis ne trouve plus son livre.
-
-#### EVAL09
-
-1. **EVAL09-01** Il manque les carottes.
-2. **EVAL09-02** L'arrosoir est vide.
-3. **EVAL09-03** Les fruits sont tombés du sac.
-4. **EVAL09-04** La chaîne du vélo a déraillé.
-5. **EVAL09-05** Le tuyau est percé.
-
-#### EVAL10
-
-1. **EVAL10-01** Les fruits sont tombés du sac.
-2. **EVAL10-02** Une planche est trop courte.
-3. **EVAL10-03** Plusieurs mots sont cachés par une tache.
-4. **EVAL10-04** La ficelle du cerf-volant s'est cassée.
-5. **EVAL10-05** Un lacet de la chaussure d'Oscar casse.
+#### Évaluation 10
+1. Les fruits sont tombés du sac.
+2. Une planche est trop courte.
+3. Plusieurs mots sont cachés par une tache.
+4. La ficelle du cerf-volant s'est cassée.
+5. Un lacet de la chaussure d'Oscar casse.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. L'arrosoir est vide.
+2. Les fruits sont tombés du sac.
+3. Une planche est trop courte.
+4. La ficelle du cerf-volant s'est cassée.
+5. Une planche est trop courte.
 
-1. **DEV01-01** L'arrosoir est vide.
-2. **DEV01-02** Les fruits sont tombés du sac.
-3. **DEV01-03** Une planche est trop courte.
-4. **DEV01-04** La ficelle du cerf-volant s'est cassée.
-5. **DEV01-05** Une planche est trop courte.
+#### Devoir 2
+1. Plusieurs mots sont cachés par une tache.
+2. Il manque les carottes.
+3. La colle ne tient plus.
+4. L'arrosoir est vide.
+5. Les fruits sont tombés du sac.
 
-#### DEV02
+#### Devoir 3
+1. Les fruits sont tombés du sac.
+2. Plusieurs mots sont cachés par une tache.
+3. La chaîne du vélo a déraillé.
+4. Plusieurs mots sont cachés par une tache.
+5. Il manque les carottes.
 
-1. **DEV02-01** Plusieurs mots sont cachés par une tache.
-2. **DEV02-02** Il manque les carottes.
-3. **DEV02-03** La colle ne tient plus.
-4. **DEV02-04** L'arrosoir est vide.
-5. **DEV02-05** Les fruits sont tombés du sac.
+#### Devoir 4
+1. L'arrosoir est vide.
+2. La ficelle du cerf-volant s'est cassée.
+3. L'arrosoir est vide.
+4. Les fruits sont tombés du sac.
+5. Plusieurs mots sont cachés par une tache.
 
-#### DEV03
+#### Devoir 5
+1. La colle ne tient plus.
+2. La chaîne du vélo a déraillé.
+3. La ficelle du cerf-volant s'est cassée.
+4. L'arrosoir est vide.
+5. La ficelle du cerf-volant s'est cassée.
 
-1. **DEV03-01** Les fruits sont tombés du sac.
-2. **DEV03-02** Plusieurs mots sont cachés par une tache.
-3. **DEV03-03** La chaîne du vélo a déraillé.
-4. **DEV03-04** Plusieurs mots sont cachés par une tache.
-5. **DEV03-05** Il manque les carottes.
+#### Devoir 6
+1. Il manque les carottes.
+2. La colle ne tient plus.
+3. La chaîne du vélo a déraillé.
+4. La colle ne tient plus.
+5. La chaîne du vélo a déraillé.
 
-#### DEV04
+#### Devoir 7
+1. Une planche est trop courte.
+2. La ficelle du cerf-volant s'est cassée.
+3. Une planche est trop courte.
+4. Il manque les carottes.
+5. La colle ne tient plus.
 
-1. **DEV04-01** L'arrosoir est vide.
-2. **DEV04-02** La ficelle du cerf-volant s'est cassée.
-3. **DEV04-03** L'arrosoir est vide.
-4. **DEV04-04** Les fruits sont tombés du sac.
-5. **DEV04-05** Plusieurs mots sont cachés par une tache.
+#### Devoir 8
+1. La colle ne tient plus.
+2. L'arrosoir est vide.
+3. Les fruits sont tombés du sac.
+4. Une planche est trop courte.
+5. La ficelle du cerf-volant s'est cassée.
 
-#### DEV05
+#### Devoir 9
+1. La chaîne du vélo a déraillé.
+2. Plusieurs mots sont cachés par une tache.
+3. Il manque les carottes.
+4. La colle ne tient plus.
+5. L'arrosoir est vide.
 
-1. **DEV05-01** La colle ne tient plus.
-2. **DEV05-02** La chaîne du vélo a déraillé.
-3. **DEV05-03** La ficelle du cerf-volant s'est cassée.
-4. **DEV05-04** L'arrosoir est vide.
-5. **DEV05-05** La ficelle du cerf-volant s'est cassée.
-
-#### DEV06
-
-1. **DEV06-01** Il manque les carottes.
-2. **DEV06-02** La colle ne tient plus.
-3. **DEV06-03** La chaîne du vélo a déraillé.
-4. **DEV06-04** La colle ne tient plus.
-5. **DEV06-05** La chaîne du vélo a déraillé.
-
-#### DEV07
-
-1. **DEV07-01** Une planche est trop courte.
-2. **DEV07-02** La ficelle du cerf-volant s'est cassée.
-3. **DEV07-03** Une planche est trop courte.
-4. **DEV07-04** Il manque les carottes.
-5. **DEV07-05** La colle ne tient plus.
-
-#### DEV08
-
-1. **DEV08-01** La colle ne tient plus.
-2. **DEV08-02** L'arrosoir est vide.
-3. **DEV08-03** Les fruits sont tombés du sac.
-4. **DEV08-04** Une planche est trop courte.
-5. **DEV08-05** La ficelle du cerf-volant s'est cassée.
-
-#### DEV09
-
-1. **DEV09-01** La chaîne du vélo a déraillé.
-2. **DEV09-02** Plusieurs mots sont cachés par une tache.
-3. **DEV09-03** Il manque les carottes.
-4. **DEV09-04** La colle ne tient plus.
-5. **DEV09-05** L'arrosoir est vide.
-
-#### DEV10
-
-1. **DEV10-01** L'arrosoir est vide.
-2. **DEV10-02** Les fruits sont tombés du sac.
-3. **DEV10-03** Plusieurs mots sont cachés par une tache.
-4. **DEV10-04** La chaîne du vélo a déraillé.
-5. **DEV10-05** Plusieurs mots sont cachés par une tache.
+#### Devoir 10
+1. L'arrosoir est vide.
+2. Les fruits sont tombés du sac.
+3. Plusieurs mots sont cachés par une tache.
+4. La chaîne du vélo a déraillé.
+5. Plusieurs mots sont cachés par une tache.
 
 ## Traçabilité des évaluations et devoirs
 

@@ -68,8 +68,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 ## Modelage explicite — 3 items
 
-### MOD01 — Modelage complet
-
+### Modelage 1 — Modelage complet
 **Énoncé :** **Le chat** dort sur le tapis.
 
 - **Attention d’abord :** Le sujet Le chat est déjà en gras.
@@ -77,8 +76,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** dort
 - **Contrôle final :** « Le chat dort » est bien formé et dort change avec le temps.
 
-### MOD02 — Modelage interactif
-
+### Modelage 2 — Modelage interactif
 **Énoncé :** **Les enfants** jouent dans la cour.
 
 - **Attention d’abord :** Quel mot indique ce que font les enfants ?
@@ -86,8 +84,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** jouent
 - **Contrôle final :** La réponse est un seul mot, hors du groupe sujet.
 
-### MOD03 — Guidage allégé
-
+### Modelage 3 — Guidage allégé
 **Énoncé :** Aujourd’hui, **la pluie** tombe doucement.
 
 - **Attention d’abord :** Ne choisissez pas aujourd’hui ni doucement.
@@ -99,13 +96,13 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **IMM01** **Le chat** dort sur le tapis.
-- **IMM02** **Lina** dessine une maison.
-- **IMM03** **Les enfants** jouent dans la cour.
-- **IMM04** **Mon frère** range sa chambre.
-- **IMM05** **La pluie** tombe doucement.
-- **IMM06** **Nous** chantons ensemble.
-- **IMM07** **Le chien** cherche sa balle.
+- **Le chat** dort sur le tapis.
+- **Lina** dessine une maison.
+- **Les enfants** jouent dans la cour.
+- **Mon frère** range sa chambre.
+- **La pluie** tombe doucement.
+- **Nous** chantons ensemble.
+- **Le chien** cherche sa balle.
 
 ## Variables didactiques
 
@@ -136,602 +133,542 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 ## Entraînements
 
 
-### ENT01
-
+### Entraînement 1
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT01-01** **Le chat** dort sur le tapis.
-- **ENT01-02** **Lina** dessine une maison.
-- **ENT01-03** **Les enfants** jouent dans la cour.
-- **ENT01-04** **Mon frère** range sa chambre.
-- **ENT01-05** **La pluie** tombe doucement.
-- **ENT01-06** **Nous** chantons ensemble.
-- **ENT01-07** **Le chien** cherche sa balle.
-- **ENT01-08** **Vous** écoutez la consigne.
+- **Le chat** dort sur le tapis.
+- **Lina** dessine une maison.
+- **Les enfants** jouent dans la cour.
+- **Mon frère** range sa chambre.
+- **La pluie** tombe doucement.
+- **Nous** chantons ensemble.
+- **Le chien** cherche sa balle.
+- **Vous** écoutez la consigne.
 
-### ENT02
-
+### Entraînement 2
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT02-01** **La lampe** éclaire la table.
-- **ENT02-02** **Ils** courent très vite.
-- **ENT02-03** **Le facteur** apporte une lettre.
-- **ENT02-04** **La tortue** avance sur le chemin.
-- **ENT02-05** **Nina** ferme la fenêtre.
-- **ENT02-06** **Les oiseaux** volent au-dessus du jardin.
-- **ENT02-07** **Tu** portes un sac bleu.
-- **ENT02-08** **Le bateau** quitte le port.
+- **La lampe** éclaire la table.
+- **Ils** courent très vite.
+- **Le facteur** apporte une lettre.
+- **La tortue** avance sur le chemin.
+- **Nina** ferme la fenêtre.
+- **Les oiseaux** volent au-dessus du jardin.
+- **Tu** portes un sac bleu.
+- **Le bateau** quitte le port.
 
-### ENT03
-
+### Entraînement 3
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT03-01** **La maîtresse** raconte une histoire.
-- **ENT03-02** **Le poisson** nage près du bord.
-- **ENT03-03** **Les feuilles** tombent en automne.
-- **ENT03-04** **Je** prépare mon cartable.
-- **ENT03-05** **Le chat** dort maintenant sur le tapis.
-- **ENT03-06** **Lina** dessine maintenant une maison.
-- **ENT03-07** **Les enfants** jouent maintenant dans la cour.
-- **ENT03-08** **Mon frère** range maintenant sa chambre.
+- **La maîtresse** raconte une histoire.
+- **Le poisson** nage près du bord.
+- **Les feuilles** tombent en automne.
+- **Je** prépare mon cartable.
+- **Le chat** dort maintenant sur le tapis.
+- **Lina** dessine maintenant une maison.
+- **Les enfants** jouent maintenant dans la cour.
+- **Mon frère** range maintenant sa chambre.
 
-### ENT04
-
+### Entraînement 4
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT04-01** **La pluie** tombe maintenant doucement.
-- **ENT04-02** **Nous** chantons maintenant ensemble.
-- **ENT04-03** **Le chien** cherche maintenant sa balle.
-- **ENT04-04** **Vous** écoutez maintenant la consigne.
-- **ENT04-05** **La lampe** éclaire maintenant la table.
-- **ENT04-06** **Ils** courent maintenant très vite.
-- **ENT04-07** **Le facteur** apporte maintenant une lettre.
-- **ENT04-08** **La tortue** avance maintenant sur le chemin.
+- **La pluie** tombe maintenant doucement.
+- **Nous** chantons maintenant ensemble.
+- **Le chien** cherche maintenant sa balle.
+- **Vous** écoutez maintenant la consigne.
+- **La lampe** éclaire maintenant la table.
+- **Ils** courent maintenant très vite.
+- **Le facteur** apporte maintenant une lettre.
+- **La tortue** avance maintenant sur le chemin.
 
-### ENT05
-
+### Entraînement 5
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT05-01** **Nina** ferme maintenant la fenêtre.
-- **ENT05-02** **Les oiseaux** volent maintenant au-dessus du jardin.
-- **ENT05-03** **Tu** portes maintenant un sac bleu.
-- **ENT05-04** **Le bateau** quitte maintenant le port.
-- **ENT05-05** **La maîtresse** raconte maintenant une histoire.
-- **ENT05-06** **Le poisson** nage maintenant près du bord.
-- **ENT05-07** **Les feuilles** tombent maintenant en automne.
-- **ENT05-08** **Je** prépare maintenant mon cartable.
+- **Nina** ferme maintenant la fenêtre.
+- **Les oiseaux** volent maintenant au-dessus du jardin.
+- **Tu** portes maintenant un sac bleu.
+- **Le bateau** quitte maintenant le port.
+- **La maîtresse** raconte maintenant une histoire.
+- **Le poisson** nage maintenant près du bord.
+- **Les feuilles** tombent maintenant en automne.
+- **Je** prépare maintenant mon cartable.
 
-### ENT06
-
+### Entraînement 6
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT06-01** Aujourd’hui, **le chat** dort souvent sur le tapis.
-- **ENT06-02** Dans la cour, **Lina** dessine souvent une maison.
-- **ENT06-03** Après la classe, **les enfants** jouent souvent dans la cour.
-- **ENT06-04** Au loin, **mon frère** range souvent sa chambre.
-- **ENT06-05** Aujourd’hui, **la pluie** tombe souvent doucement.
-- **ENT06-06** Dans la cour, **nous** chantons souvent ensemble.
-- **ENT06-07** Après la classe, **le chien** cherche souvent sa balle.
-- **ENT06-08** Au loin, **vous** écoutez souvent la consigne.
+- Aujourd’hui, **le chat** dort souvent sur le tapis.
+- Dans la cour, **Lina** dessine souvent une maison.
+- Après la classe, **les enfants** jouent souvent dans la cour.
+- Au loin, **mon frère** range souvent sa chambre.
+- Aujourd’hui, **la pluie** tombe souvent doucement.
+- Dans la cour, **nous** chantons souvent ensemble.
+- Après la classe, **le chien** cherche souvent sa balle.
+- Au loin, **vous** écoutez souvent la consigne.
 
-### ENT07
-
+### Entraînement 7
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT07-01** Aujourd’hui, **la lampe** éclaire souvent la table.
-- **ENT07-02** Dans la cour, **ils** courent souvent très vite.
-- **ENT07-03** Après la classe, **le facteur** apporte souvent une lettre.
-- **ENT07-04** Au loin, **la tortue** avance souvent sur le chemin.
-- **ENT07-05** Aujourd’hui, **Nina** ferme souvent la fenêtre.
-- **ENT07-06** Dans la cour, **les oiseaux** volent souvent au-dessus du jardin.
-- **ENT07-07** Après la classe, **tu** portes souvent un sac bleu.
-- **ENT07-08** Au loin, **le bateau** quitte souvent le port.
+- Aujourd’hui, **la lampe** éclaire souvent la table.
+- Dans la cour, **ils** courent souvent très vite.
+- Après la classe, **le facteur** apporte souvent une lettre.
+- Au loin, **la tortue** avance souvent sur le chemin.
+- Aujourd’hui, **Nina** ferme souvent la fenêtre.
+- Dans la cour, **les oiseaux** volent souvent au-dessus du jardin.
+- Après la classe, **tu** portes souvent un sac bleu.
+- Au loin, **le bateau** quitte souvent le port.
 
-### ENT08
-
+### Entraînement 8
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT08-01** Aujourd’hui, **la maîtresse** raconte souvent une histoire.
-- **ENT08-02** Dans la cour, **le poisson** nage souvent près du bord.
-- **ENT08-03** Après la classe, **les feuilles** tombent souvent en automne.
-- **ENT08-04** Au loin, **je** prépare souvent mon cartable.
-- **ENT08-05** Aujourd’hui, **le chat** dort calmement sur le tapis.
-- **ENT08-06** Dans la cour, **Lina** dessine calmement une maison.
-- **ENT08-07** Après la classe, **les enfants** jouent calmement dans la cour.
-- **ENT08-08** Au loin, **mon frère** range calmement sa chambre.
+- Aujourd’hui, **la maîtresse** raconte souvent une histoire.
+- Dans la cour, **le poisson** nage souvent près du bord.
+- Après la classe, **les feuilles** tombent souvent en automne.
+- Au loin, **je** prépare souvent mon cartable.
+- Aujourd’hui, **le chat** dort calmement sur le tapis.
+- Dans la cour, **Lina** dessine calmement une maison.
+- Après la classe, **les enfants** jouent calmement dans la cour.
+- Au loin, **mon frère** range calmement sa chambre.
 
-### ENT09
-
+### Entraînement 9
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT09-01** Aujourd’hui, **la pluie** tombe calmement doucement.
-- **ENT09-02** Dans la cour, **nous** chantons calmement ensemble.
-- **ENT09-03** Après la classe, **le chien** cherche calmement sa balle.
-- **ENT09-04** Au loin, **vous** écoutez calmement la consigne.
-- **ENT09-05** Aujourd’hui, **la lampe** éclaire calmement la table.
-- **ENT09-06** Dans la cour, **ils** courent calmement très vite.
-- **ENT09-07** Après la classe, **le facteur** apporte calmement une lettre.
-- **ENT09-08** Au loin, **la tortue** avance calmement sur le chemin.
+- Aujourd’hui, **la pluie** tombe calmement doucement.
+- Dans la cour, **nous** chantons calmement ensemble.
+- Après la classe, **le chien** cherche calmement sa balle.
+- Au loin, **vous** écoutez calmement la consigne.
+- Aujourd’hui, **la lampe** éclaire calmement la table.
+- Dans la cour, **ils** courent calmement très vite.
+- Après la classe, **le facteur** apporte calmement une lettre.
+- Au loin, **la tortue** avance calmement sur le chemin.
 
-### ENT10
-
+### Entraînement 10
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **ENT10-01** Aujourd’hui, **Nina** ferme calmement la fenêtre.
-- **ENT10-02** Dans la cour, **les oiseaux** volent calmement au-dessus du jardin.
-- **ENT10-03** Après la classe, **tu** portes calmement un sac bleu.
-- **ENT10-04** Au loin, **le bateau** quitte calmement le port.
-- **ENT10-05** Aujourd’hui, **la maîtresse** raconte calmement une histoire.
-- **ENT10-06** Dans la cour, **le poisson** nage calmement près du bord.
-- **ENT10-07** Après la classe, **les feuilles** tombent calmement en automne.
-- **ENT10-08** Au loin, **je** prépare calmement mon cartable.
+- Aujourd’hui, **Nina** ferme calmement la fenêtre.
+- Dans la cour, **les oiseaux** volent calmement au-dessus du jardin.
+- Après la classe, **tu** portes calmement un sac bleu.
+- Au loin, **le bateau** quitte calmement le port.
+- Aujourd’hui, **la maîtresse** raconte calmement une histoire.
+- Dans la cour, **le poisson** nage calmement près du bord.
+- Après la classe, **les feuilles** tombent calmement en automne.
+- Au loin, **je** prépare calmement mon cartable.
 
 ## Évaluations
 
 
-### EVAL01
-
+### Évaluation 1
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL01-01** **Le chat** dort sur le tapis.
-- **EVAL01-02** **Je** prépare mon cartable.
-- **EVAL01-03** **Les feuilles** tombent maintenant en automne.
-- **EVAL01-04** **Le gardien** apporte une lettre.
-- **EVAL01-05** **Le réveil** sonne à sept heures.
+- **Le chat** dort sur le tapis.
+- **Je** prépare mon cartable.
+- **Les feuilles** tombent maintenant en automne.
+- **Le gardien** apporte une lettre.
+- **Le réveil** sonne à sept heures.
 
-### EVAL02
-
+### Évaluation 2
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL02-01** **Vous** écoutez la consigne.
-- **EVAL02-02** **Le chien** cherche maintenant sa balle.
-- **EVAL02-03** Dans la cour, **nous** chantons souvent ensemble.
-- **EVAL02-04** **La limace** avance sur le chemin.
-- **EVAL02-05** **Ma cousine** sourit sur la photo.
+- **Vous** écoutez la consigne.
+- **Le chien** cherche maintenant sa balle.
+- Dans la cour, **nous** chantons souvent ensemble.
+- **La limace** avance sur le chemin.
+- **Ma cousine** sourit sur la photo.
 
-### EVAL03
-
+### Évaluation 3
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL03-01** **Tu** portes un sac bleu.
-- **EVAL03-02** **Les oiseaux** volent maintenant au-dessus du jardin.
-- **EVAL03-03** Aujourd’hui, **Nina** ferme souvent la fenêtre.
-- **EVAL03-04** **Mina** ferme la fenêtre.
-- **EVAL03-05** **Les nuages** cachent le soleil.
+- **Tu** portes un sac bleu.
+- **Les oiseaux** volent maintenant au-dessus du jardin.
+- Aujourd’hui, **Nina** ferme souvent la fenêtre.
+- **Mina** ferme la fenêtre.
+- **Les nuages** cachent le soleil.
 
-### EVAL04
-
+### Évaluation 4
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL04-01** **Lina** dessine maintenant une maison.
-- **EVAL04-02** Aujourd’hui, **le chat** dort souvent sur le tapis.
-- **EVAL04-03** Au loin, **je** prépare souvent mon cartable.
-- **EVAL04-04** **Les canards** volent au-dessus du jardin.
-- **EVAL04-05** **Nous** ouvrons nos cahiers.
+- **Lina** dessine maintenant une maison.
+- Aujourd’hui, **le chat** dort souvent sur le tapis.
+- Au loin, **je** prépare souvent mon cartable.
+- **Les canards** volent au-dessus du jardin.
+- **Nous** ouvrons nos cahiers.
 
-### EVAL05
-
+### Évaluation 5
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL05-01** **La lampe** éclaire maintenant la table.
-- **EVAL05-02** Au loin, **vous** écoutez souvent la consigne.
-- **EVAL05-03** Après la classe, **le chien** cherche calmement sa balle.
-- **EVAL05-04** **Tu** portes un sac vert.
-- **EVAL05-05** **Cette roue** tourne sans bruit.
+- **La lampe** éclaire maintenant la table.
+- Au loin, **vous** écoutez souvent la consigne.
+- Après la classe, **le chien** cherche calmement sa balle.
+- **Tu** portes un sac vert.
+- **Cette roue** tourne sans bruit.
 
-### EVAL06
-
+### Évaluation 6
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL06-01** **Le bateau** quitte maintenant le port.
-- **EVAL06-02** Après la classe, **tu** portes souvent un sac bleu.
-- **EVAL06-03** Dans la cour, **les oiseaux** volent calmement au-dessus du jardin.
-- **EVAL06-04** **Le navire** quitte le port.
-- **EVAL06-05** **Les grenouilles** sautent dans l’eau.
+- **Le bateau** quitte maintenant le port.
+- Après la classe, **tu** portes souvent un sac bleu.
+- Dans la cour, **les oiseaux** volent calmement au-dessus du jardin.
+- **Le navire** quitte le port.
+- **Les grenouilles** sautent dans l’eau.
 
-### EVAL07
-
+### Évaluation 7
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL07-01** Après la classe, **les enfants** jouent souvent dans la cour.
-- **EVAL07-02** Dans la cour, **Lina** dessine calmement une maison.
-- **EVAL07-03** **Le chat** dort sur le tapis.
-- **EVAL07-04** **Le maître** raconte une histoire.
-- **EVAL07-05** **Le cuisinier** coupe le pain.
+- Après la classe, **les enfants** jouent souvent dans la cour.
+- Dans la cour, **Lina** dessine calmement une maison.
+- **Le chat** dort sur le tapis.
+- **Le maître** raconte une histoire.
+- **Le cuisinier** coupe le pain.
 
-### EVAL08
-
+### Évaluation 8
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL08-01** Dans la cour, **ils** courent souvent très vite.
-- **EVAL08-02** Aujourd’hui, **la lampe** éclaire calmement la table.
-- **EVAL08-03** **Vous** écoutez la consigne.
-- **EVAL08-04** **Le canard** nage près du bord.
-- **EVAL08-05** **Tu** prends ton manteau.
+- Dans la cour, **ils** courent souvent très vite.
+- Aujourd’hui, **la lampe** éclaire calmement la table.
+- **Vous** écoutez la consigne.
+- **Le canard** nage près du bord.
+- **Tu** prends ton manteau.
 
-### EVAL09
-
+### Évaluation 9
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL09-01** Aujourd’hui, **la maîtresse** raconte souvent une histoire.
-- **EVAL09-02** Au loin, **le bateau** quitte calmement le port.
-- **EVAL09-03** **Tu** portes un sac bleu.
-- **EVAL09-04** **Les pétales** tombent en automne.
-- **EVAL09-05** **La neige** recouvre le toit.
+- Aujourd’hui, **la maîtresse** raconte souvent une histoire.
+- Au loin, **le bateau** quitte calmement le port.
+- **Tu** portes un sac bleu.
+- **Les pétales** tombent en automne.
+- **La neige** recouvre le toit.
 
-### EVAL10
-
+### Évaluation 10
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **EVAL10-01** Au loin, **mon frère** range calmement sa chambre.
-- **EVAL10-02** **Les enfants** jouent dans la cour.
-- **EVAL10-03** **Lina** dessine maintenant une maison.
-- **EVAL10-04** **Je** prépare mon sac.
-- **EVAL10-05** **Les élèves** écrivent la date.
+- Au loin, **mon frère** range calmement sa chambre.
+- **Les enfants** jouent dans la cour.
+- **Lina** dessine maintenant une maison.
+- **Je** prépare mon sac.
+- **Les élèves** écrivent la date.
 
 ## Devoirs
 
 
-### DEV01
-
+### Devoir 1
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV01-01** **Le chat** dort sur le tapis.
-- **DEV01-02** **Vous** écoutez la consigne.
-- **DEV01-03** **Tu** portes un sac bleu.
-- **DEV01-04** **Lina** dessine maintenant une maison.
-- **DEV01-05** **La lampe** éclaire maintenant la table.
+- **Le chat** dort sur le tapis.
+- **Vous** écoutez la consigne.
+- **Tu** portes un sac bleu.
+- **Lina** dessine maintenant une maison.
+- **La lampe** éclaire maintenant la table.
 
-### DEV02
-
+### Devoir 2
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV02-01** **Mon frère** range sa chambre.
-- **DEV02-02** **Le facteur** apporte une lettre.
-- **DEV02-03** **Le poisson** nage près du bord.
-- **DEV02-04** **La pluie** tombe maintenant doucement.
-- **DEV02-05** **La tortue** avance maintenant sur le chemin.
+- **Mon frère** range sa chambre.
+- **Le facteur** apporte une lettre.
+- **Le poisson** nage près du bord.
+- **La pluie** tombe maintenant doucement.
+- **La tortue** avance maintenant sur le chemin.
 
-### DEV03
-
+### Devoir 3
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV03-01** **Le chien** cherche sa balle.
-- **DEV03-02** **Les oiseaux** volent au-dessus du jardin.
-- **DEV03-03** **Le chat** dort maintenant sur le tapis.
-- **DEV03-04** **Vous** écoutez maintenant la consigne.
-- **DEV03-05** **Les enfants** jouent dans la cour.
+- **Le chien** cherche sa balle.
+- **Les oiseaux** volent au-dessus du jardin.
+- **Le chat** dort maintenant sur le tapis.
+- **Vous** écoutez maintenant la consigne.
+- **Les enfants** jouent dans la cour.
 
-### DEV04
-
+### Devoir 4
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV04-01** **Ils** courent très vite.
-- **DEV04-02** **La maîtresse** raconte une histoire.
-- **DEV04-03** **Mon frère** range maintenant sa chambre.
-- **DEV04-04** **Le facteur** apporte maintenant une lettre.
-- **DEV04-05** **Nous** chantons ensemble.
+- **Ils** courent très vite.
+- **La maîtresse** raconte une histoire.
+- **Mon frère** range maintenant sa chambre.
+- **Le facteur** apporte maintenant une lettre.
+- **Nous** chantons ensemble.
 
-### DEV05
-
+### Devoir 5
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV05-01** **Nina** ferme la fenêtre.
-- **DEV05-02** **Je** prépare mon cartable.
-- **DEV05-03** **Le chien** cherche maintenant sa balle.
-- **DEV05-04** **Lina** dessine une maison.
-- **DEV05-05** **La lampe** éclaire la table.
+- **Nina** ferme la fenêtre.
+- **Je** prépare mon cartable.
+- **Le chien** cherche maintenant sa balle.
+- **Lina** dessine une maison.
+- **La lampe** éclaire la table.
 
-### DEV06
-
+### Devoir 6
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV06-01** **Le bateau** quitte le port.
-- **DEV06-02** **Les enfants** jouent maintenant dans la cour.
-- **DEV06-03** **Ils** courent maintenant très vite.
-- **DEV06-04** **La pluie** tombe doucement.
-- **DEV06-05** **La tortue** avance sur le chemin.
+- **Le bateau** quitte le port.
+- **Les enfants** jouent maintenant dans la cour.
+- **Ils** courent maintenant très vite.
+- **La pluie** tombe doucement.
+- **La tortue** avance sur le chemin.
 
-### DEV07
-
+### Devoir 7
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV07-01** **Les feuilles** tombent en automne.
-- **DEV07-02** **Nous** chantons maintenant ensemble.
-- **DEV07-03** **Le chat** dort sur le tapis.
-- **DEV07-04** **Vous** écoutez la consigne.
-- **DEV07-05** **Tu** portes un sac bleu.
+- **Les feuilles** tombent en automne.
+- **Nous** chantons maintenant ensemble.
+- **Le chat** dort sur le tapis.
+- **Vous** écoutez la consigne.
+- **Tu** portes un sac bleu.
 
-### DEV08
-
+### Devoir 8
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV08-01** **Lina** dessine maintenant une maison.
-- **DEV08-02** **La lampe** éclaire maintenant la table.
-- **DEV08-03** **Mon frère** range sa chambre.
-- **DEV08-04** **Le facteur** apporte une lettre.
-- **DEV08-05** **Le poisson** nage près du bord.
+- **Lina** dessine maintenant une maison.
+- **La lampe** éclaire maintenant la table.
+- **Mon frère** range sa chambre.
+- **Le facteur** apporte une lettre.
+- **Le poisson** nage près du bord.
 
-### DEV09
-
+### Devoir 9
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV09-01** **La pluie** tombe maintenant doucement.
-- **DEV09-02** **La tortue** avance maintenant sur le chemin.
-- **DEV09-03** **Le chien** cherche sa balle.
-- **DEV09-04** **Les oiseaux** volent au-dessus du jardin.
-- **DEV09-05** **Le chat** dort maintenant sur le tapis.
+- **La pluie** tombe maintenant doucement.
+- **La tortue** avance maintenant sur le chemin.
+- **Le chien** cherche sa balle.
+- **Les oiseaux** volent au-dessus du jardin.
+- **Le chat** dort maintenant sur le tapis.
 
-### DEV10
-
+### Devoir 10
 Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en gras.
 
-- **DEV10-01** **Vous** écoutez maintenant la consigne.
-- **DEV10-02** **Les enfants** jouent dans la cour.
-- **DEV10-03** **Ils** courent très vite.
-- **DEV10-04** **La maîtresse** raconte une histoire.
-- **DEV10-05** **Mon frère** range maintenant sa chambre.
+- **Vous** écoutez maintenant la consigne.
+- **Les enfants** jouent dans la cour.
+- **Ils** courent très vite.
+- **La maîtresse** raconte une histoire.
+- **Mon frère** range maintenant sa chambre.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — dort
-2. **IMM02** — dessine
-3. **IMM03** — jouent
-4. **IMM04** — range
-5. **IMM05** — tombe
-6. **IMM06** — chantons
-7. **IMM07** — cherche
+1. — dort
+2. — dessine
+3. — jouent
+4. — range
+5. — tombe
+6. — chantons
+7. — cherche
 
 ### Corrections des entraînements
 
 
-#### ENT01
-1. **ENT01-01** — dort
-2. **ENT01-02** — dessine
-3. **ENT01-03** — jouent
-4. **ENT01-04** — range
-5. **ENT01-05** — tombe
-6. **ENT01-06** — chantons
-7. **ENT01-07** — cherche
-8. **ENT01-08** — écoutez
+#### Entraînement 11. **ENT01-01** — dort
+2. — dessine
+3. — jouent
+4. — range
+5. — tombe
+6. — chantons
+7. — cherche
+8. — écoutez
 
-#### ENT02
-1. **ENT02-01** — éclaire
-2. **ENT02-02** — courent
-3. **ENT02-03** — apporte
-4. **ENT02-04** — avance
-5. **ENT02-05** — ferme
-6. **ENT02-06** — volent
-7. **ENT02-07** — portes
-8. **ENT02-08** — quitte
+#### Entraînement 21. **ENT02-01** — éclaire
+2. — courent
+3. — apporte
+4. — avance
+5. — ferme
+6. — volent
+7. — portes
+8. — quitte
 
-#### ENT03
-1. **ENT03-01** — raconte
-2. **ENT03-02** — nage
-3. **ENT03-03** — tombent
-4. **ENT03-04** — prépare
-5. **ENT03-05** — dort
-6. **ENT03-06** — dessine
-7. **ENT03-07** — jouent
-8. **ENT03-08** — range
+#### Entraînement 31. **ENT03-01** — raconte
+2. — nage
+3. — tombent
+4. — prépare
+5. — dort
+6. — dessine
+7. — jouent
+8. — range
 
-#### ENT04
-1. **ENT04-01** — tombe
-2. **ENT04-02** — chantons
-3. **ENT04-03** — cherche
-4. **ENT04-04** — écoutez
-5. **ENT04-05** — éclaire
-6. **ENT04-06** — courent
-7. **ENT04-07** — apporte
-8. **ENT04-08** — avance
+#### Entraînement 41. **ENT04-01** — tombe
+2. — chantons
+3. — cherche
+4. — écoutez
+5. — éclaire
+6. — courent
+7. — apporte
+8. — avance
 
-#### ENT05
-1. **ENT05-01** — ferme
-2. **ENT05-02** — volent
-3. **ENT05-03** — portes
-4. **ENT05-04** — quitte
-5. **ENT05-05** — raconte
-6. **ENT05-06** — nage
-7. **ENT05-07** — tombent
-8. **ENT05-08** — prépare
+#### Entraînement 51. **ENT05-01** — ferme
+2. — volent
+3. — portes
+4. — quitte
+5. — raconte
+6. — nage
+7. — tombent
+8. — prépare
 
-#### ENT06
-1. **ENT06-01** — dort
-2. **ENT06-02** — dessine
-3. **ENT06-03** — jouent
-4. **ENT06-04** — range
-5. **ENT06-05** — tombe
-6. **ENT06-06** — chantons
-7. **ENT06-07** — cherche
-8. **ENT06-08** — écoutez
+#### Entraînement 61. **ENT06-01** — dort
+2. — dessine
+3. — jouent
+4. — range
+5. — tombe
+6. — chantons
+7. — cherche
+8. — écoutez
 
-#### ENT07
-1. **ENT07-01** — éclaire
-2. **ENT07-02** — courent
-3. **ENT07-03** — apporte
-4. **ENT07-04** — avance
-5. **ENT07-05** — ferme
-6. **ENT07-06** — volent
-7. **ENT07-07** — portes
-8. **ENT07-08** — quitte
+#### Entraînement 71. **ENT07-01** — éclaire
+2. — courent
+3. — apporte
+4. — avance
+5. — ferme
+6. — volent
+7. — portes
+8. — quitte
 
-#### ENT08
-1. **ENT08-01** — raconte
-2. **ENT08-02** — nage
-3. **ENT08-03** — tombent
-4. **ENT08-04** — prépare
-5. **ENT08-05** — dort
-6. **ENT08-06** — dessine
-7. **ENT08-07** — jouent
-8. **ENT08-08** — range
+#### Entraînement 81. **ENT08-01** — raconte
+2. — nage
+3. — tombent
+4. — prépare
+5. — dort
+6. — dessine
+7. — jouent
+8. — range
 
-#### ENT09
-1. **ENT09-01** — tombe
-2. **ENT09-02** — chantons
-3. **ENT09-03** — cherche
-4. **ENT09-04** — écoutez
-5. **ENT09-05** — éclaire
-6. **ENT09-06** — courent
-7. **ENT09-07** — apporte
-8. **ENT09-08** — avance
+#### Entraînement 91. **ENT09-01** — tombe
+2. — chantons
+3. — cherche
+4. — écoutez
+5. — éclaire
+6. — courent
+7. — apporte
+8. — avance
 
-#### ENT10
-1. **ENT10-01** — ferme
-2. **ENT10-02** — volent
-3. **ENT10-03** — portes
-4. **ENT10-04** — quitte
-5. **ENT10-05** — raconte
-6. **ENT10-06** — nage
-7. **ENT10-07** — tombent
-8. **ENT10-08** — prépare
+#### Entraînement 101. **ENT10-01** — ferme
+2. — volent
+3. — portes
+4. — quitte
+5. — raconte
+6. — nage
+7. — tombent
+8. — prépare
 
 ### Corrections des évaluations
 
 
-#### EVAL01
-1. **EVAL01-01** — dort
-2. **EVAL01-02** — prépare
-3. **EVAL01-03** — tombent
-4. **EVAL01-04** — apporte
-5. **EVAL01-05** — sonne
+#### Évaluation 11. **EVAL01-01** — dort
+2. — prépare
+3. — tombent
+4. — apporte
+5. — sonne
 
-#### EVAL02
-1. **EVAL02-01** — écoutez
-2. **EVAL02-02** — cherche
-3. **EVAL02-03** — chantons
-4. **EVAL02-04** — avance
-5. **EVAL02-05** — sourit
+#### Évaluation 21. **EVAL02-01** — écoutez
+2. — cherche
+3. — chantons
+4. — avance
+5. — sourit
 
-#### EVAL03
-1. **EVAL03-01** — portes
-2. **EVAL03-02** — volent
-3. **EVAL03-03** — ferme
-4. **EVAL03-04** — ferme
-5. **EVAL03-05** — cachent
+#### Évaluation 31. **EVAL03-01** — portes
+2. — volent
+3. — ferme
+4. — ferme
+5. — cachent
 
-#### EVAL04
-1. **EVAL04-01** — dessine
-2. **EVAL04-02** — dort
-3. **EVAL04-03** — prépare
-4. **EVAL04-04** — volent
-5. **EVAL04-05** — ouvrons
+#### Évaluation 41. **EVAL04-01** — dessine
+2. — dort
+3. — prépare
+4. — volent
+5. — ouvrons
 
-#### EVAL05
-1. **EVAL05-01** — éclaire
-2. **EVAL05-02** — écoutez
-3. **EVAL05-03** — cherche
-4. **EVAL05-04** — portes
-5. **EVAL05-05** — tourne
+#### Évaluation 51. **EVAL05-01** — éclaire
+2. — écoutez
+3. — cherche
+4. — portes
+5. — tourne
 
-#### EVAL06
-1. **EVAL06-01** — quitte
-2. **EVAL06-02** — portes
-3. **EVAL06-03** — volent
-4. **EVAL06-04** — quitte
-5. **EVAL06-05** — sautent
+#### Évaluation 61. **EVAL06-01** — quitte
+2. — portes
+3. — volent
+4. — quitte
+5. — sautent
 
-#### EVAL07
-1. **EVAL07-01** — jouent
-2. **EVAL07-02** — dessine
-3. **EVAL07-03** — dort
-4. **EVAL07-04** — raconte
-5. **EVAL07-05** — coupe
+#### Évaluation 71. **EVAL07-01** — jouent
+2. — dessine
+3. — dort
+4. — raconte
+5. — coupe
 
-#### EVAL08
-1. **EVAL08-01** — courent
-2. **EVAL08-02** — éclaire
-3. **EVAL08-03** — écoutez
-4. **EVAL08-04** — nage
-5. **EVAL08-05** — prends
+#### Évaluation 81. **EVAL08-01** — courent
+2. — éclaire
+3. — écoutez
+4. — nage
+5. — prends
 
-#### EVAL09
-1. **EVAL09-01** — raconte
-2. **EVAL09-02** — quitte
-3. **EVAL09-03** — portes
-4. **EVAL09-04** — tombent
-5. **EVAL09-05** — recouvre
+#### Évaluation 91. **EVAL09-01** — raconte
+2. — quitte
+3. — portes
+4. — tombent
+5. — recouvre
 
-#### EVAL10
-1. **EVAL10-01** — range
-2. **EVAL10-02** — jouent
-3. **EVAL10-03** — dessine
-4. **EVAL10-04** — prépare
-5. **EVAL10-05** — écrivent
+#### Évaluation 101. **EVAL10-01** — range
+2. — jouent
+3. — dessine
+4. — prépare
+5. — écrivent
 
 ### Corrections des devoirs
 
 
-#### DEV01
-1. **DEV01-01** — dort
-2. **DEV01-02** — écoutez
-3. **DEV01-03** — portes
-4. **DEV01-04** — dessine
-5. **DEV01-05** — éclaire
+#### Devoir 11. **DEV01-01** — dort
+2. — écoutez
+3. — portes
+4. — dessine
+5. — éclaire
 
-#### DEV02
-1. **DEV02-01** — range
-2. **DEV02-02** — apporte
-3. **DEV02-03** — nage
-4. **DEV02-04** — tombe
-5. **DEV02-05** — avance
+#### Devoir 21. **DEV02-01** — range
+2. — apporte
+3. — nage
+4. — tombe
+5. — avance
 
-#### DEV03
-1. **DEV03-01** — cherche
-2. **DEV03-02** — volent
-3. **DEV03-03** — dort
-4. **DEV03-04** — écoutez
-5. **DEV03-05** — jouent
+#### Devoir 31. **DEV03-01** — cherche
+2. — volent
+3. — dort
+4. — écoutez
+5. — jouent
 
-#### DEV04
-1. **DEV04-01** — courent
-2. **DEV04-02** — raconte
-3. **DEV04-03** — range
-4. **DEV04-04** — apporte
-5. **DEV04-05** — chantons
+#### Devoir 41. **DEV04-01** — courent
+2. — raconte
+3. — range
+4. — apporte
+5. — chantons
 
-#### DEV05
-1. **DEV05-01** — ferme
-2. **DEV05-02** — prépare
-3. **DEV05-03** — cherche
-4. **DEV05-04** — dessine
-5. **DEV05-05** — éclaire
+#### Devoir 51. **DEV05-01** — ferme
+2. — prépare
+3. — cherche
+4. — dessine
+5. — éclaire
 
-#### DEV06
-1. **DEV06-01** — quitte
-2. **DEV06-02** — jouent
-3. **DEV06-03** — courent
-4. **DEV06-04** — tombe
-5. **DEV06-05** — avance
+#### Devoir 61. **DEV06-01** — quitte
+2. — jouent
+3. — courent
+4. — tombe
+5. — avance
 
-#### DEV07
-1. **DEV07-01** — tombent
-2. **DEV07-02** — chantons
-3. **DEV07-03** — dort
-4. **DEV07-04** — écoutez
-5. **DEV07-05** — portes
+#### Devoir 71. **DEV07-01** — tombent
+2. — chantons
+3. — dort
+4. — écoutez
+5. — portes
 
-#### DEV08
-1. **DEV08-01** — dessine
-2. **DEV08-02** — éclaire
-3. **DEV08-03** — range
-4. **DEV08-04** — apporte
-5. **DEV08-05** — nage
+#### Devoir 81. **DEV08-01** — dessine
+2. — éclaire
+3. — range
+4. — apporte
+5. — nage
 
-#### DEV09
-1. **DEV09-01** — tombe
-2. **DEV09-02** — avance
-3. **DEV09-03** — cherche
-4. **DEV09-04** — volent
-5. **DEV09-05** — dort
+#### Devoir 91. **DEV09-01** — tombe
+2. — avance
+3. — cherche
+4. — volent
+5. — dort
 
-#### DEV10
-1. **DEV10-01** — écoutez
-2. **DEV10-02** — jouent
-3. **DEV10-03** — courent
-4. **DEV10-04** — raconte
-5. **DEV10-05** — range
+#### Devoir 101. **DEV10-01** — écoutez
+2. — jouent
+3. — courent
+4. — raconte
+5. — range
 
 ## Traçabilité des évaluations et devoirs
 

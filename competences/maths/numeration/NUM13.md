@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Calcule : 1/2 + 2/2 = ___.
+- Calcule : 1/2 + 2/2 = ___.
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 3/2.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Calcule : 2/3 + 3/3 = ___.
+- Calcule : 2/3 + 3/3 = ___.
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 5/3.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Calcule : 1/4 + 1/4 = ___.
+- Calcule : 1/4 + 1/4 = ___.
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Calcule : 2/5 + 2/5 = ___.
-- **IMM02** Calcule : 1/6 + 3/6 = ___.
-- **IMM03** Calcule : 2/8 + 1/8 = ___.
-- **IMM04** Calcule : 1/10 + 2/10 = ___.
-- **IMM05** Calcule : 2/12 + 3/12 = ___.
-- **IMM06** Calcule : 1/3 + 1/3 = ___.
-- **IMM07** Calcule : 2/4 + 2/4 = ___.
+- Calcule : 2/5 + 2/5 = ___.
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Calcule : 1/4 + 1/4 = ___.
+- Calcule : 2/5 + 2/5 = ___.
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
 
-- **ENT01-01** Calcule : 1/4 + 1/4 = ___.
-- **ENT01-02** Calcule : 2/5 + 2/5 = ___.
-- **ENT01-03** Calcule : 1/6 + 3/6 = ___.
-- **ENT01-04** Calcule : 2/8 + 1/8 = ___.
-- **ENT01-05** Calcule : 1/10 + 2/10 = ___.
+### Entraînement 2
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
 
-### ENT02
+### Entraînement 3
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
 
-- **ENT02-01** Calcule : 1/6 + 3/6 = ___.
-- **ENT02-02** Calcule : 2/8 + 1/8 = ___.
-- **ENT02-03** Calcule : 1/10 + 2/10 = ___.
-- **ENT02-04** Calcule : 2/12 + 3/12 = ___.
-- **ENT02-05** Calcule : 1/3 + 1/3 = ___.
+### Entraînement 4
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
+- Calcule : 1/4 + 2/4 = ___.
 
-### ENT03
+### Entraînement 5
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
+- Calcule : 1/4 + 2/4 = ___.
+- Calcule : 2/5 + 3/5 = ___.
+- Calcule : 1/6 + 1/6 = ___.
 
-- **ENT03-01** Calcule : 1/10 + 2/10 = ___.
-- **ENT03-02** Calcule : 2/12 + 3/12 = ___.
-- **ENT03-03** Calcule : 1/3 + 1/3 = ___.
-- **ENT03-04** Calcule : 2/4 + 2/4 = ___.
-- **ENT03-05** Calcule : 1/2 + 2/2 = ___.
+### Entraînement 6
+- Calcule : 1/4 + 2/4 = ___.
+- Calcule : 2/5 + 3/5 = ___.
+- Calcule : 1/6 + 1/6 = ___.
+- Calcule : 2/8 + 2/8 = ___.
+- Calcule : 1/10 + 3/10 = ___.
 
-### ENT04
+### Entraînement 7
+- Calcule : 1/6 + 1/6 = ___.
+- Calcule : 2/8 + 2/8 = ___.
+- Calcule : 1/10 + 3/10 = ___.
+- Calcule : 2/12 + 1/12 = ___.
+- Calcule : 1/3 + 2/3 = ___.
 
-- **ENT04-01** Calcule : 1/3 + 1/3 = ___.
-- **ENT04-02** Calcule : 2/4 + 2/4 = ___.
-- **ENT04-03** Calcule : 1/2 + 2/2 = ___.
-- **ENT04-04** Calcule : 2/3 + 1/3 = ___.
-- **ENT04-05** Calcule : 1/4 + 2/4 = ___.
+### Entraînement 8
+- Calcule : 1/10 + 3/10 = ___.
+- Calcule : 2/12 + 1/12 = ___.
+- Calcule : 1/3 + 2/3 = ___.
+- Calcule : 2/4 + 3/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
 
-### ENT05
+### Entraînement 9
+- Calcule : 1/3 + 2/3 = ___.
+- Calcule : 2/4 + 3/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 2/3 = ___.
+- Calcule : 1/4 + 3/4 = ___.
 
-- **ENT05-01** Calcule : 1/2 + 2/2 = ___.
-- **ENT05-02** Calcule : 2/3 + 1/3 = ___.
-- **ENT05-03** Calcule : 1/4 + 2/4 = ___.
-- **ENT05-04** Calcule : 2/5 + 3/5 = ___.
-- **ENT05-05** Calcule : 1/6 + 1/6 = ___.
-
-### ENT06
-
-- **ENT06-01** Calcule : 1/4 + 2/4 = ___.
-- **ENT06-02** Calcule : 2/5 + 3/5 = ___.
-- **ENT06-03** Calcule : 1/6 + 1/6 = ___.
-- **ENT06-04** Calcule : 2/8 + 2/8 = ___.
-- **ENT06-05** Calcule : 1/10 + 3/10 = ___.
-
-### ENT07
-
-- **ENT07-01** Calcule : 1/6 + 1/6 = ___.
-- **ENT07-02** Calcule : 2/8 + 2/8 = ___.
-- **ENT07-03** Calcule : 1/10 + 3/10 = ___.
-- **ENT07-04** Calcule : 2/12 + 1/12 = ___.
-- **ENT07-05** Calcule : 1/3 + 2/3 = ___.
-
-### ENT08
-
-- **ENT08-01** Calcule : 1/10 + 3/10 = ___.
-- **ENT08-02** Calcule : 2/12 + 1/12 = ___.
-- **ENT08-03** Calcule : 1/3 + 2/3 = ___.
-- **ENT08-04** Calcule : 2/4 + 3/4 = ___.
-- **ENT08-05** Calcule : 1/2 + 2/2 = ___.
-
-### ENT09
-
-- **ENT09-01** Calcule : 1/3 + 2/3 = ___.
-- **ENT09-02** Calcule : 2/4 + 3/4 = ___.
-- **ENT09-03** Calcule : 1/2 + 2/2 = ___.
-- **ENT09-04** Calcule : 2/3 + 2/3 = ___.
-- **ENT09-05** Calcule : 1/4 + 3/4 = ___.
-
-### ENT10
-
-- **ENT10-01** Calcule : 1/2 + 2/2 = ___.
-- **ENT10-02** Calcule : 2/3 + 2/3 = ___.
-- **ENT10-03** Calcule : 1/4 + 3/4 = ___.
-- **ENT10-04** Calcule : 2/5 + 1/5 = ___.
-- **ENT10-05** Calcule : 1/6 + 2/6 = ___.
+### Entraînement 10
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 2/3 = ___.
+- Calcule : 1/4 + 3/4 = ___.
+- Calcule : 2/5 + 1/5 = ___.
+- Calcule : 1/6 + 2/6 = ___.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Calcule : 1/4 + 1/4 = ___.
+- Calcule : 2/5 + 2/5 = ___.
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
 
-- **EVAL01-01** Calcule : 1/4 + 1/4 = ___.
-- **EVAL01-02** Calcule : 2/5 + 2/5 = ___.
-- **EVAL01-03** Calcule : 1/6 + 3/6 = ___.
-- **EVAL01-04** Calcule : 2/8 + 1/8 = ___.
-- **EVAL01-05** Calcule : 1/10 + 2/10 = ___.
+### Évaluation 2
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
 
-### EVAL02
+### Évaluation 3
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
 
-- **EVAL02-01** Calcule : 1/6 + 3/6 = ___.
-- **EVAL02-02** Calcule : 2/8 + 1/8 = ___.
-- **EVAL02-03** Calcule : 1/10 + 2/10 = ___.
-- **EVAL02-04** Calcule : 2/12 + 3/12 = ___.
-- **EVAL02-05** Calcule : 1/3 + 1/3 = ___.
+### Évaluation 4
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
+- Calcule : 1/4 + 2/4 = ___.
 
-### EVAL03
+### Évaluation 5
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
+- Calcule : 1/4 + 2/4 = ___.
+- Calcule : 2/5 + 3/5 = ___.
+- Calcule : 1/6 + 1/6 = ___.
 
-- **EVAL03-01** Calcule : 1/10 + 2/10 = ___.
-- **EVAL03-02** Calcule : 2/12 + 3/12 = ___.
-- **EVAL03-03** Calcule : 1/3 + 1/3 = ___.
-- **EVAL03-04** Calcule : 2/4 + 2/4 = ___.
-- **EVAL03-05** Calcule : 1/2 + 2/2 = ___.
+### Évaluation 6
+- Calcule : 1/4 + 2/4 = ___.
+- Calcule : 2/5 + 3/5 = ___.
+- Calcule : 1/6 + 1/6 = ___.
+- Calcule : 2/8 + 2/8 = ___.
+- Calcule : 1/10 + 3/10 = ___.
 
-### EVAL04
+### Évaluation 7
+- Calcule : 1/6 + 1/6 = ___.
+- Calcule : 2/8 + 2/8 = ___.
+- Calcule : 1/10 + 3/10 = ___.
+- Calcule : 2/12 + 1/12 = ___.
+- Calcule : 1/3 + 2/3 = ___.
 
-- **EVAL04-01** Calcule : 1/3 + 1/3 = ___.
-- **EVAL04-02** Calcule : 2/4 + 2/4 = ___.
-- **EVAL04-03** Calcule : 1/2 + 2/2 = ___.
-- **EVAL04-04** Calcule : 2/3 + 1/3 = ___.
-- **EVAL04-05** Calcule : 1/4 + 2/4 = ___.
+### Évaluation 8
+- Calcule : 1/10 + 3/10 = ___.
+- Calcule : 2/12 + 1/12 = ___.
+- Calcule : 1/3 + 2/3 = ___.
+- Calcule : 2/4 + 3/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
 
-### EVAL05
+### Évaluation 9
+- Calcule : 1/3 + 2/3 = ___.
+- Calcule : 2/4 + 3/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 2/3 = ___.
+- Calcule : 1/4 + 3/4 = ___.
 
-- **EVAL05-01** Calcule : 1/2 + 2/2 = ___.
-- **EVAL05-02** Calcule : 2/3 + 1/3 = ___.
-- **EVAL05-03** Calcule : 1/4 + 2/4 = ___.
-- **EVAL05-04** Calcule : 2/5 + 3/5 = ___.
-- **EVAL05-05** Calcule : 1/6 + 1/6 = ___.
-
-### EVAL06
-
-- **EVAL06-01** Calcule : 1/4 + 2/4 = ___.
-- **EVAL06-02** Calcule : 2/5 + 3/5 = ___.
-- **EVAL06-03** Calcule : 1/6 + 1/6 = ___.
-- **EVAL06-04** Calcule : 2/8 + 2/8 = ___.
-- **EVAL06-05** Calcule : 1/10 + 3/10 = ___.
-
-### EVAL07
-
-- **EVAL07-01** Calcule : 1/6 + 1/6 = ___.
-- **EVAL07-02** Calcule : 2/8 + 2/8 = ___.
-- **EVAL07-03** Calcule : 1/10 + 3/10 = ___.
-- **EVAL07-04** Calcule : 2/12 + 1/12 = ___.
-- **EVAL07-05** Calcule : 1/3 + 2/3 = ___.
-
-### EVAL08
-
-- **EVAL08-01** Calcule : 1/10 + 3/10 = ___.
-- **EVAL08-02** Calcule : 2/12 + 1/12 = ___.
-- **EVAL08-03** Calcule : 1/3 + 2/3 = ___.
-- **EVAL08-04** Calcule : 2/4 + 3/4 = ___.
-- **EVAL08-05** Calcule : 1/2 + 2/2 = ___.
-
-### EVAL09
-
-- **EVAL09-01** Calcule : 1/3 + 2/3 = ___.
-- **EVAL09-02** Calcule : 2/4 + 3/4 = ___.
-- **EVAL09-03** Calcule : 1/2 + 2/2 = ___.
-- **EVAL09-04** Calcule : 2/3 + 2/3 = ___.
-- **EVAL09-05** Calcule : 1/4 + 3/4 = ___.
-
-### EVAL10
-
-- **EVAL10-01** Calcule : 1/2 + 2/2 = ___.
-- **EVAL10-02** Calcule : 2/3 + 2/3 = ___.
-- **EVAL10-03** Calcule : 1/4 + 3/4 = ___.
-- **EVAL10-04** Calcule : 2/5 + 1/5 = ___.
-- **EVAL10-05** Calcule : 1/6 + 2/6 = ___.
+### Évaluation 10
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 2/3 = ___.
+- Calcule : 1/4 + 3/4 = ___.
+- Calcule : 2/5 + 1/5 = ___.
+- Calcule : 1/6 + 2/6 = ___.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Calcule : 2/3 + 3/3 = ___.
+- Calcule : 1/4 + 1/4 = ___.
+- Calcule : 2/5 + 2/5 = ___.
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
 
-- **DEV01-01** Calcule : 2/3 + 3/3 = ___.
-- **DEV01-02** Calcule : 1/4 + 1/4 = ___.
-- **DEV01-03** Calcule : 2/5 + 2/5 = ___.
-- **DEV01-04** Calcule : 1/6 + 3/6 = ___.
-- **DEV01-05** Calcule : 2/8 + 1/8 = ___.
+### Devoir 2
+- Calcule : 1/4 + 1/4 = ___.
+- Calcule : 2/5 + 2/5 = ___.
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
 
-### DEV02
+### Devoir 3
+- Calcule : 2/5 + 2/5 = ___.
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
 
-- **DEV02-01** Calcule : 1/4 + 1/4 = ___.
-- **DEV02-02** Calcule : 2/5 + 2/5 = ___.
-- **DEV02-03** Calcule : 1/6 + 3/6 = ___.
-- **DEV02-04** Calcule : 2/8 + 1/8 = ___.
-- **DEV02-05** Calcule : 1/10 + 2/10 = ___.
+### Devoir 4
+- Calcule : 1/6 + 3/6 = ___.
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
 
-### DEV03
+### Devoir 5
+- Calcule : 2/8 + 1/8 = ___.
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
 
-- **DEV03-01** Calcule : 2/5 + 2/5 = ___.
-- **DEV03-02** Calcule : 1/6 + 3/6 = ___.
-- **DEV03-03** Calcule : 2/8 + 1/8 = ___.
-- **DEV03-04** Calcule : 1/10 + 2/10 = ___.
-- **DEV03-05** Calcule : 2/12 + 3/12 = ___.
+### Devoir 6
+- Calcule : 1/10 + 2/10 = ___.
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
 
-### DEV04
+### Devoir 7
+- Calcule : 2/12 + 3/12 = ___.
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
 
-- **DEV04-01** Calcule : 1/6 + 3/6 = ___.
-- **DEV04-02** Calcule : 2/8 + 1/8 = ___.
-- **DEV04-03** Calcule : 1/10 + 2/10 = ___.
-- **DEV04-04** Calcule : 2/12 + 3/12 = ___.
-- **DEV04-05** Calcule : 1/3 + 1/3 = ___.
+### Devoir 8
+- Calcule : 1/3 + 1/3 = ___.
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
+- Calcule : 1/4 + 2/4 = ___.
 
-### DEV05
+### Devoir 9
+- Calcule : 2/4 + 2/4 = ___.
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
+- Calcule : 1/4 + 2/4 = ___.
+- Calcule : 2/5 + 3/5 = ___.
 
-- **DEV05-01** Calcule : 2/8 + 1/8 = ___.
-- **DEV05-02** Calcule : 1/10 + 2/10 = ___.
-- **DEV05-03** Calcule : 2/12 + 3/12 = ___.
-- **DEV05-04** Calcule : 1/3 + 1/3 = ___.
-- **DEV05-05** Calcule : 2/4 + 2/4 = ___.
-
-### DEV06
-
-- **DEV06-01** Calcule : 1/10 + 2/10 = ___.
-- **DEV06-02** Calcule : 2/12 + 3/12 = ___.
-- **DEV06-03** Calcule : 1/3 + 1/3 = ___.
-- **DEV06-04** Calcule : 2/4 + 2/4 = ___.
-- **DEV06-05** Calcule : 1/2 + 2/2 = ___.
-
-### DEV07
-
-- **DEV07-01** Calcule : 2/12 + 3/12 = ___.
-- **DEV07-02** Calcule : 1/3 + 1/3 = ___.
-- **DEV07-03** Calcule : 2/4 + 2/4 = ___.
-- **DEV07-04** Calcule : 1/2 + 2/2 = ___.
-- **DEV07-05** Calcule : 2/3 + 1/3 = ___.
-
-### DEV08
-
-- **DEV08-01** Calcule : 1/3 + 1/3 = ___.
-- **DEV08-02** Calcule : 2/4 + 2/4 = ___.
-- **DEV08-03** Calcule : 1/2 + 2/2 = ___.
-- **DEV08-04** Calcule : 2/3 + 1/3 = ___.
-- **DEV08-05** Calcule : 1/4 + 2/4 = ___.
-
-### DEV09
-
-- **DEV09-01** Calcule : 2/4 + 2/4 = ___.
-- **DEV09-02** Calcule : 1/2 + 2/2 = ___.
-- **DEV09-03** Calcule : 2/3 + 1/3 = ___.
-- **DEV09-04** Calcule : 1/4 + 2/4 = ___.
-- **DEV09-05** Calcule : 2/5 + 3/5 = ___.
-
-### DEV10
-
-- **DEV10-01** Calcule : 1/2 + 2/2 = ___.
-- **DEV10-02** Calcule : 2/3 + 1/3 = ___.
-- **DEV10-03** Calcule : 1/4 + 2/4 = ___.
-- **DEV10-04** Calcule : 2/5 + 3/5 = ___.
-- **DEV10-05** Calcule : 1/6 + 1/6 = ___.
+### Devoir 10
+- Calcule : 1/2 + 2/2 = ___.
+- Calcule : 2/3 + 1/3 = ___.
+- Calcule : 1/4 + 2/4 = ___.
+- Calcule : 2/5 + 3/5 = ___.
+- Calcule : 1/6 + 1/6 = ___.
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 2/4.
 2. 4/5.
 3. 4/6.
 4. 3/8.
 5. 3/10.
 
-#### ENT02
-
+#### Entraînement 2
 1. 4/6.
 2. 3/8.
 3. 3/10.
 4. 5/12.
 5. 2/3.
 
-#### ENT03
-
+#### Entraînement 3
 1. 3/10.
 2. 5/12.
 3. 2/3.
 4. 4/4.
 5. 3/2.
 
-#### ENT04
-
+#### Entraînement 4
 1. 2/3.
 2. 4/4.
 3. 3/2.
 4. 3/3.
 5. 3/4.
 
-#### ENT05
-
+#### Entraînement 5
 1. 3/2.
 2. 3/3.
 3. 3/4.
 4. 5/5.
 5. 2/6.
 
-#### ENT06
-
+#### Entraînement 6
 1. 3/4.
 2. 5/5.
 3. 2/6.
 4. 4/8.
 5. 4/10.
 
-#### ENT07
-
+#### Entraînement 7
 1. 2/6.
 2. 4/8.
 3. 4/10.
 4. 3/12.
 5. 3/3.
 
-#### ENT08
-
+#### Entraînement 8
 1. 4/10.
 2. 3/12.
 3. 3/3.
 4. 5/4.
 5. 3/2.
 
-#### ENT09
-
+#### Entraînement 9
 1. 3/3.
 2. 5/4.
 3. 3/2.
 4. 4/3.
 5. 4/4.
 
-#### ENT10
-
+#### Entraînement 10
 1. 3/2.
 2. 4/3.
 3. 4/4.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 2/4.
 2. 4/5.
 3. 4/6.
 4. 3/8.
 5. 3/10.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 4/6.
 2. 3/8.
 3. 3/10.
 4. 5/12.
 5. 2/3.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 3/10.
 2. 5/12.
 3. 2/3.
 4. 4/4.
 5. 3/2.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 2/3.
 2. 4/4.
 3. 3/2.
 4. 3/3.
 5. 3/4.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 3/2.
 2. 3/3.
 3. 3/4.
 4. 5/5.
 5. 2/6.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 3/4.
 2. 5/5.
 3. 2/6.
 4. 4/8.
 5. 4/10.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 2/6.
 2. 4/8.
 3. 4/10.
 4. 3/12.
 5. 3/3.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 4/10.
 2. 3/12.
 3. 3/3.
 4. 5/4.
 5. 3/2.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 3/3.
 2. 5/4.
 3. 3/2.
 4. 4/3.
 5. 4/4.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 3/2.
 2. 4/3.
 3. 4/4.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 5/3.
 2. 2/4.
 3. 4/5.
 4. 4/6.
 5. 3/8.
 
-#### DEV02
-
+#### Devoir 2
 1. 2/4.
 2. 4/5.
 3. 4/6.
 4. 3/8.
 5. 3/10.
 
-#### DEV03
-
+#### Devoir 3
 1. 4/5.
 2. 4/6.
 3. 3/8.
 4. 3/10.
 5. 5/12.
 
-#### DEV04
-
+#### Devoir 4
 1. 4/6.
 2. 3/8.
 3. 3/10.
 4. 5/12.
 5. 2/3.
 
-#### DEV05
-
+#### Devoir 5
 1. 3/8.
 2. 3/10.
 3. 5/12.
 4. 2/3.
 5. 4/4.
 
-#### DEV06
-
+#### Devoir 6
 1. 3/10.
 2. 5/12.
 3. 2/3.
 4. 4/4.
 5. 3/2.
 
-#### DEV07
-
+#### Devoir 7
 1. 5/12.
 2. 2/3.
 3. 4/4.
 4. 3/2.
 5. 3/3.
 
-#### DEV08
-
+#### Devoir 8
 1. 2/3.
 2. 4/4.
 3. 3/2.
 4. 3/3.
 5. 3/4.
 
-#### DEV09
-
+#### Devoir 9
 1. 4/4.
 2. 3/2.
 3. 3/3.
 4. 3/4.
 5. 5/5.
 
-#### DEV10
-
+#### Devoir 10
 1. 3/2.
 2. 3/3.
 3. 3/4.

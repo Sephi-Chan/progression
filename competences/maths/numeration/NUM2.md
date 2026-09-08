@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 1 C + 2 D + 4 U.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 2 C + 3 D + 6 U.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Complète : 458 = ___ C + ___ D + ___ U.
-- **IMM02** Complète : 569 = ___ C + ___ D + ___ U.
-- **IMM03** Complète : 672 = ___ C + ___ D + ___ U.
-- **IMM04** Complète : 781 = ___ C + ___ D + ___ U.
-- **IMM05** Complète : 804 = ___ C + ___ D + ___ U.
-- **IMM06** Complète : 915 = ___ C + ___ D + ___ U.
-- **IMM07** Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
 
-- **ENT01-01** Complète : 347 = ___ C + ___ D + ___ U.
-- **ENT01-02** Complète : 458 = ___ C + ___ D + ___ U.
-- **ENT01-03** Complète : 569 = ___ C + ___ D + ___ U.
-- **ENT01-04** Complète : 672 = ___ C + ___ D + ___ U.
-- **ENT01-05** Complète : 781 = ___ C + ___ D + ___ U.
+### Entraînement 2
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
 
-### ENT02
+### Entraînement 3
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
 
-- **ENT02-01** Complète : 569 = ___ C + ___ D + ___ U.
-- **ENT02-02** Complète : 672 = ___ C + ___ D + ___ U.
-- **ENT02-03** Complète : 781 = ___ C + ___ D + ___ U.
-- **ENT02-04** Complète : 804 = ___ C + ___ D + ___ U.
-- **ENT02-05** Complète : 915 = ___ C + ___ D + ___ U.
+### Entraînement 4
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
 
-### ENT03
+### Entraînement 5
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
 
-- **ENT03-01** Complète : 781 = ___ C + ___ D + ___ U.
-- **ENT03-02** Complète : 804 = ___ C + ___ D + ___ U.
-- **ENT03-03** Complète : 915 = ___ C + ___ D + ___ U.
-- **ENT03-04** Complète : 990 = ___ C + ___ D + ___ U.
-- **ENT03-05** Complète : 124 = ___ C + ___ D + ___ U.
+### Entraînement 6
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
 
-### ENT04
+### Entraînement 7
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
 
-- **ENT04-01** Complète : 915 = ___ C + ___ D + ___ U.
-- **ENT04-02** Complète : 990 = ___ C + ___ D + ___ U.
-- **ENT04-03** Complète : 124 = ___ C + ___ D + ___ U.
-- **ENT04-04** Complète : 236 = ___ C + ___ D + ___ U.
-- **ENT04-05** Complète : 347 = ___ C + ___ D + ___ U.
+### Entraînement 8
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
 
-### ENT05
+### Entraînement 9
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
 
-- **ENT05-01** Complète : 124 = ___ C + ___ D + ___ U.
-- **ENT05-02** Complète : 236 = ___ C + ___ D + ___ U.
-- **ENT05-03** Complète : 347 = ___ C + ___ D + ___ U.
-- **ENT05-04** Complète : 458 = ___ C + ___ D + ___ U.
-- **ENT05-05** Complète : 569 = ___ C + ___ D + ___ U.
-
-### ENT06
-
-- **ENT06-01** Complète : 347 = ___ C + ___ D + ___ U.
-- **ENT06-02** Complète : 458 = ___ C + ___ D + ___ U.
-- **ENT06-03** Complète : 569 = ___ C + ___ D + ___ U.
-- **ENT06-04** Complète : 672 = ___ C + ___ D + ___ U.
-- **ENT06-05** Complète : 781 = ___ C + ___ D + ___ U.
-
-### ENT07
-
-- **ENT07-01** Complète : 569 = ___ C + ___ D + ___ U.
-- **ENT07-02** Complète : 672 = ___ C + ___ D + ___ U.
-- **ENT07-03** Complète : 781 = ___ C + ___ D + ___ U.
-- **ENT07-04** Complète : 804 = ___ C + ___ D + ___ U.
-- **ENT07-05** Complète : 915 = ___ C + ___ D + ___ U.
-
-### ENT08
-
-- **ENT08-01** Complète : 781 = ___ C + ___ D + ___ U.
-- **ENT08-02** Complète : 804 = ___ C + ___ D + ___ U.
-- **ENT08-03** Complète : 915 = ___ C + ___ D + ___ U.
-- **ENT08-04** Complète : 990 = ___ C + ___ D + ___ U.
-- **ENT08-05** Complète : 124 = ___ C + ___ D + ___ U.
-
-### ENT09
-
-- **ENT09-01** Complète : 915 = ___ C + ___ D + ___ U.
-- **ENT09-02** Complète : 990 = ___ C + ___ D + ___ U.
-- **ENT09-03** Complète : 124 = ___ C + ___ D + ___ U.
-- **ENT09-04** Complète : 236 = ___ C + ___ D + ___ U.
-- **ENT09-05** Complète : 347 = ___ C + ___ D + ___ U.
-
-### ENT10
-
-- **ENT10-01** Complète : 124 = ___ C + ___ D + ___ U.
-- **ENT10-02** Complète : 236 = ___ C + ___ D + ___ U.
-- **ENT10-03** Complète : 347 = ___ C + ___ D + ___ U.
-- **ENT10-04** Complète : 458 = ___ C + ___ D + ___ U.
-- **ENT10-05** Complète : 569 = ___ C + ___ D + ___ U.
+### Entraînement 10
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
 
-- **EVAL01-01** Complète : 347 = ___ C + ___ D + ___ U.
-- **EVAL01-02** Complète : 458 = ___ C + ___ D + ___ U.
-- **EVAL01-03** Complète : 569 = ___ C + ___ D + ___ U.
-- **EVAL01-04** Complète : 672 = ___ C + ___ D + ___ U.
-- **EVAL01-05** Complète : 781 = ___ C + ___ D + ___ U.
+### Évaluation 2
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
 
-### EVAL02
+### Évaluation 3
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
 
-- **EVAL02-01** Complète : 569 = ___ C + ___ D + ___ U.
-- **EVAL02-02** Complète : 672 = ___ C + ___ D + ___ U.
-- **EVAL02-03** Complète : 781 = ___ C + ___ D + ___ U.
-- **EVAL02-04** Complète : 804 = ___ C + ___ D + ___ U.
-- **EVAL02-05** Complète : 915 = ___ C + ___ D + ___ U.
+### Évaluation 4
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
 
-### EVAL03
+### Évaluation 5
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
 
-- **EVAL03-01** Complète : 781 = ___ C + ___ D + ___ U.
-- **EVAL03-02** Complète : 804 = ___ C + ___ D + ___ U.
-- **EVAL03-03** Complète : 915 = ___ C + ___ D + ___ U.
-- **EVAL03-04** Complète : 990 = ___ C + ___ D + ___ U.
-- **EVAL03-05** Complète : 124 = ___ C + ___ D + ___ U.
+### Évaluation 6
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
 
-### EVAL04
+### Évaluation 7
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
 
-- **EVAL04-01** Complète : 915 = ___ C + ___ D + ___ U.
-- **EVAL04-02** Complète : 990 = ___ C + ___ D + ___ U.
-- **EVAL04-03** Complète : 124 = ___ C + ___ D + ___ U.
-- **EVAL04-04** Complète : 236 = ___ C + ___ D + ___ U.
-- **EVAL04-05** Complète : 347 = ___ C + ___ D + ___ U.
+### Évaluation 8
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
 
-### EVAL05
+### Évaluation 9
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
 
-- **EVAL05-01** Complète : 124 = ___ C + ___ D + ___ U.
-- **EVAL05-02** Complète : 236 = ___ C + ___ D + ___ U.
-- **EVAL05-03** Complète : 347 = ___ C + ___ D + ___ U.
-- **EVAL05-04** Complète : 458 = ___ C + ___ D + ___ U.
-- **EVAL05-05** Complète : 569 = ___ C + ___ D + ___ U.
-
-### EVAL06
-
-- **EVAL06-01** Complète : 347 = ___ C + ___ D + ___ U.
-- **EVAL06-02** Complète : 458 = ___ C + ___ D + ___ U.
-- **EVAL06-03** Complète : 569 = ___ C + ___ D + ___ U.
-- **EVAL06-04** Complète : 672 = ___ C + ___ D + ___ U.
-- **EVAL06-05** Complète : 781 = ___ C + ___ D + ___ U.
-
-### EVAL07
-
-- **EVAL07-01** Complète : 569 = ___ C + ___ D + ___ U.
-- **EVAL07-02** Complète : 672 = ___ C + ___ D + ___ U.
-- **EVAL07-03** Complète : 781 = ___ C + ___ D + ___ U.
-- **EVAL07-04** Complète : 804 = ___ C + ___ D + ___ U.
-- **EVAL07-05** Complète : 915 = ___ C + ___ D + ___ U.
-
-### EVAL08
-
-- **EVAL08-01** Complète : 781 = ___ C + ___ D + ___ U.
-- **EVAL08-02** Complète : 804 = ___ C + ___ D + ___ U.
-- **EVAL08-03** Complète : 915 = ___ C + ___ D + ___ U.
-- **EVAL08-04** Complète : 990 = ___ C + ___ D + ___ U.
-- **EVAL08-05** Complète : 124 = ___ C + ___ D + ___ U.
-
-### EVAL09
-
-- **EVAL09-01** Complète : 915 = ___ C + ___ D + ___ U.
-- **EVAL09-02** Complète : 990 = ___ C + ___ D + ___ U.
-- **EVAL09-03** Complète : 124 = ___ C + ___ D + ___ U.
-- **EVAL09-04** Complète : 236 = ___ C + ___ D + ___ U.
-- **EVAL09-05** Complète : 347 = ___ C + ___ D + ___ U.
-
-### EVAL10
-
-- **EVAL10-01** Complète : 124 = ___ C + ___ D + ___ U.
-- **EVAL10-02** Complète : 236 = ___ C + ___ D + ___ U.
-- **EVAL10-03** Complète : 347 = ___ C + ___ D + ___ U.
-- **EVAL10-04** Complète : 458 = ___ C + ___ D + ___ U.
-- **EVAL10-05** Complète : 569 = ___ C + ___ D + ___ U.
+### Évaluation 10
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
 
-- **DEV01-01** Complète : 236 = ___ C + ___ D + ___ U.
-- **DEV01-02** Complète : 347 = ___ C + ___ D + ___ U.
-- **DEV01-03** Complète : 458 = ___ C + ___ D + ___ U.
-- **DEV01-04** Complète : 569 = ___ C + ___ D + ___ U.
-- **DEV01-05** Complète : 672 = ___ C + ___ D + ___ U.
+### Devoir 2
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
 
-### DEV02
+### Devoir 3
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
 
-- **DEV02-01** Complète : 347 = ___ C + ___ D + ___ U.
-- **DEV02-02** Complète : 458 = ___ C + ___ D + ___ U.
-- **DEV02-03** Complète : 569 = ___ C + ___ D + ___ U.
-- **DEV02-04** Complète : 672 = ___ C + ___ D + ___ U.
-- **DEV02-05** Complète : 781 = ___ C + ___ D + ___ U.
+### Devoir 4
+- Complète : 569 = ___ C + ___ D + ___ U.
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
 
-### DEV03
+### Devoir 5
+- Complète : 672 = ___ C + ___ D + ___ U.
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
 
-- **DEV03-01** Complète : 458 = ___ C + ___ D + ___ U.
-- **DEV03-02** Complète : 569 = ___ C + ___ D + ___ U.
-- **DEV03-03** Complète : 672 = ___ C + ___ D + ___ U.
-- **DEV03-04** Complète : 781 = ___ C + ___ D + ___ U.
-- **DEV03-05** Complète : 804 = ___ C + ___ D + ___ U.
+### Devoir 6
+- Complète : 781 = ___ C + ___ D + ___ U.
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
 
-### DEV04
+### Devoir 7
+- Complète : 804 = ___ C + ___ D + ___ U.
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
 
-- **DEV04-01** Complète : 569 = ___ C + ___ D + ___ U.
-- **DEV04-02** Complète : 672 = ___ C + ___ D + ___ U.
-- **DEV04-03** Complète : 781 = ___ C + ___ D + ___ U.
-- **DEV04-04** Complète : 804 = ___ C + ___ D + ___ U.
-- **DEV04-05** Complète : 915 = ___ C + ___ D + ___ U.
+### Devoir 8
+- Complète : 915 = ___ C + ___ D + ___ U.
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
 
-### DEV05
+### Devoir 9
+- Complète : 990 = ___ C + ___ D + ___ U.
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
 
-- **DEV05-01** Complète : 672 = ___ C + ___ D + ___ U.
-- **DEV05-02** Complète : 781 = ___ C + ___ D + ___ U.
-- **DEV05-03** Complète : 804 = ___ C + ___ D + ___ U.
-- **DEV05-04** Complète : 915 = ___ C + ___ D + ___ U.
-- **DEV05-05** Complète : 990 = ___ C + ___ D + ___ U.
-
-### DEV06
-
-- **DEV06-01** Complète : 781 = ___ C + ___ D + ___ U.
-- **DEV06-02** Complète : 804 = ___ C + ___ D + ___ U.
-- **DEV06-03** Complète : 915 = ___ C + ___ D + ___ U.
-- **DEV06-04** Complète : 990 = ___ C + ___ D + ___ U.
-- **DEV06-05** Complète : 124 = ___ C + ___ D + ___ U.
-
-### DEV07
-
-- **DEV07-01** Complète : 804 = ___ C + ___ D + ___ U.
-- **DEV07-02** Complète : 915 = ___ C + ___ D + ___ U.
-- **DEV07-03** Complète : 990 = ___ C + ___ D + ___ U.
-- **DEV07-04** Complète : 124 = ___ C + ___ D + ___ U.
-- **DEV07-05** Complète : 236 = ___ C + ___ D + ___ U.
-
-### DEV08
-
-- **DEV08-01** Complète : 915 = ___ C + ___ D + ___ U.
-- **DEV08-02** Complète : 990 = ___ C + ___ D + ___ U.
-- **DEV08-03** Complète : 124 = ___ C + ___ D + ___ U.
-- **DEV08-04** Complète : 236 = ___ C + ___ D + ___ U.
-- **DEV08-05** Complète : 347 = ___ C + ___ D + ___ U.
-
-### DEV09
-
-- **DEV09-01** Complète : 990 = ___ C + ___ D + ___ U.
-- **DEV09-02** Complète : 124 = ___ C + ___ D + ___ U.
-- **DEV09-03** Complète : 236 = ___ C + ___ D + ___ U.
-- **DEV09-04** Complète : 347 = ___ C + ___ D + ___ U.
-- **DEV09-05** Complète : 458 = ___ C + ___ D + ___ U.
-
-### DEV10
-
-- **DEV10-01** Complète : 124 = ___ C + ___ D + ___ U.
-- **DEV10-02** Complète : 236 = ___ C + ___ D + ___ U.
-- **DEV10-03** Complète : 347 = ___ C + ___ D + ___ U.
-- **DEV10-04** Complète : 458 = ___ C + ___ D + ___ U.
-- **DEV10-05** Complète : 569 = ___ C + ___ D + ___ U.
+### Devoir 10
+- Complète : 124 = ___ C + ___ D + ___ U.
+- Complète : 236 = ___ C + ___ D + ___ U.
+- Complète : 347 = ___ C + ___ D + ___ U.
+- Complète : 458 = ___ C + ___ D + ___ U.
+- Complète : 569 = ___ C + ___ D + ___ U.
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 3 C + 4 D + 7 U.
 2. 4 C + 5 D + 8 U.
 3. 5 C + 6 D + 9 U.
 4. 6 C + 8 D + 2 U.
 5. 7 C + 10 D + 1 U.
 
-#### ENT02
-
+#### Entraînement 2
 1. 5 C + 6 D + 9 U.
 2. 6 C + 8 D + 2 U.
 3. 7 C + 10 D + 1 U.
 4. 8 C + 12 D + 4 U.
 5. 9 C + 3 D + 5 U.
 
-#### ENT03
-
+#### Entraînement 3
 1. 7 C + 10 D + 1 U.
 2. 8 C + 12 D + 4 U.
 3. 9 C + 3 D + 5 U.
 4. 9 C + 4 D + 0 U.
 5. 1 C + 2 D + 4 U.
 
-#### ENT04
-
+#### Entraînement 4
 1. 9 C + 3 D + 5 U.
 2. 9 C + 4 D + 0 U.
 3. 1 C + 2 D + 4 U.
 4. 2 C + 3 D + 6 U.
 5. 3 C + 4 D + 7 U.
 
-#### ENT05
-
+#### Entraînement 5
 1. 1 C + 2 D + 4 U.
 2. 2 C + 3 D + 6 U.
 3. 3 C + 4 D + 7 U.
 4. 4 C + 5 D + 8 U.
 5. 5 C + 6 D + 9 U.
 
-#### ENT06
-
+#### Entraînement 6
 1. 3 C + 4 D + 7 U.
 2. 4 C + 5 D + 8 U.
 3. 5 C + 6 D + 9 U.
 4. 6 C + 8 D + 2 U.
 5. 7 C + 10 D + 1 U.
 
-#### ENT07
-
+#### Entraînement 7
 1. 5 C + 6 D + 9 U.
 2. 6 C + 8 D + 2 U.
 3. 7 C + 10 D + 1 U.
 4. 8 C + 12 D + 4 U.
 5. 9 C + 3 D + 5 U.
 
-#### ENT08
-
+#### Entraînement 8
 1. 7 C + 10 D + 1 U.
 2. 8 C + 12 D + 4 U.
 3. 9 C + 3 D + 5 U.
 4. 9 C + 4 D + 0 U.
 5. 1 C + 2 D + 4 U.
 
-#### ENT09
-
+#### Entraînement 9
 1. 9 C + 3 D + 5 U.
 2. 9 C + 4 D + 0 U.
 3. 1 C + 2 D + 4 U.
 4. 2 C + 3 D + 6 U.
 5. 3 C + 4 D + 7 U.
 
-#### ENT10
-
+#### Entraînement 10
 1. 1 C + 2 D + 4 U.
 2. 2 C + 3 D + 6 U.
 3. 3 C + 4 D + 7 U.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 3 C + 4 D + 7 U.
 2. 4 C + 5 D + 8 U.
 3. 5 C + 6 D + 9 U.
 4. 6 C + 8 D + 2 U.
 5. 7 C + 10 D + 1 U.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 5 C + 6 D + 9 U.
 2. 6 C + 8 D + 2 U.
 3. 7 C + 10 D + 1 U.
 4. 8 C + 12 D + 4 U.
 5. 9 C + 3 D + 5 U.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 7 C + 10 D + 1 U.
 2. 8 C + 12 D + 4 U.
 3. 9 C + 3 D + 5 U.
 4. 9 C + 4 D + 0 U.
 5. 1 C + 2 D + 4 U.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 9 C + 3 D + 5 U.
 2. 9 C + 4 D + 0 U.
 3. 1 C + 2 D + 4 U.
 4. 2 C + 3 D + 6 U.
 5. 3 C + 4 D + 7 U.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 1 C + 2 D + 4 U.
 2. 2 C + 3 D + 6 U.
 3. 3 C + 4 D + 7 U.
 4. 4 C + 5 D + 8 U.
 5. 5 C + 6 D + 9 U.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 3 C + 4 D + 7 U.
 2. 4 C + 5 D + 8 U.
 3. 5 C + 6 D + 9 U.
 4. 6 C + 8 D + 2 U.
 5. 7 C + 10 D + 1 U.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 5 C + 6 D + 9 U.
 2. 6 C + 8 D + 2 U.
 3. 7 C + 10 D + 1 U.
 4. 8 C + 12 D + 4 U.
 5. 9 C + 3 D + 5 U.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 7 C + 10 D + 1 U.
 2. 8 C + 12 D + 4 U.
 3. 9 C + 3 D + 5 U.
 4. 9 C + 4 D + 0 U.
 5. 1 C + 2 D + 4 U.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 9 C + 3 D + 5 U.
 2. 9 C + 4 D + 0 U.
 3. 1 C + 2 D + 4 U.
 4. 2 C + 3 D + 6 U.
 5. 3 C + 4 D + 7 U.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 1 C + 2 D + 4 U.
 2. 2 C + 3 D + 6 U.
 3. 3 C + 4 D + 7 U.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 2 C + 3 D + 6 U.
 2. 3 C + 4 D + 7 U.
 3. 4 C + 5 D + 8 U.
 4. 5 C + 6 D + 9 U.
 5. 6 C + 8 D + 2 U.
 
-#### DEV02
-
+#### Devoir 2
 1. 3 C + 4 D + 7 U.
 2. 4 C + 5 D + 8 U.
 3. 5 C + 6 D + 9 U.
 4. 6 C + 8 D + 2 U.
 5. 7 C + 10 D + 1 U.
 
-#### DEV03
-
+#### Devoir 3
 1. 4 C + 5 D + 8 U.
 2. 5 C + 6 D + 9 U.
 3. 6 C + 8 D + 2 U.
 4. 7 C + 10 D + 1 U.
 5. 8 C + 12 D + 4 U.
 
-#### DEV04
-
+#### Devoir 4
 1. 5 C + 6 D + 9 U.
 2. 6 C + 8 D + 2 U.
 3. 7 C + 10 D + 1 U.
 4. 8 C + 12 D + 4 U.
 5. 9 C + 3 D + 5 U.
 
-#### DEV05
-
+#### Devoir 5
 1. 6 C + 8 D + 2 U.
 2. 7 C + 10 D + 1 U.
 3. 8 C + 12 D + 4 U.
 4. 9 C + 3 D + 5 U.
 5. 9 C + 4 D + 0 U.
 
-#### DEV06
-
+#### Devoir 6
 1. 7 C + 10 D + 1 U.
 2. 8 C + 12 D + 4 U.
 3. 9 C + 3 D + 5 U.
 4. 9 C + 4 D + 0 U.
 5. 1 C + 2 D + 4 U.
 
-#### DEV07
-
+#### Devoir 7
 1. 8 C + 12 D + 4 U.
 2. 9 C + 3 D + 5 U.
 3. 9 C + 4 D + 0 U.
 4. 1 C + 2 D + 4 U.
 5. 2 C + 3 D + 6 U.
 
-#### DEV08
-
+#### Devoir 8
 1. 9 C + 3 D + 5 U.
 2. 9 C + 4 D + 0 U.
 3. 1 C + 2 D + 4 U.
 4. 2 C + 3 D + 6 U.
 5. 3 C + 4 D + 7 U.
 
-#### DEV09
-
+#### Devoir 9
 1. 9 C + 4 D + 0 U.
 2. 1 C + 2 D + 4 U.
 3. 2 C + 3 D + 6 U.
 4. 3 C + 4 D + 7 U.
 5. 4 C + 5 D + 8 U.
 
-#### DEV10
-
+#### Devoir 10
 1. 1 C + 2 D + 4 U.
 2. 2 C + 3 D + 6 U.
 3. 3 C + 4 D + 7 U.

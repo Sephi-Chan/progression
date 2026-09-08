@@ -68,8 +68,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 ## Modelage explicite — 3 items
 
-### MOD01 — Modelage complet
-
+### Modelage 1 — Modelage complet
 **Énoncé :** lina ouvre la porte le chat entre
 
 - **Attention d’abord :** Je cherche où se termine la première idée complète.
@@ -77,8 +76,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Lina ouvre la porte. Le chat entre.
 - **Contrôle final :** Il y a deux idées, deux majuscules et deux points.
 
-### MOD02 — Modelage interactif
-
+### Modelage 2 — Modelage interactif
 **Énoncé :** malo range ses crayons la cloche sonne
 
 - **Attention d’abord :** Combien d’actions complètes entend-on ?
@@ -86,8 +84,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Malo range ses crayons. La cloche sonne.
 - **Contrôle final :** Chaque phrase peut être lue seule.
 
-### MOD03 — Guidage allégé
-
+### Modelage 3 — Guidage allégé
 **Énoncé :** la pluie tombe le chien rentre dans sa niche le tapis reste sec
 
 - **Attention d’abord :** Marquez d’abord les pauses possibles.
@@ -99,13 +96,13 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **IMM01** lina ouvre la porte le chien apporte la balle
-- **IMM02** malo range ses crayons le soleil éclaire la classe
-- **IMM03** les enfants jouent dans la cour la cloche sonne à midi
-- **IMM04** nina lit un album le bateau quitte le port
-- **IMM05** papa prépare le repas le facteur apporte une lettre
-- **IMM06** une abeille visite la fleur le vent pousse les nuages
-- **IMM07** la tortue avance lentement le train arrive en gare
+- lina ouvre la porte le chien apporte la balle
+- malo range ses crayons le soleil éclaire la classe
+- les enfants jouent dans la cour la cloche sonne à midi
+- nina lit un album le bateau quitte le port
+- papa prépare le repas le facteur apporte une lettre
+- une abeille visite la fleur le vent pousse les nuages
+- la tortue avance lentement le train arrive en gare
 
 ## Variables didactiques
 
@@ -136,562 +133,502 @@ Recopie le texte en ajoutant les majuscules et les points.
 ## Entraînements
 
 
-### ENT01
-
+### Entraînement 1
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT01-01** lina ouvre la porte le soleil éclaire la classe
-- **ENT01-02** la pluie tombe doucement une abeille visite la fleur
-- **ENT01-03** nina lit un album le facteur apporte une lettre
-- **ENT01-04** la cloche sonne à midi la souris mange du fromage
-- **ENT01-05** la tortue avance lentement la lampe éclaire la pièce
-- **ENT01-06** le vent pousse les nuages le poisson nage dans le bassin
+- lina ouvre la porte le soleil éclaire la classe
+- la pluie tombe doucement une abeille visite la fleur
+- nina lit un album le facteur apporte une lettre
+- la cloche sonne à midi la souris mange du fromage
+- la tortue avance lentement la lampe éclaire la pièce
+- le vent pousse les nuages le poisson nage dans le bassin
 
-### ENT02
-
+### Entraînement 2
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT02-01** le chien apporte la balle la tortue avance lentement
-- **ENT02-02** papa prépare le repas le vent pousse les nuages
-- **ENT02-03** le bateau quitte le port le bébé boit son lait
-- **ENT02-04** zoé ferme son cahier maman arrose les plantes
-- **ENT02-05** le train arrive en gare le camion tourne au coin de la rue
-- **ENT02-06** le lapin saute dans l’herbe malo range ses crayons
+- le chien apporte la balle la tortue avance lentement
+- papa prépare le repas le vent pousse les nuages
+- le bateau quitte le port le bébé boit son lait
+- zoé ferme son cahier maman arrose les plantes
+- le train arrive en gare le camion tourne au coin de la rue
+- le lapin saute dans l’herbe malo range ses crayons
 
-### ENT03
-
+### Entraînement 3
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT03-01** une abeille visite la fleur le train arrive en gare
-- **ENT03-02** le facteur apporte une lettre le lapin saute dans l’herbe
-- **ENT03-03** la souris mange du fromage la maîtresse raconte une histoire
-- **ENT03-04** la lampe éclaire la pièce le chat dort sur le tapis
-- **ENT03-05** le poisson nage dans le bassin les enfants jouent dans la cour
-- **ENT03-06** lina ouvre la porte le soleil éclaire la classe
+- une abeille visite la fleur le train arrive en gare
+- le facteur apporte une lettre le lapin saute dans l’herbe
+- la souris mange du fromage la maîtresse raconte une histoire
+- la lampe éclaire la pièce le chat dort sur le tapis
+- le poisson nage dans le bassin les enfants jouent dans la cour
+- lina ouvre la porte le soleil éclaire la classe
 
-### ENT04
-
+### Entraînement 4
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT04-01** le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
-- **ENT04-02** le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
-- **ENT04-03** maman arrose les plantes la pluie tombe doucement une abeille visite la fleur
-- **ENT04-04** le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
-- **ENT04-05** malo range ses crayons la cloche sonne à midi la souris mange du fromage
-- **ENT04-06** le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
+- le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
+- le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
+- maman arrose les plantes la pluie tombe doucement une abeille visite la fleur
+- le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
+- malo range ses crayons la cloche sonne à midi la souris mange du fromage
+- le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
 
-### ENT05
-
+### Entraînement 5
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT05-01** le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
-- **ENT05-02** la maîtresse raconte une histoire le chien apporte la balle la tortue avance lentement
-- **ENT05-03** le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
-- **ENT05-04** les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait
-- **ENT05-05** le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
-- **ENT05-06** une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue
+- le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
+- la maîtresse raconte une histoire le chien apporte la balle la tortue avance lentement
+- le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
+- les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait
+- le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
+- une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue
 
-### ENT06
-
+### Entraînement 6
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT06-01** lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
-- **ENT06-02** la pluie tombe doucement une abeille visite la fleur le train arrive en gare
-- **ENT06-03** nina lit un album le facteur apporte une lettre le lapin saute dans l’herbe
-- **ENT06-04** la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
-- **ENT06-05** la tortue avance lentement la lampe éclaire la pièce le chat dort sur le tapis
-- **ENT06-06** le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
+- lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
+- la pluie tombe doucement une abeille visite la fleur le train arrive en gare
+- nina lit un album le facteur apporte une lettre le lapin saute dans l’herbe
+- la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
+- la tortue avance lentement la lampe éclaire la pièce le chat dort sur le tapis
+- le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
 
-### ENT07
-
+### Entraînement 7
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT07-01** le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
-- **ENT07-02** papa prépare le repas le vent pousse les nuages le poisson nage dans le bassin
-- **ENT07-03** le bateau quitte le port le bébé boit son lait lina ouvre la porte
-- **ENT07-04** zoé ferme son cahier maman arrose les plantes la pluie tombe doucement
-- **ENT07-05** le train arrive en gare le camion tourne au coin de la rue nina lit un album
-- **ENT07-06** le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
+- le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
+- papa prépare le repas le vent pousse les nuages le poisson nage dans le bassin
+- le bateau quitte le port le bébé boit son lait lina ouvre la porte
+- zoé ferme son cahier maman arrose les plantes la pluie tombe doucement
+- le train arrive en gare le camion tourne au coin de la rue nina lit un album
+- le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
 
-### ENT08
-
+### Entraînement 8
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT08-01** une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
-- **ENT08-02** le facteur apporte une lettre le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
-- **ENT08-03** la souris mange du fromage la maîtresse raconte une histoire le chien apporte la balle la tortue avance lentement
-- **ENT08-04** la lampe éclaire la pièce le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
-- **ENT08-05** le poisson nage dans le bassin les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait
-- **ENT08-06** lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
+- une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
+- le facteur apporte une lettre le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
+- la souris mange du fromage la maîtresse raconte une histoire le chien apporte la balle la tortue avance lentement
+- la lampe éclaire la pièce le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
+- le poisson nage dans le bassin les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait
+- lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
 
-### ENT09
-
+### Entraînement 9
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT09-01** le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour le bateau quitte le port
-- **ENT09-02** le bébé boit son lait lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
-- **ENT09-03** maman arrose les plantes la pluie tombe doucement une abeille visite la fleur le train arrive en gare
-- **ENT09-04** le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre le lapin saute dans l’herbe
-- **ENT09-05** malo range ses crayons la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
-- **ENT09-06** le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce le chat dort sur le tapis
+- le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour le bateau quitte le port
+- le bébé boit son lait lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
+- maman arrose les plantes la pluie tombe doucement une abeille visite la fleur le train arrive en gare
+- le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre le lapin saute dans l’herbe
+- malo range ses crayons la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
+- le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce le chat dort sur le tapis
 
-### ENT10
-
+### Entraînement 10
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **ENT10-01** le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi la souris mange du fromage
-- **ENT10-02** la maîtresse raconte une histoire le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
-- **ENT10-03** le chat dort sur le tapis papa prépare le repas le vent pousse les nuages le poisson nage dans le bassin
-- **ENT10-04** les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait lina ouvre la porte
-- **ENT10-05** le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes la pluie tombe doucement
-- **ENT10-06** une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
+- le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi la souris mange du fromage
+- la maîtresse raconte une histoire le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
+- le chat dort sur le tapis papa prépare le repas le vent pousse les nuages le poisson nage dans le bassin
+- les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait lina ouvre la porte
+- le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes la pluie tombe doucement
+- une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
 
 ## Évaluations
 
 
-### EVAL01
-
+### Évaluation 1
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL01-01** lina ouvre la porte le soleil éclaire la classe
-- **EVAL01-02** le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
-- **EVAL01-03** le bateau quitte le port le bébé boit son lait lina ouvre la porte
-- **EVAL01-04** aujourd’hui lina ouvre la porte le soleil éclaire la classe
-- **EVAL01-05** sami lace ses chaussures la classe part en récréation
+- lina ouvre la porte le soleil éclaire la classe
+- le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
+- le bateau quitte le port le bébé boit son lait lina ouvre la porte
+- aujourd’hui lina ouvre la porte le soleil éclaire la classe
+- sami lace ses chaussures la classe part en récréation
 
-### EVAL02
-
+### Évaluation 2
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL02-01** papa prépare le repas le vent pousse les nuages
-- **EVAL02-02** le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
-- **EVAL02-03** la lampe éclaire la pièce le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
-- **EVAL02-04** aujourd’hui le chien apporte la balle la tortue avance lentement
-- **EVAL02-05** le coq chante le jour commence
+- papa prépare le repas le vent pousse les nuages
+- le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
+- la lampe éclaire la pièce le chat dort sur le tapis papa prépare le repas le vent pousse les nuages
+- aujourd’hui le chien apporte la balle la tortue avance lentement
+- le coq chante le jour commence
 
-### EVAL03
-
+### Évaluation 3
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL03-01** la souris mange du fromage la maîtresse raconte une histoire
-- **EVAL03-02** la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
-- **EVAL03-03** malo range ses crayons la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
-- **EVAL03-04** aujourd’hui une abeille visite la fleur le train arrive en gare
-- **EVAL03-05** nora pose son sac elle s’assoit
+- la souris mange du fromage la maîtresse raconte une histoire
+- la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
+- malo range ses crayons la cloche sonne à midi la souris mange du fromage la maîtresse raconte une histoire
+- aujourd’hui une abeille visite la fleur le train arrive en gare
+- nora pose son sac elle s’assoit
 
-### EVAL04
-
+### Évaluation 4
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL04-01** le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
-- **EVAL04-02** le train arrive en gare le camion tourne au coin de la rue nina lit un album
-- **EVAL04-03** une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
-- **EVAL04-04** aujourd’hui le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
-- **EVAL04-05** la neige couvre le toit les rues deviennent blanches
+- le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
+- le train arrive en gare le camion tourne au coin de la rue nina lit un album
+- une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
+- aujourd’hui le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
+- la neige couvre le toit les rues deviennent blanches
 
-### EVAL05
-
+### Évaluation 5
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL05-01** le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
-- **EVAL05-02** lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
-- **EVAL05-03** le chien apporte la balle la tortue avance lentement
-- **EVAL05-04** aujourd’hui le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
-- **EVAL05-05** le jardinier ouvre le portail les visiteurs entrent
+- le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
+- lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier maman arrose les plantes
+- le chien apporte la balle la tortue avance lentement
+- aujourd’hui le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
+- le jardinier ouvre le portail les visiteurs entrent
 
-### EVAL06
-
+### Évaluation 6
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL06-01** le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
-- **EVAL06-02** le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi la souris mange du fromage
-- **EVAL06-03** le facteur apporte une lettre le lapin saute dans l’herbe
-- **EVAL06-04** aujourd’hui lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
-- **EVAL06-05** un canard plonge des ronds se forment sur l’eau
+- le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
+- le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi la souris mange du fromage
+- le facteur apporte une lettre le lapin saute dans l’herbe
+- aujourd’hui lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
+- un canard plonge des ronds se forment sur l’eau
 
-### EVAL07
-
+### Évaluation 7
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL07-01** une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
-- **EVAL07-02** la pluie tombe doucement une abeille visite la fleur
-- **EVAL07-03** maman arrose les plantes la pluie tombe doucement une abeille visite la fleur
-- **EVAL07-04** aujourd’hui le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
-- **EVAL07-05** la bougie éclaire la table son ombre danse sur le mur
+- une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
+- la pluie tombe doucement une abeille visite la fleur
+- maman arrose les plantes la pluie tombe doucement une abeille visite la fleur
+- aujourd’hui le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
+- la bougie éclaire la table son ombre danse sur le mur
 
-### EVAL08
-
+### Évaluation 8
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL08-01** le bébé boit son lait lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
-- **EVAL08-02** le bateau quitte le port le bébé boit son lait
-- **EVAL08-03** les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait
-- **EVAL08-04** aujourd’hui une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
-- **EVAL08-05** le coureur franchit la ligne ses amis applaudissent
+- le bébé boit son lait lina ouvre la porte le soleil éclaire la classe zoé ferme son cahier
+- le bateau quitte le port le bébé boit son lait
+- les enfants jouent dans la cour le bateau quitte le port le bébé boit son lait
+- aujourd’hui une abeille visite la fleur le train arrive en gare le camion tourne au coin de la rue nina lit un album
+- le coureur franchit la ligne ses amis applaudissent
 
-### EVAL09
-
+### Évaluation 9
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL09-01** le chat dort sur le tapis papa prépare le repas le vent pousse les nuages le poisson nage dans le bassin
-- **EVAL09-02** la lampe éclaire la pièce le chat dort sur le tapis
-- **EVAL09-03** la tortue avance lentement la lampe éclaire la pièce le chat dort sur le tapis
-- **EVAL09-04** aujourd’hui le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour le bateau quitte le port
-- **EVAL09-05** le livre tombe tom le ramasse
+- le chat dort sur le tapis papa prépare le repas le vent pousse les nuages le poisson nage dans le bassin
+- la lampe éclaire la pièce le chat dort sur le tapis
+- la tortue avance lentement la lampe éclaire la pièce le chat dort sur le tapis
+- aujourd’hui le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour le bateau quitte le port
+- le livre tombe tom le ramasse
 
-### EVAL10
-
+### Évaluation 10
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **EVAL10-01** la cloche sonne à midi la souris mange du fromage
-- **EVAL10-02** malo range ses crayons la cloche sonne à midi la souris mange du fromage
-- **EVAL10-03** le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
-- **EVAL10-04** aujourd’hui le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi la souris mange du fromage
-- **EVAL10-05** la lune apparaît les étoiles brillent
+- la cloche sonne à midi la souris mange du fromage
+- malo range ses crayons la cloche sonne à midi la souris mange du fromage
+- le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi
+- aujourd’hui le lapin saute dans l’herbe malo range ses crayons la cloche sonne à midi la souris mange du fromage
+- la lune apparaît les étoiles brillent
 
 ## Devoirs
 
 
-### DEV01
-
+### Devoir 1
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV01-01** lina ouvre la porte le soleil éclaire la classe
-- **DEV01-02** papa prépare le repas le vent pousse les nuages
-- **DEV01-03** la souris mange du fromage la maîtresse raconte une histoire
-- **DEV01-04** le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
-- **DEV01-05** la tortue avance lentement la lampe éclaire la pièce
+- lina ouvre la porte le soleil éclaire la classe
+- papa prépare le repas le vent pousse les nuages
+- la souris mange du fromage la maîtresse raconte une histoire
+- le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
+- la tortue avance lentement la lampe éclaire la pièce
 
-### DEV02
-
+### Devoir 2
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV02-01** la cloche sonne à midi la souris mange du fromage
-- **DEV02-02** le train arrive en gare le camion tourne au coin de la rue
-- **DEV02-03** lina ouvre la porte le soleil éclaire la classe
-- **DEV02-04** papa prépare le repas le vent pousse les nuages
-- **DEV02-05** la souris mange du fromage la maîtresse raconte une histoire
+- la cloche sonne à midi la souris mange du fromage
+- le train arrive en gare le camion tourne au coin de la rue
+- lina ouvre la porte le soleil éclaire la classe
+- papa prépare le repas le vent pousse les nuages
+- la souris mange du fromage la maîtresse raconte une histoire
 
-### DEV03
-
+### Devoir 3
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV03-01** le chien apporte la balle la tortue avance lentement
-- **DEV03-02** le facteur apporte une lettre le lapin saute dans l’herbe
-- **DEV03-03** maman arrose les plantes la pluie tombe doucement une abeille visite la fleur
-- **DEV03-04** la cloche sonne à midi la souris mange du fromage
-- **DEV03-05** le train arrive en gare le camion tourne au coin de la rue
+- le chien apporte la balle la tortue avance lentement
+- le facteur apporte une lettre le lapin saute dans l’herbe
+- maman arrose les plantes la pluie tombe doucement une abeille visite la fleur
+- la cloche sonne à midi la souris mange du fromage
+- le train arrive en gare le camion tourne au coin de la rue
 
-### DEV04
-
+### Devoir 4
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV04-01** zoé ferme son cahier maman arrose les plantes
-- **DEV04-02** le poisson nage dans le bassin les enfants jouent dans la cour
-- **DEV04-03** le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
-- **DEV04-04** le chien apporte la balle la tortue avance lentement
-- **DEV04-05** le facteur apporte une lettre le lapin saute dans l’herbe
+- zoé ferme son cahier maman arrose les plantes
+- le poisson nage dans le bassin les enfants jouent dans la cour
+- le chien apporte la balle la tortue avance lentement la lampe éclaire la pièce
+- le chien apporte la balle la tortue avance lentement
+- le facteur apporte une lettre le lapin saute dans l’herbe
 
-### DEV05
-
+### Devoir 5
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV05-01** une abeille visite la fleur le train arrive en gare
-- **DEV05-02** le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
-- **DEV05-03** nina lit un album le facteur apporte une lettre
-- **DEV05-04** zoé ferme son cahier maman arrose les plantes
-- **DEV05-05** le poisson nage dans le bassin les enfants jouent dans la cour
+- une abeille visite la fleur le train arrive en gare
+- le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
+- nina lit un album le facteur apporte une lettre
+- zoé ferme son cahier maman arrose les plantes
+- le poisson nage dans le bassin les enfants jouent dans la cour
 
-### DEV06
-
+### Devoir 6
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV06-01** la lampe éclaire la pièce le chat dort sur le tapis
-- **DEV06-02** malo range ses crayons la cloche sonne à midi la souris mange du fromage
-- **DEV06-03** le vent pousse les nuages le poisson nage dans le bassin
-- **DEV06-04** une abeille visite la fleur le train arrive en gare
-- **DEV06-05** le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
+- la lampe éclaire la pièce le chat dort sur le tapis
+- malo range ses crayons la cloche sonne à midi la souris mange du fromage
+- le vent pousse les nuages le poisson nage dans le bassin
+- une abeille visite la fleur le train arrive en gare
+- le bébé boit son lait lina ouvre la porte le soleil éclaire la classe
 
-### DEV07
-
+### Devoir 7
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV07-01** le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
-- **DEV07-02** la pluie tombe doucement une abeille visite la fleur
-- **DEV07-03** le bateau quitte le port le bébé boit son lait
-- **DEV07-04** la lampe éclaire la pièce le chat dort sur le tapis
-- **DEV07-05** malo range ses crayons la cloche sonne à midi la souris mange du fromage
+- le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
+- la pluie tombe doucement une abeille visite la fleur
+- le bateau quitte le port le bébé boit son lait
+- la lampe éclaire la pièce le chat dort sur le tapis
+- malo range ses crayons la cloche sonne à midi la souris mange du fromage
 
-### DEV08
-
+### Devoir 8
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV08-01** le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
-- **DEV08-02** la tortue avance lentement la lampe éclaire la pièce
-- **DEV08-03** le lapin saute dans l’herbe malo range ses crayons
-- **DEV08-04** le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
-- **DEV08-05** la pluie tombe doucement une abeille visite la fleur
+- le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
+- la tortue avance lentement la lampe éclaire la pièce
+- le lapin saute dans l’herbe malo range ses crayons
+- le vent pousse les nuages le poisson nage dans le bassin les enfants jouent dans la cour
+- la pluie tombe doucement une abeille visite la fleur
 
-### DEV09
-
+### Devoir 9
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV09-01** lina ouvre la porte le soleil éclaire la classe
-- **DEV09-02** papa prépare le repas le vent pousse les nuages
-- **DEV09-03** la souris mange du fromage la maîtresse raconte une histoire
-- **DEV09-04** le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
-- **DEV09-05** la tortue avance lentement la lampe éclaire la pièce
+- lina ouvre la porte le soleil éclaire la classe
+- papa prépare le repas le vent pousse les nuages
+- la souris mange du fromage la maîtresse raconte une histoire
+- le camion tourne au coin de la rue nina lit un album le facteur apporte une lettre
+- la tortue avance lentement la lampe éclaire la pièce
 
-### DEV10
-
+### Devoir 10
 Recopie le texte en ajoutant les majuscules et les points.
 
-- **DEV10-01** la cloche sonne à midi la souris mange du fromage
-- **DEV10-02** le train arrive en gare le camion tourne au coin de la rue
-- **DEV10-03** lina ouvre la porte le soleil éclaire la classe
-- **DEV10-04** papa prépare le repas le vent pousse les nuages
-- **DEV10-05** la souris mange du fromage la maîtresse raconte une histoire
+- la cloche sonne à midi la souris mange du fromage
+- le train arrive en gare le camion tourne au coin de la rue
+- lina ouvre la porte le soleil éclaire la classe
+- papa prépare le repas le vent pousse les nuages
+- la souris mange du fromage la maîtresse raconte une histoire
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — Lina ouvre la porte. Le chien apporte la balle.
-2. **IMM02** — Malo range ses crayons. Le soleil éclaire la classe.
-3. **IMM03** — Les enfants jouent dans la cour. La cloche sonne à midi.
-4. **IMM04** — Nina lit un album. Le bateau quitte le port.
-5. **IMM05** — Papa prépare le repas. Le facteur apporte une lettre.
-6. **IMM06** — Une abeille visite la fleur. Le vent pousse les nuages.
-7. **IMM07** — La tortue avance lentement. Le train arrive en gare.
+1. — Lina ouvre la porte. Le chien apporte la balle.
+2. — Malo range ses crayons. Le soleil éclaire la classe.
+3. — Les enfants jouent dans la cour. La cloche sonne à midi.
+4. — Nina lit un album. Le bateau quitte le port.
+5. — Papa prépare le repas. Le facteur apporte une lettre.
+6. — Une abeille visite la fleur. Le vent pousse les nuages.
+7. — La tortue avance lentement. Le train arrive en gare.
 
 ### Corrections des entraînements
 
 
-#### ENT01
-1. **ENT01-01** — Lina ouvre la porte. Le soleil éclaire la classe.
-2. **ENT01-02** — La pluie tombe doucement. Une abeille visite la fleur.
-3. **ENT01-03** — Nina lit un album. Le facteur apporte une lettre.
-4. **ENT01-04** — La cloche sonne à midi. La souris mange du fromage.
-5. **ENT01-05** — La tortue avance lentement. La lampe éclaire la pièce.
-6. **ENT01-06** — Le vent pousse les nuages. Le poisson nage dans le bassin.
+#### Entraînement 11. **ENT01-01** — Lina ouvre la porte. Le soleil éclaire la classe.
+2. — La pluie tombe doucement. Une abeille visite la fleur.
+3. — Nina lit un album. Le facteur apporte une lettre.
+4. — La cloche sonne à midi. La souris mange du fromage.
+5. — La tortue avance lentement. La lampe éclaire la pièce.
+6. — Le vent pousse les nuages. Le poisson nage dans le bassin.
 
-#### ENT02
-1. **ENT02-01** — Le chien apporte la balle. La tortue avance lentement.
-2. **ENT02-02** — Papa prépare le repas. Le vent pousse les nuages.
-3. **ENT02-03** — Le bateau quitte le port. Le bébé boit son lait.
-4. **ENT02-04** — Zoé ferme son cahier. Maman arrose les plantes.
-5. **ENT02-05** — Le train arrive en gare. Le camion tourne au coin de la rue.
-6. **ENT02-06** — Le lapin saute dans l’herbe. Malo range ses crayons.
+#### Entraînement 21. **ENT02-01** — Le chien apporte la balle. La tortue avance lentement.
+2. — Papa prépare le repas. Le vent pousse les nuages.
+3. — Le bateau quitte le port. Le bébé boit son lait.
+4. — Zoé ferme son cahier. Maman arrose les plantes.
+5. — Le train arrive en gare. Le camion tourne au coin de la rue.
+6. — Le lapin saute dans l’herbe. Malo range ses crayons.
 
-#### ENT03
-1. **ENT03-01** — Une abeille visite la fleur. Le train arrive en gare.
-2. **ENT03-02** — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
-3. **ENT03-03** — La souris mange du fromage. La maîtresse raconte une histoire.
-4. **ENT03-04** — La lampe éclaire la pièce. Le chat dort sur le tapis.
-5. **ENT03-05** — Le poisson nage dans le bassin. Les enfants jouent dans la cour.
-6. **ENT03-06** — Lina ouvre la porte. Le soleil éclaire la classe.
+#### Entraînement 31. **ENT03-01** — Une abeille visite la fleur. Le train arrive en gare.
+2. — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
+3. — La souris mange du fromage. La maîtresse raconte une histoire.
+4. — La lampe éclaire la pièce. Le chat dort sur le tapis.
+5. — Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+6. — Lina ouvre la porte. Le soleil éclaire la classe.
 
-#### ENT04
-1. **ENT04-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
-2. **ENT04-02** — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
-3. **ENT04-03** — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur.
-4. **ENT04-04** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
-5. **ENT04-05** — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
-6. **ENT04-06** — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
+#### Entraînement 41. **ENT04-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+2. — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
+3. — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur.
+4. — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
+5. — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
+6. — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
 
-#### ENT05
-1. **ENT05-01** — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
-2. **ENT05-02** — La maîtresse raconte une histoire. Le chien apporte la balle. La tortue avance lentement.
-3. **ENT05-03** — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
-4. **ENT05-04** — Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait.
-5. **ENT05-05** — Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
-6. **ENT05-06** — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue.
+#### Entraînement 51. **ENT05-01** — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
+2. — La maîtresse raconte une histoire. Le chien apporte la balle. La tortue avance lentement.
+3. — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
+4. — Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait.
+5. — Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
+6. — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue.
 
-#### ENT06
-1. **ENT06-01** — Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
-2. **ENT06-02** — La pluie tombe doucement. Une abeille visite la fleur. Le train arrive en gare.
-3. **ENT06-03** — Nina lit un album. Le facteur apporte une lettre. Le lapin saute dans l’herbe.
-4. **ENT06-04** — La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
-5. **ENT06-05** — La tortue avance lentement. La lampe éclaire la pièce. Le chat dort sur le tapis.
-6. **ENT06-06** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+#### Entraînement 61. **ENT06-01** — Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
+2. — La pluie tombe doucement. Une abeille visite la fleur. Le train arrive en gare.
+3. — Nina lit un album. Le facteur apporte une lettre. Le lapin saute dans l’herbe.
+4. — La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
+5. — La tortue avance lentement. La lampe éclaire la pièce. Le chat dort sur le tapis.
+6. — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
 
-#### ENT07
-1. **ENT07-01** — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
-2. **ENT07-02** — Papa prépare le repas. Le vent pousse les nuages. Le poisson nage dans le bassin.
-3. **ENT07-03** — Le bateau quitte le port. Le bébé boit son lait. Lina ouvre la porte.
-4. **ENT07-04** — Zoé ferme son cahier. Maman arrose les plantes. La pluie tombe doucement.
-5. **ENT07-05** — Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
-6. **ENT07-06** — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
+#### Entraînement 71. **ENT07-01** — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
+2. — Papa prépare le repas. Le vent pousse les nuages. Le poisson nage dans le bassin.
+3. — Le bateau quitte le port. Le bébé boit son lait. Lina ouvre la porte.
+4. — Zoé ferme son cahier. Maman arrose les plantes. La pluie tombe doucement.
+5. — Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
+6. — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
 
-#### ENT08
-1. **ENT08-01** — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
-2. **ENT08-02** — Le facteur apporte une lettre. Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
-3. **ENT08-03** — La souris mange du fromage. La maîtresse raconte une histoire. Le chien apporte la balle. La tortue avance lentement.
-4. **ENT08-04** — La lampe éclaire la pièce. Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
-5. **ENT08-05** — Le poisson nage dans le bassin. Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait.
-6. **ENT08-06** — Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
+#### Entraînement 81. **ENT08-01** — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
+2. — Le facteur apporte une lettre. Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
+3. — La souris mange du fromage. La maîtresse raconte une histoire. Le chien apporte la balle. La tortue avance lentement.
+4. — La lampe éclaire la pièce. Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
+5. — Le poisson nage dans le bassin. Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait.
+6. — Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
 
-#### ENT09
-1. **ENT09-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour. Le bateau quitte le port.
-2. **ENT09-02** — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
-3. **ENT09-03** — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur. Le train arrive en gare.
-4. **ENT09-04** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre. Le lapin saute dans l’herbe.
-5. **ENT09-05** — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
-6. **ENT09-06** — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce. Le chat dort sur le tapis.
+#### Entraînement 91. **ENT09-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour. Le bateau quitte le port.
+2. — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
+3. — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur. Le train arrive en gare.
+4. — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre. Le lapin saute dans l’herbe.
+5. — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
+6. — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce. Le chat dort sur le tapis.
 
-#### ENT10
-1. **ENT10-01** — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
-2. **ENT10-02** — La maîtresse raconte une histoire. Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
-3. **ENT10-03** — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages. Le poisson nage dans le bassin.
-4. **ENT10-04** — Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait. Lina ouvre la porte.
-5. **ENT10-05** — Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes. La pluie tombe doucement.
-6. **ENT10-06** — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
+#### Entraînement 101. **ENT10-01** — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
+2. — La maîtresse raconte une histoire. Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
+3. — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages. Le poisson nage dans le bassin.
+4. — Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait. Lina ouvre la porte.
+5. — Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes. La pluie tombe doucement.
+6. — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
 
 ### Corrections des évaluations
 
 
-#### EVAL01
-1. **EVAL01-01** — Lina ouvre la porte. Le soleil éclaire la classe.
-2. **EVAL01-02** — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
-3. **EVAL01-03** — Le bateau quitte le port. Le bébé boit son lait. Lina ouvre la porte.
-4. **EVAL01-04** — Aujourd’hui lina ouvre la porte. Le soleil éclaire la classe.
-5. **EVAL01-05** — Sami lace ses chaussures. La classe part en récréation.
+#### Évaluation 11. **EVAL01-01** — Lina ouvre la porte. Le soleil éclaire la classe.
+2. — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
+3. — Le bateau quitte le port. Le bébé boit son lait. Lina ouvre la porte.
+4. — Aujourd’hui lina ouvre la porte. Le soleil éclaire la classe.
+5. — Sami lace ses chaussures. La classe part en récréation.
 
-#### EVAL02
-1. **EVAL02-01** — Papa prépare le repas. Le vent pousse les nuages.
-2. **EVAL02-02** — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
-3. **EVAL02-03** — La lampe éclaire la pièce. Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
-4. **EVAL02-04** — Aujourd’hui le chien apporte la balle. La tortue avance lentement.
-5. **EVAL02-05** — Le coq chante. Le jour commence.
+#### Évaluation 21. **EVAL02-01** — Papa prépare le repas. Le vent pousse les nuages.
+2. — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
+3. — La lampe éclaire la pièce. Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages.
+4. — Aujourd’hui le chien apporte la balle. La tortue avance lentement.
+5. — Le coq chante. Le jour commence.
 
-#### EVAL03
-1. **EVAL03-01** — La souris mange du fromage. La maîtresse raconte une histoire.
-2. **EVAL03-02** — La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
-3. **EVAL03-03** — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
-4. **EVAL03-04** — Aujourd’hui une abeille visite la fleur. Le train arrive en gare.
-5. **EVAL03-05** — Nora pose son sac. Elle s’assoit.
+#### Évaluation 31. **EVAL03-01** — La souris mange du fromage. La maîtresse raconte une histoire.
+2. — La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
+3. — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage. La maîtresse raconte une histoire.
+4. — Aujourd’hui une abeille visite la fleur. Le train arrive en gare.
+5. — Nora pose son sac. Elle s’assoit.
 
-#### EVAL04
-1. **EVAL04-01** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
-2. **EVAL04-02** — Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
-3. **EVAL04-03** — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
-4. **EVAL04-04** — Aujourd’hui le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
-5. **EVAL04-05** — La neige couvre le toit. Les rues deviennent blanches.
+#### Évaluation 41. **EVAL04-01** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
+2. — Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
+3. — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
+4. — Aujourd’hui le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+5. — La neige couvre le toit. Les rues deviennent blanches.
 
-#### EVAL05
-1. **EVAL05-01** — Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
-2. **EVAL05-02** — Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
-3. **EVAL05-03** — Le chien apporte la balle. La tortue avance lentement.
-4. **EVAL05-04** — Aujourd’hui le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
-5. **EVAL05-05** — Le jardinier ouvre le portail. Les visiteurs entrent.
+#### Évaluation 51. **EVAL05-01** — Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
+2. — Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier. Maman arrose les plantes.
+3. — Le chien apporte la balle. La tortue avance lentement.
+4. — Aujourd’hui le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
+5. — Le jardinier ouvre le portail. Les visiteurs entrent.
 
-#### EVAL06
-1. **EVAL06-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
-2. **EVAL06-02** — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
-3. **EVAL06-03** — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
-4. **EVAL06-04** — Aujourd’hui lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
-5. **EVAL06-05** — Un canard plonge. Des ronds se forment sur l’eau.
+#### Évaluation 61. **EVAL06-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+2. — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
+3. — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
+4. — Aujourd’hui lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
+5. — Un canard plonge. Des ronds se forment sur l’eau.
 
-#### EVAL07
-1. **EVAL07-01** — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
-2. **EVAL07-02** — La pluie tombe doucement. Une abeille visite la fleur.
-3. **EVAL07-03** — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur.
-4. **EVAL07-04** — Aujourd’hui le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
-5. **EVAL07-05** — La bougie éclaire la table. Son ombre danse sur le mur.
+#### Évaluation 71. **EVAL07-01** — Une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
+2. — La pluie tombe doucement. Une abeille visite la fleur.
+3. — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur.
+4. — Aujourd’hui le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
+5. — La bougie éclaire la table. Son ombre danse sur le mur.
 
-#### EVAL08
-1. **EVAL08-01** — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
-2. **EVAL08-02** — Le bateau quitte le port. Le bébé boit son lait.
-3. **EVAL08-03** — Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait.
-4. **EVAL08-04** — Aujourd’hui une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
-5. **EVAL08-05** — Le coureur franchit la ligne. Ses amis applaudissent.
+#### Évaluation 81. **EVAL08-01** — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe. Zoé ferme son cahier.
+2. — Le bateau quitte le port. Le bébé boit son lait.
+3. — Les enfants jouent dans la cour. Le bateau quitte le port. Le bébé boit son lait.
+4. — Aujourd’hui une abeille visite la fleur. Le train arrive en gare. Le camion tourne au coin de la rue. Nina lit un album.
+5. — Le coureur franchit la ligne. Ses amis applaudissent.
 
-#### EVAL09
-1. **EVAL09-01** — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages. Le poisson nage dans le bassin.
-2. **EVAL09-02** — La lampe éclaire la pièce. Le chat dort sur le tapis.
-3. **EVAL09-03** — La tortue avance lentement. La lampe éclaire la pièce. Le chat dort sur le tapis.
-4. **EVAL09-04** — Aujourd’hui le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour. Le bateau quitte le port.
-5. **EVAL09-05** — Le livre tombe. Tom le ramasse.
+#### Évaluation 91. **EVAL09-01** — Le chat dort sur le tapis. Papa prépare le repas. Le vent pousse les nuages. Le poisson nage dans le bassin.
+2. — La lampe éclaire la pièce. Le chat dort sur le tapis.
+3. — La tortue avance lentement. La lampe éclaire la pièce. Le chat dort sur le tapis.
+4. — Aujourd’hui le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour. Le bateau quitte le port.
+5. — Le livre tombe. Tom le ramasse.
 
-#### EVAL10
-1. **EVAL10-01** — La cloche sonne à midi. La souris mange du fromage.
-2. **EVAL10-02** — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
-3. **EVAL10-03** — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
-4. **EVAL10-04** — Aujourd’hui le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
-5. **EVAL10-05** — La lune apparaît. Les étoiles brillent.
+#### Évaluation 101. **EVAL10-01** — La cloche sonne à midi. La souris mange du fromage.
+2. — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
+3. — Le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi.
+4. — Aujourd’hui le lapin saute dans l’herbe. Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
+5. — La lune apparaît. Les étoiles brillent.
 
 ### Corrections des devoirs
 
 
-#### DEV01
-1. **DEV01-01** — Lina ouvre la porte. Le soleil éclaire la classe.
-2. **DEV01-02** — Papa prépare le repas. Le vent pousse les nuages.
-3. **DEV01-03** — La souris mange du fromage. La maîtresse raconte une histoire.
-4. **DEV01-04** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
-5. **DEV01-05** — La tortue avance lentement. La lampe éclaire la pièce.
+#### Devoir 11. **DEV01-01** — Lina ouvre la porte. Le soleil éclaire la classe.
+2. — Papa prépare le repas. Le vent pousse les nuages.
+3. — La souris mange du fromage. La maîtresse raconte une histoire.
+4. — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
+5. — La tortue avance lentement. La lampe éclaire la pièce.
 
-#### DEV02
-1. **DEV02-01** — La cloche sonne à midi. La souris mange du fromage.
-2. **DEV02-02** — Le train arrive en gare. Le camion tourne au coin de la rue.
-3. **DEV02-03** — Lina ouvre la porte. Le soleil éclaire la classe.
-4. **DEV02-04** — Papa prépare le repas. Le vent pousse les nuages.
-5. **DEV02-05** — La souris mange du fromage. La maîtresse raconte une histoire.
+#### Devoir 21. **DEV02-01** — La cloche sonne à midi. La souris mange du fromage.
+2. — Le train arrive en gare. Le camion tourne au coin de la rue.
+3. — Lina ouvre la porte. Le soleil éclaire la classe.
+4. — Papa prépare le repas. Le vent pousse les nuages.
+5. — La souris mange du fromage. La maîtresse raconte une histoire.
 
-#### DEV03
-1. **DEV03-01** — Le chien apporte la balle. La tortue avance lentement.
-2. **DEV03-02** — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
-3. **DEV03-03** — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur.
-4. **DEV03-04** — La cloche sonne à midi. La souris mange du fromage.
-5. **DEV03-05** — Le train arrive en gare. Le camion tourne au coin de la rue.
+#### Devoir 31. **DEV03-01** — Le chien apporte la balle. La tortue avance lentement.
+2. — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
+3. — Maman arrose les plantes. La pluie tombe doucement. Une abeille visite la fleur.
+4. — La cloche sonne à midi. La souris mange du fromage.
+5. — Le train arrive en gare. Le camion tourne au coin de la rue.
 
-#### DEV04
-1. **DEV04-01** — Zoé ferme son cahier. Maman arrose les plantes.
-2. **DEV04-02** — Le poisson nage dans le bassin. Les enfants jouent dans la cour.
-3. **DEV04-03** — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
-4. **DEV04-04** — Le chien apporte la balle. La tortue avance lentement.
-5. **DEV04-05** — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
+#### Devoir 41. **DEV04-01** — Zoé ferme son cahier. Maman arrose les plantes.
+2. — Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+3. — Le chien apporte la balle. La tortue avance lentement. La lampe éclaire la pièce.
+4. — Le chien apporte la balle. La tortue avance lentement.
+5. — Le facteur apporte une lettre. Le lapin saute dans l’herbe.
 
-#### DEV05
-1. **DEV05-01** — Une abeille visite la fleur. Le train arrive en gare.
-2. **DEV05-02** — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
-3. **DEV05-03** — Nina lit un album. Le facteur apporte une lettre.
-4. **DEV05-04** — Zoé ferme son cahier. Maman arrose les plantes.
-5. **DEV05-05** — Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+#### Devoir 51. **DEV05-01** — Une abeille visite la fleur. Le train arrive en gare.
+2. — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
+3. — Nina lit un album. Le facteur apporte une lettre.
+4. — Zoé ferme son cahier. Maman arrose les plantes.
+5. — Le poisson nage dans le bassin. Les enfants jouent dans la cour.
 
-#### DEV06
-1. **DEV06-01** — La lampe éclaire la pièce. Le chat dort sur le tapis.
-2. **DEV06-02** — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
-3. **DEV06-03** — Le vent pousse les nuages. Le poisson nage dans le bassin.
-4. **DEV06-04** — Une abeille visite la fleur. Le train arrive en gare.
-5. **DEV06-05** — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
+#### Devoir 61. **DEV06-01** — La lampe éclaire la pièce. Le chat dort sur le tapis.
+2. — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
+3. — Le vent pousse les nuages. Le poisson nage dans le bassin.
+4. — Une abeille visite la fleur. Le train arrive en gare.
+5. — Le bébé boit son lait. Lina ouvre la porte. Le soleil éclaire la classe.
 
-#### DEV07
-1. **DEV07-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
-2. **DEV07-02** — La pluie tombe doucement. Une abeille visite la fleur.
-3. **DEV07-03** — Le bateau quitte le port. Le bébé boit son lait.
-4. **DEV07-04** — La lampe éclaire la pièce. Le chat dort sur le tapis.
-5. **DEV07-05** — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
+#### Devoir 71. **DEV07-01** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+2. — La pluie tombe doucement. Une abeille visite la fleur.
+3. — Le bateau quitte le port. Le bébé boit son lait.
+4. — La lampe éclaire la pièce. Le chat dort sur le tapis.
+5. — Malo range ses crayons. La cloche sonne à midi. La souris mange du fromage.
 
-#### DEV08
-1. **DEV08-01** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
-2. **DEV08-02** — La tortue avance lentement. La lampe éclaire la pièce.
-3. **DEV08-03** — Le lapin saute dans l’herbe. Malo range ses crayons.
-4. **DEV08-04** — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
-5. **DEV08-05** — La pluie tombe doucement. Une abeille visite la fleur.
+#### Devoir 81. **DEV08-01** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
+2. — La tortue avance lentement. La lampe éclaire la pièce.
+3. — Le lapin saute dans l’herbe. Malo range ses crayons.
+4. — Le vent pousse les nuages. Le poisson nage dans le bassin. Les enfants jouent dans la cour.
+5. — La pluie tombe doucement. Une abeille visite la fleur.
 
-#### DEV09
-1. **DEV09-01** — Lina ouvre la porte. Le soleil éclaire la classe.
-2. **DEV09-02** — Papa prépare le repas. Le vent pousse les nuages.
-3. **DEV09-03** — La souris mange du fromage. La maîtresse raconte une histoire.
-4. **DEV09-04** — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
-5. **DEV09-05** — La tortue avance lentement. La lampe éclaire la pièce.
+#### Devoir 91. **DEV09-01** — Lina ouvre la porte. Le soleil éclaire la classe.
+2. — Papa prépare le repas. Le vent pousse les nuages.
+3. — La souris mange du fromage. La maîtresse raconte une histoire.
+4. — Le camion tourne au coin de la rue. Nina lit un album. Le facteur apporte une lettre.
+5. — La tortue avance lentement. La lampe éclaire la pièce.
 
-#### DEV10
-1. **DEV10-01** — La cloche sonne à midi. La souris mange du fromage.
-2. **DEV10-02** — Le train arrive en gare. Le camion tourne au coin de la rue.
-3. **DEV10-03** — Lina ouvre la porte. Le soleil éclaire la classe.
-4. **DEV10-04** — Papa prépare le repas. Le vent pousse les nuages.
-5. **DEV10-05** — La souris mange du fromage. La maîtresse raconte une histoire.
+#### Devoir 101. **DEV10-01** — La cloche sonne à midi. La souris mange du fromage.
+2. — Le train arrive en gare. Le camion tourne au coin de la rue.
+3. — Lina ouvre la porte. Le soleil éclaire la classe.
+4. — Papa prépare le repas. Le vent pousse les nuages.
+5. — La souris mange du fromage. La maîtresse raconte une histoire.
 
 ## Traçabilité des évaluations et devoirs
 

@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Relis seulement avec la cible **mot oublié — projet : dire que Lila joue dehors**. Texte : « Lila dehors. » Recopie le texte corrigé.
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Relis seulement avec la cible **orthographe du mot donné : maison**. Texte : « La méson est rouge. » Recopie le texte corrigé.
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Relis seulement avec la cible **majuscule au prénom Nora**. Texte : « nora dessine. » Recopie le texte corrigé.
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où est mon sac. » Recopie le texte corrigé.
-- **IMM02** — Relis seulement avec la cible **mot répété**. Texte : « Le vélo roule roule vite. » Recopie le texte corrigé.
-- **IMM03** — Relis seulement avec la cible **mot oublié — projet : dire que Sami mange une pomme**. Texte : « Sami une pomme. » Recopie le texte corrigé.
-- **IMM04** — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Il pleut bocou. » Recopie le texte corrigé.
-- **IMM05** — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort. » Recopie le texte corrigé.
-- **IMM06** — Relis seulement avec la cible **point final**. Texte : « Mina lit » Recopie le texte corrigé.
-- **IMM07** — Relis seulement avec la cible **mot répété**. Texte : « Le chien chien court. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où est mon sac. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le vélo roule roule vite. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Sami mange une pomme**. Texte : « Sami une pomme. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Il pleut bocou. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « Mina lit » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le chien chien court. » Recopie le texte corrigé.
 
 ## Variables didactiques
 
@@ -135,482 +132,442 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
 
-- **ENT01-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La tortue avance sur le chemin » Recopie le texte corrigé.
 
-- **ENT01-02** — Relis seulement avec la cible **point final**. Texte : « La tortue avance sur le chemin » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
 
-- **ENT01-03** — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **ENT01-04** — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « une abeille visite la fleur. » Recopie le texte corrigé.
 
-- **ENT01-05** — Relis seulement avec la cible **majuscule initiale**. Texte : « une abeille visite la fleur. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « Le facteur apporte une lettre » Recopie le texte corrigé.
 
-- **ENT01-06** — Relis seulement avec la cible **point final**. Texte : « Le facteur apporte une lettre » Recopie le texte corrigé.
+### Entraînement 2 — accessible
+- — Relis seulement avec la cible **mot répété**. Texte : « La pluie tombe tombe sur le jardin. » Recopie le texte corrigé.
 
-### ENT02 — accessible
+- — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
 
-- **ENT02-01** — Relis seulement avec la cible **mot répété**. Texte : « La pluie tombe tombe sur le jardin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
 
-- **ENT02-02** — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La cloche sonne à midi » Recopie le texte corrigé.
 
-- **ENT02-03** — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
 
-- **ENT02-04** — Relis seulement avec la cible **point final**. Texte : « La cloche sonne à midi » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule au prénom Nora**. Texte : « nora dessine dans son cahier. » Recopie le texte corrigé.
 
-- **ENT02-05** — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
+### Entraînement 3 — accessible
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le train entre dans la gare. » Recopie le texte corrigé.
 
-- **ENT02-06** — Relis seulement avec la cible **majuscule au prénom Nora**. Texte : « nora dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La lampe éclaire la table » Recopie le texte corrigé.
 
-### ENT03 — accessible
+- — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
 
-- **ENT03-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « le train entre dans la gare. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule au prénom Milo**. Texte : « milo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **ENT03-02** — Relis seulement avec la cible **point final**. Texte : « La lampe éclaire la table » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
 
-- **ENT03-03** — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
 
-- **ENT03-04** — Relis seulement avec la cible **majuscule au prénom Milo**. Texte : « milo dessine dans son cahier. » Recopie le texte corrigé.
+### Entraînement 4 — standard
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
 
-- **ENT03-05** — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
 
-- **ENT03-06** — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
 
-### ENT04 — standard
+- — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Nora aime bocou lire près de la fenêtre. » Recopie le texte corrigé.
 
-- **ENT04-01** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
 
-- **ENT04-02** — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Malo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
 
-- **ENT04-03** — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
+### Entraînement 5 — standard
+- — Relis seulement avec la cible **mot oublié — projet : dire que Zoé joue dans la classe**. Texte : « Zoé dans la classe. » Recopie le texte corrigé.
 
-- **ENT04-04** — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Nora aime bocou lire près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Milo range toujour son livre dans la cour. » Recopie le texte corrigé.
 
-- **ENT04-05** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Inès range-t-elle son cahier. » Recopie le texte corrigé.
 
-- **ENT04-06** — Relis seulement avec la cible **mot répété**. Texte : « Malo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Aya ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
 
-### ENT05 — standard
+- — Relis seulement avec la cible **mot oublié — projet : dire que Tom joue à la bibliothèque**. Texte : « Tom à la bibliothèque. » Recopie le texte corrigé.
 
-- **ENT05-01** — Relis seulement avec la cible **mot oublié — projet : dire que Zoé joue dans la classe**. Texte : « Zoé dans la classe. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : demain**. Texte : « Lou reviendra demin sous le préau. » Recopie le texte corrigé.
 
-- **ENT05-02** — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Milo range toujour son livre dans la cour. » Recopie le texte corrigé.
+### Entraînement 6 — standard
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Lina range-t-elle son manteau. » Recopie le texte corrigé.
 
-- **ENT05-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Inès range-t-elle son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Nora ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
 
-- **ENT05-04** — Relis seulement avec la cible **mot répété**. Texte : « Aya ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Sami joue à la maison**. Texte : « Sami à la maison. » Recopie le texte corrigé.
 
-- **ENT05-05** — Relis seulement avec la cible **mot oublié — projet : dire que Tom joue à la bibliothèque**. Texte : « Tom à la bibliothèque. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : maison**. Texte : « La méson de Malo est près du parc. » Recopie le texte corrigé.
 
-- **ENT05-06** — Relis seulement avec la cible **orthographe du mot donné : demain**. Texte : « Lou reviendra demin sous le préau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Zoé range-t-elle son dessin. » Recopie le texte corrigé.
 
-### ENT06 — standard
+- — Relis seulement avec la cible **mot répété**. Texte : « Milo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
 
-- **ENT06-01** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Lina range-t-elle son manteau. » Recopie le texte corrigé.
+### Entraînement 7 — standard
+- — Relis seulement avec la cible **mot oublié — projet : dire qu’Inès joue dans la classe**. Texte : « Inès dans la classe. » Recopie le texte corrigé.
 
-- **ENT06-02** — Relis seulement avec la cible **mot répété**. Texte : « Nora ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Aya aime bocou lire dans la cour. » Recopie le texte corrigé.
 
-- **ENT06-03** — Relis seulement avec la cible **mot oublié — projet : dire que Sami joue à la maison**. Texte : « Sami à la maison. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son cahier. » Recopie le texte corrigé.
 
-- **ENT06-04** — Relis seulement avec la cible **orthographe du mot donné : maison**. Texte : « La méson de Malo est près du parc. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
 
-- **ENT06-05** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Zoé range-t-elle son dessin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la bibliothèque**. Texte : « Lina à la bibliothèque. » Recopie le texte corrigé.
 
-- **ENT06-06** — Relis seulement avec la cible **mot répété**. Texte : « Milo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Nora range toujour son livre sous le préau. » Recopie le texte corrigé.
 
-### ENT07 — standard
+### Entraînement 8 — plus résistant
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Sami ferme-t-il la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **ENT07-01** — Relis seulement avec la cible **mot oublié — projet : dire qu’Inès joue dans la classe**. Texte : « Inès dans la classe. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Malo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
 
-- **ENT07-02** — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Aya aime bocou lire dans la cour. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Zoé range son manteau**. Texte : « Après la récréation, Zoé calmement son manteau dans le couloir. » Recopie le texte corrigé.
 
-- **ENT07-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Milo observe attentivement un manifique papillon. » Recopie le texte corrigé.
 
-- **ENT07-04** — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **ENT07-05** — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la bibliothèque**. Texte : « Lina à la bibliothèque. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Aya pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
 
-- **ENT07-06** — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Nora range toujour son livre sous le préau. » Recopie le texte corrigé.
+### Entraînement 9 — plus résistant
+- — Relis seulement avec la cible **mot oublié — projet : dire que Tom range son manteau**. Texte : « Après la récréation, Tom calmement son manteau dans le couloir. » Recopie le texte corrigé.
 
-### ENT08 — plus résistant
+- — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Lou observe attentivement un manifique papillon. » Recopie le texte corrigé.
 
-- **ENT08-01** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Sami ferme-t-il la fenêtre avant de sortir. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Lina ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **ENT08-02** — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Malo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Nora pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
 
-- **ENT08-03** — Relis seulement avec la cible **mot oublié — projet : dire que Zoé range son manteau**. Texte : « Après la récréation, Zoé calmement son manteau dans le couloir. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Sami range son manteau**. Texte : « Après la récréation, Sami calmement son manteau dans le couloir. » Recopie le texte corrigé.
 
-- **ENT08-04** — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Milo observe attentivement un manifique papillon. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Malo observe attentivement un manifique papillon. » Recopie le texte corrigé.
 
-- **ENT08-05** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
+### Entraînement 10 — plus résistant
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **ENT08-06** — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Aya pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Milo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
 
-### ENT09 — plus résistant
+- — Relis seulement avec la cible **mot oublié — projet : dire qu’Inès range son manteau**. Texte : « Après la récréation, Inès calmement son manteau dans le couloir. » Recopie le texte corrigé.
 
-- **ENT09-01** — Relis seulement avec la cible **mot oublié — projet : dire que Tom range son manteau**. Texte : « Après la récréation, Tom calmement son manteau dans le couloir. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Aya observe attentivement un manifique papillon. » Recopie le texte corrigé.
 
-- **ENT09-02** — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Lou observe attentivement un manifique papillon. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Tom ferme-t-il la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **ENT09-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Lina ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
-
-- **ENT09-04** — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Nora pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
-
-- **ENT09-05** — Relis seulement avec la cible **mot oublié — projet : dire que Sami range son manteau**. Texte : « Après la récréation, Sami calmement son manteau dans le couloir. » Recopie le texte corrigé.
-
-- **ENT09-06** — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Malo observe attentivement un manifique papillon. » Recopie le texte corrigé.
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
-
-- **ENT10-02** — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Milo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
-
-- **ENT10-03** — Relis seulement avec la cible **mot oublié — projet : dire qu’Inès range son manteau**. Texte : « Après la récréation, Inès calmement son manteau dans le couloir. » Recopie le texte corrigé.
-
-- **ENT10-04** — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Aya observe attentivement un manifique papillon. » Recopie le texte corrigé.
-
-- **ENT10-05** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Tom ferme-t-il la fenêtre avant de sortir. » Recopie le texte corrigé.
-
-- **ENT10-06** — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Lou pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Lou pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune associe un item accessible, deux items standard, un item plus résistant et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
 
-- **EVAL01-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
 
-- **EVAL01-02** — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Aya ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
 
-- **EVAL01-03** — Relis seulement avec la cible **mot répété**. Texte : « Aya ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **EVAL01-04** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Lina vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
 
-- **EVAL01-05** — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Lina vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
+### Évaluation 2
+- — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
 
-### EVAL02
+- — Relis seulement avec la cible **mot répété**. Texte : « Aya ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
 
-- **EVAL02-01** — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Zoé range-t-elle son dessin. » Recopie le texte corrigé.
 
-- **EVAL02-02** — Relis seulement avec la cible **mot répété**. Texte : « Aya ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Malo observe attentivement un manifique papillon. » Recopie le texte corrigé.
 
-- **EVAL02-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Zoé range-t-elle son dessin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Nora vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
 
-- **EVAL02-04** — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Malo observe attentivement un manifique papillon. » Recopie le texte corrigé.
+### Évaluation 3
+- — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
 
-- **EVAL02-05** — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Nora vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Zoé range-t-elle son dessin. » Recopie le texte corrigé.
 
-### EVAL03
+- — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Nora range toujour son livre sous le préau. » Recopie le texte corrigé.
 
-- **EVAL03-01** — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **EVAL03-02** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Zoé range-t-elle son dessin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Sami vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
 
-- **EVAL03-03** — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Nora range toujour son livre sous le préau. » Recopie le texte corrigé.
+### Évaluation 4
+- — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **EVAL03-04** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Nora range toujour son livre sous le préau. » Recopie le texte corrigé.
 
-- **EVAL03-05** — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Sami vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
 
-### EVAL04
+- — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Malo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
 
-- **EVAL04-01** — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Malo vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
 
-- **EVAL04-02** — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Nora range toujour son livre sous le préau. » Recopie le texte corrigé.
+### Évaluation 5
+- — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
 
-- **EVAL04-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
 
-- **EVAL04-04** — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Malo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Milo range toujour son livre dans la cour. » Recopie le texte corrigé.
 
-- **EVAL04-05** — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Malo vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Lina ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-### EVAL05
+- — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Zoé vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
 
-- **EVAL05-01** — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
+### Évaluation 6
+- — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
 
-- **EVAL05-02** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Milo range toujour son livre dans la cour. » Recopie le texte corrigé.
 
-- **EVAL05-03** — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Milo range toujour son livre dans la cour. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Sami joue à la maison**. Texte : « Sami à la maison. » Recopie le texte corrigé.
 
-- **EVAL05-04** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Lina ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Aya observe attentivement un manifique papillon. » Recopie le texte corrigé.
 
-- **EVAL05-05** — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Zoé vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Milo vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
 
-### EVAL06
+### Évaluation 7
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
 
-- **EVAL06-01** — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Sami joue à la maison**. Texte : « Sami à la maison. » Recopie le texte corrigé.
 
-- **EVAL06-02** — Relis seulement avec la cible **orthographe du mot donné : toujours**. Texte : « Milo range toujour son livre dans la cour. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
 
-- **EVAL06-03** — Relis seulement avec la cible **mot oublié — projet : dire que Sami joue à la maison**. Texte : « Sami à la maison. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **EVAL06-04** — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Aya observe attentivement un manifique papillon. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Inès vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
 
-- **EVAL06-05** — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Milo vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
+### Évaluation 8
+- — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
 
-### EVAL07
+- — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
 
-- **EVAL07-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
 
-- **EVAL07-02** — Relis seulement avec la cible **mot oublié — projet : dire que Sami joue à la maison**. Texte : « Sami à la maison. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Malo observe attentivement un manifique papillon. » Recopie le texte corrigé.
 
-- **EVAL07-03** — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Aya vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
 
-- **EVAL07-04** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
+### Évaluation 9
+- — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
 
-- **EVAL07-05** — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Inès vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
 
-### EVAL08
+- — Relis seulement avec la cible **orthographe du mot donné : demain**. Texte : « Lou reviendra demin sous le préau. » Recopie le texte corrigé.
 
-- **EVAL08-01** — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
 
-- **EVAL08-02** — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Tom vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
 
-- **EVAL08-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
+### Évaluation 10
+- — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **EVAL08-04** — Relis seulement avec la cible **orthographe du mot donné : magnifique**. Texte : « Dans le jardin, Malo observe attentivement un manifique papillon. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : demain**. Texte : « Lou reviendra demin sous le préau. » Recopie le texte corrigé.
 
-- **EVAL08-05** — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Aya vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Lina range-t-elle son manteau. » Recopie le texte corrigé.
 
-### EVAL09
+- — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Malo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
 
-- **EVAL09-01** — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
-
-- **EVAL09-02** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
-
-- **EVAL09-03** — Relis seulement avec la cible **orthographe du mot donné : demain**. Texte : « Lou reviendra demin sous le préau. » Recopie le texte corrigé.
-
-- **EVAL09-04** — Relis seulement avec la cible **point d’interrogation**. Texte : « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir. » Recopie le texte corrigé.
-
-- **EVAL09-05** — Relis seulement avec la cible **mot répété**. Texte : « Avant de partir, Tom vérifie soigneusement la fermeture de son son cartable. » Recopie le texte corrigé.
-
-### EVAL10
-
-- **EVAL10-01** — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
-
-- **EVAL10-02** — Relis seulement avec la cible **orthographe du mot donné : demain**. Texte : « Lou reviendra demin sous le préau. » Recopie le texte corrigé.
-
-- **EVAL10-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Lina range-t-elle son manteau. » Recopie le texte corrigé.
-
-- **EVAL10-04** — Relis seulement avec la cible **groupe de mots répété**. Texte : « Avant le repas, Malo pose les verres puis les assiettes les assiettes sur la grande table. » Recopie le texte corrigé.
-
-- **EVAL10-05** — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Lou vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : soigneusement**. Texte : « Avant de partir, Lou vérifie soigneusemant la fermeture de son cartable. » Recopie le texte corrigé.
 
 ## Devoirs
 
 La consigne et le format sont identiques à ceux rencontrés en classe. Tous les items viennent des quatre premières séries.
 
-### DEV01
+### Devoir 1
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
 
-- **DEV01-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
 
-- **DEV01-02** — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
 
-- **DEV01-03** — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Nora aime bocou lire près de la fenêtre. » Recopie le texte corrigé.
 
-- **DEV01-04** — Relis seulement avec la cible **orthographe du mot donné : beaucoup**. Texte : « Nora aime bocou lire près de la fenêtre. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « une abeille visite la fleur. » Recopie le texte corrigé.
 
-- **DEV01-05** — Relis seulement avec la cible **majuscule initiale**. Texte : « une abeille visite la fleur. » Recopie le texte corrigé.
+### Devoir 2
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
 
-### DEV02
+- — Relis seulement avec la cible **majuscule au prénom Milo**. Texte : « milo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **DEV02-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
 
-- **DEV02-02** — Relis seulement avec la cible **majuscule au prénom Milo**. Texte : « milo dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « Le facteur apporte une lettre » Recopie le texte corrigé.
 
-- **DEV02-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « La pluie tombe tombe sur le jardin. » Recopie le texte corrigé.
 
-- **DEV02-04** — Relis seulement avec la cible **point final**. Texte : « Le facteur apporte une lettre » Recopie le texte corrigé.
+### Devoir 3
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
 
-- **DEV02-05** — Relis seulement avec la cible **mot répété**. Texte : « La pluie tombe tombe sur le jardin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Malo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
 
-### DEV03
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
 
-- **DEV03-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
 
-- **DEV03-02** — Relis seulement avec la cible **mot répété**. Texte : « Malo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
 
-- **DEV03-03** — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
+### Devoir 4
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
 
-- **DEV03-04** — Relis seulement avec la cible **majuscule au prénom Aya**. Texte : « aya dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La tortue avance sur le chemin » Recopie le texte corrigé.
 
-- **DEV03-05** — Relis seulement avec la cible **mot répété**. Texte : « Un oiseau chante chante sur le toit. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
 
-### DEV04
+- — Relis seulement avec la cible **majuscule au prénom Milo**. Texte : « milo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **DEV04-01** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
 
-- **DEV04-02** — Relis seulement avec la cible **point final**. Texte : « La tortue avance sur le chemin » Recopie le texte corrigé.
+### Devoir 5
+- — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
 
-- **DEV04-03** — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La cloche sonne à midi » Recopie le texte corrigé.
 
-- **DEV04-04** — Relis seulement avec la cible **majuscule au prénom Milo**. Texte : « milo dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
 
-- **DEV04-05** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Sami range-t-il son dessin. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Malo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
 
-### DEV05
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
 
-- **DEV05-01** — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
+### Devoir 6
+- — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
 
-- **DEV05-02** — Relis seulement avec la cible **point final**. Texte : « La cloche sonne à midi » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
 
-- **DEV05-03** — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
 
-- **DEV05-04** — Relis seulement avec la cible **mot répété**. Texte : « Malo ouvre son cahier cahier puis écrit la date sous le préau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La tortue avance sur le chemin » Recopie le texte corrigé.
 
-- **DEV05-05** — Relis seulement avec la cible **majuscule initiale**. Texte : « le chat dort sur le tapis. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
 
-### DEV06
+### Devoir 7
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le train entre dans la gare. » Recopie le texte corrigé.
 
-- **DEV06-01** — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
 
-- **DEV06-02** — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
 
-- **DEV06-03** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La cloche sonne à midi » Recopie le texte corrigé.
 
-- **DEV06-04** — Relis seulement avec la cible **point final**. Texte : « La tortue avance sur le chemin » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
 
-- **DEV06-05** — Relis seulement avec la cible **majuscule initiale**. Texte : « le lapin mange une carotte. » Recopie le texte corrigé.
+### Devoir 8
+- — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
 
-### DEV07
+- — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **DEV07-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « le train entre dans la gare. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
 
-- **DEV07-02** — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
 
-- **DEV07-03** — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
 
-- **DEV07-04** — Relis seulement avec la cible **point final**. Texte : « La cloche sonne à midi » Recopie le texte corrigé.
+### Devoir 9
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « une abeille visite la fleur. » Recopie le texte corrigé.
 
-- **DEV07-05** — Relis seulement avec la cible **majuscule initiale**. Texte : « la souris court le long du mur. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **majuscule au prénom Nora**. Texte : « nora dessine dans son cahier. » Recopie le texte corrigé.
 
-### DEV08
+- — Relis seulement avec la cible **majuscule initiale**. Texte : « le train entre dans la gare. » Recopie le texte corrigé.
 
-- **DEV08-01** — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
 
-- **DEV08-02** — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
 
-- **DEV08-03** — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
+### Devoir 10
+- — Relis seulement avec la cible **mot répété**. Texte : « La pluie tombe tombe sur le jardin. » Recopie le texte corrigé.
 
-- **DEV08-04** — Relis seulement avec la cible **point final**. Texte : « Le vent pousse les nuages » Recopie le texte corrigé.
+- — Relis seulement avec la cible **point final**. Texte : « La lampe éclaire la table » Recopie le texte corrigé.
 
-- **DEV08-05** — Relis seulement avec la cible **point d’interrogation**. Texte : « Où Tom range-t-il son manteau. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
 
-### DEV09
+- — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
 
-- **DEV09-01** — Relis seulement avec la cible **majuscule initiale**. Texte : « une abeille visite la fleur. » Recopie le texte corrigé.
-
-- **DEV09-02** — Relis seulement avec la cible **majuscule au prénom Nora**. Texte : « nora dessine dans son cahier. » Recopie le texte corrigé.
-
-- **DEV09-03** — Relis seulement avec la cible **majuscule initiale**. Texte : « le train entre dans la gare. » Recopie le texte corrigé.
-
-- **DEV09-04** — Relis seulement avec la cible **mot répété**. Texte : « Lou ouvre son cahier cahier puis écrit la date dans la cour. » Recopie le texte corrigé.
-
-- **DEV09-05** — Relis seulement avec la cible **mot répété**. Texte : « Le chien rapporte rapporte sa balle. » Recopie le texte corrigé.
-
-### DEV10
-
-- **DEV10-01** — Relis seulement avec la cible **mot répété**. Texte : « La pluie tombe tombe sur le jardin. » Recopie le texte corrigé.
-
-- **DEV10-02** — Relis seulement avec la cible **point final**. Texte : « La lampe éclaire la table » Recopie le texte corrigé.
-
-- **DEV10-03** — Relis seulement avec la cible **mot oublié — projet : dire que Lina joue à la maison**. Texte : « Lina à la maison. » Recopie le texte corrigé.
-
-- **DEV10-04** — Relis seulement avec la cible **majuscule au prénom Malo**. Texte : « malo dessine dans son cahier. » Recopie le texte corrigé.
-
-- **DEV10-05** — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
+- — Relis seulement avec la cible **mot répété**. Texte : « Le poisson nage nage près du bord. » Recopie le texte corrigé.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Réponse exacte : « Où est mon sac ? » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
-- **IMM02** — Réponse exacte : « Le vélo roule vite. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
-- **IMM03** — Réponse exacte : « Sami mange une pomme. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
-- **IMM04** — Réponse exacte : « Il pleut beaucoup. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
-- **IMM05** — Réponse exacte : « Le chat dort. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
-- **IMM06** — Réponse exacte : « Mina lit. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
-- **IMM07** — Réponse exacte : « Le chien court. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
+- — Réponse exacte : « Où est mon sac ? » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
+- — Réponse exacte : « Le vélo roule vite. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
+- — Réponse exacte : « Sami mange une pomme. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
+- — Réponse exacte : « Il pleut beaucoup. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
+- — Réponse exacte : « Le chat dort. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
+- — Réponse exacte : « Mina lit. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
+- — Réponse exacte : « Le chien court. » Ne corriger que l’erreur ciblée ; ne pas évaluer d’autres dimensions non annoncées.
 
 ### Corrections des entraînements
 
-#### ENT01
-1. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 11. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « La tortue avance sur le chemin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Le chien rapporte sa balle. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Malo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Une abeille visite la fleur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Le facteur apporte une lettre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT02
-1. « La pluie tombe sur le jardin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 21. « La pluie tombe sur le jardin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Aya dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Le lapin mange une carotte. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « La cloche sonne à midi. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Le poisson nage près du bord. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Nora dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT03
-1. « Le train entre dans la gare. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 31. « Le train entre dans la gare. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « La lampe éclaire la table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Un oiseau chante sur le toit. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Milo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « La souris court le long du mur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Le vent pousse les nuages. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT04
-1. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 41. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Lou ouvre son cahier puis écrit la date dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Lina joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Nora aime beaucoup lire près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Où Sami range-t-il son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Malo ouvre son cahier puis écrit la date sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT05
-1. « Zoé joue dans la classe. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 51. « Zoé joue dans la classe. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Milo range toujours son livre dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Inès range-t-elle son cahier ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Aya ouvre son cahier puis écrit la date près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Tom joue à la bibliothèque. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Lou reviendra demain sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT06
-1. « Où Lina range-t-elle son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 61. « Où Lina range-t-elle son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Nora ouvre son cahier puis écrit la date dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Sami joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « La maison de Malo est près du parc. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Où Zoé range-t-elle son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Milo ouvre son cahier puis écrit la date sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT07
-1. « Inès joue dans la classe. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 71. « Inès joue dans la classe. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Aya aime beaucoup lire dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Tom range-t-il son cahier ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Lou ouvre son cahier puis écrit la date près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Lina joue à la bibliothèque. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Nora range toujours son livre sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT08
-1. « Pourquoi Sami ferme-t-il la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 81. « Pourquoi Sami ferme-t-il la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Avant le repas, Malo pose les verres puis les assiettes sur la grande table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Après la récréation, Zoé range calmement son manteau dans le couloir. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Dans le jardin, Milo observe attentivement un magnifique papillon. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Avant le repas, Aya pose les verres puis les assiettes sur la grande table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT09
-1. « Après la récréation, Tom range calmement son manteau dans le couloir. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 91. « Après la récréation, Tom range calmement son manteau dans le couloir. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Dans le jardin, Lou observe attentivement un magnifique papillon. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Pourquoi Lina ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Avant le repas, Nora pose les verres puis les assiettes sur la grande table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Après la récréation, Sami range calmement son manteau dans le couloir. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 6. « Dans le jardin, Malo observe attentivement un magnifique papillon. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### ENT10
-1. « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Entraînement 101. « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Avant le repas, Milo pose les verres puis les assiettes sur la grande table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Après la récréation, Inès range calmement son manteau dans le couloir. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Dans le jardin, Aya observe attentivement un magnifique papillon. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
@@ -619,71 +576,61 @@ La consigne et le format sont identiques à ceux rencontrés en classe. Tous les
 
 ### Corrections des évaluations
 
-#### EVAL01
-1. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 11. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Lina joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Aya ouvre son cahier puis écrit la date près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Lina vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL02
-1. « Aya dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 21. « Aya dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Aya ouvre son cahier puis écrit la date près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Zoé range-t-elle son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Dans le jardin, Malo observe attentivement un magnifique papillon. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Nora vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL03
-1. « Un oiseau chante sur le toit. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 31. « Un oiseau chante sur le toit. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Où Zoé range-t-elle son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Nora range toujours son livre sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Sami vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL04
-1. « Malo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 41. « Malo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Nora range toujours son livre sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Avant le repas, Malo pose les verres puis les assiettes sur la grande table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Malo vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL05
-1. « Le poisson nage près du bord. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 51. « Le poisson nage près du bord. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Milo range toujours son livre dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Pourquoi Lina ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Zoé vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL06
-1. « Le vent pousse les nuages. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 61. « Le vent pousse les nuages. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Milo range toujours son livre dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Sami joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Dans le jardin, Aya observe attentivement un magnifique papillon. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Milo vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL07
-1. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 71. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Sami joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Lou ouvre son cahier puis écrit la date près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Pourquoi Inès ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Inès vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL08
-1. « Aya dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 81. « Aya dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Lou ouvre son cahier puis écrit la date près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Sami range-t-il son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Dans le jardin, Malo observe attentivement un magnifique papillon. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Aya vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL09
-1. « Un oiseau chante sur le toit. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 91. « Un oiseau chante sur le toit. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Où Sami range-t-il son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Lou reviendra demain sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Pourquoi Zoé ferme-t-elle la fenêtre avant de sortir ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Avant de partir, Tom vérifie soigneusement la fermeture de son cartable. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### EVAL10
-1. « Malo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Évaluation 101. « Malo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Lou reviendra demain sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Lina range-t-elle son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Avant le repas, Malo pose les verres puis les assiettes sur la grande table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
@@ -691,71 +638,61 @@ La consigne et le format sont identiques à ceux rencontrés en classe. Tous les
 
 ### Corrections des devoirs
 
-#### DEV01
-1. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 11. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Aya dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Un oiseau chante sur le toit. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Nora aime beaucoup lire près de la fenêtre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Une abeille visite la fleur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV02
-1. « Le lapin mange une carotte. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 21. « Le lapin mange une carotte. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Milo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Sami range-t-il son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Le facteur apporte une lettre. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « La pluie tombe sur le jardin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV03
-1. « La souris court le long du mur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 31. « La souris court le long du mur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Malo ouvre son cahier puis écrit la date sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Aya dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Un oiseau chante sur le toit. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV04
-1. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 41. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « La tortue avance sur le chemin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Le lapin mange une carotte. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Milo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Où Sami range-t-il son dessin ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV05
-1. « Le chien rapporte sa balle. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 51. « Le chien rapporte sa balle. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « La cloche sonne à midi. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « La souris court le long du mur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Malo ouvre son cahier puis écrit la date sous le préau. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Le chat dort sur le tapis. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV06
-1. « Le poisson nage près du bord. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 61. « Le poisson nage près du bord. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Le vent pousse les nuages. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « La tortue avance sur le chemin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Le lapin mange une carotte. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV07
-1. « Le train entre dans la gare. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 71. « Le train entre dans la gare. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Lou ouvre son cahier puis écrit la date dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Le chien rapporte sa balle. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « La cloche sonne à midi. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « La souris court le long du mur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV08
-1. « Lina joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 81. « Lina joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Malo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Le poisson nage près du bord. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Le vent pousse les nuages. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Où Tom range-t-il son manteau ? » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV09
-1. « Une abeille visite la fleur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 91. « Une abeille visite la fleur. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « Nora dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Le train entre dans la gare. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Lou ouvre son cahier puis écrit la date dans la cour. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 5. « Le chien rapporte sa balle. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 
-#### DEV10
-1. « La pluie tombe sur le jardin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
+#### Devoir 101. « La pluie tombe sur le jardin. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 2. « La lampe éclaire la table. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 3. « Lina joue à la maison. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.
 4. « Malo dessine dans son cahier. » La seule modification exigée est celle annoncée par la cible ; ne pas ajouter d’autre critère.

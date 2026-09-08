@@ -76,17 +76,17 @@ Le format rend visibles les deux organisations attendues par l’intitulé local
 
 **Enquête :** fruit choisi — `pomme, poire, pomme, banane, pomme, poire, kiwi, banane`.
 
-- **MOD01** Trouve l’effectif de « pomme ».
+- Trouve l’effectif de « pomme ».
   - **Attention :** je cherche uniquement le mot « pomme » et je barre chaque occurrence comptée.
   - **Verbalisation :** « Je vois pomme une première, une deuxième, puis une troisième fois. J’écris trois dans la ligne pomme. »
   - **Réponse :** 3.
   - **Contrôle final :** trois réponses « pomme » sont barrées ; aucune autre réponse ne l’est.
-- **MOD02** Trouve l’effectif de « poire ».
+- Trouve l’effectif de « poire ».
   - **Attention :** demander : « Quelle catégorie cherchons-nous ? Comment éviter de compter deux fois ? »
   - **Verbalisation :** « Je pointe chaque poire, je fais une marque, puis je compte mes marques. »
   - **Réponse :** 2.
   - **Contrôle final :** les deux marques correspondent aux deux « poire » de la liste.
-- **MOD03** Trace la barre de « pomme » avec une graduation pour une réponse.
+- Trace la barre de « pomme » avec une graduation pour une réponse.
   - **Attention :** laisser l’élève choisir l’axe, la catégorie et la hauteur.
   - **Verbalisation :** « Je pars de 0 sous pomme et je monte jusqu’à 3. »
   - **Réponse :** barre « pomme » de hauteur 3.
@@ -96,13 +96,13 @@ Le format rend visibles les deux organisations attendues par l’intitulé local
 
 **Enquête :** jeu choisi — `billes, cartes, quilles, billes, corde, cartes, billes, quilles, cartes, corde, billes, cartes`.
 
-- **IMM01** Écris l’effectif de « billes ».
-- **IMM02** Écris l’effectif de « cartes ».
-- **IMM03** Écris l’effectif de « quilles ».
-- **IMM04** Écris l’effectif de « corde ».
-- **IMM05** Recopie ces quatre résultats dans un tableau à deux colonnes : « jeu » et « effectif ».
-- **IMM06** Trace les quatre barres sur le gabarit, avec une graduation pour une réponse.
-- **IMM07** Vérifie et écris les hauteurs des quatre barres dans l’ordre : billes, cartes, quilles, corde.
+- Écris l’effectif de « billes ».
+- Écris l’effectif de « cartes ».
+- Écris l’effectif de « quilles ».
+- Écris l’effectif de « corde ».
+- Recopie ces quatre résultats dans un tableau à deux colonnes : « jeu » et « effectif ».
+- Trace les quatre barres sur le gabarit, avec une graduation pour une réponse.
+- Vérifie et écris les hauteurs des quatre barres dans l’ordre : billes, cartes, quilles, corde.
 
 ## Variables didactiques
 
@@ -114,367 +114,307 @@ Le format rend visibles les deux organisations attendues par l’intitulé local
 
 Pour chaque série, compléter un tableau « catégorie/effectif » puis utiliser le gabarit. Une graduation représente une réponse.
 
-### ENT01
-
+### Entraînement 1
 **Données — animaux :** `chat, chien, chat, poisson, lapin, chat, chien, lapin, chat, poisson`.
 
-- **ENT01-01** Effectif de « chat ».
-- **ENT01-02** Effectif de « chien ».
-- **ENT01-03** Effectif de « poisson ».
-- **ENT01-04** Effectif de « lapin ».
-- **ENT01-05** Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
+- Effectif de « chat ».
+- Effectif de « chien ».
+- Effectif de « poisson ».
+- Effectif de « lapin ».
+- Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
 
-### ENT02
-
+### Entraînement 2
 **Données — fruits :** `pomme, poire, banane, pomme, kiwi, pomme, poire, kiwi, banane, pomme, poire, pomme`.
 
-- **ENT02-01** Effectif de « pomme ».
-- **ENT02-02** Effectif de « poire ».
-- **ENT02-03** Effectif de « banane ».
-- **ENT02-04** Effectif de « kiwi ».
-- **ENT02-05** Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
+- Effectif de « pomme ».
+- Effectif de « poire ».
+- Effectif de « banane ».
+- Effectif de « kiwi ».
+- Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
 
-### ENT03
-
+### Entraînement 3
 **Données — jeux :** `cartes, billes, corde, quilles, cartes, billes, cartes, corde, billes, quilles, cartes, billes, corde, cartes`.
 
-- **ENT03-01** Effectif de « cartes ».
-- **ENT03-02** Effectif de « billes ».
-- **ENT03-03** Effectif de « corde ».
-- **ENT03-04** Effectif de « quilles ».
-- **ENT03-05** Trace les quatre barres dans cet ordre : cartes, billes, corde, quilles.
+- Effectif de « cartes ».
+- Effectif de « billes ».
+- Effectif de « corde ».
+- Effectif de « quilles ».
+- Trace les quatre barres dans cet ordre : cartes, billes, corde, quilles.
 
-### ENT04
-
+### Entraînement 4
 **Données — couleurs :** `bleu, vert, rouge, jaune, bleu, rouge, vert, bleu, jaune, rouge, bleu, vert, rouge, jaune, bleu, rouge`.
 
-- **ENT04-01** Effectif de « bleu ».
-- **ENT04-02** Effectif de « vert ».
-- **ENT04-03** Effectif de « rouge ».
-- **ENT04-04** Effectif de « jaune ».
-- **ENT04-05** Trace les quatre barres dans cet ordre : bleu, vert, rouge, jaune.
+- Effectif de « bleu ».
+- Effectif de « vert ».
+- Effectif de « rouge ».
+- Effectif de « jaune ».
+- Trace les quatre barres dans cet ordre : bleu, vert, rouge, jaune.
 
-### ENT05
-
+### Entraînement 5
 **Données — sports :** `vélo, danse, foot, judo, vélo, foot, danse, vélo, judo, foot, vélo, danse, foot, judo, vélo, foot, danse, vélo`.
 
-- **ENT05-01** Effectif de « vélo ».
-- **ENT05-02** Effectif de « danse ».
-- **ENT05-03** Effectif de « foot ».
-- **ENT05-04** Effectif de « judo ».
-- **ENT05-05** Trace les quatre barres dans cet ordre : vélo, danse, foot, judo.
+- Effectif de « vélo ».
+- Effectif de « danse ».
+- Effectif de « foot ».
+- Effectif de « judo ».
+- Trace les quatre barres dans cet ordre : vélo, danse, foot, judo.
 
-### ENT06
-
+### Entraînement 6
 **Données — livres :** `conte, BD, album, documentaire, BD, conte, documentaire, album, conte, BD, album, conte, documentaire, BD, conte, album, BD, conte, documentaire, conte`.
 
-- **ENT06-01** Effectif de « conte ».
-- **ENT06-02** Effectif de « BD ».
-- **ENT06-03** Effectif de « album ».
-- **ENT06-04** Effectif de « documentaire ».
-- **ENT06-05** Trace les quatre barres dans cet ordre : conte, BD, album, documentaire.
+- Effectif de « conte ».
+- Effectif de « BD ».
+- Effectif de « album ».
+- Effectif de « documentaire ».
+- Trace les quatre barres dans cet ordre : conte, BD, album, documentaire.
 
-### ENT07
-
+### Entraînement 7
 **Données — transports :** `pied, bus, vélo, voiture, pied, vélo, bus, pied, voiture, vélo, pied, bus, voiture, pied, vélo, bus, pied, voiture, vélo, pied, bus, vélo`.
 
-- **ENT07-01** Effectif de « pied ».
-- **ENT07-02** Effectif de « bus ».
-- **ENT07-03** Effectif de « vélo ».
-- **ENT07-04** Effectif de « voiture ».
-- **ENT07-05** Trace les quatre barres dans cet ordre : pied, bus, vélo, voiture.
+- Effectif de « pied ».
+- Effectif de « bus ».
+- Effectif de « vélo ».
+- Effectif de « voiture ».
+- Trace les quatre barres dans cet ordre : pied, bus, vélo, voiture.
 
-### ENT08
-
+### Entraînement 8
 **Données — ateliers :** `peinture, pliage, collage, modelage, collage, peinture, modelage, pliage, peinture, collage, pliage, peinture, modelage, collage, peinture, pliage, collage, modelage, peinture, collage, pliage, peinture, modelage, collage`.
 
-- **ENT08-01** Effectif de « peinture ».
-- **ENT08-02** Effectif de « pliage ».
-- **ENT08-03** Effectif de « collage ».
-- **ENT08-04** Effectif de « modelage ».
-- **ENT08-05** Trace les quatre barres dans cet ordre : peinture, pliage, collage, modelage.
+- Effectif de « peinture ».
+- Effectif de « pliage ».
+- Effectif de « collage ».
+- Effectif de « modelage ».
+- Trace les quatre barres dans cet ordre : peinture, pliage, collage, modelage.
 
-### ENT09
-
+### Entraînement 9
 **Données — goûters :** `pain, fruit, yaourt, compote, fruit, pain, compote, yaourt, pain, fruit, yaourt, compote, pain, fruit, compote, yaourt, fruit, pain, yaourt, compote, pain, fruit, compote, pain, yaourt, fruit`.
 
-- **ENT09-01** Effectif de « pain ».
-- **ENT09-02** Effectif de « fruit ».
-- **ENT09-03** Effectif de « yaourt ».
-- **ENT09-04** Effectif de « compote ».
-- **ENT09-05** Trace les quatre barres dans cet ordre : pain, fruit, yaourt, compote.
+- Effectif de « pain ».
+- Effectif de « fruit ».
+- Effectif de « yaourt ».
+- Effectif de « compote ».
+- Trace les quatre barres dans cet ordre : pain, fruit, yaourt, compote.
 
-### ENT10
-
+### Entraînement 10
 **Données — activités :** `lecture, dessin, musique, jardinage, dessin, lecture, jardinage, musique, lecture, dessin, musique, lecture, jardinage, dessin, lecture, musique, jardinage, dessin, lecture, jardinage, musique, dessin, lecture, musique, dessin, jardinage, lecture, dessin`.
 
-- **ENT10-01** Effectif de « lecture ».
-- **ENT10-02** Effectif de « dessin ».
-- **ENT10-03** Effectif de « musique ».
-- **ENT10-04** Effectif de « jardinage ».
-- **ENT10-05** Trace les quatre barres dans cet ordre : lecture, dessin, musique, jardinage.
+- Effectif de « lecture ».
+- Effectif de « dessin ».
+- Effectif de « musique ».
+- Effectif de « jardinage ».
+- Trace les quatre barres dans cet ordre : lecture, dessin, musique, jardinage.
 
 ## Évaluations
 
 Dans chaque forme, les quatre premiers items utilisent les données reprises d’un entraînement. Le cinquième fournit un tableau nouveau : tracer les barres dans l’ordre indiqué, avec une graduation pour une réponse.
 
-### EVAL01
-
+### Évaluation 1
 **Données :** celles de ENT05.
-- **EVAL01-01** Effectif de « vélo ».
-- **EVAL01-02** Effectif de « danse ».
-- **EVAL01-03** Effectif de « foot ».
-- **EVAL01-04** Effectif de « judo ».
-- **EVAL01-05** Nouveau tableau : pomme 4, poire 6, kiwi 3, banane 5. Trace les quatre barres dans cet ordre.
+- Effectif de « vélo ».
+- Effectif de « danse ».
+- Effectif de « foot ».
+- Effectif de « judo ».
+- Nouveau tableau : pomme 4, poire 6, kiwi 3, banane 5. Trace les quatre barres dans cet ordre.
 
-### EVAL02
-
+### Évaluation 2
 **Données :** celles de ENT06.
-- **EVAL02-01** Effectif de « conte ».
-- **EVAL02-02** Effectif de « BD ».
-- **EVAL02-03** Effectif de « album ».
-- **EVAL02-04** Effectif de « documentaire ».
-- **EVAL02-05** Nouveau tableau : chat 5, chien 3, lapin 6, poisson 4. Trace les quatre barres dans cet ordre.
+- Effectif de « conte ».
+- Effectif de « BD ».
+- Effectif de « album ».
+- Effectif de « documentaire ».
+- Nouveau tableau : chat 5, chien 3, lapin 6, poisson 4. Trace les quatre barres dans cet ordre.
 
-### EVAL03
-
+### Évaluation 3
 **Données :** celles de ENT05.
-- **EVAL03-01** Effectif de « vélo ».
-- **EVAL03-02** Effectif de « danse ».
-- **EVAL03-03** Effectif de « foot ».
-- **EVAL03-04** Effectif de « judo ».
-- **EVAL03-05** Nouveau tableau : bleu 6, vert 4, rouge 5, jaune 3. Trace les quatre barres dans cet ordre.
+- Effectif de « vélo ».
+- Effectif de « danse ».
+- Effectif de « foot ».
+- Effectif de « judo ».
+- Nouveau tableau : bleu 6, vert 4, rouge 5, jaune 3. Trace les quatre barres dans cet ordre.
 
-### EVAL04
-
+### Évaluation 4
 **Données :** celles de ENT06.
-- **EVAL04-01** Effectif de « conte ».
-- **EVAL04-02** Effectif de « BD ».
-- **EVAL04-03** Effectif de « album ».
-- **EVAL04-04** Effectif de « documentaire ».
-- **EVAL04-05** Nouveau tableau : cartes 4, billes 6, corde 5, quilles 3. Trace les quatre barres dans cet ordre.
+- Effectif de « conte ».
+- Effectif de « BD ».
+- Effectif de « album ».
+- Effectif de « documentaire ».
+- Nouveau tableau : cartes 4, billes 6, corde 5, quilles 3. Trace les quatre barres dans cet ordre.
 
-### EVAL05
-
+### Évaluation 5
 **Données :** celles de ENT05.
-- **EVAL05-01** Effectif de « vélo ».
-- **EVAL05-02** Effectif de « danse ».
-- **EVAL05-03** Effectif de « foot ».
-- **EVAL05-04** Effectif de « judo ».
-- **EVAL05-05** Nouveau tableau : conte 5, BD 6, album 3, documentaire 4. Trace les quatre barres dans cet ordre.
+- Effectif de « vélo ».
+- Effectif de « danse ».
+- Effectif de « foot ».
+- Effectif de « judo ».
+- Nouveau tableau : conte 5, BD 6, album 3, documentaire 4. Trace les quatre barres dans cet ordre.
 
-### EVAL06
-
+### Évaluation 6
 **Données :** celles de ENT06.
-- **EVAL06-01** Effectif de « conte ».
-- **EVAL06-02** Effectif de « BD ».
-- **EVAL06-03** Effectif de « album ».
-- **EVAL06-04** Effectif de « documentaire ».
-- **EVAL06-05** Nouveau tableau : pied 6, bus 5, vélo 4, voiture 3. Trace les quatre barres dans cet ordre.
+- Effectif de « conte ».
+- Effectif de « BD ».
+- Effectif de « album ».
+- Effectif de « documentaire ».
+- Nouveau tableau : pied 6, bus 5, vélo 4, voiture 3. Trace les quatre barres dans cet ordre.
 
-### EVAL07
-
+### Évaluation 7
 **Données :** celles de ENT05.
-- **EVAL07-01** Effectif de « vélo ».
-- **EVAL07-02** Effectif de « danse ».
-- **EVAL07-03** Effectif de « foot ».
-- **EVAL07-04** Effectif de « judo ».
-- **EVAL07-05** Nouveau tableau : peinture 3, pliage 5, collage 6, modelage 4. Trace les quatre barres dans cet ordre.
+- Effectif de « vélo ».
+- Effectif de « danse ».
+- Effectif de « foot ».
+- Effectif de « judo ».
+- Nouveau tableau : peinture 3, pliage 5, collage 6, modelage 4. Trace les quatre barres dans cet ordre.
 
-### EVAL08
-
+### Évaluation 8
 **Données :** celles de ENT06.
-- **EVAL08-01** Effectif de « conte ».
-- **EVAL08-02** Effectif de « BD ».
-- **EVAL08-03** Effectif de « album ».
-- **EVAL08-04** Effectif de « documentaire ».
-- **EVAL08-05** Nouveau tableau : pain 4, fruit 6, yaourt 5, compote 3. Trace les quatre barres dans cet ordre.
+- Effectif de « conte ».
+- Effectif de « BD ».
+- Effectif de « album ».
+- Effectif de « documentaire ».
+- Nouveau tableau : pain 4, fruit 6, yaourt 5, compote 3. Trace les quatre barres dans cet ordre.
 
-### EVAL09
-
+### Évaluation 9
 **Données :** celles de ENT05.
-- **EVAL09-01** Effectif de « vélo ».
-- **EVAL09-02** Effectif de « danse ».
-- **EVAL09-03** Effectif de « foot ».
-- **EVAL09-04** Effectif de « judo ».
-- **EVAL09-05** Nouveau tableau : lecture 6, dessin 4, musique 3, jardinage 5. Trace les quatre barres dans cet ordre.
+- Effectif de « vélo ».
+- Effectif de « danse ».
+- Effectif de « foot ».
+- Effectif de « judo ».
+- Nouveau tableau : lecture 6, dessin 4, musique 3, jardinage 5. Trace les quatre barres dans cet ordre.
 
-### EVAL10
-
+### Évaluation 10
 **Données :** celles de ENT06.
-- **EVAL10-01** Effectif de « conte ».
-- **EVAL10-02** Effectif de « BD ».
-- **EVAL10-03** Effectif de « album ».
-- **EVAL10-04** Effectif de « documentaire ».
-- **EVAL10-05** Nouveau tableau : vélo 5, danse 3, foot 6, judo 4. Trace les quatre barres dans cet ordre.
+- Effectif de « conte ».
+- Effectif de « BD ».
+- Effectif de « album ».
+- Effectif de « documentaire ».
+- Nouveau tableau : vélo 5, danse 3, foot 6, judo 4. Trace les quatre barres dans cet ordre.
 
 ## Devoirs
 
 Les données sont reprises des quatre premiers entraînements. Pour l’item 5, utiliser le gabarit fourni dans « Exercice type ».
 
-### DEV01
-**Données :** celles de ENT01.
-- **DEV01-01** Effectif de « chat ».
-- **DEV01-02** Effectif de « chien ».
-- **DEV01-03** Effectif de « poisson ».
-- **DEV01-04** Effectif de « lapin ».
-- **DEV01-05** Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
+### Devoir 1**Données :** celles de ENT01.
+- Effectif de « chat ».
+- Effectif de « chien ».
+- Effectif de « poisson ».
+- Effectif de « lapin ».
+- Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
 
-### DEV02
-**Données :** celles de ENT02.
-- **DEV02-01** Effectif de « pomme ».
-- **DEV02-02** Effectif de « poire ».
-- **DEV02-03** Effectif de « banane ».
-- **DEV02-04** Effectif de « kiwi ».
-- **DEV02-05** Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
+### Devoir 2**Données :** celles de ENT02.
+- Effectif de « pomme ».
+- Effectif de « poire ».
+- Effectif de « banane ».
+- Effectif de « kiwi ».
+- Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
 
-### DEV03
-**Données :** celles de ENT03.
-- **DEV03-01** Effectif de « cartes ».
-- **DEV03-02** Effectif de « billes ».
-- **DEV03-03** Effectif de « corde ».
-- **DEV03-04** Effectif de « quilles ».
-- **DEV03-05** Trace les quatre barres dans cet ordre : cartes, billes, corde, quilles.
+### Devoir 3**Données :** celles de ENT03.
+- Effectif de « cartes ».
+- Effectif de « billes ».
+- Effectif de « corde ».
+- Effectif de « quilles ».
+- Trace les quatre barres dans cet ordre : cartes, billes, corde, quilles.
 
-### DEV04
-**Données :** celles de ENT04.
-- **DEV04-01** Effectif de « bleu ».
-- **DEV04-02** Effectif de « vert ».
-- **DEV04-03** Effectif de « rouge ».
-- **DEV04-04** Effectif de « jaune ».
-- **DEV04-05** Trace les quatre barres dans cet ordre : bleu, vert, rouge, jaune.
+### Devoir 4**Données :** celles de ENT04.
+- Effectif de « bleu ».
+- Effectif de « vert ».
+- Effectif de « rouge ».
+- Effectif de « jaune ».
+- Trace les quatre barres dans cet ordre : bleu, vert, rouge, jaune.
 
-### DEV05
-**Données :** celles de ENT01.
-- **DEV05-01** Effectif de « chat ».
-- **DEV05-02** Effectif de « chien ».
-- **DEV05-03** Effectif de « poisson ».
-- **DEV05-04** Effectif de « lapin ».
-- **DEV05-05** Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
+### Devoir 5**Données :** celles de ENT01.
+- Effectif de « chat ».
+- Effectif de « chien ».
+- Effectif de « poisson ».
+- Effectif de « lapin ».
+- Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
 
-### DEV06
-**Données :** celles de ENT02.
-- **DEV06-01** Effectif de « pomme ».
-- **DEV06-02** Effectif de « poire ».
-- **DEV06-03** Effectif de « banane ».
-- **DEV06-04** Effectif de « kiwi ».
-- **DEV06-05** Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
+### Devoir 6**Données :** celles de ENT02.
+- Effectif de « pomme ».
+- Effectif de « poire ».
+- Effectif de « banane ».
+- Effectif de « kiwi ».
+- Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
 
-### DEV07
-**Données :** celles de ENT03.
-- **DEV07-01** Effectif de « cartes ».
-- **DEV07-02** Effectif de « billes ».
-- **DEV07-03** Effectif de « corde ».
-- **DEV07-04** Effectif de « quilles ».
-- **DEV07-05** Trace les quatre barres dans cet ordre : cartes, billes, corde, quilles.
+### Devoir 7**Données :** celles de ENT03.
+- Effectif de « cartes ».
+- Effectif de « billes ».
+- Effectif de « corde ».
+- Effectif de « quilles ».
+- Trace les quatre barres dans cet ordre : cartes, billes, corde, quilles.
 
-### DEV08
-**Données :** celles de ENT04.
-- **DEV08-01** Effectif de « bleu ».
-- **DEV08-02** Effectif de « vert ».
-- **DEV08-03** Effectif de « rouge ».
-- **DEV08-04** Effectif de « jaune ».
-- **DEV08-05** Trace les quatre barres dans cet ordre : bleu, vert, rouge, jaune.
+### Devoir 8**Données :** celles de ENT04.
+- Effectif de « bleu ».
+- Effectif de « vert ».
+- Effectif de « rouge ».
+- Effectif de « jaune ».
+- Trace les quatre barres dans cet ordre : bleu, vert, rouge, jaune.
 
-### DEV09
-**Données :** celles de ENT01.
-- **DEV09-01** Effectif de « chat ».
-- **DEV09-02** Effectif de « chien ».
-- **DEV09-03** Effectif de « poisson ».
-- **DEV09-04** Effectif de « lapin ».
-- **DEV09-05** Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
+### Devoir 9**Données :** celles de ENT01.
+- Effectif de « chat ».
+- Effectif de « chien ».
+- Effectif de « poisson ».
+- Effectif de « lapin ».
+- Trace les quatre barres dans cet ordre : chat, chien, poisson, lapin.
 
-### DEV10
-**Données :** celles de ENT02.
-- **DEV10-01** Effectif de « pomme ».
-- **DEV10-02** Effectif de « poire ».
-- **DEV10-03** Effectif de « banane ».
-- **DEV10-04** Effectif de « kiwi ».
-- **DEV10-05** Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
+### Devoir 10**Données :** celles de ENT02.
+- Effectif de « pomme ».
+- Effectif de « poire ».
+- Effectif de « banane ».
+- Effectif de « kiwi ».
+- Trace les quatre barres dans cet ordre : pomme, poire, banane, kiwi.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01 :** 4. 2. **IMM02 :** 4. 3. **IMM03 :** 2. 4. **IMM04 :** 2. 5. **IMM05 :** billes 4 ; cartes 4 ; quilles 2 ; corde 2. 6. **IMM06 :** hauteurs 4, 4, 2, 2. 7. **IMM07 :** 4 ; 4 ; 2 ; 2.
+1. :** 4. 2. **IMM02 :** 4. 3. **IMM03 :** 2. 4. **IMM04 :** 2. 5. **IMM05 :** billes 4 ; cartes 4 ; quilles 2 ; corde 2. 6. **IMM06 :** hauteurs 4, 4, 2, 2. 7. **IMM07 :** 4 ; 4 ; 2 ; 2.
 
 ### Corrections des entraînements
 
-#### ENT01
-1. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
+#### Entraînement 11. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
 
-#### ENT02
-1. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
+#### Entraînement 21. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
 
-#### ENT03
-1. 5. 2. 4. 3. 3. 4. 2. 5. Barres : 5, 4, 3, 2.
+#### Entraînement 31. 5. 2. 4. 3. 3. 4. 2. 5. Barres : 5, 4, 3, 2.
 
-#### ENT04
-1. 5. 2. 3. 3. 5. 4. 3. 5. Barres : 5, 3, 5, 3.
+#### Entraînement 41. 5. 2. 3. 3. 5. 4. 3. 5. Barres : 5, 3, 5, 3.
 
-#### ENT05
-1. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 6, 4, 5, 3.
+#### Entraînement 51. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 6, 4, 5, 3.
 
-#### ENT06
-1. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 7, 5, 4, 4.
+#### Entraînement 61. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 7, 5, 4, 4.
 
-#### ENT07
-1. 7. 2. 5. 3. 6. 4. 4. 5. Barres : 7, 5, 6, 4.
+#### Entraînement 71. 7. 2. 5. 3. 6. 4. 4. 5. Barres : 7, 5, 6, 4.
 
-#### ENT08
-1. 7. 2. 5. 3. 7. 4. 5. 5. Barres : 7, 5, 7, 5.
+#### Entraînement 81. 7. 2. 5. 3. 7. 4. 5. 5. Barres : 7, 5, 7, 5.
 
-#### ENT09
-1. 7. 2. 7. 3. 6. 4. 6. 5. Barres : 7, 7, 6, 6.
+#### Entraînement 91. 7. 2. 7. 3. 6. 4. 6. 5. Barres : 7, 7, 6, 6.
 
-#### ENT10
-1. 8. 2. 8. 3. 6. 4. 6. 5. Barres : 8, 8, 6, 6.
+#### Entraînement 101. 8. 2. 8. 3. 6. 4. 6. 5. Barres : 8, 8, 6, 6.
 
 ### Corrections des évaluations
 
-#### EVAL01
-1. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 4, 6, 3, 5.
-#### EVAL02
-1. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 5, 3, 6, 4.
-#### EVAL03
-1. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 6, 4, 5, 3.
-#### EVAL04
-1. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 4, 6, 5, 3.
-#### EVAL05
-1. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 5, 6, 3, 4.
-#### EVAL06
-1. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 6, 5, 4, 3.
-#### EVAL07
-1. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 3, 5, 6, 4.
-#### EVAL08
-1. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 4, 6, 5, 3.
-#### EVAL09
-1. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 6, 4, 3, 5.
-#### EVAL10
-1. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 5, 3, 6, 4.
+#### Évaluation 11. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 4, 6, 3, 5.
+#### Évaluation 21. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 5, 3, 6, 4.
+#### Évaluation 31. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 6, 4, 5, 3.
+#### Évaluation 41. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 4, 6, 5, 3.
+#### Évaluation 51. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 5, 6, 3, 4.
+#### Évaluation 61. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 6, 5, 4, 3.
+#### Évaluation 71. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 3, 5, 6, 4.
+#### Évaluation 81. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 4, 6, 5, 3.
+#### Évaluation 91. 6. 2. 4. 3. 5. 4. 3. 5. Barres : 6, 4, 3, 5.
+#### Évaluation 101. 7. 2. 5. 3. 4. 4. 4. 5. Barres : 5, 3, 6, 4.
 
 ### Corrections des devoirs
 
-#### DEV01
-1. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
-#### DEV02
-1. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
-#### DEV03
-1. 5. 2. 4. 3. 3. 4. 2. 5. Barres : 5, 4, 3, 2.
-#### DEV04
-1. 5. 2. 3. 3. 5. 4. 3. 5. Barres : 5, 3, 5, 3.
-#### DEV05
-1. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
-#### DEV06
-1. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
-#### DEV07
-1. 5. 2. 4. 3. 3. 4. 2. 5. Barres : 5, 4, 3, 2.
-#### DEV08
-1. 5. 2. 3. 3. 5. 4. 3. 5. Barres : 5, 3, 5, 3.
-#### DEV09
-1. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
-#### DEV10
-1. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
+#### Devoir 11. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
+#### Devoir 21. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
+#### Devoir 31. 5. 2. 4. 3. 3. 4. 2. 5. Barres : 5, 4, 3, 2.
+#### Devoir 41. 5. 2. 3. 3. 5. 4. 3. 5. Barres : 5, 3, 5, 3.
+#### Devoir 51. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
+#### Devoir 61. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
+#### Devoir 71. 5. 2. 4. 3. 3. 4. 2. 5. Barres : 5, 4, 3, 2.
+#### Devoir 81. 5. 2. 3. 3. 5. 4. 3. 5. Barres : 5, 3, 5, 3.
+#### Devoir 91. 4. 2. 2. 3. 2. 4. 2. 5. Barres : 4, 2, 2, 2.
+#### Devoir 101. 5. 2. 3. 3. 2. 4. 2. 5. Barres : 5, 3, 2, 2.
 
 Pour chaque tracé, accepter toute présentation respectant les quatre catégories, l’ordre demandé, un départ à 0, une graduation de 1 et les hauteurs indiquées.
 

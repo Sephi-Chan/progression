@@ -81,24 +81,21 @@ Les colonnes sont repérées par des lettres et les lignes par des nombres. Une 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Indique la case du lieu demandé. Plan A : où est l’école ?  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** C1.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Indique la case du lieu demandé. Plan A : où est la poste ?  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** B2.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Indique la case du lieu demandé. Plan A : où est la mairie ?  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -107,13 +104,13 @@ Les colonnes sont repérées par des lettres et les lignes par des nombres. Une 
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **IMM02** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **IMM03** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **IMM04** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **IMM05** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **IMM06** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **IMM07** Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
 
 ## Variables didactiques
 
@@ -123,511 +120,451 @@ Les colonnes sont repérées par des lettres et les lignes par des nombres. Une 
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
 
-- **ENT01-01** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **ENT01-02** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **ENT01-03** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **ENT01-04** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **ENT01-05** Indique la case du lieu demandé. Plan A : où est la piscine ?
+### Entraînement 2
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
 
-### ENT02
+### Entraînement 3
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est la poste ?
 
-- **ENT02-01** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **ENT02-02** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **ENT02-03** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **ENT02-04** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **ENT02-05** Indique la case du lieu demandé. Plan A : où est le marché ?
+### Entraînement 4
+- Indique la case du lieu demandé. Plan B : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le musée ?
+- Indique la case du lieu demandé. Plan A : où est la ferme ?
+- Indique la case du lieu demandé. Plan A : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est le phare ?
 
-### ENT03
+### Entraînement 5
+- Indique la case du lieu demandé. Plan A : où est la ferme ?
+- Indique la case du lieu demandé. Plan A : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est le phare ?
+- Indique la case du lieu demandé. Plan B : où est le château ?
+- Indique la case du lieu demandé. Plan B : où est le jardin ?
 
-- **ENT03-01** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **ENT03-02** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **ENT03-03** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **ENT03-04** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **ENT03-05** Indique la case du lieu demandé. Plan A : où est la poste ?
+### Entraînement 6
+- Indique la case du lieu demandé. Plan B : où est le phare ?
+- Indique la case du lieu demandé. Plan B : où est le château ?
+- Indique la case du lieu demandé. Plan B : où est le jardin ?
+- Indique la case du lieu demandé. Plan B : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le musée ?
 
-### ENT04
+### Entraînement 7
+- Indique la case du lieu demandé. Plan B : où est le jardin ?
+- Indique la case du lieu demandé. Plan B : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le musée ?
+- Indique la case du lieu demandé. Plan A : où est la ferme ?
+- Indique la case du lieu demandé. Plan A : où est le moulin ?
 
-- **ENT04-01** Indique la case du lieu demandé. Plan B : où est le pont ?
-- **ENT04-02** Indique la case du lieu demandé. Plan A : où est le musée ?
-- **ENT04-03** Indique la case du lieu demandé. Plan A : où est la ferme ?
-- **ENT04-04** Indique la case du lieu demandé. Plan A : où est le moulin ?
-- **ENT04-05** Indique la case du lieu demandé. Plan B : où est le phare ?
+### Entraînement 8
+- Indique la case du lieu demandé. Plan B : où est la plage ?
+- Indique la case du lieu demandé. Plan B : où est le stade ?
+- Indique la case du lieu demandé. Plan B : où est la piscine ?
+- Indique la case du lieu demandé. Plan B : où est la poste ?
+- Indique la case du lieu demandé. Plan B : où est le moulin ?
 
-### ENT05
+### Entraînement 9
+- Indique la case du lieu demandé. Plan B : où est la piscine ?
+- Indique la case du lieu demandé. Plan B : où est la poste ?
+- Indique la case du lieu demandé. Plan B : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est le marché ?
+- Indique la case du lieu demandé. Plan B : où est le lac ?
 
-- **ENT05-01** Indique la case du lieu demandé. Plan A : où est la ferme ?
-- **ENT05-02** Indique la case du lieu demandé. Plan A : où est le moulin ?
-- **ENT05-03** Indique la case du lieu demandé. Plan B : où est le phare ?
-- **ENT05-04** Indique la case du lieu demandé. Plan B : où est le château ?
-- **ENT05-05** Indique la case du lieu demandé. Plan B : où est le jardin ?
-
-### ENT06
-
-- **ENT06-01** Indique la case du lieu demandé. Plan B : où est le phare ?
-- **ENT06-02** Indique la case du lieu demandé. Plan B : où est le château ?
-- **ENT06-03** Indique la case du lieu demandé. Plan B : où est le jardin ?
-- **ENT06-04** Indique la case du lieu demandé. Plan B : où est le pont ?
-- **ENT06-05** Indique la case du lieu demandé. Plan A : où est le musée ?
-
-### ENT07
-
-- **ENT07-01** Indique la case du lieu demandé. Plan B : où est le jardin ?
-- **ENT07-02** Indique la case du lieu demandé. Plan B : où est le pont ?
-- **ENT07-03** Indique la case du lieu demandé. Plan A : où est le musée ?
-- **ENT07-04** Indique la case du lieu demandé. Plan A : où est la ferme ?
-- **ENT07-05** Indique la case du lieu demandé. Plan A : où est le moulin ?
-
-### ENT08
-
-- **ENT08-01** Indique la case du lieu demandé. Plan B : où est la plage ?
-- **ENT08-02** Indique la case du lieu demandé. Plan B : où est le stade ?
-- **ENT08-03** Indique la case du lieu demandé. Plan B : où est la piscine ?
-- **ENT08-04** Indique la case du lieu demandé. Plan B : où est la poste ?
-- **ENT08-05** Indique la case du lieu demandé. Plan B : où est le moulin ?
-
-### ENT09
-
-- **ENT09-01** Indique la case du lieu demandé. Plan B : où est la piscine ?
-- **ENT09-02** Indique la case du lieu demandé. Plan B : où est la poste ?
-- **ENT09-03** Indique la case du lieu demandé. Plan B : où est le moulin ?
-- **ENT09-04** Indique la case du lieu demandé. Plan B : où est le marché ?
-- **ENT09-05** Indique la case du lieu demandé. Plan B : où est le lac ?
-
-### ENT10
-
-- **ENT10-01** Indique la case du lieu demandé. Plan B : où est le moulin ?
-- **ENT10-02** Indique la case du lieu demandé. Plan B : où est le marché ?
-- **ENT10-03** Indique la case du lieu demandé. Plan B : où est le lac ?
-- **ENT10-04** Indique la case du lieu demandé. Plan B : où est la plage ?
-- **ENT10-05** Indique la case du lieu demandé. Plan B : où est le stade ?
+### Entraînement 10
+- Indique la case du lieu demandé. Plan B : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est le marché ?
+- Indique la case du lieu demandé. Plan B : où est le lac ?
+- Indique la case du lieu demandé. Plan B : où est la plage ?
+- Indique la case du lieu demandé. Plan B : où est le stade ?
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est le moulin ?
+- Indique la case du lieu demandé. Plan A : où est le musée ?
+- Indique la case du lieu demandé. Plan B : où est le marché ?
+- Indique la case du lieu demandé. Plan B : où est la mairie ?
 
-- **EVAL01-01** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **EVAL01-02** Indique la case du lieu demandé. Plan A : où est le moulin ?
-- **EVAL01-03** Indique la case du lieu demandé. Plan A : où est le musée ?
-- **EVAL01-04** Indique la case du lieu demandé. Plan B : où est le marché ?
-- **EVAL01-05** Indique la case du lieu demandé. Plan B : où est la mairie ?
+### Évaluation 2
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan B : où est le phare ?
+- Indique la case du lieu demandé. Plan A : où est la ferme ?
+- Indique la case du lieu demandé. Plan B : où est le lac ?
+- Indique la case du lieu demandé. Plan B : où est le musée ?
 
-### EVAL02
+### Évaluation 3
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan B : où est le château ?
+- Indique la case du lieu demandé. Plan A : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est la mare ?
 
-- **EVAL02-01** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **EVAL02-02** Indique la case du lieu demandé. Plan B : où est le phare ?
-- **EVAL02-03** Indique la case du lieu demandé. Plan A : où est la ferme ?
-- **EVAL02-04** Indique la case du lieu demandé. Plan B : où est le lac ?
-- **EVAL02-05** Indique la case du lieu demandé. Plan B : où est le musée ?
+### Évaluation 4
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan B : où est le jardin ?
+- Indique la case du lieu demandé. Plan B : où est le jardin ?
+- Indique la case du lieu demandé. Plan B : où est la poste ?
+- Indique la case du lieu demandé. Plan B : où est la gare ?
 
-### EVAL03
+### Évaluation 5
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la ferme ?
+- Indique la case du lieu demandé. Plan B : où est le pont ?
+- Indique la case du lieu demandé. Plan B : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est la mairie ?
 
-- **EVAL03-01** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **EVAL03-02** Indique la case du lieu demandé. Plan B : où est le château ?
-- **EVAL03-03** Indique la case du lieu demandé. Plan A : où est le moulin ?
-- **EVAL03-04** Indique la case du lieu demandé. Plan B : où est la piscine ?
-- **EVAL03-05** Indique la case du lieu demandé. Plan A : où est la mare ?
+### Évaluation 6
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est le moulin ?
+- Indique la case du lieu demandé. Plan A : où est le musée ?
+- Indique la case du lieu demandé. Plan B : où est le marché ?
+- Indique la case du lieu demandé. Plan B : où est le musée ?
 
-### EVAL04
+### Évaluation 7
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan B : où est le phare ?
+- Indique la case du lieu demandé. Plan A : où est la ferme ?
+- Indique la case du lieu demandé. Plan B : où est le lac ?
+- Indique la case du lieu demandé. Plan A : où est la mare ?
 
-- **EVAL04-01** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **EVAL04-02** Indique la case du lieu demandé. Plan B : où est le jardin ?
-- **EVAL04-03** Indique la case du lieu demandé. Plan B : où est le jardin ?
-- **EVAL04-04** Indique la case du lieu demandé. Plan B : où est la poste ?
-- **EVAL04-05** Indique la case du lieu demandé. Plan B : où est la gare ?
+### Évaluation 8
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan B : où est le château ?
+- Indique la case du lieu demandé. Plan A : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est la piscine ?
+- Indique la case du lieu demandé. Plan B : où est la gare ?
 
-### EVAL05
+### Évaluation 9
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan B : où est le jardin ?
+- Indique la case du lieu demandé. Plan B : où est le jardin ?
+- Indique la case du lieu demandé. Plan B : où est la poste ?
+- Indique la case du lieu demandé. Plan B : où est la mairie ?
 
-- **EVAL05-01** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **EVAL05-02** Indique la case du lieu demandé. Plan A : où est la ferme ?
-- **EVAL05-03** Indique la case du lieu demandé. Plan B : où est le pont ?
-- **EVAL05-04** Indique la case du lieu demandé. Plan B : où est le moulin ?
-- **EVAL05-05** Indique la case du lieu demandé. Plan B : où est la mairie ?
-
-### EVAL06
-
-- **EVAL06-01** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **EVAL06-02** Indique la case du lieu demandé. Plan A : où est le moulin ?
-- **EVAL06-03** Indique la case du lieu demandé. Plan A : où est le musée ?
-- **EVAL06-04** Indique la case du lieu demandé. Plan B : où est le marché ?
-- **EVAL06-05** Indique la case du lieu demandé. Plan B : où est le musée ?
-
-### EVAL07
-
-- **EVAL07-01** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **EVAL07-02** Indique la case du lieu demandé. Plan B : où est le phare ?
-- **EVAL07-03** Indique la case du lieu demandé. Plan A : où est la ferme ?
-- **EVAL07-04** Indique la case du lieu demandé. Plan B : où est le lac ?
-- **EVAL07-05** Indique la case du lieu demandé. Plan A : où est la mare ?
-
-### EVAL08
-
-- **EVAL08-01** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **EVAL08-02** Indique la case du lieu demandé. Plan B : où est le château ?
-- **EVAL08-03** Indique la case du lieu demandé. Plan A : où est le moulin ?
-- **EVAL08-04** Indique la case du lieu demandé. Plan B : où est la piscine ?
-- **EVAL08-05** Indique la case du lieu demandé. Plan B : où est la gare ?
-
-### EVAL09
-
-- **EVAL09-01** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **EVAL09-02** Indique la case du lieu demandé. Plan B : où est le jardin ?
-- **EVAL09-03** Indique la case du lieu demandé. Plan B : où est le jardin ?
-- **EVAL09-04** Indique la case du lieu demandé. Plan B : où est la poste ?
-- **EVAL09-05** Indique la case du lieu demandé. Plan B : où est la mairie ?
-
-### EVAL10
-
-- **EVAL10-01** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **EVAL10-02** Indique la case du lieu demandé. Plan A : où est la ferme ?
-- **EVAL10-03** Indique la case du lieu demandé. Plan B : où est le pont ?
-- **EVAL10-04** Indique la case du lieu demandé. Plan B : où est le moulin ?
-- **EVAL10-05** Indique la case du lieu demandé. Plan B : où est le musée ?
+### Évaluation 10
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la ferme ?
+- Indique la case du lieu demandé. Plan B : où est le pont ?
+- Indique la case du lieu demandé. Plan B : où est le moulin ?
+- Indique la case du lieu demandé. Plan B : où est le musée ?
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
 
-- **DEV01-01** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **DEV01-02** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **DEV01-03** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **DEV01-04** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **DEV01-05** Indique la case du lieu demandé. Plan A : où est le marché ?
+### Devoir 2
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
 
-### DEV02
+### Devoir 3
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
 
-- **DEV02-01** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **DEV02-02** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV02-03** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **DEV02-04** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV02-05** Indique la case du lieu demandé. Plan A : où est la mairie ?
+### Devoir 4
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
 
-### DEV03
+### Devoir 5
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
 
-- **DEV03-01** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **DEV03-02** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **DEV03-03** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **DEV03-04** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **DEV03-05** Indique la case du lieu demandé. Plan A : où est le pont ?
+### Devoir 6
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
 
-### DEV04
+### Devoir 7
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
 
-- **DEV04-01** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **DEV04-02** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **DEV04-03** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV04-04** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **DEV04-05** Indique la case du lieu demandé. Plan A : où est la piscine ?
+### Devoir 8
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est l’école ?
+- Indique la case du lieu demandé. Plan A : où est le pont ?
 
-### DEV05
+### Devoir 9
+- Indique la case du lieu demandé. Plan A : où est le pont ?
+- Indique la case du lieu demandé. Plan A : où est le marché ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est la poste ?
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
 
-- **DEV05-01** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV05-02** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **DEV05-03** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **DEV05-04** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **DEV05-05** Indique la case du lieu demandé. Plan A : où est le stade ?
-
-### DEV06
-
-- **DEV06-01** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **DEV06-02** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **DEV06-03** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **DEV06-04** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **DEV06-05** Indique la case du lieu demandé. Plan A : où est le marché ?
-
-### DEV07
-
-- **DEV07-01** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **DEV07-02** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV07-03** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **DEV07-04** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV07-05** Indique la case du lieu demandé. Plan A : où est la mairie ?
-
-### DEV08
-
-- **DEV08-01** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **DEV08-02** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **DEV08-03** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **DEV08-04** Indique la case du lieu demandé. Plan A : où est l’école ?
-- **DEV08-05** Indique la case du lieu demandé. Plan A : où est le pont ?
-
-### DEV09
-
-- **DEV09-01** Indique la case du lieu demandé. Plan A : où est le pont ?
-- **DEV09-02** Indique la case du lieu demandé. Plan A : où est le marché ?
-- **DEV09-03** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV09-04** Indique la case du lieu demandé. Plan A : où est la poste ?
-- **DEV09-05** Indique la case du lieu demandé. Plan A : où est la piscine ?
-
-### DEV10
-
-- **DEV10-01** Indique la case du lieu demandé. Plan A : où est la piscine ?
-- **DEV10-02** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **DEV10-03** Indique la case du lieu demandé. Plan A : où est le stade ?
-- **DEV10-04** Indique la case du lieu demandé. Plan A : où est la mairie ?
-- **DEV10-05** Indique la case du lieu demandé. Plan A : où est le stade ?
+### Devoir 10
+- Indique la case du lieu demandé. Plan A : où est la piscine ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
+- Indique la case du lieu demandé. Plan A : où est la mairie ?
+- Indique la case du lieu demandé. Plan A : où est le stade ?
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** B4
-2. **IMM02** A5
-3. **IMM03** D2
-4. **IMM04** C5
-5. **IMM05** C1
-6. **IMM06** B2
-7. **IMM07** A3
+1. B4
+2. A5
+3. D2
+4. C5
+5. C1
+6. B2
+7. A3
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. C1
+2. B2
+3. A3
+4. B4
+5. A5
 
-1. **ENT01-01** C1
-2. **ENT01-02** B2
-3. **ENT01-03** A3
-4. **ENT01-04** B4
-5. **ENT01-05** A5
+#### Entraînement 2
+1. A3
+2. B4
+3. A5
+4. D2
+5. C5
 
-#### ENT02
+#### Entraînement 3
+1. A5
+2. D2
+3. C5
+4. C1
+5. B2
 
-1. **ENT02-01** A3
-2. **ENT02-02** B4
-3. **ENT02-03** A5
-4. **ENT02-04** D2
-5. **ENT02-05** C5
+#### Entraînement 4
+1. D5
+2. E3
+3. D4
+4. E5
+5. B1
 
-#### ENT03
+#### Entraînement 5
+1. D4
+2. E5
+3. B1
+4. A2
+5. C4
 
-1. **ENT03-01** A5
-2. **ENT03-02** D2
-3. **ENT03-03** C5
-4. **ENT03-04** C1
-5. **ENT03-05** B2
+#### Entraînement 6
+1. B1
+2. A2
+3. C4
+4. D5
+5. E3
 
-#### ENT04
+#### Entraînement 7
+1. C4
+2. D5
+3. E3
+4. D4
+5. E5
 
-1. **ENT04-01** D5
-2. **ENT04-02** E3
-3. **ENT04-03** D4
-4. **ENT04-04** E5
-5. **ENT04-05** B1
+#### Entraînement 8
+1. F1
+2. F3
+3. A6
+4. E6
+5. F5
 
-#### ENT05
+#### Entraînement 9
+1. A6
+2. E6
+3. F5
+4. C6
+5. E2
 
-1. **ENT05-01** D4
-2. **ENT05-02** E5
-3. **ENT05-03** B1
-4. **ENT05-04** A2
-5. **ENT05-05** C4
-
-#### ENT06
-
-1. **ENT06-01** B1
-2. **ENT06-02** A2
-3. **ENT06-03** C4
-4. **ENT06-04** D5
-5. **ENT06-05** E3
-
-#### ENT07
-
-1. **ENT07-01** C4
-2. **ENT07-02** D5
-3. **ENT07-03** E3
-4. **ENT07-04** D4
-5. **ENT07-05** E5
-
-#### ENT08
-
-1. **ENT08-01** F1
-2. **ENT08-02** F3
-3. **ENT08-03** A6
-4. **ENT08-04** E6
-5. **ENT08-05** F5
-
-#### ENT09
-
-1. **ENT09-01** A6
-2. **ENT09-02** E6
-3. **ENT09-03** F5
-4. **ENT09-04** C6
-5. **ENT09-05** E2
-
-#### ENT10
-
-1. **ENT10-01** F5
-2. **ENT10-02** C6
-3. **ENT10-03** E2
-4. **ENT10-04** F1
-5. **ENT10-05** F3
+#### Entraînement 10
+1. F5
+2. C6
+3. E2
+4. F1
+5. F3
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. A5
+2. E5
+3. E3
+4. C6
+5. D3
 
-1. **EVAL01-01** A5
-2. **EVAL01-02** E5
-3. **EVAL01-03** E3
-4. **EVAL01-04** C6
-5. **EVAL01-05** D3
+#### Évaluation 2
+1. D2
+2. B1
+3. D4
+4. E2
+5. E4
 
-#### EVAL02
+#### Évaluation 3
+1. C5
+2. A2
+3. E5
+4. A6
+5. E1
 
-1. **EVAL02-01** D2
-2. **EVAL02-02** B1
-3. **EVAL02-03** D4
-4. **EVAL02-04** E2
-5. **EVAL02-05** E4
+#### Évaluation 4
+1. C1
+2. C4
+3. C4
+4. E6
+5. A4
 
-#### EVAL03
+#### Évaluation 5
+1. B2
+2. D4
+3. D5
+4. F5
+5. D3
 
-1. **EVAL03-01** C5
-2. **EVAL03-02** A2
-3. **EVAL03-03** E5
-4. **EVAL03-04** A6
-5. **EVAL03-05** E1
+#### Évaluation 6
+1. A5
+2. E5
+3. E3
+4. C6
+5. E4
 
-#### EVAL04
+#### Évaluation 7
+1. D2
+2. B1
+3. D4
+4. E2
+5. E1
 
-1. **EVAL04-01** C1
-2. **EVAL04-02** C4
-3. **EVAL04-03** C4
-4. **EVAL04-04** E6
-5. **EVAL04-05** A4
+#### Évaluation 8
+1. C5
+2. A2
+3. E5
+4. A6
+5. A4
 
-#### EVAL05
+#### Évaluation 9
+1. C1
+2. C4
+3. C4
+4. E6
+5. D3
 
-1. **EVAL05-01** B2
-2. **EVAL05-02** D4
-3. **EVAL05-03** D5
-4. **EVAL05-04** F5
-5. **EVAL05-05** D3
-
-#### EVAL06
-
-1. **EVAL06-01** A5
-2. **EVAL06-02** E5
-3. **EVAL06-03** E3
-4. **EVAL06-04** C6
-5. **EVAL06-05** E4
-
-#### EVAL07
-
-1. **EVAL07-01** D2
-2. **EVAL07-02** B1
-3. **EVAL07-03** D4
-4. **EVAL07-04** E2
-5. **EVAL07-05** E1
-
-#### EVAL08
-
-1. **EVAL08-01** C5
-2. **EVAL08-02** A2
-3. **EVAL08-03** E5
-4. **EVAL08-04** A6
-5. **EVAL08-05** A4
-
-#### EVAL09
-
-1. **EVAL09-01** C1
-2. **EVAL09-02** C4
-3. **EVAL09-03** C4
-4. **EVAL09-04** E6
-5. **EVAL09-05** D3
-
-#### EVAL10
-
-1. **EVAL10-01** B2
-2. **EVAL10-02** D4
-3. **EVAL10-03** D5
-4. **EVAL10-04** F5
-5. **EVAL10-05** E4
+#### Évaluation 10
+1. B2
+2. D4
+3. D5
+4. F5
+5. E4
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. C1
+2. B4
+3. C5
+4. B4
+5. C5
 
-1. **DEV01-01** C1
-2. **DEV01-02** B4
-3. **DEV01-03** C5
-4. **DEV01-04** B4
-5. **DEV01-05** C5
+#### Devoir 2
+1. B2
+2. A5
+3. C1
+4. A5
+5. A3
 
-#### DEV02
+#### Devoir 3
+1. A3
+2. D2
+3. B2
+4. C1
+5. B4
 
-1. **DEV02-01** B2
-2. **DEV02-02** A5
-3. **DEV02-03** C1
-4. **DEV02-04** A5
-5. **DEV02-05** A3
+#### Devoir 4
+1. B4
+2. C5
+3. A5
+4. B2
+5. A5
 
-#### DEV03
+#### Devoir 5
+1. A5
+2. A3
+3. D2
+4. A3
+5. D2
 
-1. **DEV03-01** A3
-2. **DEV03-02** D2
-3. **DEV03-03** B2
-4. **DEV03-04** C1
-5. **DEV03-05** B4
+#### Devoir 6
+1. C1
+2. B4
+3. C5
+4. B4
+5. C5
 
-#### DEV04
+#### Devoir 7
+1. B2
+2. A5
+3. C1
+4. A5
+5. A3
 
-1. **DEV04-01** B4
-2. **DEV04-02** C5
-3. **DEV04-03** A5
-4. **DEV04-04** B2
-5. **DEV04-05** A5
+#### Devoir 8
+1. A3
+2. D2
+3. B2
+4. C1
+5. B4
 
-#### DEV05
+#### Devoir 9
+1. B4
+2. C5
+3. A5
+4. B2
+5. A5
 
-1. **DEV05-01** A5
-2. **DEV05-02** A3
-3. **DEV05-03** D2
-4. **DEV05-04** A3
-5. **DEV05-05** D2
-
-#### DEV06
-
-1. **DEV06-01** C1
-2. **DEV06-02** B4
-3. **DEV06-03** C5
-4. **DEV06-04** B4
-5. **DEV06-05** C5
-
-#### DEV07
-
-1. **DEV07-01** B2
-2. **DEV07-02** A5
-3. **DEV07-03** C1
-4. **DEV07-04** A5
-5. **DEV07-05** A3
-
-#### DEV08
-
-1. **DEV08-01** A3
-2. **DEV08-02** D2
-3. **DEV08-03** B2
-4. **DEV08-04** C1
-5. **DEV08-05** B4
-
-#### DEV09
-
-1. **DEV09-01** B4
-2. **DEV09-02** C5
-3. **DEV09-03** A5
-4. **DEV09-04** B2
-5. **DEV09-05** A5
-
-#### DEV10
-
-1. **DEV10-01** A5
-2. **DEV10-02** A3
-3. **DEV10-03** D2
-4. **DEV10-04** A3
-5. **DEV10-05** D2
+#### Devoir 10
+1. A5
+2. A3
+3. D2
+4. A3
+5. D2
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

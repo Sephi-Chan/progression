@@ -52,8 +52,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** **Adapté de Jean de La Fontaine, *Le Corbeau et le Renard*, livre I, fable 2 (texte modernisé et abrégé).** Le renard est alléché par le fromage : son odeur lui donne très envie de le manger.
 - **Source de consultation :** Bibliothèque nationale de France, Catalogue général/Gallica, Jean de La Fontaine, *Fables choisies, mises en vers par M. de La Fontaine*, édition H. Charpentier, 1709, [notice bibliographique exacte](https://catalogue.bnf.fr/ark:/12148/cb307158188).
 - **Question :** Que veut dire « alléché » ?
@@ -62,8 +61,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** attiré par quelque chose qui donne envie, ici par le fromage.
 - **Contrôle final :** La réponse est confrontée mot à mot au support.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** « Après le déjeuner, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
 - **Question :** Que veut dire « escarpé » dans cette phrase ?
 - **Attention :** L'enseignant demande : « Que cherchons-nous ? Quels mots du texte nous aident ? »
@@ -71,8 +69,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** qui monte fortement et est difficile à gravir.
 - **Contrôle final :** La classe vérifie que la réponse utilise bien l'indice retenu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** « Après le déjeuner, Nina est ravie : elle sourit et dit qu'elle est très contente. »
 - **Question :** Que veut dire « ravie » dans cette phrase ?
 - **Attention :** Les élèves choisissent les indices ; l'enseignant ne relance qu'avec : « Comment peux-tu le vérifier ? »
@@ -84,25 +81,25 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Textes créés pour l'exercice.*
 
-1. **IMM01** « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+1. « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-2. **IMM02** « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
+2. « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **IMM03** « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
+3. « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-4. **IMM04** « Lundi matin, la rue est déserte : personne ne s'y trouve. »
+4. « Lundi matin, la rue est déserte : personne ne s'y trouve. »
    Que veut dire « déserte » dans cette phrase ?
 
-5. **IMM05** « Après le déjeuner, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+5. « Après le déjeuner, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-6. **IMM06** « Après le déjeuner, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+6. « Après le déjeuner, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-7. **IMM07** « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
+7. « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
 ## Variables didactiques
@@ -115,901 +112,841 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Tous les supports de cette section sont des textes créés pour l'exercice. La consigne reste : « Lis le petit texte. Réponds à la question et vérifie dans le texte. »*
 
-### ENT01
-
-1. **ENT01-01** « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+### Entraînement 1
+1. « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-2. **ENT01-02** « Lundi matin, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+2. « Lundi matin, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-3. **ENT01-03** « Lundi matin, le vase est fragile : il peut se casser facilement. »
+3. « Lundi matin, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-4. **ENT01-04** « Lundi matin, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « Lundi matin, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **ENT01-05** « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-6. **ENT01-06** « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
+6. « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-7. **ENT01-07** « Lundi matin, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+7. « Lundi matin, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-8. **ENT01-08** « Lundi matin, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+8. « Lundi matin, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-### ENT02
-
-1. **ENT02-01** « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+### Entraînement 2
+1. « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-2. **ENT02-02** « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
+2. « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **ENT02-03** « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
+3. « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-4. **ENT02-04** « Lundi matin, la rue est déserte : personne ne s'y trouve. »
+4. « Lundi matin, la rue est déserte : personne ne s'y trouve. »
    Que veut dire « déserte » dans cette phrase ?
 
-5. **ENT02-05** « Après le déjeuner, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+5. « Après le déjeuner, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-6. **ENT02-06** « Après le déjeuner, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+6. « Après le déjeuner, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-7. **ENT02-07** « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
+7. « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-8. **ENT02-08** « Après le déjeuner, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+8. « Après le déjeuner, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-### ENT03
-
-1. **ENT03-01** « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
+### Entraînement 3
+1. « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-2. **ENT03-02** « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
+2. « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-3. **ENT03-03** « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **ENT03-04** « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+4. « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-5. **ENT03-05** « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+5. « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-6. **ENT03-06** « Après le déjeuner, le vent faiblit : il souffle de moins en moins fort. »
+6. « Après le déjeuner, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-7. **ENT03-07** « Après le déjeuner, Adam est prudent : il vérifie le sol avant d'avancer. »
+7. « Après le déjeuner, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-8. **ENT03-08** « Après le déjeuner, la rue est déserte : personne ne s'y trouve. »
+8. « Après le déjeuner, la rue est déserte : personne ne s'y trouve. »
    Que veut dire « déserte » dans cette phrase ?
 
-### ENT04
-
-1. **ENT04-01** « À la tombée du soir, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+### Entraînement 4
+1. « À la tombée du soir, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-2. **ENT04-02** « À la tombée du soir, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+2. « À la tombée du soir, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-3. **ENT04-03** « À la tombée du soir, le vase est fragile : il peut se casser facilement. »
+3. « À la tombée du soir, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-4. **ENT04-04** « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **ENT04-05** « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-6. **ENT04-06** « À la tombée du soir, le chien reste immobile : il ne bouge pas du tout. »
+6. « À la tombée du soir, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-7. **ENT04-07** « À la tombée du soir, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+7. « À la tombée du soir, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-8. **ENT04-08** « À la tombée du soir, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+8. « À la tombée du soir, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-### ENT05
-
-1. **ENT05-01** « À la tombée du soir, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+### Entraînement 5
+1. « À la tombée du soir, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-2. **ENT05-02** « À la tombée du soir, le vent faiblit : il souffle de moins en moins fort. »
+2. « À la tombée du soir, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **ENT05-03** « À la tombée du soir, Adam est prudent : il vérifie le sol avant d'avancer. »
+3. « À la tombée du soir, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-4. **ENT05-04** « À la tombée du soir, la rue est déserte : personne ne s'y trouve. »
+4. « À la tombée du soir, la rue est déserte : personne ne s'y trouve. »
    Que veut dire « déserte » dans cette phrase ?
 
-5. **ENT05-05** « Mercredi après-midi, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+5. « Mercredi après-midi, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-6. **ENT05-06** « Mercredi après-midi, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+6. « Mercredi après-midi, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-7. **ENT05-07** « Mercredi après-midi, le vase est fragile : il peut se casser facilement. »
+7. « Mercredi après-midi, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-8. **ENT05-08** « Mercredi après-midi, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+8. « Mercredi après-midi, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-### ENT06
-
-1. **ENT06-01** « Mercredi après-midi, la salle est minuscule : trois chaises suffisent à la remplir. »
+### Entraînement 6
+1. « Mercredi après-midi, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-2. **ENT06-02** « Mercredi après-midi, le chien reste immobile : il ne bouge pas du tout. »
+2. « Mercredi après-midi, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-3. **ENT06-03** « Mercredi après-midi, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Mercredi après-midi, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **ENT06-04** « Mercredi après-midi, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+4. « Mercredi après-midi, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-5. **ENT06-05** « Mercredi après-midi, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+5. « Mercredi après-midi, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-6. **ENT06-06** « Mercredi après-midi, le vent faiblit : il souffle de moins en moins fort. »
+6. « Mercredi après-midi, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-7. **ENT06-07** « Mercredi après-midi, Adam est prudent : il vérifie le sol avant d'avancer. »
+7. « Mercredi après-midi, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-8. **ENT06-08** « Mercredi après-midi, la rue est déserte : personne ne s'y trouve. »
+8. « Mercredi après-midi, la rue est déserte : personne ne s'y trouve. »
    Que veut dire « déserte » dans cette phrase ?
 
-### ENT07
-
-1. **ENT07-01** « Avant la récréation, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+### Entraînement 7
+1. « Avant la récréation, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-2. **ENT07-02** « Avant la récréation, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+2. « Avant la récréation, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-3. **ENT07-03** « Avant la récréation, le vase est fragile : il peut se casser facilement. »
+3. « Avant la récréation, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-4. **ENT07-04** « Avant la récréation, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « Avant la récréation, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **ENT07-05** « Avant la récréation, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « Avant la récréation, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-6. **ENT07-06** « Avant la récréation, le chien reste immobile : il ne bouge pas du tout. »
+6. « Avant la récréation, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-7. **ENT07-07** « Avant la récréation, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+7. « Avant la récréation, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-8. **ENT07-08** « Avant la récréation, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+8. « Avant la récréation, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-### ENT08
-
-1. **ENT08-01** « Avant la récréation, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
+### Entraînement 8
+1. « Avant la récréation, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
    Que veut dire « tapi » dans cette phrase ?
 
-2. **ENT08-02** « Avant la récréation, les branches bougent de moins en moins : le vent faiblit. »
+2. « Avant la récréation, les branches bougent de moins en moins : le vent faiblit. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **ENT08-03** « Avant la récréation, Adam teste chaque marche avant d'y poser le pied : il reste prudent. »
+3. « Avant la récréation, Adam teste chaque marche avant d'y poser le pied : il reste prudent. »
    Que veut dire « prudent » dans cette phrase ?
 
-4. **ENT08-04** « Avant la récréation, Aucun passant, aucune voiture : à cette heure, la rue est déserte. »
+4. « Avant la récréation, Aucun passant, aucune voiture : à cette heure, la rue est déserte. »
    Que veut dire « déserte » dans cette phrase ?
 
-5. **ENT08-05** « Un matin d'hiver, le sentier grimpe en lacets. Lina avance lentement et s'aide des mains dans le passage escarpé. »
+5. « Un matin d'hiver, le sentier grimpe en lacets. Lina avance lentement et s'aide des mains dans le passage escarpé. »
    Que veut dire « escarpé » dans cette phrase ?
 
-6. **ENT08-06** « Un matin d'hiver, Nina découvre son nom sur la liste des gagnants. Ravie, elle court annoncer la nouvelle. »
+6. « Un matin d'hiver, Nina découvre son nom sur la liste des gagnants. Ravie, elle court annoncer la nouvelle. »
    Que veut dire « ravie » dans cette phrase ?
 
-7. **ENT08-07** « Un matin d'hiver, Malo enveloppe soigneusement le vase avant le transport, car cet objet fragile se casse facilement. »
+7. « Un matin d'hiver, Malo enveloppe soigneusement le vase avant le transport, car cet objet fragile se casse facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-8. **ENT08-08** « Un matin d'hiver, Après dix tours de piste, Léo peine à rester debout : il est épuisé. »
+8. « Un matin d'hiver, Après dix tours de piste, Léo peine à rester debout : il est épuisé. »
    Que veut dire « épuisé » dans cette phrase ?
 
-### ENT09
-
-1. **ENT09-01** « Un matin d'hiver, on ne peut placer qu'une chaise dans cette pièce minuscule. »
+### Entraînement 9
+1. « Un matin d'hiver, on ne peut placer qu'une chaise dans cette pièce minuscule. »
    Que veut dire « minuscule » dans cette phrase ?
 
-2. **ENT09-02** « Un matin d'hiver, le lézard reste immobile sur la pierre, même lorsque Nora approche. »
+2. « Un matin d'hiver, le lézard reste immobile sur la pierre, même lorsque Nora approche. »
    Que veut dire « immobile » dans cette phrase ?
 
-3. **ENT09-03** « Un matin d'hiver, Maya tourne la carte, suit chaque ligne du doigt et examine le moindre symbole. »
+3. « Un matin d'hiver, Maya tourne la carte, suit chaque ligne du doigt et examine le moindre symbole. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **ENT09-04** « Un matin d'hiver, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
+4. « Un matin d'hiver, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
    Que veut dire « limpide » dans cette phrase ?
 
-5. **ENT09-05** « Un matin d'hiver, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
+5. « Un matin d'hiver, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
    Que veut dire « tapi » dans cette phrase ?
 
-6. **ENT09-06** « Un matin d'hiver, les branches bougent de moins en moins : le vent faiblit. »
+6. « Un matin d'hiver, les branches bougent de moins en moins : le vent faiblit. »
    Que veut dire « faiblit » dans cette phrase ?
 
-7. **ENT09-07** « Un matin d'hiver, Adam teste chaque marche avant d'y poser le pied : il reste prudent. »
+7. « Un matin d'hiver, Adam teste chaque marche avant d'y poser le pied : il reste prudent. »
    Que veut dire « prudent » dans cette phrase ?
 
-8. **ENT09-08** « Un matin d'hiver, Aucun passant, aucune voiture : à cette heure, la rue est déserte. »
+8. « Un matin d'hiver, Aucun passant, aucune voiture : à cette heure, la rue est déserte. »
    Que veut dire « déserte » dans cette phrase ?
 
-### ENT10
-
-1. **ENT10-01** « À midi, le sentier grimpe en lacets. Lina avance lentement et s'aide des mains dans le passage escarpé. »
+### Entraînement 10
+1. « À midi, le sentier grimpe en lacets. Lina avance lentement et s'aide des mains dans le passage escarpé. »
    Que veut dire « escarpé » dans cette phrase ?
 
-2. **ENT10-02** « À midi, Nina découvre son nom sur la liste des gagnants. Ravie, elle court annoncer la nouvelle. »
+2. « À midi, Nina découvre son nom sur la liste des gagnants. Ravie, elle court annoncer la nouvelle. »
    Que veut dire « ravie » dans cette phrase ?
 
-3. **ENT10-03** « À midi, Malo enveloppe soigneusement le vase avant le transport, car cet objet fragile se casse facilement. »
+3. « À midi, Malo enveloppe soigneusement le vase avant le transport, car cet objet fragile se casse facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-4. **ENT10-04** « À midi, Après dix tours de piste, Léo peine à rester debout : il est épuisé. »
+4. « À midi, Après dix tours de piste, Léo peine à rester debout : il est épuisé. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **ENT10-05** « À midi, on ne peut placer qu'une chaise dans cette pièce minuscule. »
+5. « À midi, on ne peut placer qu'une chaise dans cette pièce minuscule. »
    Que veut dire « minuscule » dans cette phrase ?
 
-6. **ENT10-06** « À midi, le lézard reste immobile sur la pierre, même lorsque Nora approche. »
+6. « À midi, le lézard reste immobile sur la pierre, même lorsque Nora approche. »
    Que veut dire « immobile » dans cette phrase ?
 
-7. **ENT10-07** « À midi, Maya tourne la carte, suit chaque ligne du doigt et examine le moindre symbole. »
+7. « À midi, Maya tourne la carte, suit chaque ligne du doigt et examine le moindre symbole. »
    Que veut dire « examine » dans cette phrase ?
 
-8. **ENT10-08** « À midi, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
+8. « À midi, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
    Que veut dire « limpide » dans cette phrase ?
 
 ## Évaluations
 
 *Tous les supports sont créés pour l'exercice. Chaque forme comporte quatre items déjà entraînés et un item nouveau isomorphe ; les dix formes échantillonnent les mêmes niveaux de difficulté.*
 
-### EVAL01
-
-1. **EVAL01-01** « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
+### Évaluation 1
+1. « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-2. **EVAL01-02** « À la tombée du soir, le vent faiblit : il souffle de moins en moins fort. »
+2. « À la tombée du soir, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **EVAL01-03** « Avant la récréation, le vase est fragile : il peut se casser facilement. »
+3. « Avant la récréation, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-4. **EVAL01-04** « Un matin d'hiver, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
+4. « Un matin d'hiver, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
    Que veut dire « limpide » dans cette phrase ?
 
-5. **EVAL01-05** « Aya parle d'une voix minuscule : elle murmure pour ne pas réveiller le bébé. »
+5. « Aya parle d'une voix minuscule : elle murmure pour ne pas réveiller le bébé. »
    Que veut dire « murmure » ?
 
-### EVAL02
-
-1. **EVAL02-01** « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
+### Évaluation 2
+1. « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-2. **EVAL02-02** « À la tombée du soir, Adam est prudent : il vérifie le sol avant d'avancer. »
+2. « À la tombée du soir, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-3. **EVAL02-03** « Avant la récréation, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+3. « Avant la récréation, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-4. **EVAL02-04** « Un matin d'hiver, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
+4. « Un matin d'hiver, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
    Que veut dire « tapi » dans cette phrase ?
 
-5. **EVAL02-05** « Le sol est glissant ; Tom avance avec précaution pour ne pas tomber. »
+5. « Le sol est glissant ; Tom avance avec précaution pour ne pas tomber. »
    Que veut dire « avec précaution » ?
 
-### EVAL03
-
-1. **EVAL03-01** « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+### Évaluation 3
+1. « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-2. **EVAL03-02** « À la tombée du soir, la rue est déserte : personne ne s'y trouve. »
+2. « À la tombée du soir, la rue est déserte : personne ne s'y trouve. »
    Que veut dire « déserte » dans cette phrase ?
 
-3. **EVAL03-03** « Avant la récréation, la salle est minuscule : trois chaises suffisent à la remplir. »
+3. « Avant la récréation, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-4. **EVAL03-04** « Un matin d'hiver, les branches bougent de moins en moins : le vent faiblit. »
+4. « Un matin d'hiver, les branches bougent de moins en moins : le vent faiblit. »
    Que veut dire « faiblit » dans cette phrase ?
 
-5. **EVAL03-05** « Eva contemple le tableau longtemps sans détourner les yeux. »
+5. « Eva contemple le tableau longtemps sans détourner les yeux. »
    Que veut dire « contemple » ?
 
-### EVAL04
-
-1. **EVAL04-01** « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+### Évaluation 4
+1. « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-2. **EVAL04-02** « Mercredi après-midi, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+2. « Mercredi après-midi, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-3. **EVAL04-03** « Avant la récréation, le chien reste immobile : il ne bouge pas du tout. »
+3. « Avant la récréation, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-4. **EVAL04-04** « Un matin d'hiver, Adam teste chaque marche avant d'y poser le pied : il reste prudent. »
+4. « Un matin d'hiver, Adam teste chaque marche avant d'y poser le pied : il reste prudent. »
    Que veut dire « prudent » dans cette phrase ?
 
-5. **EVAL04-05** « Ali est perplexe : il hésite et ne comprend pas quelle solution choisir. »
+5. « Ali est perplexe : il hésite et ne comprend pas quelle solution choisir. »
    Que veut dire « perplexe » ?
 
-### EVAL05
-
-1. **EVAL05-01** « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+### Évaluation 5
+1. « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-2. **EVAL05-02** « Mercredi après-midi, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+2. « Mercredi après-midi, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-3. **EVAL05-03** « Avant la récréation, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Avant la récréation, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **EVAL05-04** « Un matin d'hiver, Aucun passant, aucune voiture : à cette heure, la rue est déserte. »
+4. « Un matin d'hiver, Aucun passant, aucune voiture : à cette heure, la rue est déserte. »
    Que veut dire « déserte » dans cette phrase ?
 
-5. **EVAL05-05** « La couverture est rêche ; elle gratte la peau d'Ana. »
+5. « La couverture est rêche ; elle gratte la peau d'Ana. »
    Que veut dire « rêche » ?
 
-### EVAL06
-
-1. **EVAL06-01** « Après le déjeuner, le vent faiblit : il souffle de moins en moins fort. »
+### Évaluation 6
+1. « Après le déjeuner, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-2. **EVAL06-02** « Mercredi après-midi, le vase est fragile : il peut se casser facilement. »
+2. « Mercredi après-midi, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-3. **EVAL06-03** « Avant la récréation, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+3. « Avant la récréation, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-4. **EVAL06-04** « Un matin d'hiver, on ne peut placer qu'une chaise dans cette pièce minuscule. »
+4. « Un matin d'hiver, on ne peut placer qu'une chaise dans cette pièce minuscule. »
    Que veut dire « minuscule » dans cette phrase ?
 
-5. **EVAL06-05** « Paul dévale la pente : il descend très vite jusqu'en bas. »
+5. « Paul dévale la pente : il descend très vite jusqu'en bas. »
    Que veut dire « dévale » ?
 
-### EVAL07
-
-1. **EVAL07-01** « Après le déjeuner, Adam est prudent : il vérifie le sol avant d'avancer. »
+### Évaluation 7
+1. « Après le déjeuner, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-2. **EVAL07-02** « Mercredi après-midi, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+2. « Mercredi après-midi, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-3. **EVAL07-03** « Avant la récréation, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+3. « Avant la récréation, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-4. **EVAL07-04** « Un matin d'hiver, le lézard reste immobile sur la pierre, même lorsque Nora approche. »
+4. « Un matin d'hiver, le lézard reste immobile sur la pierre, même lorsque Nora approche. »
    Que veut dire « immobile » dans cette phrase ?
 
-5. **EVAL07-05** « Iris aperçoit une silhouette au loin, mais elle ne voit pas encore qui c'est. »
+5. « Iris aperçoit une silhouette au loin, mais elle ne voit pas encore qui c'est. »
    Que veut dire « silhouette » ?
 
-### EVAL08
-
-1. **EVAL08-01** « Après le déjeuner, la rue est déserte : personne ne s'y trouve. »
+### Évaluation 8
+1. « Après le déjeuner, la rue est déserte : personne ne s'y trouve. »
    Que veut dire « déserte » dans cette phrase ?
 
-2. **EVAL08-02** « À la tombée du soir, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+2. « À la tombée du soir, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-3. **EVAL08-03** « Avant la récréation, Nina est ravie : elle sourit et dit qu'elle est très contente. »
+3. « Avant la récréation, Nina est ravie : elle sourit et dit qu'elle est très contente. »
    Que veut dire « ravie » dans cette phrase ?
 
-4. **EVAL08-04** « Un matin d'hiver, Maya tourne la carte, suit chaque ligne du doigt et examine le moindre symbole. »
+4. « Un matin d'hiver, Maya tourne la carte, suit chaque ligne du doigt et examine le moindre symbole. »
    Que veut dire « examine » dans cette phrase ?
 
-5. **EVAL08-05** « Yanis est ébloui et ferme les yeux face à la lumière très forte. »
+5. « Yanis est ébloui et ferme les yeux face à la lumière très forte. »
    Que veut dire « ébloui » ?
 
-### EVAL09
-
-1. **EVAL09-01** « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
+### Évaluation 9
+1. « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-2. **EVAL09-02** « À la tombée du soir, le vent faiblit : il souffle de moins en moins fort. »
+2. « À la tombée du soir, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **EVAL09-03** « Avant la récréation, le vase est fragile : il peut se casser facilement. »
+3. « Avant la récréation, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-4. **EVAL09-04** « Un matin d'hiver, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
+4. « Un matin d'hiver, Même au milieu du ruisseau, on distingue chaque caillou sous l'eau limpide. »
    Que veut dire « limpide » dans cette phrase ?
 
-5. **EVAL09-05** « Mila empile les boîtes : elle les pose les unes sur les autres. »
+5. « Mila empile les boîtes : elle les pose les unes sur les autres. »
    Que veut dire « empile » ?
 
-### EVAL10
-
-1. **EVAL10-01** « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
+### Évaluation 10
+1. « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-2. **EVAL10-02** « À la tombée du soir, Adam est prudent : il vérifie le sol avant d'avancer. »
+2. « À la tombée du soir, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-3. **EVAL10-03** « Avant la récréation, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+3. « Avant la récréation, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-4. **EVAL10-04** « Un matin d'hiver, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
+4. « Un matin d'hiver, le chat s'est tapi derrière le rideau ; seules ses oreilles dépassent de sa cachette. »
    Que veut dire « tapi » dans cette phrase ?
 
-5. **EVAL10-05** « Oscar avance à tâtons dans le noir, en cherchant le mur avec ses mains. »
+5. « Oscar avance à tâtons dans le noir, en cherchant le mur avec ses mains. »
    Que veut dire « à tâtons » ?
 
 ## Devoirs
 
 *Tous les supports sont créés pour l'exercice et reprennent uniquement ENT01 à ENT04. Même consigne, sans matériel particulier.*
 
-### DEV01
-
-1. **DEV01-01** « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+### Devoir 1
+1. « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-2. **DEV01-02** « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
+2. « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **DEV01-03** « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **DEV01-04** « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **DEV01-05** « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-### DEV02
-
-1. **DEV02-01** « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
+### Devoir 2
+1. « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-2. **DEV02-02** « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+2. « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-3. **DEV02-03** « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
+3. « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-4. **DEV02-04** « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
+4. « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-5. **DEV02-05** « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
+5. « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-### DEV03
-
-1. **DEV03-01** « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+### Devoir 3
+1. « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-2. **DEV03-02** « À la tombée du soir, le chien reste immobile : il ne bouge pas du tout. »
+2. « À la tombée du soir, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-3. **DEV03-03** « Lundi matin, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Lundi matin, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **DEV03-04** « Après le déjeuner, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « Après le déjeuner, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **DEV03-05** « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-### DEV04
-
-1. **DEV04-01** « À la tombée du soir, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+### Devoir 4
+1. « À la tombée du soir, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-2. **DEV04-02** « Lundi matin, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+2. « Lundi matin, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-3. **DEV04-03** « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+3. « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-4. **DEV04-04** « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
+4. « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-5. **DEV04-05** « À la tombée du soir, le vase est fragile : il peut se casser facilement. »
+5. « À la tombée du soir, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-### DEV05
-
-1. **DEV05-01** « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+### Devoir 5
+1. « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-2. **DEV05-02** « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
+2. « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **DEV05-03** « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **DEV05-04** « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **DEV05-05** « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-### DEV06
-
-1. **DEV06-01** « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
+### Devoir 6
+1. « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-2. **DEV06-02** « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+2. « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-3. **DEV06-03** « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
+3. « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-4. **DEV06-04** « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
+4. « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-5. **DEV06-05** « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
+5. « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-### DEV07
-
-1. **DEV07-01** « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+### Devoir 7
+1. « Après le déjeuner, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-2. **DEV07-02** « À la tombée du soir, le chien reste immobile : il ne bouge pas du tout. »
+2. « À la tombée du soir, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-3. **DEV07-03** « Lundi matin, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Lundi matin, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **DEV07-04** « Après le déjeuner, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « Après le déjeuner, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **DEV07-05** « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « Après le déjeuner, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-### DEV08
-
-1. **DEV08-01** « À la tombée du soir, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+### Devoir 8
+1. « À la tombée du soir, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-2. **DEV08-02** « Lundi matin, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+2. « Lundi matin, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-3. **DEV08-03** « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
+3. « Lundi matin, le chat s'est tapi sous le meuble : il s'est baissé et caché pour ne pas être vu. »
    Que veut dire « tapi » dans cette phrase ?
 
-4. **DEV08-04** « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
+4. « Après le déjeuner, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-5. **DEV08-05** « À la tombée du soir, le vase est fragile : il peut se casser facilement. »
+5. « À la tombée du soir, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
-### DEV09
-
-1. **DEV09-01** « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
+### Devoir 9
+1. « Lundi matin, le chemin est escarpé : il monte fortement et il est difficile à gravir. »
    Que veut dire « escarpé » dans cette phrase ?
 
-2. **DEV09-02** « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
+2. « Lundi matin, le vent faiblit : il souffle de moins en moins fort. »
    Que veut dire « faiblit » dans cette phrase ?
 
-3. **DEV09-03** « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
+3. « Après le déjeuner, Maya examine la carte : elle la regarde avec beaucoup d'attention. »
    Que veut dire « examine » dans cette phrase ?
 
-4. **DEV09-04** « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
+4. « À la tombée du soir, Après la course, Léo est épuisé ; il n'a presque plus de forces. »
    Que veut dire « épuisé » dans cette phrase ?
 
-5. **DEV09-05** « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
+5. « Lundi matin, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-### DEV10
-
-1. **DEV10-01** « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
+### Devoir 10
+1. « Lundi matin, Adam est prudent : il vérifie le sol avant d'avancer. »
    Que veut dire « prudent » dans cette phrase ?
 
-2. **DEV10-02** « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
+2. « Après le déjeuner, le ruisseau est limpide : son eau est claire et l'on voit les cailloux. »
    Que veut dire « limpide » dans cette phrase ?
 
-3. **DEV10-03** « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
+3. « À la tombée du soir, la salle est minuscule : trois chaises suffisent à la remplir. »
    Que veut dire « minuscule » dans cette phrase ?
 
-4. **DEV10-04** « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
+4. « Lundi matin, le chien reste immobile : il ne bouge pas du tout. »
    Que veut dire « immobile » dans cette phrase ?
 
-5. **DEV10-05** « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
+5. « Après le déjeuner, le vase est fragile : il peut se casser facilement. »
    Que veut dire « fragile » dans cette phrase ?
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** baissé et caché
-2. **IMM02** devient moins fort
-3. **IMM03** qui agit en évitant le danger
-4. **IMM04** vide de personnes
-5. **IMM05** qui monte fortement et est difficile à gravir
-6. **IMM06** très contente
-7. **IMM07** qui peut se casser facilement
+1. baissé et caché
+2. devient moins fort
+3. qui agit en évitant le danger
+4. vide de personnes
+5. qui monte fortement et est difficile à gravir
+6. très contente
+7. qui peut se casser facilement
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. qui monte fortement et est difficile à gravir
+2. très contente
+3. qui peut se casser facilement
+4. très fatigué
+5. très petite
+6. qui ne bouge pas
+7. regarde avec beaucoup d'attention
+8. très clair
 
-1. **ENT01-01** qui monte fortement et est difficile à gravir
-2. **ENT01-02** très contente
-3. **ENT01-03** qui peut se casser facilement
-4. **ENT01-04** très fatigué
-5. **ENT01-05** très petite
-6. **ENT01-06** qui ne bouge pas
-7. **ENT01-07** regarde avec beaucoup d'attention
-8. **ENT01-08** très clair
+#### Entraînement 2
+1. baissé et caché
+2. devient moins fort
+3. qui agit en évitant le danger
+4. vide de personnes
+5. qui monte fortement et est difficile à gravir
+6. très contente
+7. qui peut se casser facilement
+8. très fatigué
 
-#### ENT02
+#### Entraînement 3
+1. très petite
+2. qui ne bouge pas
+3. regarde avec beaucoup d'attention
+4. très clair
+5. baissé et caché
+6. devient moins fort
+7. qui agit en évitant le danger
+8. vide de personnes
 
-1. **ENT02-01** baissé et caché
-2. **ENT02-02** devient moins fort
-3. **ENT02-03** qui agit en évitant le danger
-4. **ENT02-04** vide de personnes
-5. **ENT02-05** qui monte fortement et est difficile à gravir
-6. **ENT02-06** très contente
-7. **ENT02-07** qui peut se casser facilement
-8. **ENT02-08** très fatigué
+#### Entraînement 4
+1. qui monte fortement et est difficile à gravir
+2. très contente
+3. qui peut se casser facilement
+4. très fatigué
+5. très petite
+6. qui ne bouge pas
+7. regarde avec beaucoup d'attention
+8. très clair
 
-#### ENT03
+#### Entraînement 5
+1. baissé et caché
+2. devient moins fort
+3. qui agit en évitant le danger
+4. vide de personnes
+5. qui monte fortement et est difficile à gravir
+6. très contente
+7. qui peut se casser facilement
+8. très fatigué
 
-1. **ENT03-01** très petite
-2. **ENT03-02** qui ne bouge pas
-3. **ENT03-03** regarde avec beaucoup d'attention
-4. **ENT03-04** très clair
-5. **ENT03-05** baissé et caché
-6. **ENT03-06** devient moins fort
-7. **ENT03-07** qui agit en évitant le danger
-8. **ENT03-08** vide de personnes
+#### Entraînement 6
+1. très petite
+2. qui ne bouge pas
+3. regarde avec beaucoup d'attention
+4. très clair
+5. baissé et caché
+6. devient moins fort
+7. qui agit en évitant le danger
+8. vide de personnes
 
-#### ENT04
+#### Entraînement 7
+1. qui monte fortement et est difficile à gravir
+2. très contente
+3. qui peut se casser facilement
+4. très fatigué
+5. très petite
+6. qui ne bouge pas
+7. regarde avec beaucoup d'attention
+8. très clair
 
-1. **ENT04-01** qui monte fortement et est difficile à gravir
-2. **ENT04-02** très contente
-3. **ENT04-03** qui peut se casser facilement
-4. **ENT04-04** très fatigué
-5. **ENT04-05** très petite
-6. **ENT04-06** qui ne bouge pas
-7. **ENT04-07** regarde avec beaucoup d'attention
-8. **ENT04-08** très clair
+#### Entraînement 8
+1. baissé et caché
+2. devient moins fort
+3. qui agit en évitant le danger
+4. vide de personnes
+5. qui monte fortement et est difficile à gravir
+6. très contente
+7. qui peut se casser facilement
+8. très fatigué
 
-#### ENT05
+#### Entraînement 9
+1. très petite
+2. qui ne bouge pas
+3. regarde avec beaucoup d'attention
+4. très clair
+5. baissé et caché
+6. devient moins fort
+7. qui agit en évitant le danger
+8. vide de personnes
 
-1. **ENT05-01** baissé et caché
-2. **ENT05-02** devient moins fort
-3. **ENT05-03** qui agit en évitant le danger
-4. **ENT05-04** vide de personnes
-5. **ENT05-05** qui monte fortement et est difficile à gravir
-6. **ENT05-06** très contente
-7. **ENT05-07** qui peut se casser facilement
-8. **ENT05-08** très fatigué
-
-#### ENT06
-
-1. **ENT06-01** très petite
-2. **ENT06-02** qui ne bouge pas
-3. **ENT06-03** regarde avec beaucoup d'attention
-4. **ENT06-04** très clair
-5. **ENT06-05** baissé et caché
-6. **ENT06-06** devient moins fort
-7. **ENT06-07** qui agit en évitant le danger
-8. **ENT06-08** vide de personnes
-
-#### ENT07
-
-1. **ENT07-01** qui monte fortement et est difficile à gravir
-2. **ENT07-02** très contente
-3. **ENT07-03** qui peut se casser facilement
-4. **ENT07-04** très fatigué
-5. **ENT07-05** très petite
-6. **ENT07-06** qui ne bouge pas
-7. **ENT07-07** regarde avec beaucoup d'attention
-8. **ENT07-08** très clair
-
-#### ENT08
-
-1. **ENT08-01** baissé et caché
-2. **ENT08-02** devient moins fort
-3. **ENT08-03** qui agit en évitant le danger
-4. **ENT08-04** vide de personnes
-5. **ENT08-05** qui monte fortement et est difficile à gravir
-6. **ENT08-06** très contente
-7. **ENT08-07** qui peut se casser facilement
-8. **ENT08-08** très fatigué
-
-#### ENT09
-
-1. **ENT09-01** très petite
-2. **ENT09-02** qui ne bouge pas
-3. **ENT09-03** regarde avec beaucoup d'attention
-4. **ENT09-04** très clair
-5. **ENT09-05** baissé et caché
-6. **ENT09-06** devient moins fort
-7. **ENT09-07** qui agit en évitant le danger
-8. **ENT09-08** vide de personnes
-
-#### ENT10
-
-1. **ENT10-01** qui monte fortement et est difficile à gravir
-2. **ENT10-02** très contente
-3. **ENT10-03** qui peut se casser facilement
-4. **ENT10-04** très fatigué
-5. **ENT10-05** très petite
-6. **ENT10-06** qui ne bouge pas
-7. **ENT10-07** regarde avec beaucoup d'attention
-8. **ENT10-08** très clair
+#### Entraînement 10
+1. qui monte fortement et est difficile à gravir
+2. très contente
+3. qui peut se casser facilement
+4. très fatigué
+5. très petite
+6. qui ne bouge pas
+7. regarde avec beaucoup d'attention
+8. très clair
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. très petite
+2. devient moins fort
+3. qui peut se casser facilement
+4. très clair
+5. parle très doucement
 
-1. **EVAL01-01** très petite
-2. **EVAL01-02** devient moins fort
-3. **EVAL01-03** qui peut se casser facilement
-4. **EVAL01-04** très clair
-5. **EVAL01-05** parle très doucement
+#### Évaluation 2
+1. qui ne bouge pas
+2. qui agit en évitant le danger
+3. très fatigué
+4. baissé et caché
+5. avec prudence, en faisant attention
 
-#### EVAL02
+#### Évaluation 3
+1. regarde avec beaucoup d'attention
+2. vide de personnes
+3. très petite
+4. devient moins fort
+5. regarde longuement et attentivement
 
-1. **EVAL02-01** qui ne bouge pas
-2. **EVAL02-02** qui agit en évitant le danger
-3. **EVAL02-03** très fatigué
-4. **EVAL02-04** baissé et caché
-5. **EVAL02-05** avec prudence, en faisant attention
+#### Évaluation 4
+1. très clair
+2. qui monte fortement et est difficile à gravir
+3. qui ne bouge pas
+4. qui agit en évitant le danger
+5. hésitant parce qu'il ne comprend pas ou ne sait pas choisir
 
-#### EVAL03
+#### Évaluation 5
+1. baissé et caché
+2. très contente
+3. regarde avec beaucoup d'attention
+4. vide de personnes
+5. rugueuse, pas douce
 
-1. **EVAL03-01** regarde avec beaucoup d'attention
-2. **EVAL03-02** vide de personnes
-3. **EVAL03-03** très petite
-4. **EVAL03-04** devient moins fort
-5. **EVAL03-05** regarde longuement et attentivement
+#### Évaluation 6
+1. devient moins fort
+2. qui peut se casser facilement
+3. très clair
+4. très petite
+5. descend très vite
 
-#### EVAL04
+#### Évaluation 7
+1. qui agit en évitant le danger
+2. très fatigué
+3. qui monte fortement et est difficile à gravir
+4. qui ne bouge pas
+5. forme générale d'une personne vue sans détails
 
-1. **EVAL04-01** très clair
-2. **EVAL04-02** qui monte fortement et est difficile à gravir
-3. **EVAL04-03** qui ne bouge pas
-4. **EVAL04-04** qui agit en évitant le danger
-5. **EVAL04-05** hésitant parce qu'il ne comprend pas ou ne sait pas choisir
+#### Évaluation 8
+1. vide de personnes
+2. baissé et caché
+3. très contente
+4. regarde avec beaucoup d'attention
+5. gêné par une lumière très forte
 
-#### EVAL05
+#### Évaluation 9
+1. très petite
+2. devient moins fort
+3. qui peut se casser facilement
+4. très clair
+5. pose les unes sur les autres
 
-1. **EVAL05-01** baissé et caché
-2. **EVAL05-02** très contente
-3. **EVAL05-03** regarde avec beaucoup d'attention
-4. **EVAL05-04** vide de personnes
-5. **EVAL05-05** rugueuse, pas douce
-
-#### EVAL06
-
-1. **EVAL06-01** devient moins fort
-2. **EVAL06-02** qui peut se casser facilement
-3. **EVAL06-03** très clair
-4. **EVAL06-04** très petite
-5. **EVAL06-05** descend très vite
-
-#### EVAL07
-
-1. **EVAL07-01** qui agit en évitant le danger
-2. **EVAL07-02** très fatigué
-3. **EVAL07-03** qui monte fortement et est difficile à gravir
-4. **EVAL07-04** qui ne bouge pas
-5. **EVAL07-05** forme générale d'une personne vue sans détails
-
-#### EVAL08
-
-1. **EVAL08-01** vide de personnes
-2. **EVAL08-02** baissé et caché
-3. **EVAL08-03** très contente
-4. **EVAL08-04** regarde avec beaucoup d'attention
-5. **EVAL08-05** gêné par une lumière très forte
-
-#### EVAL09
-
-1. **EVAL09-01** très petite
-2. **EVAL09-02** devient moins fort
-3. **EVAL09-03** qui peut se casser facilement
-4. **EVAL09-04** très clair
-5. **EVAL09-05** pose les unes sur les autres
-
-#### EVAL10
-
-1. **EVAL10-01** qui ne bouge pas
-2. **EVAL10-02** qui agit en évitant le danger
-3. **EVAL10-03** très fatigué
-4. **EVAL10-04** baissé et caché
-5. **EVAL10-05** en avançant sans voir et en touchant pour se guider
+#### Évaluation 10
+1. qui ne bouge pas
+2. qui agit en évitant le danger
+3. très fatigué
+4. baissé et caché
+5. en avançant sans voir et en touchant pour se guider
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. qui monte fortement et est difficile à gravir
+2. devient moins fort
+3. regarde avec beaucoup d'attention
+4. très fatigué
+5. très petite
 
-1. **DEV01-01** qui monte fortement et est difficile à gravir
-2. **DEV01-02** devient moins fort
-3. **DEV01-03** regarde avec beaucoup d'attention
-4. **DEV01-04** très fatigué
-5. **DEV01-05** très petite
+#### Devoir 2
+1. qui agit en évitant le danger
+2. très clair
+3. très petite
+4. qui ne bouge pas
+5. qui peut se casser facilement
 
-#### DEV02
+#### Devoir 3
+1. baissé et caché
+2. qui ne bouge pas
+3. regarde avec beaucoup d'attention
+4. très fatigué
+5. très petite
 
-1. **DEV02-01** qui agit en évitant le danger
-2. **DEV02-02** très clair
-3. **DEV02-03** très petite
-4. **DEV02-04** qui ne bouge pas
-5. **DEV02-05** qui peut se casser facilement
+#### Devoir 4
+1. regarde avec beaucoup d'attention
+2. très clair
+3. baissé et caché
+4. qui ne bouge pas
+5. qui peut se casser facilement
 
-#### DEV03
+#### Devoir 5
+1. qui monte fortement et est difficile à gravir
+2. devient moins fort
+3. regarde avec beaucoup d'attention
+4. très fatigué
+5. très petite
 
-1. **DEV03-01** baissé et caché
-2. **DEV03-02** qui ne bouge pas
-3. **DEV03-03** regarde avec beaucoup d'attention
-4. **DEV03-04** très fatigué
-5. **DEV03-05** très petite
+#### Devoir 6
+1. qui agit en évitant le danger
+2. très clair
+3. très petite
+4. qui ne bouge pas
+5. qui peut se casser facilement
 
-#### DEV04
+#### Devoir 7
+1. baissé et caché
+2. qui ne bouge pas
+3. regarde avec beaucoup d'attention
+4. très fatigué
+5. très petite
 
-1. **DEV04-01** regarde avec beaucoup d'attention
-2. **DEV04-02** très clair
-3. **DEV04-03** baissé et caché
-4. **DEV04-04** qui ne bouge pas
-5. **DEV04-05** qui peut se casser facilement
+#### Devoir 8
+1. regarde avec beaucoup d'attention
+2. très clair
+3. baissé et caché
+4. qui ne bouge pas
+5. qui peut se casser facilement
 
-#### DEV05
+#### Devoir 9
+1. qui monte fortement et est difficile à gravir
+2. devient moins fort
+3. regarde avec beaucoup d'attention
+4. très fatigué
+5. très petite
 
-1. **DEV05-01** qui monte fortement et est difficile à gravir
-2. **DEV05-02** devient moins fort
-3. **DEV05-03** regarde avec beaucoup d'attention
-4. **DEV05-04** très fatigué
-5. **DEV05-05** très petite
-
-#### DEV06
-
-1. **DEV06-01** qui agit en évitant le danger
-2. **DEV06-02** très clair
-3. **DEV06-03** très petite
-4. **DEV06-04** qui ne bouge pas
-5. **DEV06-05** qui peut se casser facilement
-
-#### DEV07
-
-1. **DEV07-01** baissé et caché
-2. **DEV07-02** qui ne bouge pas
-3. **DEV07-03** regarde avec beaucoup d'attention
-4. **DEV07-04** très fatigué
-5. **DEV07-05** très petite
-
-#### DEV08
-
-1. **DEV08-01** regarde avec beaucoup d'attention
-2. **DEV08-02** très clair
-3. **DEV08-03** baissé et caché
-4. **DEV08-04** qui ne bouge pas
-5. **DEV08-05** qui peut se casser facilement
-
-#### DEV09
-
-1. **DEV09-01** qui monte fortement et est difficile à gravir
-2. **DEV09-02** devient moins fort
-3. **DEV09-03** regarde avec beaucoup d'attention
-4. **DEV09-04** très fatigué
-5. **DEV09-05** très petite
-
-#### DEV10
-
-1. **DEV10-01** qui agit en évitant le danger
-2. **DEV10-02** très clair
-3. **DEV10-03** très petite
-4. **DEV10-04** qui ne bouge pas
-5. **DEV10-05** qui peut se casser facilement
+#### Devoir 10
+1. qui agit en évitant le danger
+2. très clair
+3. très petite
+4. qui ne bouge pas
+5. qui peut se casser facilement
 
 ## Traçabilité des évaluations et devoirs
 

@@ -52,8 +52,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** **Adapté de Jean de La Fontaine, *La Cigale et la Fourmi*, livre I, fable 1 (texte modernisé et abrégé).** Quand l'hiver arrive, la cigale va chez la fourmi pour demander de la nourriture.
 - **Source de consultation :** Bibliothèque nationale de France, Catalogue général/Gallica, Jean de La Fontaine, *Fables choisies, mises en vers par M. de La Fontaine*, édition H. Charpentier, 1709, [notice bibliographique exacte](https://catalogue.bnf.fr/ark:/12148/cb307158188).
 - **Question :** Quels sont les personnages ?
@@ -62,8 +61,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** la cigale et la fourmi.
 - **Contrôle final :** La réponse est confrontée mot à mot au support.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
 - **Question :** Quels sont les personnages ?
 - **Attention :** L'enseignant demande : « Que cherchons-nous ? Quels mots du texte nous aident ? »
@@ -71,8 +69,7 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 - **Réponse :** Lina et Léo.
 - **Contrôle final :** La classe vérifie que la réponse utilise bien l'indice retenu.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
 - **Question :** Où se passe la scène ?
 - **Attention :** Les élèves choisissent les indices ; l'enseignant ne relance qu'avec : « Comment peux-tu le vérifier ? »
@@ -84,25 +81,25 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Textes créés pour l'exercice.*
 
-1. **IMM01** « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
+1. « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
    Quand se passe la scène ?
 
-2. **IMM02** « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
+2. « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
    Quels sont les personnages ?
 
-3. **IMM03** « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
+3. « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
    Où se passe la scène ?
 
-4. **IMM04** « À la tombée du soir, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. »
+4. « À la tombée du soir, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. »
    Quand se passe la scène ?
 
-5. **IMM05** « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
+5. « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-6. **IMM06** « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
+6. « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-7. **IMM07** « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
+7. « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
 ## Variables didactiques
@@ -115,821 +112,761 @@ Le format porte directement sur le geste ciblé et rend la réponse ainsi que sa
 
 *Tous les supports de cette section sont des textes créés pour l'exercice. La consigne reste : « Lis le petit texte. Réponds à la question et vérifie dans le texte. »*
 
-### ENT01
-
-1. **ENT01-01** « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
+### Entraînement 1
+1. « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-2. **ENT01-02** « Lundi matin, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. »
+2. « Lundi matin, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-3. **ENT01-03** « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
+3. « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-4. **ENT01-04** « Lundi matin, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. »
+4. « Lundi matin, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-5. **ENT01-05** « Après le déjeuner, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. »
+5. « Après le déjeuner, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-6. **ENT01-06** « Après le déjeuner, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. »
+6. « Après le déjeuner, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. »
    Quand se passe la scène ?
 
-### ENT02
-
-1. **ENT02-01** « Après le déjeuner, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. »
+### Entraînement 2
+1. « Après le déjeuner, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. »
    Quels sont les personnages ?
 
-2. **ENT02-02** « Après le déjeuner, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. »
+2. « Après le déjeuner, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. »
    Où se passe la scène ?
 
-3. **ENT02-03** « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
+3. « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
    Quand se passe la scène ?
 
-4. **ENT02-04** « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
+4. « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
    Quels sont les personnages ?
 
-5. **ENT02-05** « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
+5. « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
    Où se passe la scène ?
 
-6. **ENT02-06** « À la tombée du soir, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. »
+6. « À la tombée du soir, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. »
    Quand se passe la scène ?
 
-### ENT03
-
-1. **ENT03-01** « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
+### Entraînement 3
+1. « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-2. **ENT03-02** « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
+2. « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-3. **ENT03-03** « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
+3. « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-4. **ENT03-04** « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
+4. « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-5. **ENT03-05** « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
+5. « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-6. **ENT03-06** « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
+6. « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
    Quand se passe la scène ?
 
-### ENT04
-
-1. **ENT04-01** « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+### Entraînement 4
+1. « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Quels sont les personnages ?
 
-2. **ENT04-02** « Avant la récréation, Hugo retrouve Lina à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+2. « Avant la récréation, Hugo retrouve Lina à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **ENT04-03** « Un matin d'hiver, Zoé retrouve Noé au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
+3. « Un matin d'hiver, Zoé retrouve Noé au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **ENT04-04** « Un matin d'hiver, Adam retrouve Maya au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
+4. « Un matin d'hiver, Adam retrouve Maya au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
    Quels sont les personnages ?
 
-5. **ENT04-05** « Un matin d'hiver, Lou retrouve Sami près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+5. « Un matin d'hiver, Lou retrouve Sami près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Où se passe la scène ?
 
-6. **ENT04-06** « Un matin d'hiver, Émile retrouve Inès près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+6. « Un matin d'hiver, Émile retrouve Inès près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Quand se passe la scène ?
 
-### ENT05
-
-1. **ENT05-01** « À midi, Lina retrouve Léo dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+### Entraînement 5
+1. « À midi, Lina retrouve Léo dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Quels sont les personnages ?
 
-2. **ENT05-02** « À midi, Noé retrouve Nora dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+2. « À midi, Noé retrouve Nora dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **ENT05-03** « À midi, Maya retrouve Hugo au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
+3. « À midi, Maya retrouve Hugo au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **ENT05-04** « À midi, Sami retrouve Zoé au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
+4. « À midi, Sami retrouve Zoé au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quels sont les personnages ?
 
-5. **ENT05-05** « Samedi matin, Inès retrouve Adam sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
+5. « Samedi matin, Inès retrouve Adam sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
    Où se passe la scène ?
 
-6. **ENT05-06** « Samedi matin, Léo retrouve Lou sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
+6. « Samedi matin, Léo retrouve Lou sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
    Quand se passe la scène ?
 
-### ENT06
-
-1. **ENT06-01** « Samedi matin, Nora retrouve Émile dans la classe. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+### Entraînement 6
+1. « Samedi matin, Nora retrouve Émile dans la classe. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Quels sont les personnages ?
 
-2. **ENT06-02** « Samedi matin, Hugo retrouve Lina dans la classe. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+2. « Samedi matin, Hugo retrouve Lina dans la classe. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **ENT06-03** « Lundi matin, Zoé retrouve Noé dans la cour. Ensemble, ils cherchent un indice. Le travail avance en silence. »
+3. « Lundi matin, Zoé retrouve Noé dans la cour. Ensemble, ils cherchent un indice. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **ENT06-04** « Lundi matin, Adam retrouve Maya dans la cour. Ensemble, ils cherchent un indice. Le travail avance en silence. »
+4. « Lundi matin, Adam retrouve Maya dans la cour. Ensemble, ils cherchent un indice. Le travail avance en silence. »
    Quels sont les personnages ?
 
-5. **ENT06-05** « Lundi matin, Lou retrouve Sami à la bibliothèque. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+5. « Lundi matin, Lou retrouve Sami à la bibliothèque. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Où se passe la scène ?
 
-6. **ENT06-06** « Lundi matin, Émile retrouve Inès à la bibliothèque. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+6. « Lundi matin, Émile retrouve Inès à la bibliothèque. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Quand se passe la scène ?
 
-### ENT07
-
-1. **ENT07-01** « Après le déjeuner, Lina retrouve Léo au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+### Entraînement 7
+1. « Après le déjeuner, Lina retrouve Léo au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Quels sont les personnages ?
 
-2. **ENT07-02** « Après le déjeuner, Noé retrouve Nora au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+2. « Après le déjeuner, Noé retrouve Nora au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **ENT07-03** « Après le déjeuner, Maya retrouve Hugo près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
+3. « Après le déjeuner, Maya retrouve Hugo près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **ENT07-04** « Après le déjeuner, Sami retrouve Zoé près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
+4. « Après le déjeuner, Sami retrouve Zoé près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quels sont les personnages ?
 
-5. **ENT07-05** « À la tombée du soir, Inès retrouve Adam dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
+5. « À la tombée du soir, Inès retrouve Adam dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
    Où se passe la scène ?
 
-6. **ENT07-06** « À la tombée du soir, Léo retrouve Lou dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
+6. « À la tombée du soir, Léo retrouve Lou dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
    Quand se passe la scène ?
 
-### ENT08
-
-1. **ENT08-01** « Un sac et une feuille sont prêts. À la tombée du soir, Nora retrouve Émile au gymnase. Ensemble, ils comparent deux dessins. Le travail avance bien. »
+### Entraînement 8
+1. « Un sac et une feuille sont prêts. À la tombée du soir, Nora retrouve Émile au gymnase. Ensemble, ils comparent deux dessins. Le travail avance bien. »
    Quels sont les personnages ?
 
-2. **ENT08-02** « Un sac et une feuille sont prêts. À la tombée du soir, Hugo retrouve Lina au gymnase. Ensemble, ils comparent deux dessins. Le travail avance bien. »
+2. « Un sac et une feuille sont prêts. À la tombée du soir, Hugo retrouve Lina au gymnase. Ensemble, ils comparent deux dessins. Le travail avance bien. »
    Où se passe la scène ?
 
-3. **ENT08-03** « Un sac et une feuille sont prêts. Mercredi après-midi, Zoé retrouve Noé sur la place. Ensemble, ils cherchent un indice. Le travail avance bien. »
+3. « Un sac et une feuille sont prêts. Mercredi après-midi, Zoé retrouve Noé sur la place. Ensemble, ils cherchent un indice. Le travail avance bien. »
    Quand se passe la scène ?
 
-4. **ENT08-04** « Un sac et une feuille sont prêts. Mercredi après-midi, Adam retrouve Maya sur la place. Ensemble, ils cherchent un indice. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Mercredi après-midi, Adam retrouve Maya sur la place. Ensemble, ils cherchent un indice. Le travail avance bien. »
    Quels sont les personnages ?
 
-5. **ENT08-05** « Un sac et une feuille sont prêts. Mercredi après-midi, Lou retrouve Sami dans la classe. Ensemble, ils parlent de leur projet. Le travail avance bien. »
+5. « Un sac et une feuille sont prêts. Mercredi après-midi, Lou retrouve Sami dans la classe. Ensemble, ils parlent de leur projet. Le travail avance bien. »
    Où se passe la scène ?
 
-6. **ENT08-06** « Un sac et une feuille sont prêts. Mercredi après-midi, Émile retrouve Inès dans la classe. Ensemble, ils parlent de leur projet. Le travail avance bien. »
+6. « Un sac et une feuille sont prêts. Mercredi après-midi, Émile retrouve Inès dans la classe. Ensemble, ils parlent de leur projet. Le travail avance bien. »
    Quand se passe la scène ?
 
-### ENT09
-
-1. **ENT09-01** « Un sac et une feuille sont prêts. Avant la récréation, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
+### Entraînement 9
+1. « Un sac et une feuille sont prêts. Avant la récréation, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
    Quels sont les personnages ?
 
-2. **ENT09-02** « Un sac et une feuille sont prêts. Avant la récréation, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
+2. « Un sac et une feuille sont prêts. Avant la récréation, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
    Où se passe la scène ?
 
-3. **ENT09-03** « Un sac et une feuille sont prêts. Avant la récréation, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
+3. « Un sac et une feuille sont prêts. Avant la récréation, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
    Quand se passe la scène ?
 
-4. **ENT09-04** « Un sac et une feuille sont prêts. Avant la récréation, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Avant la récréation, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
    Quels sont les personnages ?
 
-5. **ENT09-05** « Un sac et une feuille sont prêts. Un matin d'hiver, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
+5. « Un sac et une feuille sont prêts. Un matin d'hiver, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
    Où se passe la scène ?
 
-6. **ENT09-06** « Un sac et une feuille sont prêts. Un matin d'hiver, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
+6. « Un sac et une feuille sont prêts. Un matin d'hiver, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
    Quand se passe la scène ?
 
-### ENT10
-
-1. **ENT10-01** « Un sac et une feuille sont prêts. Un matin d'hiver, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. Le travail avance bien. »
+### Entraînement 10
+1. « Un sac et une feuille sont prêts. Un matin d'hiver, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. Le travail avance bien. »
    Quels sont les personnages ?
 
-2. **ENT10-02** « Un sac et une feuille sont prêts. Un matin d'hiver, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. Le travail avance bien. »
+2. « Un sac et une feuille sont prêts. Un matin d'hiver, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. Le travail avance bien. »
    Où se passe la scène ?
 
-3. **ENT10-03** « Un sac et une feuille sont prêts. À midi, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. Le travail avance bien. »
+3. « Un sac et une feuille sont prêts. À midi, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. Le travail avance bien. »
    Quand se passe la scène ?
 
-4. **ENT10-04** « Un sac et une feuille sont prêts. À midi, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. À midi, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. Le travail avance bien. »
    Quels sont les personnages ?
 
-5. **ENT10-05** « Un sac et une feuille sont prêts. À midi, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. Le travail avance bien. »
+5. « Un sac et une feuille sont prêts. À midi, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. Le travail avance bien. »
    Où se passe la scène ?
 
-6. **ENT10-06** « Un sac et une feuille sont prêts. À midi, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. Le travail avance bien. »
+6. « Un sac et une feuille sont prêts. À midi, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. Le travail avance bien. »
    Quand se passe la scène ?
 
 ## Évaluations
 
 *Tous les supports sont créés pour l'exercice. Chaque forme comporte quatre items déjà entraînés et un item nouveau isomorphe ; les dix formes échantillonnent les mêmes niveaux de difficulté.*
 
-### EVAL01
-
-1. **EVAL01-01** « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
+### Évaluation 1
+1. « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-2. **EVAL01-02** « À midi, Noé retrouve Nora dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+2. « À midi, Noé retrouve Nora dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **EVAL01-03** « Après le déjeuner, Maya retrouve Hugo près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
+3. « Après le déjeuner, Maya retrouve Hugo près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **EVAL01-04** « Un sac et une feuille sont prêts. Avant la récréation, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Avant la récréation, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
    Quels sont les personnages ?
 
-5. **EVAL01-05** « Mardi matin, Aya et Tom visitent le musée. »
+5. « Mardi matin, Aya et Tom visitent le musée. »
    Quels sont les personnages ?
 
-### EVAL02
-
-1. **EVAL02-01** « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
+### Évaluation 2
+1. « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-2. **EVAL02-02** « À midi, Maya retrouve Hugo au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
+2. « À midi, Maya retrouve Hugo au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quand se passe la scène ?
 
-3. **EVAL02-03** « Après le déjeuner, Sami retrouve Zoé près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
+3. « Après le déjeuner, Sami retrouve Zoé près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quels sont les personnages ?
 
-4. **EVAL02-04** « Un sac et une feuille sont prêts. Un matin d'hiver, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Un matin d'hiver, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
    Où se passe la scène ?
 
-5. **EVAL02-05** « Eva retrouve Ali au bord de la mer après le déjeuner. »
+5. « Eva retrouve Ali au bord de la mer après le déjeuner. »
    Où se passe la scène ?
 
-### EVAL03
-
-1. **EVAL03-01** « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
+### Évaluation 3
+1. « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-2. **EVAL03-02** « À midi, Sami retrouve Zoé au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
+2. « À midi, Sami retrouve Zoé au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quels sont les personnages ?
 
-3. **EVAL03-03** « À la tombée du soir, Inès retrouve Adam dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
+3. « À la tombée du soir, Inès retrouve Adam dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
    Où se passe la scène ?
 
-4. **EVAL03-04** « Un sac et une feuille sont prêts. Un matin d'hiver, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Un matin d'hiver, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
    Quand se passe la scène ?
 
-5. **EVAL03-05** « À la tombée de la nuit, Ana et Paul ferment la serre. »
+5. « À la tombée de la nuit, Ana et Paul ferment la serre. »
    Quand se passe la scène ?
 
-### EVAL04
-
-1. **EVAL04-01** « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
+### Évaluation 4
+1. « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-2. **EVAL04-02** « Samedi matin, Inès retrouve Adam sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
+2. « Samedi matin, Inès retrouve Adam sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **EVAL04-03** « À la tombée du soir, Léo retrouve Lou dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
+3. « À la tombée du soir, Léo retrouve Lou dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **EVAL04-04** « Un sac et une feuille sont prêts. Avant la récréation, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Avant la récréation, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
    Quels sont les personnages ?
 
-5. **EVAL04-05** « Jeudi, Iris et Yanis nourrissent les chèvres à la ferme. »
+5. « Jeudi, Iris et Yanis nourrissent les chèvres à la ferme. »
    Quels sont les personnages ?
 
-### EVAL05
-
-1. **EVAL05-01** « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
+### Évaluation 5
+1. « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-2. **EVAL05-02** « Samedi matin, Léo retrouve Lou sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
+2. « Samedi matin, Léo retrouve Lou sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
    Quand se passe la scène ?
 
-3. **EVAL05-03** « Après le déjeuner, Lina retrouve Léo au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+3. « Après le déjeuner, Lina retrouve Léo au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Quels sont les personnages ?
 
-4. **EVAL05-04** « Un sac et une feuille sont prêts. Avant la récréation, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Avant la récréation, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
    Où se passe la scène ?
 
-5. **EVAL05-05** « Mila rejoint Oscar sous le préau avant la classe. »
+5. « Mila rejoint Oscar sous le préau avant la classe. »
    Où se passe la scène ?
 
-### EVAL06
-
-1. **EVAL06-01** « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
+### Évaluation 6
+1. « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
    Quand se passe la scène ?
 
-2. **EVAL06-02** « À midi, Lina retrouve Léo dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+2. « À midi, Lina retrouve Léo dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Quels sont les personnages ?
 
-3. **EVAL06-03** « Après le déjeuner, Noé retrouve Nora au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+3. « Après le déjeuner, Noé retrouve Nora au jardin. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Où se passe la scène ?
 
-4. **EVAL06-04** « Un sac et une feuille sont prêts. Avant la récréation, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Avant la récréation, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
    Quand se passe la scène ?
 
-5. **EVAL06-05** « Au lever du jour, Aya observe la rivière avec Eva. »
+5. « Au lever du jour, Aya observe la rivière avec Eva. »
    Quand se passe la scène ?
 
-### EVAL07
-
-1. **EVAL07-01** « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
+### Évaluation 7
+1. « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-2. **EVAL07-02** « À midi, Noé retrouve Nora dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
+2. « À midi, Noé retrouve Nora dans la cuisine. Ensemble, ils préparent une affiche. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **EVAL07-03** « Après le déjeuner, Maya retrouve Hugo près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
+3. « Après le déjeuner, Maya retrouve Hugo près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **EVAL07-04** « Un sac et une feuille sont prêts. Avant la récréation, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Avant la récréation, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. Le travail avance bien. »
    Quels sont les personnages ?
 
-5. **EVAL07-05** « Tom et Ali préparent une carte dans l'atelier. »
+5. « Tom et Ali préparent une carte dans l'atelier. »
    Quels sont les personnages ?
 
-### EVAL08
-
-1. **EVAL08-01** « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
+### Évaluation 8
+1. « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-2. **EVAL08-02** « À midi, Maya retrouve Hugo au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
+2. « À midi, Maya retrouve Hugo au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quand se passe la scène ?
 
-3. **EVAL08-03** « Après le déjeuner, Sami retrouve Zoé près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
+3. « Après le déjeuner, Sami retrouve Zoé près de l'étang. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quels sont les personnages ?
 
-4. **EVAL08-04** « Un sac et une feuille sont prêts. Un matin d'hiver, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Un matin d'hiver, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
    Où se passe la scène ?
 
-5. **EVAL08-05** « Ana retrouve Iris à l'entrée du théâtre samedi soir. »
+5. « Ana retrouve Iris à l'entrée du théâtre samedi soir. »
    Où se passe la scène ?
 
-### EVAL09
-
-1. **EVAL09-01** « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
+### Évaluation 9
+1. « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-2. **EVAL09-02** « À midi, Sami retrouve Zoé au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
+2. « À midi, Sami retrouve Zoé au gymnase. Ensemble, ils regardent une carte. Le travail avance en silence. »
    Quels sont les personnages ?
 
-3. **EVAL09-03** « À la tombée du soir, Inès retrouve Adam dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
+3. « À la tombée du soir, Inès retrouve Adam dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
    Où se passe la scène ?
 
-4. **EVAL09-04** « Un sac et une feuille sont prêts. Un matin d'hiver, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Un matin d'hiver, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. Le travail avance bien. »
    Quand se passe la scène ?
 
-5. **EVAL09-05** « Pendant les vacances, Paul et Mila explorent le sentier. »
+5. « Pendant les vacances, Paul et Mila explorent le sentier. »
    Quand se passe la scène ?
 
-### EVAL10
-
-1. **EVAL10-01** « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
+### Évaluation 10
+1. « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-2. **EVAL10-02** « Samedi matin, Inès retrouve Adam sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
+2. « Samedi matin, Inès retrouve Adam sur la place. Ensemble, ils lisent une note. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **EVAL10-03** « À la tombée du soir, Léo retrouve Lou dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
+3. « À la tombée du soir, Léo retrouve Lou dans la cuisine. Ensemble, ils lisent une note. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **EVAL10-04** « Un sac et une feuille sont prêts. Avant la récréation, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
+4. « Un sac et une feuille sont prêts. Avant la récréation, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. Le travail avance bien. »
    Quels sont les personnages ?
 
-5. **EVAL10-05** « Oscar et Yanis lisent un panneau près du phare. »
+5. « Oscar et Yanis lisent un panneau près du phare. »
    Quels sont les personnages ?
 
 ## Devoirs
 
 *Tous les supports sont créés pour l'exercice et reprennent uniquement ENT01 à ENT04. Même consigne, sans matériel particulier.*
 
-### DEV01
-
-1. **DEV01-01** « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
+### Devoir 1
+1. « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-2. **DEV01-02** « Après le déjeuner, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. »
+2. « Après le déjeuner, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. »
    Où se passe la scène ?
 
-3. **DEV01-03** « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
+3. « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-4. **DEV01-04** « Un matin d'hiver, Adam retrouve Maya au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
+4. « Un matin d'hiver, Adam retrouve Maya au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
    Quels sont les personnages ?
 
-5. **DEV01-05** « Après le déjeuner, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. »
+5. « Après le déjeuner, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-### DEV02
-
-1. **DEV02-01** « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
+### Devoir 2
+1. « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
    Quand se passe la scène ?
 
-2. **DEV02-02** « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
+2. « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-3. **DEV02-03** « Un matin d'hiver, Lou retrouve Sami près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+3. « Un matin d'hiver, Lou retrouve Sami près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Où se passe la scène ?
 
-4. **DEV02-04** « Après le déjeuner, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. »
+4. « Après le déjeuner, Léo retrouve Lou au jardin. Ensemble, ils lisent une note. »
    Quand se passe la scène ?
 
-5. **DEV02-05** « Après le déjeuner, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. »
+5. « Après le déjeuner, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. »
    Quels sont les personnages ?
 
-### DEV03
-
-1. **DEV03-01** « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
+### Devoir 3
+1. « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-2. **DEV03-02** « Un matin d'hiver, Émile retrouve Inès près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+2. « Un matin d'hiver, Émile retrouve Inès près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Quand se passe la scène ?
 
-3. **DEV03-03** « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
+3. « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-4. **DEV03-04** « Après le déjeuner, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. »
+4. « Après le déjeuner, Hugo retrouve Lina près de l'étang. Ensemble, ils comparent deux dessins. »
    Où se passe la scène ?
 
-5. **DEV03-05** « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
+5. « Mercredi après-midi, Maya retrouve Hugo dans la classe. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-### DEV04
-
-1. **DEV04-01** « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+### Devoir 4
+1. « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Quels sont les personnages ?
 
-2. **DEV04-02** « Lundi matin, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. »
+2. « Lundi matin, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-3. **DEV04-03** « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
+3. « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
    Quand se passe la scène ?
 
-4. **DEV04-04** « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
+4. « Mercredi après-midi, Sami retrouve Zoé dans la classe. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-5. **DEV04-05** « Un matin d'hiver, Lou retrouve Sami près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+5. « Un matin d'hiver, Lou retrouve Sami près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Où se passe la scène ?
 
-### DEV05
-
-1. **DEV05-01** « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
+### Devoir 5
+1. « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-2. **DEV05-02** « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
+2. « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
    Quels sont les personnages ?
 
-3. **DEV05-03** « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
+3. « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-4. **DEV05-04** « Un matin d'hiver, Émile retrouve Inès près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
+4. « Un matin d'hiver, Émile retrouve Inès près de l'étang. Ensemble, ils parlent de leur projet. Le travail avance en silence. »
    Quand se passe la scène ?
 
-5. **DEV05-05** « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
+5. « Lundi matin, Lina retrouve Léo dans la cour. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-### DEV06
-
-1. **DEV06-01** « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
+### Devoir 6
+1. « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
    Où se passe la scène ?
 
-2. **DEV06-02** « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
+2. « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
    Quand se passe la scène ?
 
-3. **DEV06-03** « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+3. « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Quels sont les personnages ?
 
-4. **DEV06-04** « Lundi matin, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. »
+4. « Lundi matin, Noé retrouve Nora dans la cour. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-5. **DEV06-05** « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
+5. « À la tombée du soir, Zoé retrouve Noé dans la cuisine. Ensemble, ils cherchent un indice. »
    Quand se passe la scène ?
 
-### DEV07
-
-1. **DEV07-01** « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
+### Devoir 7
+1. « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-2. **DEV07-02** « Avant la récréation, Hugo retrouve Lina à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+2. « Avant la récréation, Hugo retrouve Lina à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Où se passe la scène ?
 
-3. **DEV07-03** « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
+3. « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-4. **DEV07-04** « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
+4. « À la tombée du soir, Adam retrouve Maya dans la cuisine. Ensemble, ils cherchent un indice. »
    Quels sont les personnages ?
 
-5. **DEV07-05** « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
+5. « Avant la récréation, Inès retrouve Adam dans la cour. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-### DEV08
-
-1. **DEV08-01** « Un matin d'hiver, Zoé retrouve Noé au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
+### Devoir 8
+1. « Un matin d'hiver, Zoé retrouve Noé au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
    Quand se passe la scène ?
 
-2. **DEV08-02** « Lundi matin, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. »
+2. « Lundi matin, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-3. **DEV08-03** « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
+3. « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
    Où se passe la scène ?
 
-4. **DEV08-04** « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
+4. « Avant la récréation, Léo retrouve Lou dans la cour. Ensemble, ils lisent une note. »
    Quand se passe la scène ?
 
-5. **DEV08-05** « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+5. « Avant la récréation, Nora retrouve Émile à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Quels sont les personnages ?
 
-### DEV09
-
-1. **DEV09-01** « Après le déjeuner, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. »
+### Devoir 9
+1. « Après le déjeuner, Inès retrouve Adam au jardin. Ensemble, ils lisent une note. »
    Où se passe la scène ?
 
-2. **DEV09-02** « À la tombée du soir, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. »
+2. « À la tombée du soir, Émile retrouve Inès au gymnase. Ensemble, ils parlent de leur projet. »
    Quand se passe la scène ?
 
-3. **DEV09-03** « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
+3. « Mercredi après-midi, Lina retrouve Léo sur la place. Ensemble, ils préparent une affiche. »
    Quels sont les personnages ?
 
-4. **DEV09-04** « Avant la récréation, Hugo retrouve Lina à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
+4. « Avant la récréation, Hugo retrouve Lina à la bibliothèque. Ensemble, ils comparent deux dessins. Le travail avance en silence. »
    Où se passe la scène ?
 
-5. **DEV09-05** « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
+5. « Lundi matin, Maya retrouve Hugo à la bibliothèque. Ensemble, ils regardent une carte. »
    Quand se passe la scène ?
 
-### DEV10
-
-1. **DEV10-01** « Après le déjeuner, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. »
+### Devoir 10
+1. « Après le déjeuner, Nora retrouve Émile près de l'étang. Ensemble, ils comparent deux dessins. »
    Quels sont les personnages ?
 
-2. **DEV10-02** « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
+2. « Mercredi après-midi, Noé retrouve Nora sur la place. Ensemble, ils préparent une affiche. »
    Où se passe la scène ?
 
-3. **DEV10-03** « Un matin d'hiver, Zoé retrouve Noé au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
+3. « Un matin d'hiver, Zoé retrouve Noé au jardin. Ensemble, ils cherchent un indice. Le travail avance en silence. »
    Quand se passe la scène ?
 
-4. **DEV10-04** « Lundi matin, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. »
+4. « Lundi matin, Sami retrouve Zoé à la bibliothèque. Ensemble, ils regardent une carte. »
    Quels sont les personnages ?
 
-5. **DEV10-05** « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
+5. « À la tombée du soir, Lou retrouve Sami au gymnase. Ensemble, ils parlent de leur projet. »
    Où se passe la scène ?
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** à la tombée du soir
-2. **IMM02** Adam et Maya
-3. **IMM03** au gymnase
-4. **IMM04** à la tombée du soir
-5. **IMM05** Lina et Léo
-6. **IMM06** sur la place
-7. **IMM07** mercredi après-midi
+1. à la tombée du soir
+2. Adam et Maya
+3. au gymnase
+4. à la tombée du soir
+5. Lina et Léo
+6. sur la place
+7. mercredi après-midi
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. Lina et Léo
+2. dans la cour
+3. lundi matin
+4. Sami et Zoé
+5. au jardin
+6. après le déjeuner
 
-1. **ENT01-01** Lina et Léo
-2. **ENT01-02** dans la cour
-3. **ENT01-03** lundi matin
-4. **ENT01-04** Sami et Zoé
-5. **ENT01-05** au jardin
-6. **ENT01-06** après le déjeuner
+#### Entraînement 2
+1. Nora et Émile
+2. près de l'étang
+3. à la tombée du soir
+4. Adam et Maya
+5. au gymnase
+6. à la tombée du soir
 
-#### ENT02
+#### Entraînement 3
+1. Lina et Léo
+2. sur la place
+3. mercredi après-midi
+4. Sami et Zoé
+5. dans la cour
+6. avant la récréation
 
-1. **ENT02-01** Nora et Émile
-2. **ENT02-02** près de l'étang
-3. **ENT02-03** à la tombée du soir
-4. **ENT02-04** Adam et Maya
-5. **ENT02-05** au gymnase
-6. **ENT02-06** à la tombée du soir
+#### Entraînement 4
+1. Nora et Émile
+2. à la bibliothèque
+3. un matin d'hiver
+4. Adam et Maya
+5. près de l'étang
+6. un matin d'hiver
 
-#### ENT03
+#### Entraînement 5
+1. Lina et Léo
+2. dans la cuisine
+3. à midi
+4. Sami et Zoé
+5. sur la place
+6. samedi matin
 
-1. **ENT03-01** Lina et Léo
-2. **ENT03-02** sur la place
-3. **ENT03-03** mercredi après-midi
-4. **ENT03-04** Sami et Zoé
-5. **ENT03-05** dans la cour
-6. **ENT03-06** avant la récréation
+#### Entraînement 6
+1. Nora et Émile
+2. dans la classe
+3. lundi matin
+4. Adam et Maya
+5. à la bibliothèque
+6. lundi matin
 
-#### ENT04
+#### Entraînement 7
+1. Lina et Léo
+2. au jardin
+3. après le déjeuner
+4. Sami et Zoé
+5. dans la cuisine
+6. à la tombée du soir
 
-1. **ENT04-01** Nora et Émile
-2. **ENT04-02** à la bibliothèque
-3. **ENT04-03** un matin d'hiver
-4. **ENT04-04** Adam et Maya
-5. **ENT04-05** près de l'étang
-6. **ENT04-06** un matin d'hiver
+#### Entraînement 8
+1. Nora et Émile
+2. au gymnase
+3. mercredi après-midi
+4. Adam et Maya
+5. dans la classe
+6. mercredi après-midi
 
-#### ENT05
+#### Entraînement 9
+1. Lina et Léo
+2. dans la cour
+3. avant la récréation
+4. Sami et Zoé
+5. au jardin
+6. un matin d'hiver
 
-1. **ENT05-01** Lina et Léo
-2. **ENT05-02** dans la cuisine
-3. **ENT05-03** à midi
-4. **ENT05-04** Sami et Zoé
-5. **ENT05-05** sur la place
-6. **ENT05-06** samedi matin
-
-#### ENT06
-
-1. **ENT06-01** Nora et Émile
-2. **ENT06-02** dans la classe
-3. **ENT06-03** lundi matin
-4. **ENT06-04** Adam et Maya
-5. **ENT06-05** à la bibliothèque
-6. **ENT06-06** lundi matin
-
-#### ENT07
-
-1. **ENT07-01** Lina et Léo
-2. **ENT07-02** au jardin
-3. **ENT07-03** après le déjeuner
-4. **ENT07-04** Sami et Zoé
-5. **ENT07-05** dans la cuisine
-6. **ENT07-06** à la tombée du soir
-
-#### ENT08
-
-1. **ENT08-01** Nora et Émile
-2. **ENT08-02** au gymnase
-3. **ENT08-03** mercredi après-midi
-4. **ENT08-04** Adam et Maya
-5. **ENT08-05** dans la classe
-6. **ENT08-06** mercredi après-midi
-
-#### ENT09
-
-1. **ENT09-01** Lina et Léo
-2. **ENT09-02** dans la cour
-3. **ENT09-03** avant la récréation
-4. **ENT09-04** Sami et Zoé
-5. **ENT09-05** au jardin
-6. **ENT09-06** un matin d'hiver
-
-#### ENT10
-
-1. **ENT10-01** Nora et Émile
-2. **ENT10-02** près de l'étang
-3. **ENT10-03** à midi
-4. **ENT10-04** Adam et Maya
-5. **ENT10-05** au gymnase
-6. **ENT10-06** à midi
+#### Entraînement 10
+1. Nora et Émile
+2. près de l'étang
+3. à midi
+4. Adam et Maya
+5. au gymnase
+6. à midi
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. Lina et Léo
+2. dans la cuisine
+3. après le déjeuner
+4. Sami et Zoé
+5. Aya et Tom
 
-1. **EVAL01-01** Lina et Léo
-2. **EVAL01-02** dans la cuisine
-3. **EVAL01-03** après le déjeuner
-4. **EVAL01-04** Sami et Zoé
-5. **EVAL01-05** Aya et Tom
+#### Évaluation 2
+1. sur la place
+2. à midi
+3. Sami et Zoé
+4. au jardin
+5. au bord de la mer
 
-#### EVAL02
+#### Évaluation 3
+1. mercredi après-midi
+2. Sami et Zoé
+3. dans la cuisine
+4. un matin d'hiver
+5. à la tombée de la nuit
 
-1. **EVAL02-01** sur la place
-2. **EVAL02-02** à midi
-3. **EVAL02-03** Sami et Zoé
-4. **EVAL02-04** au jardin
-5. **EVAL02-05** au bord de la mer
+#### Évaluation 4
+1. Sami et Zoé
+2. sur la place
+3. à la tombée du soir
+4. Lina et Léo
+5. Iris et Yanis
 
-#### EVAL03
+#### Évaluation 5
+1. dans la cour
+2. samedi matin
+3. Lina et Léo
+4. dans la cour
+5. sous le préau
 
-1. **EVAL03-01** mercredi après-midi
-2. **EVAL03-02** Sami et Zoé
-3. **EVAL03-03** dans la cuisine
-4. **EVAL03-04** un matin d'hiver
-5. **EVAL03-05** à la tombée de la nuit
+#### Évaluation 6
+1. avant la récréation
+2. Lina et Léo
+3. au jardin
+4. avant la récréation
+5. au lever du jour
 
-#### EVAL04
+#### Évaluation 7
+1. Lina et Léo
+2. dans la cuisine
+3. après le déjeuner
+4. Sami et Zoé
+5. Tom et Ali
 
-1. **EVAL04-01** Sami et Zoé
-2. **EVAL04-02** sur la place
-3. **EVAL04-03** à la tombée du soir
-4. **EVAL04-04** Lina et Léo
-5. **EVAL04-05** Iris et Yanis
+#### Évaluation 8
+1. sur la place
+2. à midi
+3. Sami et Zoé
+4. au jardin
+5. à l'entrée du théâtre
 
-#### EVAL05
+#### Évaluation 9
+1. mercredi après-midi
+2. Sami et Zoé
+3. dans la cuisine
+4. un matin d'hiver
+5. pendant les vacances
 
-1. **EVAL05-01** dans la cour
-2. **EVAL05-02** samedi matin
-3. **EVAL05-03** Lina et Léo
-4. **EVAL05-04** dans la cour
-5. **EVAL05-05** sous le préau
-
-#### EVAL06
-
-1. **EVAL06-01** avant la récréation
-2. **EVAL06-02** Lina et Léo
-3. **EVAL06-03** au jardin
-4. **EVAL06-04** avant la récréation
-5. **EVAL06-05** au lever du jour
-
-#### EVAL07
-
-1. **EVAL07-01** Lina et Léo
-2. **EVAL07-02** dans la cuisine
-3. **EVAL07-03** après le déjeuner
-4. **EVAL07-04** Sami et Zoé
-5. **EVAL07-05** Tom et Ali
-
-#### EVAL08
-
-1. **EVAL08-01** sur la place
-2. **EVAL08-02** à midi
-3. **EVAL08-03** Sami et Zoé
-4. **EVAL08-04** au jardin
-5. **EVAL08-05** à l'entrée du théâtre
-
-#### EVAL09
-
-1. **EVAL09-01** mercredi après-midi
-2. **EVAL09-02** Sami et Zoé
-3. **EVAL09-03** dans la cuisine
-4. **EVAL09-04** un matin d'hiver
-5. **EVAL09-05** pendant les vacances
-
-#### EVAL10
-
-1. **EVAL10-01** Sami et Zoé
-2. **EVAL10-02** sur la place
-3. **EVAL10-03** à la tombée du soir
-4. **EVAL10-04** Lina et Léo
-5. **EVAL10-05** Oscar et Yanis
+#### Évaluation 10
+1. Sami et Zoé
+2. sur la place
+3. à la tombée du soir
+4. Lina et Léo
+5. Oscar et Yanis
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. Lina et Léo
+2. près de l'étang
+3. mercredi après-midi
+4. Adam et Maya
+5. au jardin
 
-1. **DEV01-01** Lina et Léo
-2. **DEV01-02** près de l'étang
-3. **DEV01-03** mercredi après-midi
-4. **DEV01-04** Adam et Maya
-5. **DEV01-05** au jardin
+#### Devoir 2
+1. à la tombée du soir
+2. Sami et Zoé
+3. près de l'étang
+4. après le déjeuner
+5. Nora et Émile
 
-#### DEV02
+#### Devoir 3
+1. dans la cour
+2. un matin d'hiver
+3. Lina et Léo
+4. près de l'étang
+5. mercredi après-midi
 
-1. **DEV02-01** à la tombée du soir
-2. **DEV02-02** Sami et Zoé
-3. **DEV02-03** près de l'étang
-4. **DEV02-04** après le déjeuner
-5. **DEV02-05** Nora et Émile
+#### Devoir 4
+1. Nora et Émile
+2. dans la cour
+3. à la tombée du soir
+4. Sami et Zoé
+5. près de l'étang
 
-#### DEV03
+#### Devoir 5
+1. lundi matin
+2. Adam et Maya
+3. dans la cour
+4. un matin d'hiver
+5. Lina et Léo
 
-1. **DEV03-01** dans la cour
-2. **DEV03-02** un matin d'hiver
-3. **DEV03-03** Lina et Léo
-4. **DEV03-04** près de l'étang
-5. **DEV03-05** mercredi après-midi
+#### Devoir 6
+1. au gymnase
+2. avant la récréation
+3. Nora et Émile
+4. dans la cour
+5. à la tombée du soir
 
-#### DEV04
+#### Devoir 7
+1. Lina et Léo
+2. à la bibliothèque
+3. lundi matin
+4. Adam et Maya
+5. dans la cour
 
-1. **DEV04-01** Nora et Émile
-2. **DEV04-02** dans la cour
-3. **DEV04-03** à la tombée du soir
-4. **DEV04-04** Sami et Zoé
-5. **DEV04-05** près de l'étang
+#### Devoir 8
+1. un matin d'hiver
+2. Sami et Zoé
+3. au gymnase
+4. avant la récréation
+5. Nora et Émile
 
-#### DEV05
+#### Devoir 9
+1. au jardin
+2. à la tombée du soir
+3. Lina et Léo
+4. à la bibliothèque
+5. lundi matin
 
-1. **DEV05-01** lundi matin
-2. **DEV05-02** Adam et Maya
-3. **DEV05-03** dans la cour
-4. **DEV05-04** un matin d'hiver
-5. **DEV05-05** Lina et Léo
-
-#### DEV06
-
-1. **DEV06-01** au gymnase
-2. **DEV06-02** avant la récréation
-3. **DEV06-03** Nora et Émile
-4. **DEV06-04** dans la cour
-5. **DEV06-05** à la tombée du soir
-
-#### DEV07
-
-1. **DEV07-01** Lina et Léo
-2. **DEV07-02** à la bibliothèque
-3. **DEV07-03** lundi matin
-4. **DEV07-04** Adam et Maya
-5. **DEV07-05** dans la cour
-
-#### DEV08
-
-1. **DEV08-01** un matin d'hiver
-2. **DEV08-02** Sami et Zoé
-3. **DEV08-03** au gymnase
-4. **DEV08-04** avant la récréation
-5. **DEV08-05** Nora et Émile
-
-#### DEV09
-
-1. **DEV09-01** au jardin
-2. **DEV09-02** à la tombée du soir
-3. **DEV09-03** Lina et Léo
-4. **DEV09-04** à la bibliothèque
-5. **DEV09-05** lundi matin
-
-#### DEV10
-
-1. **DEV10-01** Nora et Émile
-2. **DEV10-02** sur la place
-3. **DEV10-03** un matin d'hiver
-4. **DEV10-04** Sami et Zoé
-5. **DEV10-05** au gymnase
+#### Devoir 10
+1. Nora et Émile
+2. sur la place
+3. un matin d'hiver
+4. Sami et Zoé
+5. au gymnase
 
 ## Traçabilité des évaluations et devoirs
 

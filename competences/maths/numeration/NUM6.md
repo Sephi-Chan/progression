@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 104 ; 117 ; 124 ; 135 ; 154.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 216 ; 229 ; 236 ; 247 ; 266.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **IMM02** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **IMM03** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **IMM04** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **IMM05** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **IMM06** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **IMM07** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
 
-- **ENT01-01** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **ENT01-02** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **ENT01-03** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **ENT01-04** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **ENT01-05** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+### Entraînement 2
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
 
-### ENT02
+### Entraînement 3
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
 
-- **ENT02-01** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **ENT02-02** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **ENT02-03** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **ENT02-04** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **ENT02-05** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+### Entraînement 4
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
 
-### ENT03
+### Entraînement 5
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
 
-- **ENT03-01** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **ENT03-02** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **ENT03-03** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **ENT03-04** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **ENT03-05** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+### Entraînement 6
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
 
-### ENT04
+### Entraînement 7
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
 
-- **ENT04-01** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **ENT04-02** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **ENT04-03** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **ENT04-04** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **ENT04-05** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+### Entraînement 8
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
 
-### ENT05
+### Entraînement 9
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
 
-- **ENT05-01** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **ENT05-02** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **ENT05-03** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **ENT05-04** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **ENT05-05** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-
-### ENT06
-
-- **ENT06-01** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **ENT06-02** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **ENT06-03** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **ENT06-04** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **ENT06-05** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-
-### ENT07
-
-- **ENT07-01** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **ENT07-02** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **ENT07-03** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **ENT07-04** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **ENT07-05** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-
-### ENT08
-
-- **ENT08-01** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **ENT08-02** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **ENT08-03** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **ENT08-04** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **ENT08-05** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-
-### ENT09
-
-- **ENT09-01** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **ENT09-02** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **ENT09-03** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **ENT09-04** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **ENT09-05** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-
-### ENT10
-
-- **ENT10-01** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **ENT10-02** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **ENT10-03** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **ENT10-04** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **ENT10-05** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+### Entraînement 10
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
 
-- **EVAL01-01** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **EVAL01-02** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **EVAL01-03** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **EVAL01-04** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **EVAL01-05** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+### Évaluation 2
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
 
-### EVAL02
+### Évaluation 3
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
 
-- **EVAL02-01** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **EVAL02-02** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **EVAL02-03** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **EVAL02-04** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **EVAL02-05** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+### Évaluation 4
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
 
-### EVAL03
+### Évaluation 5
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
 
-- **EVAL03-01** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **EVAL03-02** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **EVAL03-03** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **EVAL03-04** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **EVAL03-05** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+### Évaluation 6
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
 
-### EVAL04
+### Évaluation 7
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
 
-- **EVAL04-01** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **EVAL04-02** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **EVAL04-03** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **EVAL04-04** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **EVAL04-05** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+### Évaluation 8
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
 
-### EVAL05
+### Évaluation 9
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
 
-- **EVAL05-01** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **EVAL05-02** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **EVAL05-03** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **EVAL05-04** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **EVAL05-05** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-
-### EVAL06
-
-- **EVAL06-01** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **EVAL06-02** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **EVAL06-03** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **EVAL06-04** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **EVAL06-05** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-
-### EVAL07
-
-- **EVAL07-01** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **EVAL07-02** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **EVAL07-03** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **EVAL07-04** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **EVAL07-05** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-
-### EVAL08
-
-- **EVAL08-01** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **EVAL08-02** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **EVAL08-03** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **EVAL08-04** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **EVAL08-05** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-
-### EVAL09
-
-- **EVAL09-01** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **EVAL09-02** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **EVAL09-03** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **EVAL09-04** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **EVAL09-05** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-
-### EVAL10
-
-- **EVAL10-01** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **EVAL10-02** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **EVAL10-03** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **EVAL10-04** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **EVAL10-05** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+### Évaluation 10
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
 
-- **DEV01-01** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **DEV01-02** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **DEV01-03** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **DEV01-04** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **DEV01-05** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+### Devoir 2
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
 
-### DEV02
+### Devoir 3
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
 
-- **DEV02-01** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **DEV02-02** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **DEV02-03** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **DEV02-04** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **DEV02-05** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+### Devoir 4
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
 
-### DEV03
+### Devoir 5
+- Range dans l’ordre croissant : 672, 683, 665, 702, 652.
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
 
-- **DEV03-01** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **DEV03-02** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **DEV03-03** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **DEV03-04** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **DEV03-05** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+### Devoir 6
+- Range dans l’ordre croissant : 781, 792, 774, 811, 761.
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
 
-### DEV04
+### Devoir 7
+- Range dans l’ordre croissant : 804, 815, 797, 834, 784.
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
 
-- **DEV04-01** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
-- **DEV04-02** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **DEV04-03** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **DEV04-04** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **DEV04-05** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+### Devoir 8
+- Range dans l’ordre croissant : 915, 926, 908, 945, 895.
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
 
-### DEV05
+### Devoir 9
+- Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
 
-- **DEV05-01** Range dans l’ordre croissant : 672, 683, 665, 702, 652.
-- **DEV05-02** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **DEV05-03** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **DEV05-04** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **DEV05-05** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-
-### DEV06
-
-- **DEV06-01** Range dans l’ordre croissant : 781, 792, 774, 811, 761.
-- **DEV06-02** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **DEV06-03** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **DEV06-04** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **DEV06-05** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-
-### DEV07
-
-- **DEV07-01** Range dans l’ordre croissant : 804, 815, 797, 834, 784.
-- **DEV07-02** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **DEV07-03** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **DEV07-04** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **DEV07-05** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-
-### DEV08
-
-- **DEV08-01** Range dans l’ordre croissant : 915, 926, 908, 945, 895.
-- **DEV08-02** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **DEV08-03** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **DEV08-04** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **DEV08-05** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-
-### DEV09
-
-- **DEV09-01** Range dans l’ordre croissant : 990, 1001, 983, 1020, 970.
-- **DEV09-02** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **DEV09-03** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **DEV09-04** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **DEV09-05** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-
-### DEV10
-
-- **DEV10-01** Range dans l’ordre croissant : 124, 135, 117, 154, 104.
-- **DEV10-02** Range dans l’ordre croissant : 236, 247, 229, 266, 216.
-- **DEV10-03** Range dans l’ordre croissant : 347, 358, 340, 377, 327.
-- **DEV10-04** Range dans l’ordre croissant : 458, 469, 451, 488, 438.
-- **DEV10-05** Range dans l’ordre croissant : 569, 580, 562, 599, 549.
+### Devoir 10
+- Range dans l’ordre croissant : 124, 135, 117, 154, 104.
+- Range dans l’ordre croissant : 236, 247, 229, 266, 216.
+- Range dans l’ordre croissant : 347, 358, 340, 377, 327.
+- Range dans l’ordre croissant : 458, 469, 451, 488, 438.
+- Range dans l’ordre croissant : 569, 580, 562, 599, 549.
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 327 ; 340 ; 347 ; 358 ; 377.
 2. 438 ; 451 ; 458 ; 469 ; 488.
 3. 549 ; 562 ; 569 ; 580 ; 599.
 4. 652 ; 665 ; 672 ; 683 ; 702.
 5. 761 ; 774 ; 781 ; 792 ; 811.
 
-#### ENT02
-
+#### Entraînement 2
 1. 549 ; 562 ; 569 ; 580 ; 599.
 2. 652 ; 665 ; 672 ; 683 ; 702.
 3. 761 ; 774 ; 781 ; 792 ; 811.
 4. 784 ; 797 ; 804 ; 815 ; 834.
 5. 895 ; 908 ; 915 ; 926 ; 945.
 
-#### ENT03
-
+#### Entraînement 3
 1. 761 ; 774 ; 781 ; 792 ; 811.
 2. 784 ; 797 ; 804 ; 815 ; 834.
 3. 895 ; 908 ; 915 ; 926 ; 945.
 4. 970 ; 983 ; 990 ; 1001 ; 1020.
 5. 104 ; 117 ; 124 ; 135 ; 154.
 
-#### ENT04
-
+#### Entraînement 4
 1. 895 ; 908 ; 915 ; 926 ; 945.
 2. 970 ; 983 ; 990 ; 1001 ; 1020.
 3. 104 ; 117 ; 124 ; 135 ; 154.
 4. 216 ; 229 ; 236 ; 247 ; 266.
 5. 327 ; 340 ; 347 ; 358 ; 377.
 
-#### ENT05
-
+#### Entraînement 5
 1. 104 ; 117 ; 124 ; 135 ; 154.
 2. 216 ; 229 ; 236 ; 247 ; 266.
 3. 327 ; 340 ; 347 ; 358 ; 377.
 4. 438 ; 451 ; 458 ; 469 ; 488.
 5. 549 ; 562 ; 569 ; 580 ; 599.
 
-#### ENT06
-
+#### Entraînement 6
 1. 327 ; 340 ; 347 ; 358 ; 377.
 2. 438 ; 451 ; 458 ; 469 ; 488.
 3. 549 ; 562 ; 569 ; 580 ; 599.
 4. 652 ; 665 ; 672 ; 683 ; 702.
 5. 761 ; 774 ; 781 ; 792 ; 811.
 
-#### ENT07
-
+#### Entraînement 7
 1. 549 ; 562 ; 569 ; 580 ; 599.
 2. 652 ; 665 ; 672 ; 683 ; 702.
 3. 761 ; 774 ; 781 ; 792 ; 811.
 4. 784 ; 797 ; 804 ; 815 ; 834.
 5. 895 ; 908 ; 915 ; 926 ; 945.
 
-#### ENT08
-
+#### Entraînement 8
 1. 761 ; 774 ; 781 ; 792 ; 811.
 2. 784 ; 797 ; 804 ; 815 ; 834.
 3. 895 ; 908 ; 915 ; 926 ; 945.
 4. 970 ; 983 ; 990 ; 1001 ; 1020.
 5. 104 ; 117 ; 124 ; 135 ; 154.
 
-#### ENT09
-
+#### Entraînement 9
 1. 895 ; 908 ; 915 ; 926 ; 945.
 2. 970 ; 983 ; 990 ; 1001 ; 1020.
 3. 104 ; 117 ; 124 ; 135 ; 154.
 4. 216 ; 229 ; 236 ; 247 ; 266.
 5. 327 ; 340 ; 347 ; 358 ; 377.
 
-#### ENT10
-
+#### Entraînement 10
 1. 104 ; 117 ; 124 ; 135 ; 154.
 2. 216 ; 229 ; 236 ; 247 ; 266.
 3. 327 ; 340 ; 347 ; 358 ; 377.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 327 ; 340 ; 347 ; 358 ; 377.
 2. 438 ; 451 ; 458 ; 469 ; 488.
 3. 549 ; 562 ; 569 ; 580 ; 599.
 4. 652 ; 665 ; 672 ; 683 ; 702.
 5. 761 ; 774 ; 781 ; 792 ; 811.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 549 ; 562 ; 569 ; 580 ; 599.
 2. 652 ; 665 ; 672 ; 683 ; 702.
 3. 761 ; 774 ; 781 ; 792 ; 811.
 4. 784 ; 797 ; 804 ; 815 ; 834.
 5. 895 ; 908 ; 915 ; 926 ; 945.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 761 ; 774 ; 781 ; 792 ; 811.
 2. 784 ; 797 ; 804 ; 815 ; 834.
 3. 895 ; 908 ; 915 ; 926 ; 945.
 4. 970 ; 983 ; 990 ; 1001 ; 1020.
 5. 104 ; 117 ; 124 ; 135 ; 154.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 895 ; 908 ; 915 ; 926 ; 945.
 2. 970 ; 983 ; 990 ; 1001 ; 1020.
 3. 104 ; 117 ; 124 ; 135 ; 154.
 4. 216 ; 229 ; 236 ; 247 ; 266.
 5. 327 ; 340 ; 347 ; 358 ; 377.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 104 ; 117 ; 124 ; 135 ; 154.
 2. 216 ; 229 ; 236 ; 247 ; 266.
 3. 327 ; 340 ; 347 ; 358 ; 377.
 4. 438 ; 451 ; 458 ; 469 ; 488.
 5. 549 ; 562 ; 569 ; 580 ; 599.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 327 ; 340 ; 347 ; 358 ; 377.
 2. 438 ; 451 ; 458 ; 469 ; 488.
 3. 549 ; 562 ; 569 ; 580 ; 599.
 4. 652 ; 665 ; 672 ; 683 ; 702.
 5. 761 ; 774 ; 781 ; 792 ; 811.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 549 ; 562 ; 569 ; 580 ; 599.
 2. 652 ; 665 ; 672 ; 683 ; 702.
 3. 761 ; 774 ; 781 ; 792 ; 811.
 4. 784 ; 797 ; 804 ; 815 ; 834.
 5. 895 ; 908 ; 915 ; 926 ; 945.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 761 ; 774 ; 781 ; 792 ; 811.
 2. 784 ; 797 ; 804 ; 815 ; 834.
 3. 895 ; 908 ; 915 ; 926 ; 945.
 4. 970 ; 983 ; 990 ; 1001 ; 1020.
 5. 104 ; 117 ; 124 ; 135 ; 154.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 895 ; 908 ; 915 ; 926 ; 945.
 2. 970 ; 983 ; 990 ; 1001 ; 1020.
 3. 104 ; 117 ; 124 ; 135 ; 154.
 4. 216 ; 229 ; 236 ; 247 ; 266.
 5. 327 ; 340 ; 347 ; 358 ; 377.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 104 ; 117 ; 124 ; 135 ; 154.
 2. 216 ; 229 ; 236 ; 247 ; 266.
 3. 327 ; 340 ; 347 ; 358 ; 377.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 216 ; 229 ; 236 ; 247 ; 266.
 2. 327 ; 340 ; 347 ; 358 ; 377.
 3. 438 ; 451 ; 458 ; 469 ; 488.
 4. 549 ; 562 ; 569 ; 580 ; 599.
 5. 652 ; 665 ; 672 ; 683 ; 702.
 
-#### DEV02
-
+#### Devoir 2
 1. 327 ; 340 ; 347 ; 358 ; 377.
 2. 438 ; 451 ; 458 ; 469 ; 488.
 3. 549 ; 562 ; 569 ; 580 ; 599.
 4. 652 ; 665 ; 672 ; 683 ; 702.
 5. 761 ; 774 ; 781 ; 792 ; 811.
 
-#### DEV03
-
+#### Devoir 3
 1. 438 ; 451 ; 458 ; 469 ; 488.
 2. 549 ; 562 ; 569 ; 580 ; 599.
 3. 652 ; 665 ; 672 ; 683 ; 702.
 4. 761 ; 774 ; 781 ; 792 ; 811.
 5. 784 ; 797 ; 804 ; 815 ; 834.
 
-#### DEV04
-
+#### Devoir 4
 1. 549 ; 562 ; 569 ; 580 ; 599.
 2. 652 ; 665 ; 672 ; 683 ; 702.
 3. 761 ; 774 ; 781 ; 792 ; 811.
 4. 784 ; 797 ; 804 ; 815 ; 834.
 5. 895 ; 908 ; 915 ; 926 ; 945.
 
-#### DEV05
-
+#### Devoir 5
 1. 652 ; 665 ; 672 ; 683 ; 702.
 2. 761 ; 774 ; 781 ; 792 ; 811.
 3. 784 ; 797 ; 804 ; 815 ; 834.
 4. 895 ; 908 ; 915 ; 926 ; 945.
 5. 970 ; 983 ; 990 ; 1001 ; 1020.
 
-#### DEV06
-
+#### Devoir 6
 1. 761 ; 774 ; 781 ; 792 ; 811.
 2. 784 ; 797 ; 804 ; 815 ; 834.
 3. 895 ; 908 ; 915 ; 926 ; 945.
 4. 970 ; 983 ; 990 ; 1001 ; 1020.
 5. 104 ; 117 ; 124 ; 135 ; 154.
 
-#### DEV07
-
+#### Devoir 7
 1. 784 ; 797 ; 804 ; 815 ; 834.
 2. 895 ; 908 ; 915 ; 926 ; 945.
 3. 970 ; 983 ; 990 ; 1001 ; 1020.
 4. 104 ; 117 ; 124 ; 135 ; 154.
 5. 216 ; 229 ; 236 ; 247 ; 266.
 
-#### DEV08
-
+#### Devoir 8
 1. 895 ; 908 ; 915 ; 926 ; 945.
 2. 970 ; 983 ; 990 ; 1001 ; 1020.
 3. 104 ; 117 ; 124 ; 135 ; 154.
 4. 216 ; 229 ; 236 ; 247 ; 266.
 5. 327 ; 340 ; 347 ; 358 ; 377.
 
-#### DEV09
-
+#### Devoir 9
 1. 970 ; 983 ; 990 ; 1001 ; 1020.
 2. 104 ; 117 ; 124 ; 135 ; 154.
 3. 216 ; 229 ; 236 ; 247 ; 266.
 4. 327 ; 340 ; 347 ; 358 ; 377.
 5. 438 ; 451 ; 458 ; 469 ; 488.
 
-#### DEV10
-
+#### Devoir 10
 1. 104 ; 117 ; 124 ; 135 ; 154.
 2. 216 ; 229 ; 236 ; 247 ; 266.
 3. 327 ; 340 ; 347 ; 358 ; 377.

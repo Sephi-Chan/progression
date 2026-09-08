@@ -74,24 +74,21 @@ Le texte plus long empêche une réponse obtenue par simple lecture de la phrase
 
 > Sur la table du goûter, la maîtresse pose un grand panier. Le panier contient six pommes rouges et quatre poires. À côté, une boîte en métal garde les biscuits au sec. Les serviettes jaunes sont rangées sous les gobelets. Une bouteille d’eau est placée près du panier. Le jus d’orange restera dans le réfrigérateur jusqu’à la récréation.
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Question :** Combien de pommes le panier contient-il ?
 - **Attention :** L’enseignant entoure « combien », « pommes » et « panier » dans la question.
 - **Verbalisation :** « Je cherche le nombre de pommes dans le panier. Je retrouve la phrase avec “panier” et “pommes”. Je lis toute la phrase : il y a aussi quatre poires, mais la question demande les pommes. Je souligne “six pommes rouges”. »
 - **Réponse :** six.
 - **Contrôle final :** « Ma réponse donne bien le nombre de pommes, pas celui des poires. »
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Question :** De quelle couleur sont les serviettes ?
 - **Attention :** L’enseignant demande : « Quels sont les mots-clés ? Quelle phrase faut-il relire ? »
 - **Verbalisation :** « Nous cherchons “serviettes”. Dans la phrase, quels mots donnent leur couleur ? La couleur rouge concerne les pommes ; la preuve pour les serviettes est “serviettes jaunes”. »
 - **Réponse :** jaunes.
 - **Contrôle final :** La classe relit « Les serviettes jaunes » et vérifie que l’adjectif répond exactement à la question.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Question :** Quel jus restera dans le réfrigérateur ?
 - **Attention :** Les élèves annoncent leurs mots-clés, cherchent seuls et soulignent la preuve.
 - **Verbalisation :** « Je cherche le passage qui contient “jus” et “réfrigérateur”. Je lis la phrase entière avant de répondre. »
@@ -104,13 +101,13 @@ Le texte plus long empêche une réponse obtenue par simple lecture de la phrase
 
 > La classe prépare un atelier de jardinage. Dans une caisse, le maître a rangé huit petits pots et un sac de terre. Les graines de radis sont dans une enveloppe blanche. Les graines de haricot sont dans un sachet vert. Une arrosoire vide attend près de la porte. Sur la table, les élèves trouvent aussi des étiquettes jaunes et deux cuillères en bois. Le tablier bleu servira à protéger les vêtements.
 
-1. **IMM01** Combien de petits pots sont rangés dans la caisse ?
-2. **IMM02** Où se trouvent les graines de radis ?
-3. **IMM03** De quelle couleur est le sachet des graines de haricot ?
-4. **IMM04** Qu’est-ce qui est vide près de la porte ?
-5. **IMM05** De quelle couleur sont les étiquettes ?
-6. **IMM06** Combien de cuillères en bois sont sur la table ?
-7. **IMM07** De quelle couleur est le tablier ?
+1. Combien de petits pots sont rangés dans la caisse ?
+2. Où se trouvent les graines de radis ?
+3. De quelle couleur est le sachet des graines de haricot ?
+4. Qu’est-ce qui est vide près de la porte ?
+5. De quelle couleur sont les étiquettes ?
+6. Combien de cuillères en bois sont sur la table ?
+7. De quelle couleur est le tablier ?
 
 ## Variables didactiques
 
@@ -145,323 +142,293 @@ Le texte plus long empêche une réponse obtenue par simple lecture de la phrase
 
 *Tous les supports sont des textes créés pour l’exercice. La consigne reste : « Lis la question. Cherche la réponse dans le texte. Souligne les mots qui la prouvent, puis écris une réponse courte. »*
 
-### ENT01
-
+### Entraînement 1
 > Pour le pique-nique, la classe prépare deux paniers. Le premier panier contient dix petits pains et une nappe verte. Dans le second panier, il y a six pommes, quatre bananes et des serviettes blanches. La maîtresse place trois bouteilles d’eau dans un sac bleu. Les gobelets sont rangés dans une boîte en carton. Le ballon rouge voyagera à part, dans le coffre du car.
 
-1. **ENT01-01** Combien de petits pains contient le premier panier ?
-2. **ENT01-02** De quelle couleur est la nappe ?
-3. **ENT01-03** Combien de pommes se trouvent dans le second panier ?
-4. **ENT01-04** De quelle couleur sont les serviettes ?
-5. **ENT01-05** Combien de bouteilles d’eau sont placées dans le sac ?
-6. **ENT01-06** Dans quoi les gobelets sont-ils rangés ?
+1. Combien de petits pains contient le premier panier ?
+2. De quelle couleur est la nappe ?
+3. Combien de pommes se trouvent dans le second panier ?
+4. De quelle couleur sont les serviettes ?
+5. Combien de bouteilles d’eau sont placées dans le sac ?
+6. Dans quoi les gobelets sont-ils rangés ?
 
-### ENT02
-
+### Entraînement 2
 > La bibliothèque prépare une table sur les animaux. Cinq albums sur les loups sont posés à gauche. Les trois livres sur les oiseaux sont au milieu, devant une affiche orange. À droite, un bac jaune contient des documentaires sur la mer. La bibliothécaire glisse des marque-pages violets dans une petite boîte. Un coussin rond attend devant la table pour le temps de lecture.
 
-1. **ENT02-01** Combien d’albums sur les loups sont posés à gauche ?
-2. **ENT02-02** Combien de livres sur les oiseaux sont au milieu ?
-3. **ENT02-03** De quelle couleur est l’affiche ?
-4. **ENT02-04** Que contient le bac jaune ?
-5. **ENT02-05** De quelle couleur sont les marque-pages ?
-6. **ENT02-06** Quelle forme a le coussin ?
+1. Combien d’albums sur les loups sont posés à gauche ?
+2. Combien de livres sur les oiseaux sont au milieu ?
+3. De quelle couleur est l’affiche ?
+4. Que contient le bac jaune ?
+5. De quelle couleur sont les marque-pages ?
+6. Quelle forme a le coussin ?
 
-### ENT03
-
+### Entraînement 3
 > Pour l’atelier de peinture, chaque table reçoit du matériel. La table ronde porte quatre pinceaux fins et deux éponges. Sur la table carrée, les élèves trouvent six pinceaux larges et un pot d’eau. La peinture bleue est dans le grand flacon. La peinture rouge reste dans deux petits pots. Les tabliers sont accrochés près du lavabo. Un rouleau de papier blanc attend sur une chaise.
 
-1. **ENT03-01** Combien de pinceaux fins sont sur la table ronde ?
-2. **ENT03-02** Combien d’éponges sont sur la table ronde ?
-3. **ENT03-03** Combien de pinceaux larges sont sur la table carrée ?
-4. **ENT03-04** Dans quoi se trouve la peinture bleue ?
-5. **ENT03-05** Combien de petits pots contiennent la peinture rouge ?
-6. **ENT03-06** De quelle couleur est le papier en rouleau ?
+1. Combien de pinceaux fins sont sur la table ronde ?
+2. Combien d’éponges sont sur la table ronde ?
+3. Combien de pinceaux larges sont sur la table carrée ?
+4. Dans quoi se trouve la peinture bleue ?
+5. Combien de petits pots contiennent la peinture rouge ?
+6. De quelle couleur est le papier en rouleau ?
 
-### ENT04
-
+### Entraînement 4
 > Pour préparer la salade de fruits, lave deux pommes, trois poires et une grappe de raisin. Pose les fruits propres sur le plateau vert. Coupe les pommes avec le couteau à bout rond. Verse ensuite les morceaux dans le grand saladier blanc. Ajoute deux cuillères de jus de citron. La petite cuillère servira seulement à mélanger. Range les épluchures dans le bol gris.
 
-1. **ENT04-01** Combien de pommes faut-il laver ?
-2. **ENT04-02** Combien de poires faut-il laver ?
-3. **ENT04-03** De quelle couleur est le plateau pour les fruits propres ?
-4. **ENT04-04** Quel couteau faut-il utiliser pour couper les pommes ?
-5. **ENT04-05** Combien de cuillères de jus de citron faut-il ajouter ?
-6. **ENT04-06** Dans quel récipient faut-il ranger les épluchures ?
+1. Combien de pommes faut-il laver ?
+2. Combien de poires faut-il laver ?
+3. De quelle couleur est le plateau pour les fruits propres ?
+4. Quel couteau faut-il utiliser pour couper les pommes ?
+5. Combien de cuillères de jus de citron faut-il ajouter ?
+6. Dans quel récipient faut-il ranger les épluchures ?
 
-### ENT05
-
+### Entraînement 5
 > L’aquarium de la ville ouvre à neuf heures. Dans le premier bassin nagent douze poissons argentés. Le second bassin abrite cinq poissons-clowns et deux étoiles de mer. À midi, le soigneur distribue de petites crevettes aux poissons. L’eau du grand bassin reste à vingt-quatre degrés. Une lampe violette éclaire les coraux. Le public peut observer le nourrissage derrière une vitre épaisse.
 
-1. **ENT05-01** À quelle heure l’aquarium ouvre-t-il ?
-2. **ENT05-02** Combien de poissons argentés nagent dans le premier bassin ?
-3. **ENT05-03** Que distribue le soigneur aux poissons ?
-4. **ENT05-04** Combien d’étoiles de mer vivent dans le second bassin ?
-5. **ENT05-05** À quelle température reste l’eau du grand bassin ?
-6. **ENT05-06** De quelle couleur est la lampe qui éclaire les coraux ?
+1. À quelle heure l’aquarium ouvre-t-il ?
+2. Combien de poissons argentés nagent dans le premier bassin ?
+3. Que distribue le soigneur aux poissons ?
+4. Combien d’étoiles de mer vivent dans le second bassin ?
+5. À quelle température reste l’eau du grand bassin ?
+6. De quelle couleur est la lampe qui éclaire les coraux ?
 
-### ENT06
-
+### Entraînement 6
 > Avant la sortie, la maîtresse vérifie le matériel. Le sac de secours contient des pansements et deux poches de glace. Une pochette rouge garde les fiches des élèves. Les douze crayons sont dans une trousse noire. Le plan du parc est plié sous le carnet d’appel. Une bouteille d’eau supplémentaire reste près de la porte. Les élèves emporteront leur casquette, mais laisseront leur cartable en classe.
 
-1. **ENT06-01** Combien de poches de glace contient le sac de secours ?
-2. **ENT06-02** De quelle couleur est la pochette des fiches ?
-3. **ENT06-03** Combien de crayons sont dans la trousse ?
-4. **ENT06-04** De quelle couleur est la trousse ?
-5. **ENT06-05** Sous quel objet le plan du parc est-il plié ?
-6. **ENT06-06** Que laisseront les élèves en classe ?
+1. Combien de poches de glace contient le sac de secours ?
+2. De quelle couleur est la pochette des fiches ?
+3. Combien de crayons sont dans la trousse ?
+4. De quelle couleur est la trousse ?
+5. Sous quel objet le plan du parc est-il plié ?
+6. Que laisseront les élèves en classe ?
 
-### ENT07
-
+### Entraînement 7
 > Le refuge prépare les repas des animaux. Le sac brun contient les croquettes des chiens. Les chats reçoivent leur pâtée dans six bols en métal. Pour les lapins, le soigneur apporte du foin et quatre carottes. Les couvertures propres sont empilées sur une étagère basse. Une boîte bleue garde les brosses. Les médicaments restent dans l’armoire fermée, hors de portée des visiteurs.
 
-1. **ENT07-01** De quelle couleur est le sac des croquettes ?
-2. **ENT07-02** Combien de bols en métal servent aux chats ?
-3. **ENT07-03** Combien de carottes le soigneur apporte-t-il aux lapins ?
-4. **ENT07-04** Où les couvertures propres sont-elles empilées ?
-5. **ENT07-05** Que garde la boîte bleue ?
-6. **ENT07-06** Où les médicaments restent-ils rangés ?
+1. De quelle couleur est le sac des croquettes ?
+2. Combien de bols en métal servent aux chats ?
+3. Combien de carottes le soigneur apporte-t-il aux lapins ?
+4. Où les couvertures propres sont-elles empilées ?
+5. Que garde la boîte bleue ?
+6. Où les médicaments restent-ils rangés ?
 
-### ENT08
-
+### Entraînement 8
 > Dans la serre, deux tables servent aux semis. Sur la table près de la porte, neuf pots noirs contiennent des graines de tomate. Sur l’autre table, sept pots bruns sont réservés aux salades. Le grand arrosoir vert est plein, mais le petit arrosoir jaune est vide. Les étiquettes des tomates sont rangées dans une enveloppe blanche. Trois outils propres sont alignés près de l’évier. Un sac de terre fermé repose entre les deux tables.
 
-1. **ENT08-01** Combien de pots noirs contiennent des graines de tomate ?
-2. **ENT08-02** Combien de pots bruns sont réservés aux salades ?
-3. **ENT08-03** De quelle couleur est le grand arrosoir ?
-4. **ENT08-04** Quel arrosoir est vide ?
-5. **ENT08-05** Dans quoi sont rangées les étiquettes des tomates ?
-6. **ENT08-06** Où repose le sac de terre fermé ?
+1. Combien de pots noirs contiennent des graines de tomate ?
+2. Combien de pots bruns sont réservés aux salades ?
+3. De quelle couleur est le grand arrosoir ?
+4. Quel arrosoir est vide ?
+5. Dans quoi sont rangées les étiquettes des tomates ?
+6. Où repose le sac de terre fermé ?
 
-### ENT09
-
+### Entraînement 9
 > Pour l’atelier du musée, le guide dispose plusieurs objets sur une longue table. Une plume blanche est posée près de trois pièces anciennes. Plus loin, une boîte ronde contient quatre boutons dorés. Le guide place une loupe devant la boîte, puis un carnet bleu derrière les pièces. Un vase vide occupe le bout de la table. Les élèves utiliseront seulement les crayons gris. Les crayons rouges resteront dans la grande trousse avec les gommes.
 
-1. **ENT09-01** De quelle couleur est la plume ?
-2. **ENT09-02** Combien de pièces anciennes sont près de la plume ?
-3. **ENT09-03** Quelle forme a la boîte qui contient les boutons ?
-4. **ENT09-04** Combien de boutons dorés sont dans la boîte ?
-5. **ENT09-05** Quel objet est placé devant la boîte ?
-6. **ENT09-06** De quelle couleur sont les crayons que les élèves utiliseront ?
+1. De quelle couleur est la plume ?
+2. Combien de pièces anciennes sont près de la plume ?
+3. Quelle forme a la boîte qui contient les boutons ?
+4. Combien de boutons dorés sont dans la boîte ?
+5. Quel objet est placé devant la boîte ?
+6. De quelle couleur sont les crayons que les élèves utiliseront ?
 
-### ENT10
-
+### Entraînement 10
 > La station météo de l’école rassemble ses instruments près de la fenêtre. Le thermomètre extérieur est fixé sur une planche blanche. Un pluviomètre transparent attend sur le rebord, à côté d’un pot bleu. Dans une boîte carrée, la classe conserve huit fiches de relevé et trois crayons verts. Deux règles jaunes restent dans un tiroir. Le calendrier rouge est accroché derrière la porte. Chaque vendredi, les mesures sont copiées dans le grand cahier noir.
 
-1. **ENT10-01** Où le thermomètre extérieur est-il fixé ?
-2. **ENT10-02** Quel instrument transparent attend sur le rebord ?
-3. **ENT10-03** Quelle forme a la boîte des fiches ?
-4. **ENT10-04** Combien de fiches de relevé la classe conserve-t-elle ?
-5. **ENT10-05** Combien de crayons verts sont dans la boîte ?
-6. **ENT10-06** Dans quel cahier les mesures sont-elles copiées ?
+1. Où le thermomètre extérieur est-il fixé ?
+2. Quel instrument transparent attend sur le rebord ?
+3. Quelle forme a la boîte des fiches ?
+4. Combien de fiches de relevé la classe conserve-t-elle ?
+5. Combien de crayons verts sont dans la boîte ?
+6. Dans quel cahier les mesures sont-elles copiées ?
 
 ## Évaluations
 
 *Chaque forme utilise un texte créé pour l’exercice. Les dix formes ont la même consigne, une longueur voisine et un équilibre comparable entre quantité, caractéristique et emplacement. Trois items sont des transpositions très légères d’entraînements ; deux sont nouveaux mais isomorphes.*
 
-### EVAL01
-
+### Évaluation 1
 > Le petit aquarium ouvre à dix heures. Dans le premier bassin nagent onze poissons dorés. Le second bassin abrite quatre poissons-clowns et trois étoiles de mer. À midi, le soigneur distribue des morceaux de poisson. L’eau du grand bassin reste à vingt-trois degrés. Une lampe bleue éclaire les coraux. Le public regarde le repas derrière la vitre.
 
-1. **EVAL01-01** À quelle heure le petit aquarium ouvre-t-il ?
-2. **EVAL01-02** Que distribue le soigneur ?
-3. **EVAL01-03** À quelle température reste l’eau du grand bassin ?
-4. **EVAL01-04** Combien de poissons-clowns vivent dans le second bassin ?
-5. **EVAL01-05** De quelle couleur est la lampe ?
+1. À quelle heure le petit aquarium ouvre-t-il ?
+2. Que distribue le soigneur ?
+3. À quelle température reste l’eau du grand bassin ?
+4. Combien de poissons-clowns vivent dans le second bassin ?
+5. De quelle couleur est la lampe ?
 
-### EVAL02
-
+### Évaluation 2
 > Avant la visite du parc, le maître contrôle le matériel. Le sac de secours contient des compresses et trois poches de glace. Une pochette verte garde les fiches. Les dix crayons sont dans une trousse bleue. Le plan est plié sous le carnet de notes. Un bidon d’eau reste près de la porte. Les élèves emporteront leur chapeau et laisseront leur cartable en classe.
 
-1. **EVAL02-01** Combien de poches de glace contient le sac de secours ?
-2. **EVAL02-02** De quelle couleur est la pochette des fiches ?
-3. **EVAL02-03** Sous quel objet le plan est-il plié ?
-4. **EVAL02-04** Combien de crayons sont dans la trousse ?
-5. **EVAL02-05** Que laisseront les élèves en classe ?
+1. Combien de poches de glace contient le sac de secours ?
+2. De quelle couleur est la pochette des fiches ?
+3. Sous quel objet le plan est-il plié ?
+4. Combien de crayons sont dans la trousse ?
+5. Que laisseront les élèves en classe ?
 
-### EVAL03
-
+### Évaluation 3
 > Le refuge prépare le matériel des animaux. Le sac vert contient les croquettes des chiens. Les chats reçoivent leur pâtée dans cinq bols en métal. Pour les lapins, le soigneur apporte du foin et six carottes. Les serviettes propres sont empilées sur une étagère haute. Une boîte jaune garde les brosses. Les médicaments restent dans le placard fermé.
 
-1. **EVAL03-01** De quelle couleur est le sac des croquettes ?
-2. **EVAL03-02** Combien de bols en métal servent aux chats ?
-3. **EVAL03-03** Que garde la boîte jaune ?
-4. **EVAL03-04** Combien de carottes sont prévues pour les lapins ?
-5. **EVAL03-05** Où les médicaments restent-ils rangés ?
+1. De quelle couleur est le sac des croquettes ?
+2. Combien de bols en métal servent aux chats ?
+3. Que garde la boîte jaune ?
+4. Combien de carottes sont prévues pour les lapins ?
+5. Où les médicaments restent-ils rangés ?
 
-### EVAL04
-
+### Évaluation 4
 > Dans la serre, deux étagères portent les semis. Sur l’étagère près du mur, huit pots gris contiennent des graines de tomate. Sur l’autre, six pots noirs sont réservés aux salades. Le grand arrosoir bleu est plein, mais le petit arrosoir rouge est vide. Les étiquettes des tomates sont dans une pochette jaune. Un sac de terre repose entre les étagères.
 
-1. **EVAL04-01** Combien de pots gris contiennent des graines de tomate ?
-2. **EVAL04-02** De quelle couleur est le grand arrosoir ?
-3. **EVAL04-03** Quel arrosoir est vide ?
-4. **EVAL04-04** Combien de pots noirs sont réservés aux salades ?
-5. **EVAL04-05** Dans quoi sont rangées les étiquettes des tomates ?
+1. Combien de pots gris contiennent des graines de tomate ?
+2. De quelle couleur est le grand arrosoir ?
+3. Quel arrosoir est vide ?
+4. Combien de pots noirs sont réservés aux salades ?
+5. Dans quoi sont rangées les étiquettes des tomates ?
 
-### EVAL05
-
+### Évaluation 5
 > Pour l’atelier du château, la guide pose des objets sur une table. Une plume grise est près de quatre pièces anciennes. Une boîte ovale contient cinq boutons argentés. La guide place une loupe derrière la boîte et un carnet rouge devant les pièces. Les élèves utiliseront les crayons bleus. Les crayons noirs resteront dans la petite trousse.
 
-1. **EVAL05-01** De quelle couleur est la plume ?
-2. **EVAL05-02** Combien de pièces anciennes sont près de la plume ?
-3. **EVAL05-03** Quelle forme a la boîte des boutons ?
-4. **EVAL05-04** Quel objet est placé derrière la boîte ?
-5. **EVAL05-05** De quelle couleur sont les crayons que les élèves utiliseront ?
+1. De quelle couleur est la plume ?
+2. Combien de pièces anciennes sont près de la plume ?
+3. Quelle forme a la boîte des boutons ?
+4. Quel objet est placé derrière la boîte ?
+5. De quelle couleur sont les crayons que les élèves utiliseront ?
 
-### EVAL06
-
+### Évaluation 6
 > La station météo du centre range ses instruments près de la porte. Le thermomètre intérieur est fixé sur une planche grise. Un pluviomètre bleu attend sur une étagère, à côté d’un pot transparent. Dans une boîte ronde, le groupe conserve sept fiches et quatre crayons noirs. Le calendrier vert est au mur. Le lundi, les mesures sont copiées dans un cahier rouge.
 
-1. **EVAL06-01** Où le thermomètre intérieur est-il fixé ?
-2. **EVAL06-02** Quel instrument bleu attend sur l’étagère ?
-3. **EVAL06-03** Combien de fiches le groupe conserve-t-il ?
-4. **EVAL06-04** Quelle forme a la boîte ?
-5. **EVAL06-05** Dans quel cahier les mesures sont-elles copiées ?
+1. Où le thermomètre intérieur est-il fixé ?
+2. Quel instrument bleu attend sur l’étagère ?
+3. Combien de fiches le groupe conserve-t-il ?
+4. Quelle forme a la boîte ?
+5. Dans quel cahier les mesures sont-elles copiées ?
 
-### EVAL07
-
+### Évaluation 7
 > Le centre marin accueille les visiteurs à onze heures. Dans le bassin rond nagent neuf poissons argentés. Le bassin carré abrite six poissons jaunes et quatre étoiles de mer. À treize heures, la soigneuse distribue des petites crevettes. L’eau reste à vingt-deux degrés. Une lampe verte éclaire les rochers. Le repas est visible depuis la passerelle.
 
-1. **EVAL07-01** À quelle heure le centre marin accueille-t-il les visiteurs ?
-2. **EVAL07-02** Combien de poissons argentés nagent dans le bassin rond ?
-3. **EVAL07-03** Que distribue la soigneuse ?
-4. **EVAL07-04** Combien d’étoiles de mer sont dans le bassin carré ?
-5. **EVAL07-05** De quelle couleur est la lampe ?
+1. À quelle heure le centre marin accueille-t-il les visiteurs ?
+2. Combien de poissons argentés nagent dans le bassin rond ?
+3. Que distribue la soigneuse ?
+4. Combien d’étoiles de mer sont dans le bassin carré ?
+5. De quelle couleur est la lampe ?
 
-### EVAL08
-
+### Évaluation 8
 > Avant la promenade, la maîtresse rassemble le matériel. La trousse de secours contient des bandages et quatre poches de froid. Une pochette jaune garde les listes. Les neuf crayons sont dans un étui vert. Le plan du bois est glissé sous le registre. Une gourde supplémentaire attend près de la fenêtre. Les élèves prendront leur casquette et laisseront leur sac de sport en classe.
 
-1. **EVAL08-01** Combien de poches de froid contient la trousse de secours ?
-2. **EVAL08-02** De quelle couleur est la pochette des listes ?
-3. **EVAL08-03** Combien de crayons sont dans l’étui ?
-4. **EVAL08-04** Sous quel objet le plan du bois est-il glissé ?
-5. **EVAL08-05** Que laisseront les élèves en classe ?
+1. Combien de poches de froid contient la trousse de secours ?
+2. De quelle couleur est la pochette des listes ?
+3. Combien de crayons sont dans l’étui ?
+4. Sous quel objet le plan du bois est-il glissé ?
+5. Que laisseront les élèves en classe ?
 
-### EVAL09
-
+### Évaluation 9
 > Le refuge organise les soins du matin. Le sac bleu contient les croquettes des chiens. Les chats reçoivent leur repas dans sept bols en métal. Pour les lapins, la soigneuse prépare du foin et cinq carottes. Les couvertures sont empilées sur une étagère moyenne. Une boîte rouge garde les peignes. Les médicaments restent dans une armoire verrouillée.
 
-1. **EVAL09-01** De quelle couleur est le sac des croquettes ?
-2. **EVAL09-02** Combien de bols en métal servent aux chats ?
-3. **EVAL09-03** Combien de carottes sont préparées pour les lapins ?
-4. **EVAL09-04** Que garde la boîte rouge ?
-5. **EVAL09-05** Où les médicaments restent-ils rangés ?
+1. De quelle couleur est le sac des croquettes ?
+2. Combien de bols en métal servent aux chats ?
+3. Combien de carottes sont préparées pour les lapins ?
+4. Que garde la boîte rouge ?
+5. Où les médicaments restent-ils rangés ?
 
-### EVAL10
-
+### Évaluation 10
 > Dans la serre, deux bancs portent les plantations. Sur le banc près de la vitre, dix pots blancs contiennent des graines de tomate. Sur l’autre, cinq pots bruns sont réservés aux salades. Le grand arrosoir orange est vide, mais le petit arrosoir vert est plein. Les étiquettes des tomates sont dans une enveloppe bleue. Un sac de terre repose entre les bancs.
 
-1. **EVAL10-01** Combien de pots blancs contiennent des graines de tomate ?
-2. **EVAL10-02** Combien de pots bruns sont réservés aux salades ?
-3. **EVAL10-03** Quel arrosoir est vide ?
-4. **EVAL10-04** De quelle couleur est le petit arrosoir ?
-5. **EVAL10-05** Dans quoi sont rangées les étiquettes des tomates ?
+1. Combien de pots blancs contiennent des graines de tomate ?
+2. Combien de pots bruns sont réservés aux salades ?
+3. Quel arrosoir est vide ?
+4. De quelle couleur est le petit arrosoir ?
+5. Dans quoi sont rangées les étiquettes des tomates ?
 
 ## Devoirs
 
 *Les textes sont créés pour l’exercice et reprennent seulement les formes accessibles de ENT01 à ENT04. La consigne est inchangée.*
 
-### DEV01
-
+### Devoir 1
 > Pour le goûter, la classe prépare deux sacs. Le premier contient huit petits pains et une nappe bleue. Dans le second, il y a cinq pommes et des serviettes jaunes. Le maître place deux bouteilles d’eau dans un panier vert. Les gobelets sont dans une boîte en carton.
 
-1. **DEV01-01** Combien de petits pains contient le premier sac ?
-2. **DEV01-02** De quelle couleur est la nappe ?
-3. **DEV01-03** Combien de pommes sont dans le second sac ?
-4. **DEV01-04** Combien de bouteilles d’eau sont dans le panier ?
-5. **DEV01-05** Dans quoi les gobelets sont-ils rangés ?
+1. Combien de petits pains contient le premier sac ?
+2. De quelle couleur est la nappe ?
+3. Combien de pommes sont dans le second sac ?
+4. Combien de bouteilles d’eau sont dans le panier ?
+5. Dans quoi les gobelets sont-ils rangés ?
 
-### DEV02
-
+### Devoir 2
 > La bibliothèque prépare une table sur les plantes. Quatre albums sur les arbres sont posés à gauche. Les deux livres sur les fleurs sont au milieu, devant une affiche verte. À droite, un bac bleu contient des documentaires sur les jardins. Des marque-pages rouges attendent dans une boîte. Un coussin carré est placé devant la table.
 
-1. **DEV02-01** Combien d’albums sur les arbres sont posés à gauche ?
-2. **DEV02-02** Combien de livres sur les fleurs sont au milieu ?
-3. **DEV02-03** De quelle couleur est l’affiche ?
-4. **DEV02-04** Que contient le bac bleu ?
-5. **DEV02-05** Quelle forme a le coussin ?
+1. Combien d’albums sur les arbres sont posés à gauche ?
+2. Combien de livres sur les fleurs sont au milieu ?
+3. De quelle couleur est l’affiche ?
+4. Que contient le bac bleu ?
+5. Quelle forme a le coussin ?
 
-### DEV03
-
+### Devoir 3
 > Pour l’atelier de dessin, la table ronde porte trois crayons fins et deux gommes. Sur la table carrée, les élèves trouvent cinq crayons larges et un taille-crayon. L’encre bleue est dans le grand flacon. Les feuilles blanches attendent sur une chaise. Les tabliers sont accrochés près de la porte.
 
-1. **DEV03-01** Combien de crayons fins sont sur la table ronde ?
-2. **DEV03-02** Combien de gommes sont sur la table ronde ?
-3. **DEV03-03** Combien de crayons larges sont sur la table carrée ?
-4. **DEV03-04** Dans quoi se trouve l’encre bleue ?
-5. **DEV03-05** De quelle couleur sont les feuilles ?
+1. Combien de crayons fins sont sur la table ronde ?
+2. Combien de gommes sont sur la table ronde ?
+3. Combien de crayons larges sont sur la table carrée ?
+4. Dans quoi se trouve l’encre bleue ?
+5. De quelle couleur sont les feuilles ?
 
-### DEV04
-
+### Devoir 4
 > Pour préparer la soupe, lave trois carottes, deux poireaux et quatre pommes de terre. Pose les légumes propres dans le plateau bleu. Coupe les carottes avec le couteau à bout rond. Verse les morceaux dans la grande casserole grise. Range les épluchures dans le bol vert.
 
-1. **DEV04-01** Combien de carottes faut-il laver ?
-2. **DEV04-02** Combien de poireaux faut-il laver ?
-3. **DEV04-03** De quelle couleur est le plateau ?
-4. **DEV04-04** Quel couteau faut-il utiliser ?
-5. **DEV04-05** Dans quel récipient faut-il ranger les épluchures ?
+1. Combien de carottes faut-il laver ?
+2. Combien de poireaux faut-il laver ?
+3. De quelle couleur est le plateau ?
+4. Quel couteau faut-il utiliser ?
+5. Dans quel récipient faut-il ranger les épluchures ?
 
-### DEV05
-
+### Devoir 5
 > Pour la sortie, la classe prépare deux paniers. Le premier contient neuf petits pains et une nappe rouge. Dans le second, il y a quatre poires et des serviettes vertes. La maîtresse place trois bouteilles d’eau dans un sac jaune. Les gobelets sont rangés dans une caisse.
 
-1. **DEV05-01** Combien de petits pains contient le premier panier ?
-2. **DEV05-02** De quelle couleur est la nappe ?
-3. **DEV05-03** Combien de poires sont dans le second panier ?
-4. **DEV05-04** Combien de bouteilles d’eau sont dans le sac ?
-5. **DEV05-05** Dans quoi les gobelets sont-ils rangés ?
+1. Combien de petits pains contient le premier panier ?
+2. De quelle couleur est la nappe ?
+3. Combien de poires sont dans le second panier ?
+4. Combien de bouteilles d’eau sont dans le sac ?
+5. Dans quoi les gobelets sont-ils rangés ?
 
-### DEV06
-
+### Devoir 6
 > La bibliothèque prépare une table sur les voyages. Six albums sur les trains sont posés à gauche. Les trois livres sur les bateaux sont au milieu, devant une affiche jaune. À droite, un bac rouge contient des documentaires sur les avions. Des marque-pages bleus sont dans une boîte. Un coussin rond attend devant la table.
 
-1. **DEV06-01** Combien d’albums sur les trains sont posés à gauche ?
-2. **DEV06-02** Combien de livres sur les bateaux sont au milieu ?
-3. **DEV06-03** De quelle couleur est l’affiche ?
-4. **DEV06-04** Que contient le bac rouge ?
-5. **DEV06-05** Quelle forme a le coussin ?
+1. Combien d’albums sur les trains sont posés à gauche ?
+2. Combien de livres sur les bateaux sont au milieu ?
+3. De quelle couleur est l’affiche ?
+4. Que contient le bac rouge ?
+5. Quelle forme a le coussin ?
 
-### DEV07
-
+### Devoir 7
 > Pour l’atelier de collage, la table ronde porte quatre pinceaux fins et trois éponges. Sur la table carrée, les élèves trouvent six pinceaux larges et un pot de colle. La peinture verte est dans le grand flacon. Le papier jaune attend sur une chaise. Les blouses sont près du lavabo.
 
-1. **DEV07-01** Combien de pinceaux fins sont sur la table ronde ?
-2. **DEV07-02** Combien d’éponges sont sur la table ronde ?
-3. **DEV07-03** Combien de pinceaux larges sont sur la table carrée ?
-4. **DEV07-04** Dans quoi se trouve la peinture verte ?
-5. **DEV07-05** De quelle couleur est le papier ?
+1. Combien de pinceaux fins sont sur la table ronde ?
+2. Combien d’éponges sont sur la table ronde ?
+3. Combien de pinceaux larges sont sur la table carrée ?
+4. Dans quoi se trouve la peinture verte ?
+5. De quelle couleur est le papier ?
 
-### DEV08
-
+### Devoir 8
 > Pour préparer la compote, lave quatre pommes et deux poires. Pose les fruits propres sur le plateau jaune. Coupe les pommes avec le couteau à bout rond. Verse les morceaux dans la casserole bleue. Ajoute trois cuillères d’eau. Range les épluchures dans le bol gris.
 
-1. **DEV08-01** Combien de pommes faut-il laver ?
-2. **DEV08-02** Combien de poires faut-il laver ?
-3. **DEV08-03** De quelle couleur est le plateau ?
-4. **DEV08-04** Combien de cuillères d’eau faut-il ajouter ?
-5. **DEV08-05** Dans quel récipient faut-il ranger les épluchures ?
+1. Combien de pommes faut-il laver ?
+2. Combien de poires faut-il laver ?
+3. De quelle couleur est le plateau ?
+4. Combien de cuillères d’eau faut-il ajouter ?
+5. Dans quel récipient faut-il ranger les épluchures ?
 
-### DEV09
-
+### Devoir 9
 > Pour le repas, la classe remplit deux caisses. La première contient sept petits pains et une nappe blanche. Dans la seconde, il y a six pommes et des serviettes bleues. Le maître place deux bouteilles de jus dans un sac rouge. Les gobelets sont rangés dans une boîte.
 
-1. **DEV09-01** Combien de petits pains contient la première caisse ?
-2. **DEV09-02** De quelle couleur est la nappe ?
-3. **DEV09-03** Combien de pommes sont dans la seconde caisse ?
-4. **DEV09-04** Combien de bouteilles de jus sont dans le sac ?
-5. **DEV09-05** Dans quoi les gobelets sont-ils rangés ?
+1. Combien de petits pains contient la première caisse ?
+2. De quelle couleur est la nappe ?
+3. Combien de pommes sont dans la seconde caisse ?
+4. Combien de bouteilles de jus sont dans le sac ?
+5. Dans quoi les gobelets sont-ils rangés ?
 
-### DEV10
-
+### Devoir 10
 > La bibliothèque prépare une table sur les métiers. Cinq albums sur les pompiers sont posés à gauche. Les quatre livres sur les médecins sont au milieu, devant une affiche bleue. À droite, un bac vert contient des documentaires sur les artisans. Des marque-pages orange sont dans une boîte. Un coussin carré attend devant la table.
 
-1. **DEV10-01** Combien d’albums sur les pompiers sont posés à gauche ?
-2. **DEV10-02** Combien de livres sur les médecins sont au milieu ?
-3. **DEV10-03** De quelle couleur est l’affiche ?
-4. **DEV10-04** Que contient le bac vert ?
-5. **DEV10-05** Quelle forme a le coussin ?
+1. Combien d’albums sur les pompiers sont posés à gauche ?
+2. Combien de livres sur les médecins sont au milieu ?
+3. De quelle couleur est l’affiche ?
+4. Que contient le bac vert ?
+5. Quelle forme a le coussin ?
 +
 ## Corrections
 
@@ -469,269 +436,239 @@ Pour toutes les réponses, accepter une formulation équivalente qui reprend exa
 
 ### Correction — À toi de jouer
 
-1. **IMM01** huit.
-2. **IMM02** dans une enveloppe blanche.
-3. **IMM03** vert.
-4. **IMM04** une arrosoire.
-5. **IMM05** jaunes.
-6. **IMM06** deux.
-7. **IMM07** bleu.
+1. huit.
+2. dans une enveloppe blanche.
+3. vert.
+4. une arrosoire.
+5. jaunes.
+6. deux.
+7. bleu.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. dix.
+2. verte.
+3. six.
+4. blanches.
+5. trois.
+6. dans une boîte en carton.
 
-1. **ENT01-01** dix.
-2. **ENT01-02** verte.
-3. **ENT01-03** six.
-4. **ENT01-04** blanches.
-5. **ENT01-05** trois.
-6. **ENT01-06** dans une boîte en carton.
+#### Entraînement 2
+1. cinq.
+2. trois.
+3. orange.
+4. des documentaires sur la mer.
+5. violets.
+6. rond.
 
-#### ENT02
+#### Entraînement 3
+1. quatre.
+2. deux.
+3. six.
+4. dans le grand flacon.
+5. deux.
+6. blanc.
 
-1. **ENT02-01** cinq.
-2. **ENT02-02** trois.
-3. **ENT02-03** orange.
-4. **ENT02-04** des documentaires sur la mer.
-5. **ENT02-05** violets.
-6. **ENT02-06** rond.
+#### Entraînement 4
+1. deux.
+2. trois.
+3. vert.
+4. le couteau à bout rond.
+5. deux.
+6. dans le bol gris.
 
-#### ENT03
+#### Entraînement 5
+1. à neuf heures.
+2. douze.
+3. de petites crevettes.
+4. deux.
+5. à vingt-quatre degrés.
+6. violette.
 
-1. **ENT03-01** quatre.
-2. **ENT03-02** deux.
-3. **ENT03-03** six.
-4. **ENT03-04** dans le grand flacon.
-5. **ENT03-05** deux.
-6. **ENT03-06** blanc.
+#### Entraînement 6
+1. deux.
+2. rouge.
+3. douze.
+4. noire.
+5. sous le carnet d’appel.
+6. le cartable.
 
-#### ENT04
+#### Entraînement 7
+1. brun.
+2. six.
+3. quatre.
+4. sur une étagère basse.
+5. les brosses.
+6. dans l’armoire fermée.
 
-1. **ENT04-01** deux.
-2. **ENT04-02** trois.
-3. **ENT04-03** vert.
-4. **ENT04-04** le couteau à bout rond.
-5. **ENT04-05** deux.
-6. **ENT04-06** dans le bol gris.
+#### Entraînement 8
+1. neuf.
+2. sept.
+3. vert.
+4. le petit arrosoir jaune.
+5. dans une enveloppe blanche.
+6. entre les deux tables.
 
-#### ENT05
+#### Entraînement 9
+1. blanche.
+2. trois.
+3. ronde.
+4. quatre.
+5. une loupe.
+6. gris.
 
-1. **ENT05-01** à neuf heures.
-2. **ENT05-02** douze.
-3. **ENT05-03** de petites crevettes.
-4. **ENT05-04** deux.
-5. **ENT05-05** à vingt-quatre degrés.
-6. **ENT05-06** violette.
-
-#### ENT06
-
-1. **ENT06-01** deux.
-2. **ENT06-02** rouge.
-3. **ENT06-03** douze.
-4. **ENT06-04** noire.
-5. **ENT06-05** sous le carnet d’appel.
-6. **ENT06-06** le cartable.
-
-#### ENT07
-
-1. **ENT07-01** brun.
-2. **ENT07-02** six.
-3. **ENT07-03** quatre.
-4. **ENT07-04** sur une étagère basse.
-5. **ENT07-05** les brosses.
-6. **ENT07-06** dans l’armoire fermée.
-
-#### ENT08
-
-1. **ENT08-01** neuf.
-2. **ENT08-02** sept.
-3. **ENT08-03** vert.
-4. **ENT08-04** le petit arrosoir jaune.
-5. **ENT08-05** dans une enveloppe blanche.
-6. **ENT08-06** entre les deux tables.
-
-#### ENT09
-
-1. **ENT09-01** blanche.
-2. **ENT09-02** trois.
-3. **ENT09-03** ronde.
-4. **ENT09-04** quatre.
-5. **ENT09-05** une loupe.
-6. **ENT09-06** gris.
-
-#### ENT10
-
-1. **ENT10-01** sur une planche blanche.
-2. **ENT10-02** un pluviomètre.
-3. **ENT10-03** carrée.
-4. **ENT10-04** huit.
-5. **ENT10-05** trois.
-6. **ENT10-06** dans le grand cahier noir.
+#### Entraînement 10
+1. sur une planche blanche.
+2. un pluviomètre.
+3. carrée.
+4. huit.
+5. trois.
+6. dans le grand cahier noir.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. à dix heures.
+2. des morceaux de poisson.
+3. à vingt-trois degrés.
+4. quatre.
+5. bleue.
 
-1. **EVAL01-01** à dix heures.
-2. **EVAL01-02** des morceaux de poisson.
-3. **EVAL01-03** à vingt-trois degrés.
-4. **EVAL01-04** quatre.
-5. **EVAL01-05** bleue.
+#### Évaluation 2
+1. trois.
+2. verte.
+3. sous le carnet de notes.
+4. dix.
+5. le cartable.
 
-#### EVAL02
+#### Évaluation 3
+1. vert.
+2. cinq.
+3. les brosses.
+4. six.
+5. dans le placard fermé.
 
-1. **EVAL02-01** trois.
-2. **EVAL02-02** verte.
-3. **EVAL02-03** sous le carnet de notes.
-4. **EVAL02-04** dix.
-5. **EVAL02-05** le cartable.
+#### Évaluation 4
+1. huit.
+2. bleu.
+3. le petit arrosoir rouge.
+4. six.
+5. dans une pochette jaune.
 
-#### EVAL03
+#### Évaluation 5
+1. grise.
+2. quatre.
+3. ovale.
+4. une loupe.
+5. bleus.
 
-1. **EVAL03-01** vert.
-2. **EVAL03-02** cinq.
-3. **EVAL03-03** les brosses.
-4. **EVAL03-04** six.
-5. **EVAL03-05** dans le placard fermé.
+#### Évaluation 6
+1. sur une planche grise.
+2. un pluviomètre.
+3. sept.
+4. ronde.
+5. dans un cahier rouge.
 
-#### EVAL04
+#### Évaluation 7
+1. à onze heures.
+2. neuf.
+3. de petites crevettes.
+4. quatre.
+5. verte.
 
-1. **EVAL04-01** huit.
-2. **EVAL04-02** bleu.
-3. **EVAL04-03** le petit arrosoir rouge.
-4. **EVAL04-04** six.
-5. **EVAL04-05** dans une pochette jaune.
+#### Évaluation 8
+1. quatre.
+2. jaune.
+3. neuf.
+4. sous le registre.
+5. le sac de sport.
 
-#### EVAL05
+#### Évaluation 9
+1. bleu.
+2. sept.
+3. cinq.
+4. les peignes.
+5. dans une armoire verrouillée.
 
-1. **EVAL05-01** grise.
-2. **EVAL05-02** quatre.
-3. **EVAL05-03** ovale.
-4. **EVAL05-04** une loupe.
-5. **EVAL05-05** bleus.
-
-#### EVAL06
-
-1. **EVAL06-01** sur une planche grise.
-2. **EVAL06-02** un pluviomètre.
-3. **EVAL06-03** sept.
-4. **EVAL06-04** ronde.
-5. **EVAL06-05** dans un cahier rouge.
-
-#### EVAL07
-
-1. **EVAL07-01** à onze heures.
-2. **EVAL07-02** neuf.
-3. **EVAL07-03** de petites crevettes.
-4. **EVAL07-04** quatre.
-5. **EVAL07-05** verte.
-
-#### EVAL08
-
-1. **EVAL08-01** quatre.
-2. **EVAL08-02** jaune.
-3. **EVAL08-03** neuf.
-4. **EVAL08-04** sous le registre.
-5. **EVAL08-05** le sac de sport.
-
-#### EVAL09
-
-1. **EVAL09-01** bleu.
-2. **EVAL09-02** sept.
-3. **EVAL09-03** cinq.
-4. **EVAL09-04** les peignes.
-5. **EVAL09-05** dans une armoire verrouillée.
-
-#### EVAL10
-
-1. **EVAL10-01** dix.
-2. **EVAL10-02** cinq.
-3. **EVAL10-03** le grand arrosoir orange.
-4. **EVAL10-04** vert.
-5. **EVAL10-05** dans une enveloppe bleue.
+#### Évaluation 10
+1. dix.
+2. cinq.
+3. le grand arrosoir orange.
+4. vert.
+5. dans une enveloppe bleue.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. huit.
+2. bleue.
+3. cinq.
+4. deux.
+5. dans une boîte en carton.
 
-1. **DEV01-01** huit.
-2. **DEV01-02** bleue.
-3. **DEV01-03** cinq.
-4. **DEV01-04** deux.
-5. **DEV01-05** dans une boîte en carton.
+#### Devoir 2
+1. quatre.
+2. deux.
+3. verte.
+4. des documentaires sur les jardins.
+5. carré.
 
-#### DEV02
+#### Devoir 3
+1. trois.
+2. deux.
+3. cinq.
+4. dans le grand flacon.
+5. blanches.
 
-1. **DEV02-01** quatre.
-2. **DEV02-02** deux.
-3. **DEV02-03** verte.
-4. **DEV02-04** des documentaires sur les jardins.
-5. **DEV02-05** carré.
+#### Devoir 4
+1. trois.
+2. deux.
+3. bleu.
+4. le couteau à bout rond.
+5. dans le bol vert.
 
-#### DEV03
+#### Devoir 5
+1. neuf.
+2. rouge.
+3. quatre.
+4. trois.
+5. dans une caisse.
 
-1. **DEV03-01** trois.
-2. **DEV03-02** deux.
-3. **DEV03-03** cinq.
-4. **DEV03-04** dans le grand flacon.
-5. **DEV03-05** blanches.
+#### Devoir 6
+1. six.
+2. trois.
+3. jaune.
+4. des documentaires sur les avions.
+5. rond.
 
-#### DEV04
+#### Devoir 7
+1. quatre.
+2. trois.
+3. six.
+4. dans le grand flacon.
+5. jaune.
 
-1. **DEV04-01** trois.
-2. **DEV04-02** deux.
-3. **DEV04-03** bleu.
-4. **DEV04-04** le couteau à bout rond.
-5. **DEV04-05** dans le bol vert.
+#### Devoir 8
+1. quatre.
+2. deux.
+3. jaune.
+4. trois.
+5. dans le bol gris.
 
-#### DEV05
+#### Devoir 9
+1. sept.
+2. blanche.
+3. six.
+4. deux.
+5. dans une boîte.
 
-1. **DEV05-01** neuf.
-2. **DEV05-02** rouge.
-3. **DEV05-03** quatre.
-4. **DEV05-04** trois.
-5. **DEV05-05** dans une caisse.
-
-#### DEV06
-
-1. **DEV06-01** six.
-2. **DEV06-02** trois.
-3. **DEV06-03** jaune.
-4. **DEV06-04** des documentaires sur les avions.
-5. **DEV06-05** rond.
-
-#### DEV07
-
-1. **DEV07-01** quatre.
-2. **DEV07-02** trois.
-3. **DEV07-03** six.
-4. **DEV07-04** dans le grand flacon.
-5. **DEV07-05** jaune.
-
-#### DEV08
-
-1. **DEV08-01** quatre.
-2. **DEV08-02** deux.
-3. **DEV08-03** jaune.
-4. **DEV08-04** trois.
-5. **DEV08-05** dans le bol gris.
-
-#### DEV09
-
-1. **DEV09-01** sept.
-2. **DEV09-02** blanche.
-3. **DEV09-03** six.
-4. **DEV09-04** deux.
-5. **DEV09-05** dans une boîte.
-
-#### DEV10
-
-1. **DEV10-01** cinq.
-2. **DEV10-02** quatre.
-3. **DEV10-03** bleue.
-4. **DEV10-04** des documentaires sur les artisans.
-5. **DEV10-05** carré.
+#### Devoir 10
+1. cinq.
+2. quatre.
+3. bleue.
+4. des documentaires sur les artisans.
+5. carré.
 
 ## Traçabilité des évaluations et devoirs
 

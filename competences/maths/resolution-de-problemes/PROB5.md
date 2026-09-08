@@ -60,8 +60,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** La classe range 6 crayons dans des boites de 3 crayons. Combien de boites remplit-elle ?
 
 - **Attention portée :** Je lis la question, je nomme chaque quantité et je montre leur relation avant de choisir le calcul.
@@ -69,8 +68,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 6 ÷ 3 = 2. On forme 2 groupes.
 - **Contrôle final :** le nombre de groupes trouvé, multiplié par la taille donnée, redonne exactement le total.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Un jardinier plante 8 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
 
 - **Attention portée :** Demander : « Que connaît-on ? Que cherche-t-on ? Que doivent montrer les barres ou les groupes ? »
@@ -78,8 +76,7 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 - **Réponse :** 8 ÷ 4 = 2. On forme 2 groupes.
 - **Contrôle final :** le nombre de groupes trouvé, multiplié par la taille donnée, redonne exactement le total.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** On forme des équipes de 5 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
 
 - **Attention portée :** Laisser les élèves reformuler et choisir le premier geste ; demander seulement de justifier.
@@ -91,13 +88,13 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne :** Résous le problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-- **IMM01** On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
-- **IMM02** On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
-- **IMM03** La classe range 20 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
-- **IMM04** Un jardinier plante 24 fleurs en rangées de 6 fleurs. Combien fait-il de rangées ?
-- **IMM05** On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
-- **IMM06** On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
-- **IMM07** La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
+- On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
+- La classe range 20 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 24 fleurs en rangées de 6 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
+- On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
+- La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
 
 ## Variables didactiques
 
@@ -111,253 +108,223 @@ Le format demande directement de passer d’une situation verbale à un modèle 
 
 **Consigne pour toutes les séries :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### ENT01
+### Entraînement 1
+- On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
+- La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 8 fleurs en rangées de 2 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
+- On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
 
-- **ENT01-01** On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
-- **ENT01-02** La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
-- **ENT01-03** Un jardinier plante 8 fleurs en rangées de 2 fleurs. Combien fait-il de rangées ?
-- **ENT01-04** On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
-- **ENT01-05** On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
+### Entraînement 2
+- On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
+- On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
+- La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 25 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 6 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
 
-### ENT02
+### Entraînement 3
+- Un jardinier plante 24 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 5 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
+- On range 36 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
+- La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
 
-- **ENT02-01** On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
-- **ENT02-02** On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
-- **ENT02-03** La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **ENT02-04** Un jardinier plante 25 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
-- **ENT02-05** On forme des équipes de 6 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
+### Entraînement 4
+- La classe range 54 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 63 fleurs en rangées de 7 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 8 élèves avec 72 élèves. Combien d’équipes forme-t-on ?
+- On range 81 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
+- La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
 
-### ENT03
+### Entraînement 5
+- On range 28 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
+- La classe range 32 crayons dans des boites de 8 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 36 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 7 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
+- On range 40 billes dans des sachets de 8 billes. Combien de sachets peut-on remplir ?
 
-- **ENT03-01** Un jardinier plante 24 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
-- **ENT03-02** On forme des équipes de 5 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
-- **ENT03-03** On range 36 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
-- **ENT03-04** La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
-- **ENT03-05** Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+### Entraînement 6
+- On forme des équipes de 8 élèves avec 48 élèves. Combien d’équipes forme-t-on ?
+- On range 54 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
+- La classe range 21 crayons dans des boites de 3 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 28 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 5 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
 
-### ENT04
+### Entraînement 7
+- Un jardinier plante 56 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 9 élèves avec 63 élèves. Combien d’équipes forme-t-on ?
+- On range 24 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
+- La classe range 32 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 40 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
 
-- **ENT04-01** La classe range 54 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
-- **ENT04-02** Un jardinier plante 63 fleurs en rangées de 7 fleurs. Combien fait-il de rangées ?
-- **ENT04-03** On forme des équipes de 8 élèves avec 72 élèves. Combien d’équipes forme-t-on ?
-- **ENT04-04** On range 81 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
-- **ENT04-05** La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
+### Entraînement 8
+- La classe range 80 crayons dans des boites de 20 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 80 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 3 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
+- On range 60 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
+- La classe range 70 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
 
-### ENT05
+### Entraînement 9
+- On range 100 billes dans des sachets de 10 billes. Combien de sachets peut-on remplir ?
+- La classe range 60 crayons dans des boites de 10 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 70 fleurs en rangées de 10 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 10 élèves avec 80 élèves. Combien d’équipes forme-t-on ?
+- On range 90 billes dans des sachets de 10 billes. Combien de sachets peut-on remplir ?
 
-- **ENT05-01** On range 28 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
-- **ENT05-02** La classe range 32 crayons dans des boites de 8 crayons. Combien de boites remplit-elle ?
-- **ENT05-03** Un jardinier plante 36 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
-- **ENT05-04** On forme des équipes de 7 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
-- **ENT05-05** On range 40 billes dans des sachets de 8 billes. Combien de sachets peut-on remplir ?
-
-### ENT06
-
-- **ENT06-01** On forme des équipes de 8 élèves avec 48 élèves. Combien d’équipes forme-t-on ?
-- **ENT06-02** On range 54 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
-- **ENT06-03** La classe range 21 crayons dans des boites de 3 crayons. Combien de boites remplit-elle ?
-- **ENT06-04** Un jardinier plante 28 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
-- **ENT06-05** On forme des équipes de 5 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
-
-### ENT07
-
-- **ENT07-01** Un jardinier plante 56 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
-- **ENT07-02** On forme des équipes de 9 élèves avec 63 élèves. Combien d’équipes forme-t-on ?
-- **ENT07-03** On range 24 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
-- **ENT07-04** La classe range 32 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **ENT07-05** Un jardinier plante 40 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
-
-### ENT08
-
-- **ENT08-01** La classe range 80 crayons dans des boites de 20 crayons. Combien de boites remplit-elle ?
-- **ENT08-02** Un jardinier plante 80 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
-- **ENT08-03** On forme des équipes de 3 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
-- **ENT08-04** On range 60 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
-- **ENT08-05** La classe range 70 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
-
-### ENT09
-
-- **ENT09-01** On range 100 billes dans des sachets de 10 billes. Combien de sachets peut-on remplir ?
-- **ENT09-02** La classe range 60 crayons dans des boites de 10 crayons. Combien de boites remplit-elle ?
-- **ENT09-03** Un jardinier plante 70 fleurs en rangées de 10 fleurs. Combien fait-il de rangées ?
-- **ENT09-04** On forme des équipes de 10 élèves avec 80 élèves. Combien d’équipes forme-t-on ?
-- **ENT09-05** On range 90 billes dans des sachets de 10 billes. Combien de sachets peut-on remplir ?
-
-### ENT10
-
-- **ENT10-01** On forme des équipes de 5 élèves avec 100 élèves. Combien d’équipes forme-t-on ?
-- **ENT10-02** On range 80 billes dans des sachets de 20 billes. Combien de sachets peut-on remplir ?
-- **ENT10-03** La classe range 80 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **ENT10-04** Un jardinier plante 60 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
-- **ENT10-05** On forme des équipes de 6 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
+### Entraînement 10
+- On forme des équipes de 5 élèves avec 100 élèves. Combien d’équipes forme-t-on ?
+- On range 80 billes dans des sachets de 20 billes. Combien de sachets peut-on remplir ?
+- La classe range 80 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 60 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 6 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
 
 ## Évaluations
 
 **Consigne pour toutes les formes :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### EVAL01
+### Évaluation 1
+- Un jardinier plante 56 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
+- La classe range 60 crayons dans des boites de 10 crayons. Combien de boites remplit-elle ?
+- On forme des équipes de 8 élèves avec 72 élèves. Combien d’équipes forme-t-on ?
+- Un jardinier plante 63 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
+- La classe range 28 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
 
-- **EVAL01-01** Un jardinier plante 56 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
-- **EVAL01-02** La classe range 60 crayons dans des boites de 10 crayons. Combien de boites remplit-elle ?
-- **EVAL01-03** On forme des équipes de 8 élèves avec 72 élèves. Combien d’équipes forme-t-on ?
-- **EVAL01-04** Un jardinier plante 63 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
-- **EVAL01-05** La classe range 28 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
+### Évaluation 2
+- Un jardinier plante 80 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
+- La classe range 80 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- On forme des équipes de 7 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
+- On forme des équipes de 10 élèves avec 70 élèves. Combien d’équipes forme-t-on ?
+- Un jardinier plante 32 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
 
-### EVAL02
+### Évaluation 3
+- Un jardinier plante 70 fleurs en rangées de 10 fleurs. Combien fait-il de rangées ?
+- On range 81 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
+- On forme des équipes de 5 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
+- On range 32 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
+- On forme des équipes de 9 élèves avec 36 élèves. Combien d’équipes forme-t-on ?
 
-- **EVAL02-01** Un jardinier plante 80 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
-- **EVAL02-02** La classe range 80 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **EVAL02-03** On forme des équipes de 7 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
-- **EVAL02-04** On forme des équipes de 10 élèves avec 70 élèves. Combien d’équipes forme-t-on ?
-- **EVAL02-05** Un jardinier plante 32 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
+### Évaluation 4
+- Un jardinier plante 60 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+- On range 40 billes dans des sachets de 8 billes. Combien de sachets peut-on remplir ?
+- Un jardinier plante 56 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
+- La classe range 40 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
+- On range 35 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
 
-### EVAL03
+### Évaluation 5
+- La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
+- On forme des équipes de 8 élèves avec 48 élèves. Combien d’équipes forme-t-on ?
+- Un jardinier plante 80 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
+- Un jardinier plante 48 fleurs en rangées de 6 fleurs. Combien fait-il de rangées ?
+- La classe range 40 crayons dans des boites de 8 crayons. Combien de boites remplit-elle ?
 
-- **EVAL03-01** Un jardinier plante 70 fleurs en rangées de 10 fleurs. Combien fait-il de rangées ?
-- **EVAL03-02** On range 81 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
-- **EVAL03-03** On forme des équipes de 5 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
-- **EVAL03-04** On range 32 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
-- **EVAL03-05** On forme des équipes de 9 élèves avec 36 élèves. Combien d’équipes forme-t-on ?
+### Évaluation 6
+- On range 28 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
+- On forme des équipes de 9 élèves avec 63 élèves. Combien d’équipes forme-t-on ?
+- Un jardinier plante 70 fleurs en rangées de 10 fleurs. Combien fait-il de rangées ?
+- Un jardinier plante 63 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
+- Un jardinier plante 45 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
 
-### EVAL04
+### Évaluation 7
+- On range 54 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
+- On forme des équipes de 3 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
+- Un jardinier plante 60 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 10 élèves avec 70 élèves. Combien d’équipes forme-t-on ?
+- On forme des équipes de 7 élèves avec 42 élèves. Combien d’équipes forme-t-on ?
 
-- **EVAL04-01** Un jardinier plante 60 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
-- **EVAL04-02** On range 40 billes dans des sachets de 8 billes. Combien de sachets peut-on remplir ?
-- **EVAL04-03** Un jardinier plante 56 fleurs en rangées de 8 fleurs. Combien fait-il de rangées ?
-- **EVAL04-04** La classe range 40 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
-- **EVAL04-05** On range 35 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
+### Évaluation 8
+- On range 24 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
+- On forme des équipes de 10 élèves avec 80 élèves. Combien d’équipes forme-t-on ?
+- La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
+- On range 32 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
+- On range 48 billes dans des sachets de 8 billes. Combien de sachets peut-on remplir ?
 
-### EVAL05
+### Évaluation 9
+- On range 60 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
+- On forme des équipes de 6 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
+- On range 28 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
+- La classe range 40 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
+- La classe range 54 crayons dans des boites de 9 crayons. Combien de boites remplit-elle ?
 
-- **EVAL05-01** La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
-- **EVAL05-02** On forme des équipes de 8 élèves avec 48 élèves. Combien d’équipes forme-t-on ?
-- **EVAL05-03** Un jardinier plante 80 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
-- **EVAL05-04** Un jardinier plante 48 fleurs en rangées de 6 fleurs. Combien fait-il de rangées ?
-- **EVAL05-05** La classe range 40 crayons dans des boites de 8 crayons. Combien de boites remplit-elle ?
-
-### EVAL06
-
-- **EVAL06-01** On range 28 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
-- **EVAL06-02** On forme des équipes de 9 élèves avec 63 élèves. Combien d’équipes forme-t-on ?
-- **EVAL06-03** Un jardinier plante 70 fleurs en rangées de 10 fleurs. Combien fait-il de rangées ?
-- **EVAL06-04** Un jardinier plante 63 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
-- **EVAL06-05** Un jardinier plante 45 fleurs en rangées de 9 fleurs. Combien fait-il de rangées ?
-
-### EVAL07
-
-- **EVAL07-01** On range 54 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
-- **EVAL07-02** On forme des équipes de 3 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
-- **EVAL07-03** Un jardinier plante 60 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
-- **EVAL07-04** On forme des équipes de 10 élèves avec 70 élèves. Combien d’équipes forme-t-on ?
-- **EVAL07-05** On forme des équipes de 7 élèves avec 42 élèves. Combien d’équipes forme-t-on ?
-
-### EVAL08
-
-- **EVAL08-01** On range 24 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
-- **EVAL08-02** On forme des équipes de 10 élèves avec 80 élèves. Combien d’équipes forme-t-on ?
-- **EVAL08-03** La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
-- **EVAL08-04** On range 32 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
-- **EVAL08-05** On range 48 billes dans des sachets de 8 billes. Combien de sachets peut-on remplir ?
-
-### EVAL09
-
-- **EVAL09-01** On range 60 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
-- **EVAL09-02** On forme des équipes de 6 élèves avec 60 élèves. Combien d’équipes forme-t-on ?
-- **EVAL09-03** On range 28 billes dans des sachets de 7 billes. Combien de sachets peut-on remplir ?
-- **EVAL09-04** La classe range 40 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
-- **EVAL09-05** La classe range 54 crayons dans des boites de 9 crayons. Combien de boites remplit-elle ?
-
-### EVAL10
-
-- **EVAL10-01** On range 90 billes dans des sachets de 10 billes. Combien de sachets peut-on remplir ?
-- **EVAL10-02** La classe range 54 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
-- **EVAL10-03** On range 54 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
-- **EVAL10-04** Un jardinier plante 48 fleurs en rangées de 6 fleurs. Combien fait-il de rangées ?
-- **EVAL10-05** Un jardinier plante 21 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+### Évaluation 10
+- On range 90 billes dans des sachets de 10 billes. Combien de sachets peut-on remplir ?
+- La classe range 54 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
+- On range 54 billes dans des sachets de 9 billes. Combien de sachets peut-on remplir ?
+- Un jardinier plante 48 fleurs en rangées de 6 fleurs. Combien fait-il de rangées ?
+- Un jardinier plante 21 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
 
 ## Devoirs
 
 **Consigne pour tous les devoirs :** Résous chaque problème. Tu peux faire un schéma. Écris ton calcul et une phrase-réponse.
 
-### DEV01
+### Devoir 1
+- On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
+- La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+- La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
+- On forme des équipes de 4 élèves avec 16 élèves. Combien d’équipes forme-t-on ?
 
-- **DEV01-01** On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
-- **DEV01-02** La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **DEV01-03** Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
-- **DEV01-04** La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
-- **DEV01-05** On forme des équipes de 4 élèves avec 16 élèves. Combien d’équipes forme-t-on ?
+### Devoir 2
+- On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
+- La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
+- On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
+- La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- On forme des équipes de 7 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
 
-### DEV02
+### Devoir 3
+- On range 36 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
+- On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
+- On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
+- La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 30 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
 
-- **DEV02-01** On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
-- **DEV02-02** La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
-- **DEV02-03** On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
-- **DEV02-04** La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **DEV02-05** On forme des équipes de 7 élèves avec 35 élèves. Combien d’équipes forme-t-on ?
+### Devoir 4
+- On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
+- On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
+- On range 36 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
+- On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
+- La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
 
-### DEV03
+### Devoir 5
+- On forme des équipes de 6 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
+- On forme des équipes de 5 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
+- On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
+- On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
+- La classe range 25 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
 
-- **DEV03-01** On range 36 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
-- **DEV03-02** On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
-- **DEV03-03** On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
-- **DEV03-04** La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
-- **DEV03-05** Un jardinier plante 30 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
+### Devoir 6
+- Un jardinier plante 24 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
+- Un jardinier plante 8 fleurs en rangées de 2 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 6 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
+- On forme des équipes de 5 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
+- La classe range 6 crayons dans des boites de 3 crayons. Combien de boites remplit-elle ?
 
-### DEV04
+### Devoir 7
+- La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 25 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
+- Un jardinier plante 24 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
+- Un jardinier plante 8 fleurs en rangées de 2 fleurs. Combien fait-il de rangées ?
+- On range 20 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
 
-- **DEV04-01** On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
-- **DEV04-02** On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
-- **DEV04-03** On range 36 billes dans des sachets de 6 billes. Combien de sachets peut-on remplir ?
-- **DEV04-04** On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
-- **DEV04-05** La classe range 21 crayons dans des boites de 7 crayons. Combien de boites remplit-elle ?
+### Devoir 8
+- La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+- La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 25 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 3 élèves avec 15 élèves. Combien d’équipes forme-t-on ?
 
-### DEV05
+### Devoir 9
+- La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
+- On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
+- La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
+- Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+- On forme des équipes de 6 élèves avec 36 élèves. Combien d’équipes forme-t-on ?
 
-- **DEV05-01** On forme des équipes de 6 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
-- **DEV05-02** On forme des équipes de 5 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
-- **DEV05-03** On forme des équipes de 3 élèves avec 12 élèves. Combien d’équipes forme-t-on ?
-- **DEV05-04** On forme des équipes de 2 élèves avec 10 élèves. Combien d’équipes forme-t-on ?
-- **DEV05-05** La classe range 25 crayons dans des boites de 5 crayons. Combien de boites remplit-elle ?
-
-### DEV06
-
-- **DEV06-01** Un jardinier plante 24 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
-- **DEV06-02** Un jardinier plante 8 fleurs en rangées de 2 fleurs. Combien fait-il de rangées ?
-- **DEV06-03** On forme des équipes de 6 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
-- **DEV06-04** On forme des équipes de 5 élèves avec 30 élèves. Combien d’équipes forme-t-on ?
-- **DEV06-05** La classe range 6 crayons dans des boites de 3 crayons. Combien de boites remplit-elle ?
-
-### DEV07
-
-- **DEV07-01** La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
-- **DEV07-02** Un jardinier plante 25 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
-- **DEV07-03** Un jardinier plante 24 fleurs en rangées de 4 fleurs. Combien fait-il de rangées ?
-- **DEV07-04** Un jardinier plante 8 fleurs en rangées de 2 fleurs. Combien fait-il de rangées ?
-- **DEV07-05** On range 20 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
-
-### DEV08
-
-- **DEV08-01** La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **DEV08-02** Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
-- **DEV08-03** La classe range 18 crayons dans des boites de 6 crayons. Combien de boites remplit-elle ?
-- **DEV08-04** Un jardinier plante 25 fleurs en rangées de 5 fleurs. Combien fait-il de rangées ?
-- **DEV08-05** On forme des équipes de 3 élèves avec 15 élèves. Combien d’équipes forme-t-on ?
-
-### DEV09
-
-- **DEV09-01** La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
-- **DEV09-02** On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
-- **DEV09-03** La classe range 20 crayons dans des boites de 4 crayons. Combien de boites remplit-elle ?
-- **DEV09-04** Un jardinier plante 6 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
-- **DEV09-05** On forme des équipes de 6 élèves avec 36 élèves. Combien d’équipes forme-t-on ?
-
-### DEV10
-
-- **DEV10-01** On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
-- **DEV10-02** On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
-- **DEV10-03** La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
-- **DEV10-04** On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
-- **DEV10-05** Un jardinier plante 12 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
+### Devoir 10
+- On range 16 billes dans des sachets de 4 billes. Combien de sachets peut-on remplir ?
+- On range 15 billes dans des sachets de 3 billes. Combien de sachets peut-on remplir ?
+- La classe range 4 crayons dans des boites de 2 crayons. Combien de boites remplit-elle ?
+- On range 15 billes dans des sachets de 5 billes. Combien de sachets peut-on remplir ?
+- Un jardinier plante 12 fleurs en rangées de 3 fleurs. Combien fait-il de rangées ?
 
 ## Corrections
 
@@ -365,259 +332,229 @@ La formulation de la phrase peut varier. Accepter toute phrase qui donne le rés
 
 ### Correction — À toi de jouer
 
-- **IMM01** 12 ÷ 3 = 4. On forme 4 groupes.
-- **IMM02** 16 ÷ 4 = 4. On forme 4 groupes.
-- **IMM03** 20 ÷ 5 = 4. On forme 4 groupes.
-- **IMM04** 24 ÷ 6 = 4. On forme 4 groupes.
-- **IMM05** 10 ÷ 2 = 5. On forme 5 groupes.
-- **IMM06** 15 ÷ 3 = 5. On forme 5 groupes.
-- **IMM07** 20 ÷ 4 = 5. On forme 5 groupes.
+- 12 ÷ 3 = 4. On forme 4 groupes.
+- 16 ÷ 4 = 4. On forme 4 groupes.
+- 20 ÷ 5 = 4. On forme 4 groupes.
+- 24 ÷ 6 = 4. On forme 4 groupes.
+- 10 ÷ 2 = 5. On forme 5 groupes.
+- 15 ÷ 3 = 5. On forme 5 groupes.
+- 20 ÷ 4 = 5. On forme 5 groupes.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- 15 ÷ 5 = 3. On forme 3 groupes.
+- 18 ÷ 6 = 3. On forme 3 groupes.
+- 8 ÷ 2 = 4. On forme 4 groupes.
+- 12 ÷ 3 = 4. On forme 4 groupes.
+- 16 ÷ 4 = 4. On forme 4 groupes.
 
-- **ENT01-01** 15 ÷ 5 = 3. On forme 3 groupes.
-- **ENT01-02** 18 ÷ 6 = 3. On forme 3 groupes.
-- **ENT01-03** 8 ÷ 2 = 4. On forme 4 groupes.
-- **ENT01-04** 12 ÷ 3 = 4. On forme 4 groupes.
-- **ENT01-05** 16 ÷ 4 = 4. On forme 4 groupes.
+#### Entraînement 2
+- 10 ÷ 2 = 5. On forme 5 groupes.
+- 15 ÷ 3 = 5. On forme 5 groupes.
+- 20 ÷ 4 = 5. On forme 5 groupes.
+- 25 ÷ 5 = 5. On forme 5 groupes.
+- 30 ÷ 6 = 5. On forme 5 groupes.
 
-#### ENT02
+#### Entraînement 3
+- 24 ÷ 4 = 6. On forme 6 groupes.
+- 30 ÷ 5 = 6. On forme 6 groupes.
+- 36 ÷ 6 = 6. On forme 6 groupes.
+- 4 ÷ 2 = 2. On forme 2 groupes.
+- 6 ÷ 3 = 2. On forme 2 groupes.
 
-- **ENT02-01** 10 ÷ 2 = 5. On forme 5 groupes.
-- **ENT02-02** 15 ÷ 3 = 5. On forme 5 groupes.
-- **ENT02-03** 20 ÷ 4 = 5. On forme 5 groupes.
-- **ENT02-04** 25 ÷ 5 = 5. On forme 5 groupes.
-- **ENT02-05** 30 ÷ 6 = 5. On forme 5 groupes.
+#### Entraînement 4
+- 54 ÷ 6 = 9. On forme 9 groupes.
+- 63 ÷ 7 = 9. On forme 9 groupes.
+- 72 ÷ 8 = 9. On forme 9 groupes.
+- 81 ÷ 9 = 9. On forme 9 groupes.
+- 21 ÷ 7 = 3. On forme 3 groupes.
 
-#### ENT03
+#### Entraînement 5
+- 28 ÷ 7 = 4. On forme 4 groupes.
+- 32 ÷ 8 = 4. On forme 4 groupes.
+- 36 ÷ 9 = 4. On forme 4 groupes.
+- 35 ÷ 7 = 5. On forme 5 groupes.
+- 40 ÷ 8 = 5. On forme 5 groupes.
 
-- **ENT03-01** 24 ÷ 4 = 6. On forme 6 groupes.
-- **ENT03-02** 30 ÷ 5 = 6. On forme 6 groupes.
-- **ENT03-03** 36 ÷ 6 = 6. On forme 6 groupes.
-- **ENT03-04** 4 ÷ 2 = 2. On forme 2 groupes.
-- **ENT03-05** 6 ÷ 3 = 2. On forme 2 groupes.
+#### Entraînement 6
+- 48 ÷ 8 = 6. On forme 6 groupes.
+- 54 ÷ 9 = 6. On forme 6 groupes.
+- 21 ÷ 3 = 7. On forme 7 groupes.
+- 28 ÷ 4 = 7. On forme 7 groupes.
+- 35 ÷ 5 = 7. On forme 7 groupes.
 
-#### ENT04
+#### Entraînement 7
+- 56 ÷ 8 = 7. On forme 7 groupes.
+- 63 ÷ 9 = 7. On forme 7 groupes.
+- 24 ÷ 3 = 8. On forme 8 groupes.
+- 32 ÷ 4 = 8. On forme 8 groupes.
+- 40 ÷ 5 = 8. On forme 8 groupes.
 
-- **ENT04-01** 54 ÷ 6 = 9. On forme 9 groupes.
-- **ENT04-02** 63 ÷ 7 = 9. On forme 9 groupes.
-- **ENT04-03** 72 ÷ 8 = 9. On forme 9 groupes.
-- **ENT04-04** 81 ÷ 9 = 9. On forme 9 groupes.
-- **ENT04-05** 21 ÷ 7 = 3. On forme 3 groupes.
+#### Entraînement 8
+- 80 ÷ 20 = 4. On forme 4 groupes.
+- 80 ÷ 4 = 20. On forme 20 groupes.
+- 60 ÷ 3 = 20. On forme 20 groupes.
+- 60 ÷ 6 = 10. On forme 10 groupes.
+- 70 ÷ 7 = 10. On forme 10 groupes.
 
-#### ENT05
+#### Entraînement 9
+- 100 ÷ 10 = 10. On forme 10 groupes.
+- 60 ÷ 10 = 6. On forme 6 groupes.
+- 70 ÷ 10 = 7. On forme 7 groupes.
+- 80 ÷ 10 = 8. On forme 8 groupes.
+- 90 ÷ 10 = 9. On forme 9 groupes.
 
-- **ENT05-01** 28 ÷ 7 = 4. On forme 4 groupes.
-- **ENT05-02** 32 ÷ 8 = 4. On forme 4 groupes.
-- **ENT05-03** 36 ÷ 9 = 4. On forme 4 groupes.
-- **ENT05-04** 35 ÷ 7 = 5. On forme 5 groupes.
-- **ENT05-05** 40 ÷ 8 = 5. On forme 5 groupes.
-
-#### ENT06
-
-- **ENT06-01** 48 ÷ 8 = 6. On forme 6 groupes.
-- **ENT06-02** 54 ÷ 9 = 6. On forme 6 groupes.
-- **ENT06-03** 21 ÷ 3 = 7. On forme 7 groupes.
-- **ENT06-04** 28 ÷ 4 = 7. On forme 7 groupes.
-- **ENT06-05** 35 ÷ 5 = 7. On forme 7 groupes.
-
-#### ENT07
-
-- **ENT07-01** 56 ÷ 8 = 7. On forme 7 groupes.
-- **ENT07-02** 63 ÷ 9 = 7. On forme 7 groupes.
-- **ENT07-03** 24 ÷ 3 = 8. On forme 8 groupes.
-- **ENT07-04** 32 ÷ 4 = 8. On forme 8 groupes.
-- **ENT07-05** 40 ÷ 5 = 8. On forme 8 groupes.
-
-#### ENT08
-
-- **ENT08-01** 80 ÷ 20 = 4. On forme 4 groupes.
-- **ENT08-02** 80 ÷ 4 = 20. On forme 20 groupes.
-- **ENT08-03** 60 ÷ 3 = 20. On forme 20 groupes.
-- **ENT08-04** 60 ÷ 6 = 10. On forme 10 groupes.
-- **ENT08-05** 70 ÷ 7 = 10. On forme 10 groupes.
-
-#### ENT09
-
-- **ENT09-01** 100 ÷ 10 = 10. On forme 10 groupes.
-- **ENT09-02** 60 ÷ 10 = 6. On forme 6 groupes.
-- **ENT09-03** 70 ÷ 10 = 7. On forme 7 groupes.
-- **ENT09-04** 80 ÷ 10 = 8. On forme 8 groupes.
-- **ENT09-05** 90 ÷ 10 = 9. On forme 9 groupes.
-
-#### ENT10
-
-- **ENT10-01** 100 ÷ 5 = 20. On forme 20 groupes.
-- **ENT10-02** 80 ÷ 20 = 4. On forme 4 groupes.
-- **ENT10-03** 80 ÷ 4 = 20. On forme 20 groupes.
-- **ENT10-04** 60 ÷ 3 = 20. On forme 20 groupes.
-- **ENT10-05** 60 ÷ 6 = 10. On forme 10 groupes.
+#### Entraînement 10
+- 100 ÷ 5 = 20. On forme 20 groupes.
+- 80 ÷ 20 = 4. On forme 4 groupes.
+- 80 ÷ 4 = 20. On forme 20 groupes.
+- 60 ÷ 3 = 20. On forme 20 groupes.
+- 60 ÷ 6 = 10. On forme 10 groupes.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- 56 ÷ 8 = 7. On forme 7 groupes.
+- 60 ÷ 10 = 6. On forme 6 groupes.
+- 72 ÷ 8 = 9. On forme 9 groupes.
+- 63 ÷ 9 = 7. On forme 7 groupes.
+- 28 ÷ 7 = 4. On forme 4 groupes.
 
-- **EVAL01-01** 56 ÷ 8 = 7. On forme 7 groupes.
-- **EVAL01-02** 60 ÷ 10 = 6. On forme 6 groupes.
-- **EVAL01-03** 72 ÷ 8 = 9. On forme 9 groupes.
-- **EVAL01-04** 63 ÷ 9 = 7. On forme 7 groupes.
-- **EVAL01-05** 28 ÷ 7 = 4. On forme 4 groupes.
+#### Évaluation 2
+- 80 ÷ 4 = 20. On forme 20 groupes.
+- 80 ÷ 4 = 20. On forme 20 groupes.
+- 35 ÷ 7 = 5. On forme 5 groupes.
+- 70 ÷ 10 = 7. On forme 7 groupes.
+- 32 ÷ 8 = 4. On forme 4 groupes.
 
-#### EVAL02
+#### Évaluation 3
+- 70 ÷ 10 = 7. On forme 7 groupes.
+- 81 ÷ 9 = 9. On forme 9 groupes.
+- 35 ÷ 5 = 7. On forme 7 groupes.
+- 32 ÷ 4 = 8. On forme 8 groupes.
+- 36 ÷ 9 = 4. On forme 4 groupes.
 
-- **EVAL02-01** 80 ÷ 4 = 20. On forme 20 groupes.
-- **EVAL02-02** 80 ÷ 4 = 20. On forme 20 groupes.
-- **EVAL02-03** 35 ÷ 7 = 5. On forme 5 groupes.
-- **EVAL02-04** 70 ÷ 10 = 7. On forme 7 groupes.
-- **EVAL02-05** 32 ÷ 8 = 4. On forme 4 groupes.
+#### Évaluation 4
+- 60 ÷ 3 = 20. On forme 20 groupes.
+- 40 ÷ 8 = 5. On forme 5 groupes.
+- 56 ÷ 8 = 7. On forme 7 groupes.
+- 40 ÷ 5 = 8. On forme 8 groupes.
+- 35 ÷ 7 = 5. On forme 5 groupes.
 
-#### EVAL03
+#### Évaluation 5
+- 21 ÷ 7 = 3. On forme 3 groupes.
+- 48 ÷ 8 = 6. On forme 6 groupes.
+- 80 ÷ 4 = 20. On forme 20 groupes.
+- 48 ÷ 6 = 8. On forme 8 groupes.
+- 40 ÷ 8 = 5. On forme 5 groupes.
 
-- **EVAL03-01** 70 ÷ 10 = 7. On forme 7 groupes.
-- **EVAL03-02** 81 ÷ 9 = 9. On forme 9 groupes.
-- **EVAL03-03** 35 ÷ 5 = 7. On forme 7 groupes.
-- **EVAL03-04** 32 ÷ 4 = 8. On forme 8 groupes.
-- **EVAL03-05** 36 ÷ 9 = 4. On forme 4 groupes.
+#### Évaluation 6
+- 28 ÷ 7 = 4. On forme 4 groupes.
+- 63 ÷ 9 = 7. On forme 7 groupes.
+- 70 ÷ 10 = 7. On forme 7 groupes.
+- 63 ÷ 9 = 7. On forme 7 groupes.
+- 45 ÷ 9 = 5. On forme 5 groupes.
 
-#### EVAL04
+#### Évaluation 7
+- 54 ÷ 9 = 6. On forme 6 groupes.
+- 60 ÷ 3 = 20. On forme 20 groupes.
+- 60 ÷ 3 = 20. On forme 20 groupes.
+- 70 ÷ 10 = 7. On forme 7 groupes.
+- 42 ÷ 7 = 6. On forme 6 groupes.
 
-- **EVAL04-01** 60 ÷ 3 = 20. On forme 20 groupes.
-- **EVAL04-02** 40 ÷ 8 = 5. On forme 5 groupes.
-- **EVAL04-03** 56 ÷ 8 = 7. On forme 7 groupes.
-- **EVAL04-04** 40 ÷ 5 = 8. On forme 8 groupes.
-- **EVAL04-05** 35 ÷ 7 = 5. On forme 5 groupes.
+#### Évaluation 8
+- 24 ÷ 3 = 8. On forme 8 groupes.
+- 80 ÷ 10 = 8. On forme 8 groupes.
+- 21 ÷ 7 = 3. On forme 3 groupes.
+- 32 ÷ 4 = 8. On forme 8 groupes.
+- 48 ÷ 8 = 6. On forme 6 groupes.
 
-#### EVAL05
+#### Évaluation 9
+- 60 ÷ 6 = 10. On forme 10 groupes.
+- 60 ÷ 6 = 10. On forme 10 groupes.
+- 28 ÷ 7 = 4. On forme 4 groupes.
+- 40 ÷ 5 = 8. On forme 8 groupes.
+- 54 ÷ 9 = 6. On forme 6 groupes.
 
-- **EVAL05-01** 21 ÷ 7 = 3. On forme 3 groupes.
-- **EVAL05-02** 48 ÷ 8 = 6. On forme 6 groupes.
-- **EVAL05-03** 80 ÷ 4 = 20. On forme 20 groupes.
-- **EVAL05-04** 48 ÷ 6 = 8. On forme 8 groupes.
-- **EVAL05-05** 40 ÷ 8 = 5. On forme 5 groupes.
-
-#### EVAL06
-
-- **EVAL06-01** 28 ÷ 7 = 4. On forme 4 groupes.
-- **EVAL06-02** 63 ÷ 9 = 7. On forme 7 groupes.
-- **EVAL06-03** 70 ÷ 10 = 7. On forme 7 groupes.
-- **EVAL06-04** 63 ÷ 9 = 7. On forme 7 groupes.
-- **EVAL06-05** 45 ÷ 9 = 5. On forme 5 groupes.
-
-#### EVAL07
-
-- **EVAL07-01** 54 ÷ 9 = 6. On forme 6 groupes.
-- **EVAL07-02** 60 ÷ 3 = 20. On forme 20 groupes.
-- **EVAL07-03** 60 ÷ 3 = 20. On forme 20 groupes.
-- **EVAL07-04** 70 ÷ 10 = 7. On forme 7 groupes.
-- **EVAL07-05** 42 ÷ 7 = 6. On forme 6 groupes.
-
-#### EVAL08
-
-- **EVAL08-01** 24 ÷ 3 = 8. On forme 8 groupes.
-- **EVAL08-02** 80 ÷ 10 = 8. On forme 8 groupes.
-- **EVAL08-03** 21 ÷ 7 = 3. On forme 3 groupes.
-- **EVAL08-04** 32 ÷ 4 = 8. On forme 8 groupes.
-- **EVAL08-05** 48 ÷ 8 = 6. On forme 6 groupes.
-
-#### EVAL09
-
-- **EVAL09-01** 60 ÷ 6 = 10. On forme 10 groupes.
-- **EVAL09-02** 60 ÷ 6 = 10. On forme 10 groupes.
-- **EVAL09-03** 28 ÷ 7 = 4. On forme 4 groupes.
-- **EVAL09-04** 40 ÷ 5 = 8. On forme 8 groupes.
-- **EVAL09-05** 54 ÷ 9 = 6. On forme 6 groupes.
-
-#### EVAL10
-
-- **EVAL10-01** 90 ÷ 10 = 9. On forme 9 groupes.
-- **EVAL10-02** 54 ÷ 6 = 9. On forme 9 groupes.
-- **EVAL10-03** 54 ÷ 9 = 6. On forme 6 groupes.
-- **EVAL10-04** 48 ÷ 6 = 8. On forme 8 groupes.
-- **EVAL10-05** 21 ÷ 3 = 7. On forme 7 groupes.
+#### Évaluation 10
+- 90 ÷ 10 = 9. On forme 9 groupes.
+- 54 ÷ 6 = 9. On forme 9 groupes.
+- 54 ÷ 9 = 6. On forme 6 groupes.
+- 48 ÷ 6 = 8. On forme 8 groupes.
+- 21 ÷ 3 = 7. On forme 7 groupes.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- 15 ÷ 5 = 3. On forme 3 groupes.
+- 20 ÷ 4 = 5. On forme 5 groupes.
+- 6 ÷ 3 = 2. On forme 2 groupes.
+- 18 ÷ 6 = 3. On forme 3 groupes.
+- 16 ÷ 4 = 4. On forme 4 groupes.
 
-- **DEV01-01** 15 ÷ 5 = 3. On forme 3 groupes.
-- **DEV01-02** 20 ÷ 4 = 5. On forme 5 groupes.
-- **DEV01-03** 6 ÷ 3 = 2. On forme 2 groupes.
-- **DEV01-04** 18 ÷ 6 = 3. On forme 3 groupes.
-- **DEV01-05** 16 ÷ 4 = 4. On forme 4 groupes.
+#### Devoir 2
+- 15 ÷ 3 = 5. On forme 5 groupes.
+- 4 ÷ 2 = 2. On forme 2 groupes.
+- 15 ÷ 5 = 3. On forme 3 groupes.
+- 20 ÷ 4 = 5. On forme 5 groupes.
+- 35 ÷ 7 = 5. On forme 5 groupes.
 
-#### DEV02
+#### Devoir 3
+- 36 ÷ 6 = 6. On forme 6 groupes.
+- 16 ÷ 4 = 4. On forme 4 groupes.
+- 15 ÷ 3 = 5. On forme 5 groupes.
+- 4 ÷ 2 = 2. On forme 2 groupes.
+- 30 ÷ 5 = 6. On forme 6 groupes.
 
-- **DEV02-01** 15 ÷ 3 = 5. On forme 5 groupes.
-- **DEV02-02** 4 ÷ 2 = 2. On forme 2 groupes.
-- **DEV02-03** 15 ÷ 5 = 3. On forme 3 groupes.
-- **DEV02-04** 20 ÷ 4 = 5. On forme 5 groupes.
-- **DEV02-05** 35 ÷ 7 = 5. On forme 5 groupes.
+#### Devoir 4
+- 12 ÷ 3 = 4. On forme 4 groupes.
+- 10 ÷ 2 = 5. On forme 5 groupes.
+- 36 ÷ 6 = 6. On forme 6 groupes.
+- 16 ÷ 4 = 4. On forme 4 groupes.
+- 21 ÷ 7 = 3. On forme 3 groupes.
 
-#### DEV03
+#### Devoir 5
+- 30 ÷ 6 = 5. On forme 5 groupes.
+- 30 ÷ 5 = 6. On forme 6 groupes.
+- 12 ÷ 3 = 4. On forme 4 groupes.
+- 10 ÷ 2 = 5. On forme 5 groupes.
+- 25 ÷ 5 = 5. On forme 5 groupes.
 
-- **DEV03-01** 36 ÷ 6 = 6. On forme 6 groupes.
-- **DEV03-02** 16 ÷ 4 = 4. On forme 4 groupes.
-- **DEV03-03** 15 ÷ 3 = 5. On forme 5 groupes.
-- **DEV03-04** 4 ÷ 2 = 2. On forme 2 groupes.
-- **DEV03-05** 30 ÷ 5 = 6. On forme 6 groupes.
+#### Devoir 6
+- 24 ÷ 4 = 6. On forme 6 groupes.
+- 8 ÷ 2 = 4. On forme 4 groupes.
+- 30 ÷ 6 = 5. On forme 5 groupes.
+- 30 ÷ 5 = 6. On forme 6 groupes.
+- 6 ÷ 3 = 2. On forme 2 groupes.
 
-#### DEV04
+#### Devoir 7
+- 18 ÷ 6 = 3. On forme 3 groupes.
+- 25 ÷ 5 = 5. On forme 5 groupes.
+- 24 ÷ 4 = 6. On forme 6 groupes.
+- 8 ÷ 2 = 4. On forme 4 groupes.
+- 20 ÷ 5 = 4. On forme 4 groupes.
 
-- **DEV04-01** 12 ÷ 3 = 4. On forme 4 groupes.
-- **DEV04-02** 10 ÷ 2 = 5. On forme 5 groupes.
-- **DEV04-03** 36 ÷ 6 = 6. On forme 6 groupes.
-- **DEV04-04** 16 ÷ 4 = 4. On forme 4 groupes.
-- **DEV04-05** 21 ÷ 7 = 3. On forme 3 groupes.
+#### Devoir 8
+- 20 ÷ 4 = 5. On forme 5 groupes.
+- 6 ÷ 3 = 2. On forme 2 groupes.
+- 18 ÷ 6 = 3. On forme 3 groupes.
+- 25 ÷ 5 = 5. On forme 5 groupes.
+- 15 ÷ 3 = 5. On forme 5 groupes.
 
-#### DEV05
+#### Devoir 9
+- 4 ÷ 2 = 2. On forme 2 groupes.
+- 15 ÷ 5 = 3. On forme 3 groupes.
+- 20 ÷ 4 = 5. On forme 5 groupes.
+- 6 ÷ 3 = 2. On forme 2 groupes.
+- 36 ÷ 6 = 6. On forme 6 groupes.
 
-- **DEV05-01** 30 ÷ 6 = 5. On forme 5 groupes.
-- **DEV05-02** 30 ÷ 5 = 6. On forme 6 groupes.
-- **DEV05-03** 12 ÷ 3 = 4. On forme 4 groupes.
-- **DEV05-04** 10 ÷ 2 = 5. On forme 5 groupes.
-- **DEV05-05** 25 ÷ 5 = 5. On forme 5 groupes.
-
-#### DEV06
-
-- **DEV06-01** 24 ÷ 4 = 6. On forme 6 groupes.
-- **DEV06-02** 8 ÷ 2 = 4. On forme 4 groupes.
-- **DEV06-03** 30 ÷ 6 = 5. On forme 5 groupes.
-- **DEV06-04** 30 ÷ 5 = 6. On forme 6 groupes.
-- **DEV06-05** 6 ÷ 3 = 2. On forme 2 groupes.
-
-#### DEV07
-
-- **DEV07-01** 18 ÷ 6 = 3. On forme 3 groupes.
-- **DEV07-02** 25 ÷ 5 = 5. On forme 5 groupes.
-- **DEV07-03** 24 ÷ 4 = 6. On forme 6 groupes.
-- **DEV07-04** 8 ÷ 2 = 4. On forme 4 groupes.
-- **DEV07-05** 20 ÷ 5 = 4. On forme 4 groupes.
-
-#### DEV08
-
-- **DEV08-01** 20 ÷ 4 = 5. On forme 5 groupes.
-- **DEV08-02** 6 ÷ 3 = 2. On forme 2 groupes.
-- **DEV08-03** 18 ÷ 6 = 3. On forme 3 groupes.
-- **DEV08-04** 25 ÷ 5 = 5. On forme 5 groupes.
-- **DEV08-05** 15 ÷ 3 = 5. On forme 5 groupes.
-
-#### DEV09
-
-- **DEV09-01** 4 ÷ 2 = 2. On forme 2 groupes.
-- **DEV09-02** 15 ÷ 5 = 3. On forme 3 groupes.
-- **DEV09-03** 20 ÷ 4 = 5. On forme 5 groupes.
-- **DEV09-04** 6 ÷ 3 = 2. On forme 2 groupes.
-- **DEV09-05** 36 ÷ 6 = 6. On forme 6 groupes.
-
-#### DEV10
-
-- **DEV10-01** 16 ÷ 4 = 4. On forme 4 groupes.
-- **DEV10-02** 15 ÷ 3 = 5. On forme 5 groupes.
-- **DEV10-03** 4 ÷ 2 = 2. On forme 2 groupes.
-- **DEV10-04** 15 ÷ 5 = 3. On forme 3 groupes.
-- **DEV10-05** 12 ÷ 3 = 4. On forme 4 groupes.
+#### Devoir 10
+- 16 ÷ 4 = 4. On forme 4 groupes.
+- 15 ÷ 3 = 5. On forme 5 groupes.
+- 4 ÷ 2 = 2. On forme 2 groupes.
+- 15 ÷ 5 = 3. On forme 3 groupes.
+- 12 ÷ 3 = 4. On forme 4 groupes.
 
 ## Traçabilité des évaluations et devoirs
 

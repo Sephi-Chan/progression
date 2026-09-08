@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 1e.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 2e.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **IMM02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **IMM03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **IMM04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **IMM05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **IMM06** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **IMM07** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
 
-- **ENT01-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT01-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT01-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT01-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT01-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+### Entraînement 2
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
 
-### ENT02
+### Entraînement 3
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
 
-- **ENT02-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT02-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT02-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT02-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT02-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+### Entraînement 4
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
 
-### ENT03
+### Entraînement 5
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
 
-- **ENT03-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT03-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT03-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT03-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT03-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+### Entraînement 6
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
 
-### ENT04
+### Entraînement 7
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
 
-- **ENT04-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT04-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT04-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT04-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT04-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+### Entraînement 8
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
 
-### ENT05
+### Entraînement 9
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
 
-- **ENT05-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT05-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT05-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT05-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT05-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-
-### ENT06
-
-- **ENT06-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT06-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT06-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT06-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT06-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-
-### ENT07
-
-- **ENT07-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT07-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT07-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT07-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT07-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-
-### ENT08
-
-- **ENT08-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT08-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT08-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT08-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT08-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-
-### ENT09
-
-- **ENT09-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT09-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **ENT09-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT09-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT09-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-
-### ENT10
-
-- **ENT10-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **ENT10-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **ENT10-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **ENT10-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **ENT10-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+### Entraînement 10
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
 
-- **EVAL01-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL01-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL01-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL01-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL01-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+### Évaluation 2
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
 
-### EVAL02
+### Évaluation 3
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
 
-- **EVAL02-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL02-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL02-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL02-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL02-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+### Évaluation 4
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
 
-### EVAL03
+### Évaluation 5
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
 
-- **EVAL03-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL03-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL03-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL03-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL03-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+### Évaluation 6
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
 
-### EVAL04
+### Évaluation 7
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
 
-- **EVAL04-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL04-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL04-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL04-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL04-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+### Évaluation 8
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
 
-### EVAL05
+### Évaluation 9
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
 
-- **EVAL05-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL05-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL05-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL05-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL05-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-
-### EVAL06
-
-- **EVAL06-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL06-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL06-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL06-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL06-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-
-### EVAL07
-
-- **EVAL07-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL07-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL07-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL07-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL07-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-
-### EVAL08
-
-- **EVAL08-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL08-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL08-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL08-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL08-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-
-### EVAL09
-
-- **EVAL09-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL09-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **EVAL09-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL09-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL09-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-
-### EVAL10
-
-- **EVAL10-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **EVAL10-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **EVAL10-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **EVAL10-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **EVAL10-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+### Évaluation 10
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
 
-- **DEV01-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV01-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV01-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV01-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV01-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+### Devoir 2
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
 
-### DEV02
+### Devoir 3
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
 
-- **DEV02-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV02-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV02-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV02-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV02-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+### Devoir 4
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
 
-### DEV03
+### Devoir 5
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
 
-- **DEV03-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV03-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV03-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV03-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV03-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+### Devoir 6
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
 
-### DEV04
+### Devoir 7
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
 
-- **DEV04-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV04-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV04-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV04-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV04-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+### Devoir 8
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
 
-### DEV05
+### Devoir 9
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
 
-- **DEV05-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV05-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV05-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV05-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV05-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-
-### DEV06
-
-- **DEV06-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV06-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV06-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV06-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV06-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-
-### DEV07
-
-- **DEV07-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV07-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV07-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV07-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV07-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-
-### DEV08
-
-- **DEV08-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV08-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV08-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV08-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV08-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-
-### DEV09
-
-- **DEV09-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
-- **DEV09-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV09-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV09-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV09-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-
-### DEV10
-
-- **DEV10-01** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
-- **DEV10-02** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
-- **DEV10-03** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
-- **DEV10-04** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
-- **DEV10-05** Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
+### Devoir 10
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lion en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chat en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de lapin en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de chien en partant de la gauche ?
+- Dans la liste lion, chat, lapin, chien, singe, quel est le rang de singe en partant de la gauche ?
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 3e.
 2. 4e.
 3. 5e.
 4. 1e.
 5. 2e.
 
-#### ENT02
-
+#### Entraînement 2
 1. 5e.
 2. 1e.
 3. 2e.
 4. 3e.
 5. 4e.
 
-#### ENT03
-
+#### Entraînement 3
 1. 2e.
 2. 3e.
 3. 4e.
 4. 5e.
 5. 1e.
 
-#### ENT04
-
+#### Entraînement 4
 1. 4e.
 2. 5e.
 3. 1e.
 4. 2e.
 5. 3e.
 
-#### ENT05
-
+#### Entraînement 5
 1. 1e.
 2. 2e.
 3. 3e.
 4. 4e.
 5. 5e.
 
-#### ENT06
-
+#### Entraînement 6
 1. 3e.
 2. 4e.
 3. 5e.
 4. 1e.
 5. 2e.
 
-#### ENT07
-
+#### Entraînement 7
 1. 5e.
 2. 1e.
 3. 2e.
 4. 3e.
 5. 4e.
 
-#### ENT08
-
+#### Entraînement 8
 1. 2e.
 2. 3e.
 3. 4e.
 4. 5e.
 5. 1e.
 
-#### ENT09
-
+#### Entraînement 9
 1. 4e.
 2. 5e.
 3. 1e.
 4. 2e.
 5. 3e.
 
-#### ENT10
-
+#### Entraînement 10
 1. 1e.
 2. 2e.
 3. 3e.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 3e.
 2. 4e.
 3. 5e.
 4. 1e.
 5. 2e.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 5e.
 2. 1e.
 3. 2e.
 4. 3e.
 5. 4e.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 2e.
 2. 3e.
 3. 4e.
 4. 5e.
 5. 1e.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 4e.
 2. 5e.
 3. 1e.
 4. 2e.
 5. 3e.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 1e.
 2. 2e.
 3. 3e.
 4. 4e.
 5. 5e.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 3e.
 2. 4e.
 3. 5e.
 4. 1e.
 5. 2e.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 5e.
 2. 1e.
 3. 2e.
 4. 3e.
 5. 4e.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 2e.
 2. 3e.
 3. 4e.
 4. 5e.
 5. 1e.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 4e.
 2. 5e.
 3. 1e.
 4. 2e.
 5. 3e.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 1e.
 2. 2e.
 3. 3e.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 2e.
 2. 3e.
 3. 4e.
 4. 5e.
 5. 1e.
 
-#### DEV02
-
+#### Devoir 2
 1. 3e.
 2. 4e.
 3. 5e.
 4. 1e.
 5. 2e.
 
-#### DEV03
-
+#### Devoir 3
 1. 4e.
 2. 5e.
 3. 1e.
 4. 2e.
 5. 3e.
 
-#### DEV04
-
+#### Devoir 4
 1. 5e.
 2. 1e.
 3. 2e.
 4. 3e.
 5. 4e.
 
-#### DEV05
-
+#### Devoir 5
 1. 1e.
 2. 2e.
 3. 3e.
 4. 4e.
 5. 5e.
 
-#### DEV06
-
+#### Devoir 6
 1. 2e.
 2. 3e.
 3. 4e.
 4. 5e.
 5. 1e.
 
-#### DEV07
-
+#### Devoir 7
 1. 3e.
 2. 4e.
 3. 5e.
 4. 1e.
 5. 2e.
 
-#### DEV08
-
+#### Devoir 8
 1. 4e.
 2. 5e.
 3. 1e.
 4. 2e.
 5. 3e.
 
-#### DEV09
-
+#### Devoir 9
 1. 5e.
 2. 1e.
 3. 2e.
 4. 3e.
 5. 4e.
 
-#### DEV10
-
+#### Devoir 10
 1. 1e.
 2. 2e.
 3. 3e.

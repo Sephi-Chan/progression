@@ -67,8 +67,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 ## Modelage explicite — 3 items
 
-### MOD01 — Modelage complet
-
+### Modelage 1 — Modelage complet
 **Énoncé :** Le chat de Nina **dort**.
 
 - **Attention d’abord :** Je pars du verbe en gras : dort.
@@ -76,8 +75,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Le chat de Nina
 - **Contrôle final :** « Le chat de Nina dort » est complet.
 
-### MOD02 — Modelage interactif
-
+### Modelage 2 — Modelage interactif
 **Énoncé :** Les oiseaux du grand arbre **chantent**.
 
 - **Attention d’abord :** Quel est le verbe fourni ?
@@ -85,8 +83,7 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 - **Réponse :** Les oiseaux du grand arbre
 - **Contrôle final :** Le groupe entier peut être remplacé oralement par ils.
 
-### MOD03 — Guidage allégé
-
+### Modelage 3 — Guidage allégé
 **Énoncé :** Dans la cour, les élèves de notre classe **jouent**.
 
 - **Attention d’abord :** Partir de jouent et ne pas prendre le complément initial.
@@ -98,13 +95,13 @@ Le format demande toujours la même opération et rend la réponse immédiatemen
 
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **IMM01** Le chat de Nina **dort**.
-- **IMM02** La sœur de Léo **dessine**.
-- **IMM03** La tortue du jardin **avance**.
-- **IMM04** La lampe du salon **brille**.
-- **IMM05** Les oiseaux du grand arbre **chantent**.
-- **IMM06** Les chats de la voisine **dorment**.
-- **IMM07** Les fleurs du petit jardin **poussent**.
+- Le chat de Nina **dort**.
+- La sœur de Léo **dessine**.
+- La tortue du jardin **avance**.
+- La lampe du salon **brille**.
+- Les oiseaux du grand arbre **chantent**.
+- Les chats de la voisine **dorment**.
+- Les fleurs du petit jardin **poussent**.
 
 ## Variables didactiques
 
@@ -135,602 +132,542 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 ## Entraînements
 
 
-### ENT01
-
+### Entraînement 1
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT01-01** Le chat de Nina **dort**.
-- **ENT01-02** Le chien de Sami **aboie**.
-- **ENT01-03** La sœur de Léo **dessine**.
-- **ENT01-04** Le lapin du voisin **saute**.
-- **ENT01-05** La maîtresse de la classe **parle**.
-- **ENT01-06** Le vélo de mon frère **roule**.
-- **ENT01-07** La tortue du jardin **avance**.
-- **ENT01-08** Le facteur du village **arrive**.
+- Le chat de Nina **dort**.
+- Le chien de Sami **aboie**.
+- La sœur de Léo **dessine**.
+- Le lapin du voisin **saute**.
+- La maîtresse de la classe **parle**.
+- Le vélo de mon frère **roule**.
+- La tortue du jardin **avance**.
+- Le facteur du village **arrive**.
 
-### ENT02
-
+### Entraînement 2
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT02-01** La lampe du salon **brille**.
-- **ENT02-02** Le bateau de mon oncle **flotte**.
-- **ENT02-03** La poule de la ferme **picore**.
-- **ENT02-04** Le bébé de nos amis **sourit**.
-- **ENT02-05** Le livre de contes **tombe**.
-- **ENT02-06** La porte de la cuisine **grince**.
-- **ENT02-07** Le cheval du fermier **galope**.
-- **ENT02-08** La cloche de l’école **sonne**.
+- La lampe du salon **brille**.
+- Le bateau de mon oncle **flotte**.
+- La poule de la ferme **picore**.
+- Le bébé de nos amis **sourit**.
+- Le livre de contes **tombe**.
+- La porte de la cuisine **grince**.
+- Le cheval du fermier **galope**.
+- La cloche de l’école **sonne**.
 
-### ENT03
-
+### Entraînement 3
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT03-01** Le ballon de Tom **rebondit**.
-- **ENT03-02** La chatte de Zoé **ronronne**.
-- **ENT03-03** Le camion de livraison **recule**.
-- **ENT03-04** La branche du pommier **casse**.
-- **ENT03-05** Les oiseaux du grand arbre **chantent**.
-- **ENT03-06** Les élèves de notre classe **écoutent**.
-- **ENT03-07** Les roues du vieux vélo **tournent**.
-- **ENT03-08** Les chats de la voisine **dorment**.
+- Le ballon de Tom **rebondit**.
+- La chatte de Zoé **ronronne**.
+- Le camion de livraison **recule**.
+- La branche du pommier **casse**.
+- Les oiseaux du grand arbre **chantent**.
+- Les élèves de notre classe **écoutent**.
+- Les roues du vieux vélo **tournent**.
+- Les chats de la voisine **dorment**.
 
-### ENT04
-
+### Entraînement 4
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT04-01** Les feuilles de cet arbre **tombent**.
-- **ENT04-02** Les fenêtres de la maison **brillent**.
-- **ENT04-03** Les joueurs de cette équipe **courent**.
-- **ENT04-04** Les fleurs du petit jardin **poussent**.
-- **ENT04-05** Les cloches de l’église **sonnent**.
-- **ENT04-06** Les enfants de mes voisins **rient**.
-- **ENT04-07** Les poissons du grand bassin **nagent**.
-- **ENT04-08** Les poules de la ferme **picorent**.
+- Les feuilles de cet arbre **tombent**.
+- Les fenêtres de la maison **brillent**.
+- Les joueurs de cette équipe **courent**.
+- Les fleurs du petit jardin **poussent**.
+- Les cloches de l’église **sonnent**.
+- Les enfants de mes voisins **rient**.
+- Les poissons du grand bassin **nagent**.
+- Les poules de la ferme **picorent**.
 
-### ENT05
-
+### Entraînement 5
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT05-01** Les livres de cette étagère **glissent**.
-- **ENT05-02** Les vagues de la mer **avancent**.
-- **ENT05-03** Les chiens du berger **aboient**.
-- **ENT05-04** Les lumières de la rue **s’allument**.
-- **ENT05-05** Les portes de la salle **claquent**.
-- **ENT05-06** Les billes de mon sac **roulent**.
-- **ENT05-07** Les nuages du matin **disparaissent**.
-- **ENT05-08** Les enfants du centre **jouent**.
+- Les livres de cette étagère **glissent**.
+- Les vagues de la mer **avancent**.
+- Les chiens du berger **aboient**.
+- Les lumières de la rue **s’allument**.
+- Les portes de la salle **claquent**.
+- Les billes de mon sac **roulent**.
+- Les nuages du matin **disparaissent**.
+- Les enfants du centre **jouent**.
 
-### ENT06
-
+### Entraînement 6
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT06-01** Ce matin, le chat de Nina **dort**.
-- **ENT06-02** Dans la cour, le chien de Sami **aboie**.
-- **ENT06-03** Après la pluie, la sœur de Léo **dessine**.
-- **ENT06-04** Au loin, le lapin du voisin **saute**.
-- **ENT06-05** Ce matin, la maîtresse de la classe **parle**.
-- **ENT06-06** Dans la cour, le vélo de mon frère **roule**.
-- **ENT06-07** Après la pluie, la tortue du jardin **avance**.
-- **ENT06-08** Au loin, le facteur du village **arrive**.
+- Ce matin, le chat de Nina **dort**.
+- Dans la cour, le chien de Sami **aboie**.
+- Après la pluie, la sœur de Léo **dessine**.
+- Au loin, le lapin du voisin **saute**.
+- Ce matin, la maîtresse de la classe **parle**.
+- Dans la cour, le vélo de mon frère **roule**.
+- Après la pluie, la tortue du jardin **avance**.
+- Au loin, le facteur du village **arrive**.
 
-### ENT07
-
+### Entraînement 7
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT07-01** Ce matin, la lampe du salon **brille**.
-- **ENT07-02** Dans la cour, le bateau de mon oncle **flotte**.
-- **ENT07-03** Après la pluie, la poule de la ferme **picore**.
-- **ENT07-04** Au loin, le bébé de nos amis **sourit**.
-- **ENT07-05** Ce matin, le livre de contes **tombe**.
-- **ENT07-06** Dans la cour, la porte de la cuisine **grince**.
-- **ENT07-07** Après la pluie, le cheval du fermier **galope**.
-- **ENT07-08** Au loin, la cloche de l’école **sonne**.
+- Ce matin, la lampe du salon **brille**.
+- Dans la cour, le bateau de mon oncle **flotte**.
+- Après la pluie, la poule de la ferme **picore**.
+- Au loin, le bébé de nos amis **sourit**.
+- Ce matin, le livre de contes **tombe**.
+- Dans la cour, la porte de la cuisine **grince**.
+- Après la pluie, le cheval du fermier **galope**.
+- Au loin, la cloche de l’école **sonne**.
 
-### ENT08
-
+### Entraînement 8
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT08-01** Ce matin, le ballon de Tom **rebondit**.
-- **ENT08-02** Dans la cour, la chatte de Zoé **ronronne**.
-- **ENT08-03** Après la pluie, le camion de livraison **recule**.
-- **ENT08-04** Au loin, la branche du pommier **casse**.
-- **ENT08-05** Ce matin, les oiseaux du grand arbre **chantent**.
-- **ENT08-06** Dans la cour, les élèves de notre classe **écoutent**.
-- **ENT08-07** Après la pluie, les roues du vieux vélo **tournent**.
-- **ENT08-08** Au loin, les chats de la voisine **dorment**.
+- Ce matin, le ballon de Tom **rebondit**.
+- Dans la cour, la chatte de Zoé **ronronne**.
+- Après la pluie, le camion de livraison **recule**.
+- Au loin, la branche du pommier **casse**.
+- Ce matin, les oiseaux du grand arbre **chantent**.
+- Dans la cour, les élèves de notre classe **écoutent**.
+- Après la pluie, les roues du vieux vélo **tournent**.
+- Au loin, les chats de la voisine **dorment**.
 
-### ENT09
-
+### Entraînement 9
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT09-01** Ce matin, les feuilles de cet arbre **tombent**.
-- **ENT09-02** Dans la cour, les fenêtres de la maison **brillent**.
-- **ENT09-03** Après la pluie, les joueurs de cette équipe **courent**.
-- **ENT09-04** Au loin, les fleurs du petit jardin **poussent**.
-- **ENT09-05** Ce matin, les cloches de l’église **sonnent**.
-- **ENT09-06** Dans la cour, les enfants de mes voisins **rient**.
-- **ENT09-07** Après la pluie, les poissons du grand bassin **nagent**.
-- **ENT09-08** Au loin, les poules de la ferme **picorent**.
+- Ce matin, les feuilles de cet arbre **tombent**.
+- Dans la cour, les fenêtres de la maison **brillent**.
+- Après la pluie, les joueurs de cette équipe **courent**.
+- Au loin, les fleurs du petit jardin **poussent**.
+- Ce matin, les cloches de l’église **sonnent**.
+- Dans la cour, les enfants de mes voisins **rient**.
+- Après la pluie, les poissons du grand bassin **nagent**.
+- Au loin, les poules de la ferme **picorent**.
 
-### ENT10
-
+### Entraînement 10
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **ENT10-01** Ce matin, les livres de cette étagère **glissent**.
-- **ENT10-02** Dans la cour, les vagues de la mer **avancent**.
-- **ENT10-03** Après la pluie, les chiens du berger **aboient**.
-- **ENT10-04** Au loin, les lumières de la rue **s’allument**.
-- **ENT10-05** Ce matin, les portes de la salle **claquent**.
-- **ENT10-06** Dans la cour, les billes de mon sac **roulent**.
-- **ENT10-07** Après la pluie, les nuages du matin **disparaissent**.
-- **ENT10-08** Au loin, les enfants du centre **jouent**.
+- Ce matin, les livres de cette étagère **glissent**.
+- Dans la cour, les vagues de la mer **avancent**.
+- Après la pluie, les chiens du berger **aboient**.
+- Au loin, les lumières de la rue **s’allument**.
+- Ce matin, les portes de la salle **claquent**.
+- Dans la cour, les billes de mon sac **roulent**.
+- Après la pluie, les nuages du matin **disparaissent**.
+- Au loin, les enfants du centre **jouent**.
 
 ## Évaluations
 
 
-### EVAL01
-
+### Évaluation 1
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL01-01** Le chat de Nina **dort**.
-- **EVAL01-02** La branche du pommier **casse**.
-- **EVAL01-03** Les nuages du matin **disparaissent**.
-- **EVAL01-04** Ce matin, le chat de Lina **dort**.
-- **EVAL01-05** Le petit chat de ma tante **miaule**.
+- Le chat de Nina **dort**.
+- La branche du pommier **casse**.
+- Les nuages du matin **disparaissent**.
+- Ce matin, le chat de Lina **dort**.
+- Le petit chat de ma tante **miaule**.
 
-### EVAL02
-
+### Évaluation 2
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL02-01** Le facteur du village **arrive**.
-- **EVAL02-02** Les joueurs de cette équipe **courent**.
-- **EVAL02-03** Dans la cour, le vélo de mon frère **roule**.
-- **EVAL02-04** Ce matin, le chien de Rémi **aboie**.
-- **EVAL02-05** La grande porte du garage **s’ouvre**.
+- Le facteur du village **arrive**.
+- Les joueurs de cette équipe **courent**.
+- Dans la cour, le vélo de mon frère **roule**.
+- Ce matin, le chien de Rémi **aboie**.
+- La grande porte du garage **s’ouvre**.
 
-### EVAL03
-
+### Évaluation 3
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL03-01** Le cheval du fermier **galope**.
-- **EVAL03-02** Les vagues de la mer **avancent**.
-- **EVAL03-03** Ce matin, le livre de contes **tombe**.
-- **EVAL03-04** Ce matin, la sœur de Noé **dessine**.
-- **EVAL03-05** Les jeunes arbres de la place **grandissent**.
+- Le cheval du fermier **galope**.
+- Les vagues de la mer **avancent**.
+- Ce matin, le livre de contes **tombe**.
+- Ce matin, la sœur de Noé **dessine**.
+- Les jeunes arbres de la place **grandissent**.
 
-### EVAL04
-
+### Évaluation 4
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL04-01** Les élèves de notre classe **écoutent**.
-- **EVAL04-02** Ce matin, le chat de Nina **dort**.
-- **EVAL04-03** Au loin, la branche du pommier **casse**.
-- **EVAL04-04** Ce matin, le lapin du cousin **saute**.
-- **EVAL04-05** Les crayons de la trousse rouge **tombent**.
+- Les élèves de notre classe **écoutent**.
+- Ce matin, le chat de Nina **dort**.
+- Au loin, la branche du pommier **casse**.
+- Ce matin, le lapin du cousin **saute**.
+- Les crayons de la trousse rouge **tombent**.
 
-### EVAL05
-
+### Évaluation 5
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL05-01** Les cloches de l’église **sonnent**.
-- **EVAL05-02** Au loin, le facteur du village **arrive**.
-- **EVAL05-03** Après la pluie, les joueurs de cette équipe **courent**.
-- **EVAL05-04** Ce matin, la maîtresse du groupe **parle**.
-- **EVAL05-05** Le nouveau gardien de l’école **salue**.
+- Les cloches de l’église **sonnent**.
+- Au loin, le facteur du village **arrive**.
+- Après la pluie, les joueurs de cette équipe **courent**.
+- Ce matin, la maîtresse du groupe **parle**.
+- Le nouveau gardien de l’école **salue**.
 
-### EVAL06
-
+### Évaluation 6
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL06-01** Les lumières de la rue **s’allument**.
-- **EVAL06-02** Après la pluie, le cheval du fermier **galope**.
-- **EVAL06-03** Dans la cour, les vagues de la mer **avancent**.
-- **EVAL06-04** Ce matin, le vélo de mon cousin **roule**.
-- **EVAL06-05** Les canards du petit étang **barbotent**.
+- Les lumières de la rue **s’allument**.
+- Après la pluie, le cheval du fermier **galope**.
+- Dans la cour, les vagues de la mer **avancent**.
+- Ce matin, le vélo de mon cousin **roule**.
+- Les canards du petit étang **barbotent**.
 
-### EVAL07
-
+### Évaluation 7
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL07-01** Après la pluie, la sœur de Léo **dessine**.
-- **EVAL07-02** Dans la cour, les élèves de notre classe **écoutent**.
-- **EVAL07-03** Le chat de Nina **dort**.
-- **EVAL07-04** Ce matin, la tortue du parc **avance**.
-- **EVAL07-05** La voiture de nos voisins **démarre**.
+- Après la pluie, la sœur de Léo **dessine**.
+- Dans la cour, les élèves de notre classe **écoutent**.
+- Le chat de Nina **dort**.
+- Ce matin, la tortue du parc **avance**.
+- La voiture de nos voisins **démarre**.
 
-### EVAL08
-
+### Évaluation 8
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL08-01** Dans la cour, le bateau de mon oncle **flotte**.
-- **EVAL08-02** Ce matin, les cloches de l’église **sonnent**.
-- **EVAL08-03** Le facteur du village **arrive**.
-- **EVAL08-04** Ce matin, le facteur du quartier **arrive**.
-- **EVAL08-05** Les étoiles du ciel clair **brillent**.
+- Dans la cour, le bateau de mon oncle **flotte**.
+- Ce matin, les cloches de l’église **sonnent**.
+- Le facteur du village **arrive**.
+- Ce matin, le facteur du quartier **arrive**.
+- Les étoiles du ciel clair **brillent**.
 
-### EVAL09
-
+### Évaluation 9
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL09-01** Ce matin, le ballon de Tom **rebondit**.
-- **EVAL09-02** Au loin, les lumières de la rue **s’allument**.
-- **EVAL09-03** Le cheval du fermier **galope**.
-- **EVAL09-04** Ce matin, la lampe du couloir **brille**.
-- **EVAL09-05** Le manteau de mon grand-père **sèche**.
+- Ce matin, le ballon de Tom **rebondit**.
+- Au loin, les lumières de la rue **s’allument**.
+- Le cheval du fermier **galope**.
+- Ce matin, la lampe du couloir **brille**.
+- Le manteau de mon grand-père **sèche**.
 
-### EVAL10
-
+### Évaluation 10
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **EVAL10-01** Au loin, les chats de la voisine **dorment**.
-- **EVAL10-02** La sœur de Léo **dessine**.
-- **EVAL10-03** Les élèves de notre classe **écoutent**.
-- **EVAL10-04** Ce matin, le bateau de mon père **flotte**.
-- **EVAL10-05** Les clés de cette armoire **tintent**.
+- Au loin, les chats de la voisine **dorment**.
+- La sœur de Léo **dessine**.
+- Les élèves de notre classe **écoutent**.
+- Ce matin, le bateau de mon père **flotte**.
+- Les clés de cette armoire **tintent**.
 
 ## Devoirs
 
 
-### DEV01
-
+### Devoir 1
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV01-01** Le chat de Nina **dort**.
-- **DEV01-02** Le facteur du village **arrive**.
-- **DEV01-03** Le cheval du fermier **galope**.
-- **DEV01-04** Les élèves de notre classe **écoutent**.
-- **DEV01-05** Les cloches de l’église **sonnent**.
+- Le chat de Nina **dort**.
+- Le facteur du village **arrive**.
+- Le cheval du fermier **galope**.
+- Les élèves de notre classe **écoutent**.
+- Les cloches de l’église **sonnent**.
 
-### DEV02
-
+### Devoir 2
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV02-01** Le lapin du voisin **saute**.
-- **DEV02-02** La poule de la ferme **picore**.
-- **DEV02-03** La chatte de Zoé **ronronne**.
-- **DEV02-04** Les feuilles de cet arbre **tombent**.
-- **DEV02-05** Les poules de la ferme **picorent**.
+- Le lapin du voisin **saute**.
+- La poule de la ferme **picore**.
+- La chatte de Zoé **ronronne**.
+- Les feuilles de cet arbre **tombent**.
+- Les poules de la ferme **picorent**.
 
-### DEV03
-
+### Devoir 3
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV03-01** La tortue du jardin **avance**.
-- **DEV03-02** La porte de la cuisine **grince**.
-- **DEV03-03** Les oiseaux du grand arbre **chantent**.
-- **DEV03-04** Les fleurs du petit jardin **poussent**.
-- **DEV03-05** La sœur de Léo **dessine**.
+- La tortue du jardin **avance**.
+- La porte de la cuisine **grince**.
+- Les oiseaux du grand arbre **chantent**.
+- Les fleurs du petit jardin **poussent**.
+- La sœur de Léo **dessine**.
 
-### DEV04
-
+### Devoir 4
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV04-01** Le bateau de mon oncle **flotte**.
-- **DEV04-02** Le ballon de Tom **rebondit**.
-- **DEV04-03** Les chats de la voisine **dorment**.
-- **DEV04-04** Les poissons du grand bassin **nagent**.
-- **DEV04-05** Le vélo de mon frère **roule**.
+- Le bateau de mon oncle **flotte**.
+- Le ballon de Tom **rebondit**.
+- Les chats de la voisine **dorment**.
+- Les poissons du grand bassin **nagent**.
+- Le vélo de mon frère **roule**.
 
-### DEV05
-
+### Devoir 5
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV05-01** Le livre de contes **tombe**.
-- **DEV05-02** La branche du pommier **casse**.
-- **DEV05-03** Les joueurs de cette équipe **courent**.
-- **DEV05-04** Le chien de Sami **aboie**.
-- **DEV05-05** La lampe du salon **brille**.
+- Le livre de contes **tombe**.
+- La branche du pommier **casse**.
+- Les joueurs de cette équipe **courent**.
+- Le chien de Sami **aboie**.
+- La lampe du salon **brille**.
 
-### DEV06
-
+### Devoir 6
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV06-01** La cloche de l’école **sonne**.
-- **DEV06-02** Les roues du vieux vélo **tournent**.
-- **DEV06-03** Les enfants de mes voisins **rient**.
-- **DEV06-04** La maîtresse de la classe **parle**.
-- **DEV06-05** Le bébé de nos amis **sourit**.
+- La cloche de l’école **sonne**.
+- Les roues du vieux vélo **tournent**.
+- Les enfants de mes voisins **rient**.
+- La maîtresse de la classe **parle**.
+- Le bébé de nos amis **sourit**.
 
-### DEV07
-
+### Devoir 7
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV07-01** Le camion de livraison **recule**.
-- **DEV07-02** Les fenêtres de la maison **brillent**.
-- **DEV07-03** Le chat de Nina **dort**.
-- **DEV07-04** Le facteur du village **arrive**.
-- **DEV07-05** Le cheval du fermier **galope**.
+- Le camion de livraison **recule**.
+- Les fenêtres de la maison **brillent**.
+- Le chat de Nina **dort**.
+- Le facteur du village **arrive**.
+- Le cheval du fermier **galope**.
 
-### DEV08
-
+### Devoir 8
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV08-01** Les élèves de notre classe **écoutent**.
-- **DEV08-02** Les cloches de l’église **sonnent**.
-- **DEV08-03** Le lapin du voisin **saute**.
-- **DEV08-04** La poule de la ferme **picore**.
-- **DEV08-05** La chatte de Zoé **ronronne**.
+- Les élèves de notre classe **écoutent**.
+- Les cloches de l’église **sonnent**.
+- Le lapin du voisin **saute**.
+- La poule de la ferme **picore**.
+- La chatte de Zoé **ronronne**.
 
-### DEV09
-
+### Devoir 9
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV09-01** Les feuilles de cet arbre **tombent**.
-- **DEV09-02** Les poules de la ferme **picorent**.
-- **DEV09-03** La tortue du jardin **avance**.
-- **DEV09-04** La porte de la cuisine **grince**.
-- **DEV09-05** Les oiseaux du grand arbre **chantent**.
+- Les feuilles de cet arbre **tombent**.
+- Les poules de la ferme **picorent**.
+- La tortue du jardin **avance**.
+- La porte de la cuisine **grince**.
+- Les oiseaux du grand arbre **chantent**.
 
-### DEV10
-
+### Devoir 10
 Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 
-- **DEV10-01** Les fleurs du petit jardin **poussent**.
-- **DEV10-02** La sœur de Léo **dessine**.
-- **DEV10-03** Le bateau de mon oncle **flotte**.
-- **DEV10-04** Le ballon de Tom **rebondit**.
-- **DEV10-05** Les chats de la voisine **dorment**.
+- Les fleurs du petit jardin **poussent**.
+- La sœur de Léo **dessine**.
+- Le bateau de mon oncle **flotte**.
+- Le ballon de Tom **rebondit**.
+- Les chats de la voisine **dorment**.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** — Le chat de Nina
-2. **IMM02** — La sœur de Léo
-3. **IMM03** — La tortue du jardin
-4. **IMM04** — La lampe du salon
-5. **IMM05** — Les oiseaux du grand arbre
-6. **IMM06** — Les chats de la voisine
-7. **IMM07** — Les fleurs du petit jardin
+1. — Le chat de Nina
+2. — La sœur de Léo
+3. — La tortue du jardin
+4. — La lampe du salon
+5. — Les oiseaux du grand arbre
+6. — Les chats de la voisine
+7. — Les fleurs du petit jardin
 
 ### Corrections des entraînements
 
 
-#### ENT01
-1. **ENT01-01** — Le chat de Nina
-2. **ENT01-02** — Le chien de Sami
-3. **ENT01-03** — La sœur de Léo
-4. **ENT01-04** — Le lapin du voisin
-5. **ENT01-05** — La maîtresse de la classe
-6. **ENT01-06** — Le vélo de mon frère
-7. **ENT01-07** — La tortue du jardin
-8. **ENT01-08** — Le facteur du village
+#### Entraînement 11. **ENT01-01** — Le chat de Nina
+2. — Le chien de Sami
+3. — La sœur de Léo
+4. — Le lapin du voisin
+5. — La maîtresse de la classe
+6. — Le vélo de mon frère
+7. — La tortue du jardin
+8. — Le facteur du village
 
-#### ENT02
-1. **ENT02-01** — La lampe du salon
-2. **ENT02-02** — Le bateau de mon oncle
-3. **ENT02-03** — La poule de la ferme
-4. **ENT02-04** — Le bébé de nos amis
-5. **ENT02-05** — Le livre de contes
-6. **ENT02-06** — La porte de la cuisine
-7. **ENT02-07** — Le cheval du fermier
-8. **ENT02-08** — La cloche de l’école
+#### Entraînement 21. **ENT02-01** — La lampe du salon
+2. — Le bateau de mon oncle
+3. — La poule de la ferme
+4. — Le bébé de nos amis
+5. — Le livre de contes
+6. — La porte de la cuisine
+7. — Le cheval du fermier
+8. — La cloche de l’école
 
-#### ENT03
-1. **ENT03-01** — Le ballon de Tom
-2. **ENT03-02** — La chatte de Zoé
-3. **ENT03-03** — Le camion de livraison
-4. **ENT03-04** — La branche du pommier
-5. **ENT03-05** — Les oiseaux du grand arbre
-6. **ENT03-06** — Les élèves de notre classe
-7. **ENT03-07** — Les roues du vieux vélo
-8. **ENT03-08** — Les chats de la voisine
+#### Entraînement 31. **ENT03-01** — Le ballon de Tom
+2. — La chatte de Zoé
+3. — Le camion de livraison
+4. — La branche du pommier
+5. — Les oiseaux du grand arbre
+6. — Les élèves de notre classe
+7. — Les roues du vieux vélo
+8. — Les chats de la voisine
 
-#### ENT04
-1. **ENT04-01** — Les feuilles de cet arbre
-2. **ENT04-02** — Les fenêtres de la maison
-3. **ENT04-03** — Les joueurs de cette équipe
-4. **ENT04-04** — Les fleurs du petit jardin
-5. **ENT04-05** — Les cloches de l’église
-6. **ENT04-06** — Les enfants de mes voisins
-7. **ENT04-07** — Les poissons du grand bassin
-8. **ENT04-08** — Les poules de la ferme
+#### Entraînement 41. **ENT04-01** — Les feuilles de cet arbre
+2. — Les fenêtres de la maison
+3. — Les joueurs de cette équipe
+4. — Les fleurs du petit jardin
+5. — Les cloches de l’église
+6. — Les enfants de mes voisins
+7. — Les poissons du grand bassin
+8. — Les poules de la ferme
 
-#### ENT05
-1. **ENT05-01** — Les livres de cette étagère
-2. **ENT05-02** — Les vagues de la mer
-3. **ENT05-03** — Les chiens du berger
-4. **ENT05-04** — Les lumières de la rue
-5. **ENT05-05** — Les portes de la salle
-6. **ENT05-06** — Les billes de mon sac
-7. **ENT05-07** — Les nuages du matin
-8. **ENT05-08** — Les enfants du centre
+#### Entraînement 51. **ENT05-01** — Les livres de cette étagère
+2. — Les vagues de la mer
+3. — Les chiens du berger
+4. — Les lumières de la rue
+5. — Les portes de la salle
+6. — Les billes de mon sac
+7. — Les nuages du matin
+8. — Les enfants du centre
 
-#### ENT06
-1. **ENT06-01** — le chat de Nina
-2. **ENT06-02** — le chien de Sami
-3. **ENT06-03** — la sœur de Léo
-4. **ENT06-04** — le lapin du voisin
-5. **ENT06-05** — la maîtresse de la classe
-6. **ENT06-06** — le vélo de mon frère
-7. **ENT06-07** — la tortue du jardin
-8. **ENT06-08** — le facteur du village
+#### Entraînement 61. **ENT06-01** — le chat de Nina
+2. — le chien de Sami
+3. — la sœur de Léo
+4. — le lapin du voisin
+5. — la maîtresse de la classe
+6. — le vélo de mon frère
+7. — la tortue du jardin
+8. — le facteur du village
 
-#### ENT07
-1. **ENT07-01** — la lampe du salon
-2. **ENT07-02** — le bateau de mon oncle
-3. **ENT07-03** — la poule de la ferme
-4. **ENT07-04** — le bébé de nos amis
-5. **ENT07-05** — le livre de contes
-6. **ENT07-06** — la porte de la cuisine
-7. **ENT07-07** — le cheval du fermier
-8. **ENT07-08** — la cloche de l’école
+#### Entraînement 71. **ENT07-01** — la lampe du salon
+2. — le bateau de mon oncle
+3. — la poule de la ferme
+4. — le bébé de nos amis
+5. — le livre de contes
+6. — la porte de la cuisine
+7. — le cheval du fermier
+8. — la cloche de l’école
 
-#### ENT08
-1. **ENT08-01** — le ballon de Tom
-2. **ENT08-02** — la chatte de Zoé
-3. **ENT08-03** — le camion de livraison
-4. **ENT08-04** — la branche du pommier
-5. **ENT08-05** — les oiseaux du grand arbre
-6. **ENT08-06** — les élèves de notre classe
-7. **ENT08-07** — les roues du vieux vélo
-8. **ENT08-08** — les chats de la voisine
+#### Entraînement 81. **ENT08-01** — le ballon de Tom
+2. — la chatte de Zoé
+3. — le camion de livraison
+4. — la branche du pommier
+5. — les oiseaux du grand arbre
+6. — les élèves de notre classe
+7. — les roues du vieux vélo
+8. — les chats de la voisine
 
-#### ENT09
-1. **ENT09-01** — les feuilles de cet arbre
-2. **ENT09-02** — les fenêtres de la maison
-3. **ENT09-03** — les joueurs de cette équipe
-4. **ENT09-04** — les fleurs du petit jardin
-5. **ENT09-05** — les cloches de l’église
-6. **ENT09-06** — les enfants de mes voisins
-7. **ENT09-07** — les poissons du grand bassin
-8. **ENT09-08** — les poules de la ferme
+#### Entraînement 91. **ENT09-01** — les feuilles de cet arbre
+2. — les fenêtres de la maison
+3. — les joueurs de cette équipe
+4. — les fleurs du petit jardin
+5. — les cloches de l’église
+6. — les enfants de mes voisins
+7. — les poissons du grand bassin
+8. — les poules de la ferme
 
-#### ENT10
-1. **ENT10-01** — les livres de cette étagère
-2. **ENT10-02** — les vagues de la mer
-3. **ENT10-03** — les chiens du berger
-4. **ENT10-04** — les lumières de la rue
-5. **ENT10-05** — les portes de la salle
-6. **ENT10-06** — les billes de mon sac
-7. **ENT10-07** — les nuages du matin
-8. **ENT10-08** — les enfants du centre
+#### Entraînement 101. **ENT10-01** — les livres de cette étagère
+2. — les vagues de la mer
+3. — les chiens du berger
+4. — les lumières de la rue
+5. — les portes de la salle
+6. — les billes de mon sac
+7. — les nuages du matin
+8. — les enfants du centre
 
 ### Corrections des évaluations
 
 
-#### EVAL01
-1. **EVAL01-01** — Le chat de Nina
-2. **EVAL01-02** — La branche du pommier
-3. **EVAL01-03** — Les nuages du matin
-4. **EVAL01-04** — le chat de Lina
-5. **EVAL01-05** — Le petit chat de ma tante
+#### Évaluation 11. **EVAL01-01** — Le chat de Nina
+2. — La branche du pommier
+3. — Les nuages du matin
+4. — le chat de Lina
+5. — Le petit chat de ma tante
 
-#### EVAL02
-1. **EVAL02-01** — Le facteur du village
-2. **EVAL02-02** — Les joueurs de cette équipe
-3. **EVAL02-03** — le vélo de mon frère
-4. **EVAL02-04** — le chien de Rémi
-5. **EVAL02-05** — La grande porte du garage
+#### Évaluation 21. **EVAL02-01** — Le facteur du village
+2. — Les joueurs de cette équipe
+3. — le vélo de mon frère
+4. — le chien de Rémi
+5. — La grande porte du garage
 
-#### EVAL03
-1. **EVAL03-01** — Le cheval du fermier
-2. **EVAL03-02** — Les vagues de la mer
-3. **EVAL03-03** — le livre de contes
-4. **EVAL03-04** — la sœur de Noé
-5. **EVAL03-05** — Les jeunes arbres de la place
+#### Évaluation 31. **EVAL03-01** — Le cheval du fermier
+2. — Les vagues de la mer
+3. — le livre de contes
+4. — la sœur de Noé
+5. — Les jeunes arbres de la place
 
-#### EVAL04
-1. **EVAL04-01** — Les élèves de notre classe
-2. **EVAL04-02** — le chat de Nina
-3. **EVAL04-03** — la branche du pommier
-4. **EVAL04-04** — le lapin du cousin
-5. **EVAL04-05** — Les crayons de la trousse rouge
+#### Évaluation 41. **EVAL04-01** — Les élèves de notre classe
+2. — le chat de Nina
+3. — la branche du pommier
+4. — le lapin du cousin
+5. — Les crayons de la trousse rouge
 
-#### EVAL05
-1. **EVAL05-01** — Les cloches de l’église
-2. **EVAL05-02** — le facteur du village
-3. **EVAL05-03** — les joueurs de cette équipe
-4. **EVAL05-04** — la maîtresse du groupe
-5. **EVAL05-05** — Le nouveau gardien de l’école
+#### Évaluation 51. **EVAL05-01** — Les cloches de l’église
+2. — le facteur du village
+3. — les joueurs de cette équipe
+4. — la maîtresse du groupe
+5. — Le nouveau gardien de l’école
 
-#### EVAL06
-1. **EVAL06-01** — Les lumières de la rue
-2. **EVAL06-02** — le cheval du fermier
-3. **EVAL06-03** — les vagues de la mer
-4. **EVAL06-04** — le vélo de mon cousin
-5. **EVAL06-05** — Les canards du petit étang
+#### Évaluation 61. **EVAL06-01** — Les lumières de la rue
+2. — le cheval du fermier
+3. — les vagues de la mer
+4. — le vélo de mon cousin
+5. — Les canards du petit étang
 
-#### EVAL07
-1. **EVAL07-01** — la sœur de Léo
-2. **EVAL07-02** — les élèves de notre classe
-3. **EVAL07-03** — Le chat de Nina
-4. **EVAL07-04** — la tortue du parc
-5. **EVAL07-05** — La voiture de nos voisins
+#### Évaluation 71. **EVAL07-01** — la sœur de Léo
+2. — les élèves de notre classe
+3. — Le chat de Nina
+4. — la tortue du parc
+5. — La voiture de nos voisins
 
-#### EVAL08
-1. **EVAL08-01** — le bateau de mon oncle
-2. **EVAL08-02** — les cloches de l’église
-3. **EVAL08-03** — Le facteur du village
-4. **EVAL08-04** — le facteur du quartier
-5. **EVAL08-05** — Les étoiles du ciel clair
+#### Évaluation 81. **EVAL08-01** — le bateau de mon oncle
+2. — les cloches de l’église
+3. — Le facteur du village
+4. — le facteur du quartier
+5. — Les étoiles du ciel clair
 
-#### EVAL09
-1. **EVAL09-01** — le ballon de Tom
-2. **EVAL09-02** — les lumières de la rue
-3. **EVAL09-03** — Le cheval du fermier
-4. **EVAL09-04** — la lampe du couloir
-5. **EVAL09-05** — Le manteau de mon grand-père
+#### Évaluation 91. **EVAL09-01** — le ballon de Tom
+2. — les lumières de la rue
+3. — Le cheval du fermier
+4. — la lampe du couloir
+5. — Le manteau de mon grand-père
 
-#### EVAL10
-1. **EVAL10-01** — les chats de la voisine
-2. **EVAL10-02** — La sœur de Léo
-3. **EVAL10-03** — Les élèves de notre classe
-4. **EVAL10-04** — le bateau de mon père
-5. **EVAL10-05** — Les clés de cette armoire
+#### Évaluation 101. **EVAL10-01** — les chats de la voisine
+2. — La sœur de Léo
+3. — Les élèves de notre classe
+4. — le bateau de mon père
+5. — Les clés de cette armoire
 
 ### Corrections des devoirs
 
 
-#### DEV01
-1. **DEV01-01** — Le chat de Nina
-2. **DEV01-02** — Le facteur du village
-3. **DEV01-03** — Le cheval du fermier
-4. **DEV01-04** — Les élèves de notre classe
-5. **DEV01-05** — Les cloches de l’église
+#### Devoir 11. **DEV01-01** — Le chat de Nina
+2. — Le facteur du village
+3. — Le cheval du fermier
+4. — Les élèves de notre classe
+5. — Les cloches de l’église
 
-#### DEV02
-1. **DEV02-01** — Le lapin du voisin
-2. **DEV02-02** — La poule de la ferme
-3. **DEV02-03** — La chatte de Zoé
-4. **DEV02-04** — Les feuilles de cet arbre
-5. **DEV02-05** — Les poules de la ferme
+#### Devoir 21. **DEV02-01** — Le lapin du voisin
+2. — La poule de la ferme
+3. — La chatte de Zoé
+4. — Les feuilles de cet arbre
+5. — Les poules de la ferme
 
-#### DEV03
-1. **DEV03-01** — La tortue du jardin
-2. **DEV03-02** — La porte de la cuisine
-3. **DEV03-03** — Les oiseaux du grand arbre
-4. **DEV03-04** — Les fleurs du petit jardin
-5. **DEV03-05** — La sœur de Léo
+#### Devoir 31. **DEV03-01** — La tortue du jardin
+2. — La porte de la cuisine
+3. — Les oiseaux du grand arbre
+4. — Les fleurs du petit jardin
+5. — La sœur de Léo
 
-#### DEV04
-1. **DEV04-01** — Le bateau de mon oncle
-2. **DEV04-02** — Le ballon de Tom
-3. **DEV04-03** — Les chats de la voisine
-4. **DEV04-04** — Les poissons du grand bassin
-5. **DEV04-05** — Le vélo de mon frère
+#### Devoir 41. **DEV04-01** — Le bateau de mon oncle
+2. — Le ballon de Tom
+3. — Les chats de la voisine
+4. — Les poissons du grand bassin
+5. — Le vélo de mon frère
 
-#### DEV05
-1. **DEV05-01** — Le livre de contes
-2. **DEV05-02** — La branche du pommier
-3. **DEV05-03** — Les joueurs de cette équipe
-4. **DEV05-04** — Le chien de Sami
-5. **DEV05-05** — La lampe du salon
+#### Devoir 51. **DEV05-01** — Le livre de contes
+2. — La branche du pommier
+3. — Les joueurs de cette équipe
+4. — Le chien de Sami
+5. — La lampe du salon
 
-#### DEV06
-1. **DEV06-01** — La cloche de l’école
-2. **DEV06-02** — Les roues du vieux vélo
-3. **DEV06-03** — Les enfants de mes voisins
-4. **DEV06-04** — La maîtresse de la classe
-5. **DEV06-05** — Le bébé de nos amis
+#### Devoir 61. **DEV06-01** — La cloche de l’école
+2. — Les roues du vieux vélo
+3. — Les enfants de mes voisins
+4. — La maîtresse de la classe
+5. — Le bébé de nos amis
 
-#### DEV07
-1. **DEV07-01** — Le camion de livraison
-2. **DEV07-02** — Les fenêtres de la maison
-3. **DEV07-03** — Le chat de Nina
-4. **DEV07-04** — Le facteur du village
-5. **DEV07-05** — Le cheval du fermier
+#### Devoir 71. **DEV07-01** — Le camion de livraison
+2. — Les fenêtres de la maison
+3. — Le chat de Nina
+4. — Le facteur du village
+5. — Le cheval du fermier
 
-#### DEV08
-1. **DEV08-01** — Les élèves de notre classe
-2. **DEV08-02** — Les cloches de l’église
-3. **DEV08-03** — Le lapin du voisin
-4. **DEV08-04** — La poule de la ferme
-5. **DEV08-05** — La chatte de Zoé
+#### Devoir 81. **DEV08-01** — Les élèves de notre classe
+2. — Les cloches de l’église
+3. — Le lapin du voisin
+4. — La poule de la ferme
+5. — La chatte de Zoé
 
-#### DEV09
-1. **DEV09-01** — Les feuilles de cet arbre
-2. **DEV09-02** — Les poules de la ferme
-3. **DEV09-03** — La tortue du jardin
-4. **DEV09-04** — La porte de la cuisine
-5. **DEV09-05** — Les oiseaux du grand arbre
+#### Devoir 91. **DEV09-01** — Les feuilles de cet arbre
+2. — Les poules de la ferme
+3. — La tortue du jardin
+4. — La porte de la cuisine
+5. — Les oiseaux du grand arbre
 
-#### DEV10
-1. **DEV10-01** — Les fleurs du petit jardin
-2. **DEV10-02** — La sœur de Léo
-3. **DEV10-03** — Le bateau de mon oncle
-4. **DEV10-04** — Le ballon de Tom
-5. **DEV10-05** — Les chats de la voisine
+#### Devoir 101. **DEV10-01** — Les fleurs du petit jardin
+2. — La sœur de Léo
+3. — Le bateau de mon oncle
+4. — Le ballon de Tom
+5. — Les chats de la voisine
 
 ## Traçabilité des évaluations et devoirs
 

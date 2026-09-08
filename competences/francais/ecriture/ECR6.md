@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **IMM02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
-- **IMM03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
-- **IMM04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **frotter ses mains / rincer ses mains / mettre du savon**
-- **IMM05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
-- **IMM06** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **la mettre en terre / arroser la terre / prendre une graine**
-- **IMM07** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **frotter ses mains / rincer ses mains / mettre du savon**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **la mettre en terre / arroser la terre / prendre une graine**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
 
 ## Variables didactiques
 
@@ -135,511 +132,451 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
 
-- **ENT01-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **ENT01-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
-- **ENT01-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **ENT01-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
-- **ENT01-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+### Entraînement 2 — accessible
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
 
-- **ENT02-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-- **ENT02-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **ENT02-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **ENT02-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
-- **ENT02-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
+### Entraînement 4 — standard
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
 
-- **ENT03-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-- **ENT03-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
-- **ENT03-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **ENT03-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
-- **ENT03-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+### Entraînement 6 — standard
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **la mettre en terre / arroser la terre / prendre une graine**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
 
-### ENT04 — standard
+### Entraînement 7 — standard
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
 
-- **ENT04-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
-- **ENT04-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
-- **ENT04-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-- **ENT04-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **ENT04-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+### Entraînement 8 — plus résistant
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **frotter ses mains / rincer ses mains / mettre du savon**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **la mettre en terre / arroser la terre / prendre une graine**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
 
-- **ENT05-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **ENT05-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
-- **ENT05-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-- **ENT05-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
-- **ENT05-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-
-### ENT06 — standard
-
-- **ENT06-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
-- **ENT06-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **la mettre en terre / arroser la terre / prendre une graine**
-- **ENT06-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
-- **ENT06-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
-- **ENT06-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-
-### ENT07 — standard
-
-- **ENT07-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
-- **ENT07-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
-- **ENT07-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **ENT07-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
-- **ENT07-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-
-### ENT08 — plus résistant
-
-- **ENT08-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
-- **ENT08-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **frotter ses mains / rincer ses mains / mettre du savon**
-- **ENT08-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
-- **ENT08-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **la mettre en terre / arroser la terre / prendre une graine**
-- **ENT08-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
-
-### ENT09 — plus résistant
-
-- **ENT09-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **ENT09-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
-- **ENT09-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
-- **ENT09-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
-- **ENT09-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **ENT10-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
-- **ENT10-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
-- **ENT10-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **frotter ses mains / rincer ses mains / mettre du savon**
-- **ENT10-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
+### Entraînement 10 — plus résistant
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **frotter ses mains / rincer ses mains / mettre du savon**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sauter dans une flaque / enfiler ses bottes / sortir dans le jardin**
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune combine quatre items entraînés issus des mêmes niveaux de série et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la carte dans une enveloppe / sortir une carte / écrire un message**
 
-- **EVAL01-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-- **EVAL01-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
-- **EVAL01-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **EVAL01-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
-- **EVAL01-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la carte dans une enveloppe / sortir une carte / écrire un message**
+### Évaluation 2
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **observer l’eau obtenue / prendre un glaçon / le poser au soleil**
 
-### EVAL02
+### Évaluation 3
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger les pièces / ouvrir la boîte / assembler le puzzle**
 
-- **EVAL02-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **EVAL02-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-- **EVAL02-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
-- **EVAL02-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **EVAL02-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **observer l’eau obtenue / prendre un glaçon / le poser au soleil**
+### Évaluation 4
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **nettoyer les pinceaux / mettre un tablier / peindre le décor**
 
-### EVAL03
+### Évaluation 5
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser le jus dans un verre / choisir une orange / la presser**
 
-- **EVAL03-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **EVAL03-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
-- **EVAL03-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-- **EVAL03-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **EVAL03-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger les pièces / ouvrir la boîte / assembler le puzzle**
+### Évaluation 6
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **atteindre le refuge / lire le plan / suivre le chemin**
 
-### EVAL04
+### Évaluation 7
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **construire un château de sable / prendre une pelle / remplir le seau**
 
-- **EVAL04-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
-- **EVAL04-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **EVAL04-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
-- **EVAL04-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
-- **EVAL04-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **nettoyer les pinceaux / mettre un tablier / peindre le décor**
+### Évaluation 8
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **fermer le robinet / ouvrir le robinet / remplir la gourde**
 
-### EVAL05
+### Évaluation 9
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **débarrasser les assiettes / mettre la table / servir le repas**
 
-- **EVAL05-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
-- **EVAL05-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **EVAL05-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
-- **EVAL05-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
-- **EVAL05-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser le jus dans un verre / choisir une orange / la presser**
-
-### EVAL06
-
-- **EVAL06-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-- **EVAL06-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
-- **EVAL06-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **EVAL06-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
-- **EVAL06-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **atteindre le refuge / lire le plan / suivre le chemin**
-
-### EVAL07
-
-- **EVAL07-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **EVAL07-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-- **EVAL07-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **montrer la construction / choisir les pièces / assembler les pièces**
-- **EVAL07-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **EVAL07-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **construire un château de sable / prendre une pelle / remplir le seau**
-
-### EVAL08
-
-- **EVAL08-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **EVAL08-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
-- **EVAL08-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-- **EVAL08-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **EVAL08-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **fermer le robinet / ouvrir le robinet / remplir la gourde**
-
-### EVAL09
-
-- **EVAL09-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
-- **EVAL09-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **EVAL09-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
-- **EVAL09-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
-- **EVAL09-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **débarrasser les assiettes / mettre la table / servir le repas**
-
-### EVAL10
-
-- **EVAL10-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
-- **EVAL10-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
-- **EVAL10-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
-- **EVAL10-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
-- **EVAL10-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **éteindre la lampe / allumer la lampe / chercher le livre**
+### Évaluation 10
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **couper la pomme / manger les morceaux / laver la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **poster l’enveloppe / prendre une enveloppe / glisser la lettre dedans**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **éteindre la lampe / allumer la lampe / chercher le livre**
 
 ## Devoirs
 
 La consigne reste celle de la classe. Tous les items proviennent des quatre premières séries ; aucun matériel particulier n’est requis en dehors du support imprimé et d’un crayon.
 
-### DEV01
+### Devoir 1
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
 
-- **DEV01-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **DEV01-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **DEV01-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **DEV01-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **DEV01-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+### Devoir 2
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
 
-### DEV02
+### Devoir 3
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
 
-- **DEV02-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **DEV02-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
-- **DEV02-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **DEV02-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **DEV02-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+### Devoir 4
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
 
-### DEV03
+### Devoir 5
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
 
-- **DEV03-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **DEV03-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
-- **DEV03-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
-- **DEV03-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **DEV03-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+### Devoir 6
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
 
-### DEV04
+### Devoir 7
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
 
-- **DEV04-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
-- **DEV04-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **DEV04-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
-- **DEV04-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **DEV04-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
+### Devoir 8
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
 
-### DEV05
+### Devoir 9
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
 
-- **DEV05-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
-- **DEV05-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
-- **DEV05-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **marcher jusqu’aux fleurs / arroser les fleurs / remplir l’arrosoir**
-- **DEV05-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **verser la pâte dans le moule / mettre le gâteau au four / mélanger la pâte**
-- **DEV05-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-
-### DEV06
-
-- **DEV06-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-- **DEV06-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
-- **DEV06-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-- **DEV06-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **mettre le gâteau au four / mélanger la pâte / verser la pâte dans le moule**
-- **DEV06-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser les fleurs / remplir l’arrosoir / marcher jusqu’aux fleurs**
-
-### DEV07
-
-- **DEV07-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **DEV07-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **DEV07-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **monter sur le vélo / partir sur le chemin / mettre son casque**
-- **DEV07-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **partir sur le chemin / mettre son casque / monter sur le vélo**
-- **DEV07-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **rincer ses mains / mettre du savon / frotter ses mains**
-
-### DEV08
-
-- **DEV08-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **DEV08-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **DEV08-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-- **DEV08-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-- **DEV08-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **glisser la lettre dedans / poster l’enveloppe / prendre une enveloppe**
-
-### DEV09
-
-- **DEV09-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
-- **DEV09-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **DEV09-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
-- **DEV09-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
-- **DEV09-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **sortir dans le jardin / sauter dans une flaque / enfiler ses bottes**
-
-### DEV10
-
-- **DEV10-01** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
-- **DEV10-02** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
-- **DEV10-03** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
-- **DEV10-04** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
-- **DEV10-05** — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
+### Devoir 10
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **assembler les pièces / montrer la construction / choisir les pièces**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **lire l’histoire / ranger le livre / ouvrir le livre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **ranger le livre / ouvrir le livre / lire l’histoire**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **arroser la terre / prendre une graine / la mettre en terre**
+- — Remets les actions dans l’ordre, puis raconte-les avec **D’abord**, **Puis**, **Enfin** : **manger les morceaux / laver la pomme / couper la pomme**
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **IMM02** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **IMM03** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **IMM04** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **IMM05** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **IMM06** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **IMM07** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **ENT01-01** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT01-02** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT01-03** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT01-04** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT01-05** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Entraînement 2
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### ENT02
+#### Entraînement 3
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **ENT02-01** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT02-02** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT02-03** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT02-04** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT02-05** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Entraînement 4
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### ENT03
+#### Entraînement 5
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **ENT03-01** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT03-02** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT03-03** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT03-04** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT03-05** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Entraînement 6
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### ENT04
+#### Entraînement 7
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **ENT04-01** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT04-02** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT04-03** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT04-04** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT04-05** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Entraînement 8
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### ENT05
+#### Entraînement 9
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **ENT05-01** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT05-02** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT05-03** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT05-04** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT05-05** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### ENT06
-
-- **ENT06-01** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT06-02** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT06-03** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT06-04** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT06-05** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### ENT07
-
-- **ENT07-01** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT07-02** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT07-03** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT07-04** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT07-05** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### ENT08
-
-- **ENT08-01** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT08-02** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT08-03** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT08-04** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT08-05** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### ENT09
-
-- **ENT09-01** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT09-02** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT09-03** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT09-04** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT09-05** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### ENT10
-
-- **ENT10-01** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT10-02** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT10-03** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT10-04** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **ENT10-05** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Entraînement 10
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant sort une carte. Puis il écrit un message. Enfin, il glisse la carte dans une enveloppe. » Exiger l’ordre sortir une carte → écrire un message → glisser la carte dans une enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-- **EVAL01-01** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL01-02** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL01-03** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL01-04** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL01-05** — Exemple attendu : « D’abord, l’enfant sort une carte. Puis il écrit un message. Enfin, il glisse la carte dans une enveloppe. » Exiger l’ordre sortir une carte → écrire un message → glisser la carte dans une enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes.
+#### Évaluation 2
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend un glaçon. Puis il le pose au soleil. Enfin, il observe l’eau obtenue. » Exiger l’ordre prendre un glaçon → le poser au soleil → observer l’eau obtenue et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-#### EVAL02
+#### Évaluation 3
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre la boîte. Puis il assemble le puzzle. Enfin, il range les pièces. » Exiger l’ordre ouvrir la boîte → assembler le puzzle → ranger les pièces et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-- **EVAL02-01** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL02-02** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL02-03** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL02-04** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL02-05** — Exemple attendu : « D’abord, l’enfant prend un glaçon. Puis il le pose au soleil. Enfin, il observe l’eau obtenue. » Exiger l’ordre prendre un glaçon → le poser au soleil → observer l’eau obtenue et les trois marqueurs ; accepter les reprises pronominales correctes.
+#### Évaluation 4
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met un tablier. Puis il peint le décor. Enfin, il nettoie les pinceaux. » Exiger l’ordre mettre un tablier → peindre le décor → nettoyer les pinceaux et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-#### EVAL03
+#### Évaluation 5
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit une orange. Puis il la presse. Enfin, il verse le jus dans un verre. » Exiger l’ordre choisir une orange → la presser → verser le jus dans un verre et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-- **EVAL03-01** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL03-02** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL03-03** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL03-04** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL03-05** — Exemple attendu : « D’abord, l’enfant ouvre la boîte. Puis il assemble le puzzle. Enfin, il range les pièces. » Exiger l’ordre ouvrir la boîte → assembler le puzzle → ranger les pièces et les trois marqueurs ; accepter les reprises pronominales correctes.
+#### Évaluation 6
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lit le plan. Puis il suit le chemin. Enfin, il atteint le refuge. » Exiger l’ordre lire le plan → suivre le chemin → atteindre le refuge et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-#### EVAL04
+#### Évaluation 7
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une pelle. Puis il remplit le seau. Enfin, il construit un château de sable. » Exiger l’ordre prendre une pelle → remplir le seau → construire un château de sable et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-- **EVAL04-01** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL04-02** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL04-03** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL04-04** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL04-05** — Exemple attendu : « D’abord, l’enfant met un tablier. Puis il peint le décor. Enfin, il nettoie les pinceaux. » Exiger l’ordre mettre un tablier → peindre le décor → nettoyer les pinceaux et les trois marqueurs ; accepter les reprises pronominales correctes.
+#### Évaluation 8
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le robinet. Puis il remplit la gourde. Enfin, il ferme le robinet. » Exiger l’ordre ouvrir le robinet → remplir la gourde → fermer le robinet et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-#### EVAL05
+#### Évaluation 9
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met la table. Puis il sert le repas. Enfin, il débarrasse les assiettes. » Exiger l’ordre mettre la table → servir le repas → débarrasser les assiettes et les trois marqueurs ; accepter les reprises pronominales correctes.
 
-- **EVAL05-01** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL05-02** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL05-03** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL05-04** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL05-05** — Exemple attendu : « D’abord, l’enfant choisit une orange. Puis il la presse. Enfin, il verse le jus dans un verre. » Exiger l’ordre choisir une orange → la presser → verser le jus dans un verre et les trois marqueurs ; accepter les reprises pronominales correctes.
-
-#### EVAL06
-
-- **EVAL06-01** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL06-02** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL06-03** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL06-04** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL06-05** — Exemple attendu : « D’abord, l’enfant lit le plan. Puis il suit le chemin. Enfin, il atteint le refuge. » Exiger l’ordre lire le plan → suivre le chemin → atteindre le refuge et les trois marqueurs ; accepter les reprises pronominales correctes.
-
-#### EVAL07
-
-- **EVAL07-01** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL07-02** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL07-03** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL07-04** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL07-05** — Exemple attendu : « D’abord, l’enfant prend une pelle. Puis il remplit le seau. Enfin, il construit un château de sable. » Exiger l’ordre prendre une pelle → remplir le seau → construire un château de sable et les trois marqueurs ; accepter les reprises pronominales correctes.
-
-#### EVAL08
-
-- **EVAL08-01** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL08-02** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL08-03** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL08-04** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL08-05** — Exemple attendu : « D’abord, l’enfant ouvre le robinet. Puis il remplit la gourde. Enfin, il ferme le robinet. » Exiger l’ordre ouvrir le robinet → remplir la gourde → fermer le robinet et les trois marqueurs ; accepter les reprises pronominales correctes.
-
-#### EVAL09
-
-- **EVAL09-01** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL09-02** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL09-03** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL09-04** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL09-05** — Exemple attendu : « D’abord, l’enfant met la table. Puis il sert le repas. Enfin, il débarrasse les assiettes. » Exiger l’ordre mettre la table → servir le repas → débarrasser les assiettes et les trois marqueurs ; accepter les reprises pronominales correctes.
-
-#### EVAL10
-
-- **EVAL10-01** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL10-02** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL10-03** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL10-04** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **EVAL10-05** — Exemple attendu : « D’abord, l’enfant allume la lampe. Puis il cherche le livre. Enfin, il éteint la lampe. » Exiger l’ordre allumer la lampe → chercher le livre → éteindre la lampe et les trois marqueurs ; accepter les reprises pronominales correctes.
+#### Évaluation 10
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant allume la lampe. Puis il cherche le livre. Enfin, il éteint la lampe. » Exiger l’ordre allumer la lampe → chercher le livre → éteindre la lampe et les trois marqueurs ; accepter les reprises pronominales correctes.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **DEV01-01** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV01-02** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV01-03** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV01-04** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV01-05** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Devoir 2
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### DEV02
+#### Devoir 3
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **DEV02-01** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV02-02** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV02-03** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV02-04** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV02-05** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Devoir 4
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### DEV03
+#### Devoir 5
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **DEV03-01** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV03-02** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV03-03** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV03-04** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV03-05** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Devoir 6
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### DEV04
+#### Devoir 7
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **DEV04-01** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV04-02** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV04-03** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV04-04** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV04-05** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Devoir 8
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-#### DEV05
+#### Devoir 9
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
-- **DEV05-01** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV05-02** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV05-03** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV05-04** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV05-05** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### DEV06
-
-- **DEV06-01** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV06-02** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV06-03** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV06-04** — Exemple attendu : « D’abord, l’enfant mélange la pâte. Puis il la verse dans le moule. Enfin, il met le gâteau au four. » Exiger l’ordre mélanger la pâte → verser la pâte dans le moule → mettre le gâteau au four et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV06-05** — Exemple attendu : « D’abord, l’enfant remplit l’arrosoir. Puis il marche jusqu’aux fleurs. Enfin, il arrose les fleurs. » Exiger l’ordre remplir l’arrosoir → marcher jusqu’aux fleurs → arroser les fleurs et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### DEV07
-
-- **DEV07-01** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV07-02** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV07-03** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV07-04** — Exemple attendu : « D’abord, l’enfant met son casque. Puis il monte sur le vélo. Enfin, il part sur le chemin. » Exiger l’ordre mettre son casque → monter sur le vélo → partir sur le chemin et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV07-05** — Exemple attendu : « D’abord, l’enfant met du savon. Puis il frotte ses mains. Enfin, il les rince. » Exiger l’ordre mettre du savon → frotter ses mains → rincer ses mains et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### DEV08
-
-- **DEV08-01** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV08-02** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV08-03** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV08-04** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV08-05** — Exemple attendu : « D’abord, l’enfant prend une enveloppe. Puis il glisse la lettre dedans. Enfin, il poste l’enveloppe. » Exiger l’ordre prendre une enveloppe → glisser la lettre dedans → poster l’enveloppe et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### DEV09
-
-- **DEV09-01** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV09-02** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV09-03** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV09-04** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV09-05** — Exemple attendu : « D’abord, l’enfant enfile ses bottes. Puis il sort dans le jardin. Enfin, il saute dans une flaque. » Exiger l’ordre enfiler ses bottes → sortir dans le jardin → sauter dans une flaque et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-
-#### DEV10
-
-- **DEV10-01** — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV10-02** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV10-03** — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV10-04** — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
-- **DEV10-05** — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+#### Devoir 10
+- — Exemple attendu : « D’abord, l’enfant choisit les pièces. Puis il les assemble. Enfin, il montre la construction. » Exiger l’ordre choisir les pièces → assembler les pièces → montrer la construction et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant ouvre le livre. Puis il lit l’histoire. Enfin, il range le livre. » Exiger l’ordre ouvrir le livre → lire l’histoire → ranger le livre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant prend une graine. Puis il la met en terre. Enfin, il arrose la terre. » Exiger l’ordre prendre une graine → la mettre en terre → arroser la terre et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
+- — Exemple attendu : « D’abord, l’enfant lave la pomme. Puis il la coupe. Enfin, il mange les morceaux. » Exiger l’ordre laver la pomme → couper la pomme → manger les morceaux et les trois marqueurs ; accepter les reprises pronominales correctes et de légères variations de formulation qui conservent les actions.
 
 ## Traçabilité des évaluations et devoirs
 

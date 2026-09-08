@@ -51,21 +51,21 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Modelage explicite — 3 items
 
-- **MOD01** Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
 
 - **Attention :** repérer la demande et les données utiles.
 - **Verbalisation :** « Je lis, je choisis la procédure, je réponds puis je vérifie. »
 - **Réponse :** 20.
 - **Contrôle final :** la réponse répond exactement à la consigne.
 
-- **MOD02** Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
 
 - **Attention :** demander aux élèves ce qu’il faut regarder en premier.
 - **Verbalisation :** laisser compléter la procédure.
 - **Réponse :** 30.
 - **Contrôle final :** vérification collective.
 
-- **MOD03** Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
 
 - **Attention :** laisser les élèves choisir la première étape.
 - **Verbalisation :** « Dis ta procédure avant de répondre. »
@@ -74,13 +74,13 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Dans 458, quelle est la valeur du chiffre 5 ?
-- **IMM02** Dans 569, quelle est la valeur du chiffre 6 ?
-- **IMM03** Dans 672, quelle est la valeur du chiffre 7 ?
-- **IMM04** Dans 781, quelle est la valeur du chiffre 8 ?
-- **IMM05** Dans 804, quelle est la valeur du chiffre 0 ?
-- **IMM06** Dans 915, quelle est la valeur du chiffre 1 ?
-- **IMM07** Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
 
 ## Variables didactiques
 
@@ -90,249 +90,219 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
 
-- **ENT01-01** Dans 347, quelle est la valeur du chiffre 7 ?
-- **ENT01-02** Dans 458, quelle est la valeur du chiffre 5 ?
-- **ENT01-03** Dans 569, quelle est la valeur du chiffre 6 ?
-- **ENT01-04** Dans 672, quelle est la valeur du chiffre 7 ?
-- **ENT01-05** Dans 781, quelle est la valeur du chiffre 8 ?
+### Entraînement 2
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
 
-### ENT02
+### Entraînement 3
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
 
-- **ENT02-01** Dans 569, quelle est la valeur du chiffre 6 ?
-- **ENT02-02** Dans 672, quelle est la valeur du chiffre 7 ?
-- **ENT02-03** Dans 781, quelle est la valeur du chiffre 8 ?
-- **ENT02-04** Dans 804, quelle est la valeur du chiffre 0 ?
-- **ENT02-05** Dans 915, quelle est la valeur du chiffre 1 ?
+### Entraînement 4
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
 
-### ENT03
+### Entraînement 5
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
 
-- **ENT03-01** Dans 781, quelle est la valeur du chiffre 8 ?
-- **ENT03-02** Dans 804, quelle est la valeur du chiffre 0 ?
-- **ENT03-03** Dans 915, quelle est la valeur du chiffre 1 ?
-- **ENT03-04** Dans 990, quelle est la valeur du chiffre 9 ?
-- **ENT03-05** Dans 124, quelle est la valeur du chiffre 2 ?
+### Entraînement 6
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
 
-### ENT04
+### Entraînement 7
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
 
-- **ENT04-01** Dans 915, quelle est la valeur du chiffre 1 ?
-- **ENT04-02** Dans 990, quelle est la valeur du chiffre 9 ?
-- **ENT04-03** Dans 124, quelle est la valeur du chiffre 2 ?
-- **ENT04-04** Dans 236, quelle est la valeur du chiffre 3 ?
-- **ENT04-05** Dans 347, quelle est la valeur du chiffre 7 ?
+### Entraînement 8
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
 
-### ENT05
+### Entraînement 9
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
 
-- **ENT05-01** Dans 124, quelle est la valeur du chiffre 2 ?
-- **ENT05-02** Dans 236, quelle est la valeur du chiffre 3 ?
-- **ENT05-03** Dans 347, quelle est la valeur du chiffre 7 ?
-- **ENT05-04** Dans 458, quelle est la valeur du chiffre 5 ?
-- **ENT05-05** Dans 569, quelle est la valeur du chiffre 6 ?
-
-### ENT06
-
-- **ENT06-01** Dans 347, quelle est la valeur du chiffre 7 ?
-- **ENT06-02** Dans 458, quelle est la valeur du chiffre 5 ?
-- **ENT06-03** Dans 569, quelle est la valeur du chiffre 6 ?
-- **ENT06-04** Dans 672, quelle est la valeur du chiffre 7 ?
-- **ENT06-05** Dans 781, quelle est la valeur du chiffre 8 ?
-
-### ENT07
-
-- **ENT07-01** Dans 569, quelle est la valeur du chiffre 6 ?
-- **ENT07-02** Dans 672, quelle est la valeur du chiffre 7 ?
-- **ENT07-03** Dans 781, quelle est la valeur du chiffre 8 ?
-- **ENT07-04** Dans 804, quelle est la valeur du chiffre 0 ?
-- **ENT07-05** Dans 915, quelle est la valeur du chiffre 1 ?
-
-### ENT08
-
-- **ENT08-01** Dans 781, quelle est la valeur du chiffre 8 ?
-- **ENT08-02** Dans 804, quelle est la valeur du chiffre 0 ?
-- **ENT08-03** Dans 915, quelle est la valeur du chiffre 1 ?
-- **ENT08-04** Dans 990, quelle est la valeur du chiffre 9 ?
-- **ENT08-05** Dans 124, quelle est la valeur du chiffre 2 ?
-
-### ENT09
-
-- **ENT09-01** Dans 915, quelle est la valeur du chiffre 1 ?
-- **ENT09-02** Dans 990, quelle est la valeur du chiffre 9 ?
-- **ENT09-03** Dans 124, quelle est la valeur du chiffre 2 ?
-- **ENT09-04** Dans 236, quelle est la valeur du chiffre 3 ?
-- **ENT09-05** Dans 347, quelle est la valeur du chiffre 7 ?
-
-### ENT10
-
-- **ENT10-01** Dans 124, quelle est la valeur du chiffre 2 ?
-- **ENT10-02** Dans 236, quelle est la valeur du chiffre 3 ?
-- **ENT10-03** Dans 347, quelle est la valeur du chiffre 7 ?
-- **ENT10-04** Dans 458, quelle est la valeur du chiffre 5 ?
-- **ENT10-05** Dans 569, quelle est la valeur du chiffre 6 ?
+### Entraînement 10
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
 
 ## Évaluations
 
-### EVAL01
+### Évaluation 1
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
 
-- **EVAL01-01** Dans 347, quelle est la valeur du chiffre 7 ?
-- **EVAL01-02** Dans 458, quelle est la valeur du chiffre 5 ?
-- **EVAL01-03** Dans 569, quelle est la valeur du chiffre 6 ?
-- **EVAL01-04** Dans 672, quelle est la valeur du chiffre 7 ?
-- **EVAL01-05** Dans 781, quelle est la valeur du chiffre 8 ?
+### Évaluation 2
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
 
-### EVAL02
+### Évaluation 3
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
 
-- **EVAL02-01** Dans 569, quelle est la valeur du chiffre 6 ?
-- **EVAL02-02** Dans 672, quelle est la valeur du chiffre 7 ?
-- **EVAL02-03** Dans 781, quelle est la valeur du chiffre 8 ?
-- **EVAL02-04** Dans 804, quelle est la valeur du chiffre 0 ?
-- **EVAL02-05** Dans 915, quelle est la valeur du chiffre 1 ?
+### Évaluation 4
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
 
-### EVAL03
+### Évaluation 5
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
 
-- **EVAL03-01** Dans 781, quelle est la valeur du chiffre 8 ?
-- **EVAL03-02** Dans 804, quelle est la valeur du chiffre 0 ?
-- **EVAL03-03** Dans 915, quelle est la valeur du chiffre 1 ?
-- **EVAL03-04** Dans 990, quelle est la valeur du chiffre 9 ?
-- **EVAL03-05** Dans 124, quelle est la valeur du chiffre 2 ?
+### Évaluation 6
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
 
-### EVAL04
+### Évaluation 7
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
 
-- **EVAL04-01** Dans 915, quelle est la valeur du chiffre 1 ?
-- **EVAL04-02** Dans 990, quelle est la valeur du chiffre 9 ?
-- **EVAL04-03** Dans 124, quelle est la valeur du chiffre 2 ?
-- **EVAL04-04** Dans 236, quelle est la valeur du chiffre 3 ?
-- **EVAL04-05** Dans 347, quelle est la valeur du chiffre 7 ?
+### Évaluation 8
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
 
-### EVAL05
+### Évaluation 9
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
 
-- **EVAL05-01** Dans 124, quelle est la valeur du chiffre 2 ?
-- **EVAL05-02** Dans 236, quelle est la valeur du chiffre 3 ?
-- **EVAL05-03** Dans 347, quelle est la valeur du chiffre 7 ?
-- **EVAL05-04** Dans 458, quelle est la valeur du chiffre 5 ?
-- **EVAL05-05** Dans 569, quelle est la valeur du chiffre 6 ?
-
-### EVAL06
-
-- **EVAL06-01** Dans 347, quelle est la valeur du chiffre 7 ?
-- **EVAL06-02** Dans 458, quelle est la valeur du chiffre 5 ?
-- **EVAL06-03** Dans 569, quelle est la valeur du chiffre 6 ?
-- **EVAL06-04** Dans 672, quelle est la valeur du chiffre 7 ?
-- **EVAL06-05** Dans 781, quelle est la valeur du chiffre 8 ?
-
-### EVAL07
-
-- **EVAL07-01** Dans 569, quelle est la valeur du chiffre 6 ?
-- **EVAL07-02** Dans 672, quelle est la valeur du chiffre 7 ?
-- **EVAL07-03** Dans 781, quelle est la valeur du chiffre 8 ?
-- **EVAL07-04** Dans 804, quelle est la valeur du chiffre 0 ?
-- **EVAL07-05** Dans 915, quelle est la valeur du chiffre 1 ?
-
-### EVAL08
-
-- **EVAL08-01** Dans 781, quelle est la valeur du chiffre 8 ?
-- **EVAL08-02** Dans 804, quelle est la valeur du chiffre 0 ?
-- **EVAL08-03** Dans 915, quelle est la valeur du chiffre 1 ?
-- **EVAL08-04** Dans 990, quelle est la valeur du chiffre 9 ?
-- **EVAL08-05** Dans 124, quelle est la valeur du chiffre 2 ?
-
-### EVAL09
-
-- **EVAL09-01** Dans 915, quelle est la valeur du chiffre 1 ?
-- **EVAL09-02** Dans 990, quelle est la valeur du chiffre 9 ?
-- **EVAL09-03** Dans 124, quelle est la valeur du chiffre 2 ?
-- **EVAL09-04** Dans 236, quelle est la valeur du chiffre 3 ?
-- **EVAL09-05** Dans 347, quelle est la valeur du chiffre 7 ?
-
-### EVAL10
-
-- **EVAL10-01** Dans 124, quelle est la valeur du chiffre 2 ?
-- **EVAL10-02** Dans 236, quelle est la valeur du chiffre 3 ?
-- **EVAL10-03** Dans 347, quelle est la valeur du chiffre 7 ?
-- **EVAL10-04** Dans 458, quelle est la valeur du chiffre 5 ?
-- **EVAL10-05** Dans 569, quelle est la valeur du chiffre 6 ?
+### Évaluation 10
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
 
 ## Devoirs
 
-### DEV01
+### Devoir 1
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
 
-- **DEV01-01** Dans 236, quelle est la valeur du chiffre 3 ?
-- **DEV01-02** Dans 347, quelle est la valeur du chiffre 7 ?
-- **DEV01-03** Dans 458, quelle est la valeur du chiffre 5 ?
-- **DEV01-04** Dans 569, quelle est la valeur du chiffre 6 ?
-- **DEV01-05** Dans 672, quelle est la valeur du chiffre 7 ?
+### Devoir 2
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
 
-### DEV02
+### Devoir 3
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
 
-- **DEV02-01** Dans 347, quelle est la valeur du chiffre 7 ?
-- **DEV02-02** Dans 458, quelle est la valeur du chiffre 5 ?
-- **DEV02-03** Dans 569, quelle est la valeur du chiffre 6 ?
-- **DEV02-04** Dans 672, quelle est la valeur du chiffre 7 ?
-- **DEV02-05** Dans 781, quelle est la valeur du chiffre 8 ?
+### Devoir 4
+- Dans 569, quelle est la valeur du chiffre 6 ?
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
 
-### DEV03
+### Devoir 5
+- Dans 672, quelle est la valeur du chiffre 7 ?
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
 
-- **DEV03-01** Dans 458, quelle est la valeur du chiffre 5 ?
-- **DEV03-02** Dans 569, quelle est la valeur du chiffre 6 ?
-- **DEV03-03** Dans 672, quelle est la valeur du chiffre 7 ?
-- **DEV03-04** Dans 781, quelle est la valeur du chiffre 8 ?
-- **DEV03-05** Dans 804, quelle est la valeur du chiffre 0 ?
+### Devoir 6
+- Dans 781, quelle est la valeur du chiffre 8 ?
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
 
-### DEV04
+### Devoir 7
+- Dans 804, quelle est la valeur du chiffre 0 ?
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
 
-- **DEV04-01** Dans 569, quelle est la valeur du chiffre 6 ?
-- **DEV04-02** Dans 672, quelle est la valeur du chiffre 7 ?
-- **DEV04-03** Dans 781, quelle est la valeur du chiffre 8 ?
-- **DEV04-04** Dans 804, quelle est la valeur du chiffre 0 ?
-- **DEV04-05** Dans 915, quelle est la valeur du chiffre 1 ?
+### Devoir 8
+- Dans 915, quelle est la valeur du chiffre 1 ?
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
 
-### DEV05
+### Devoir 9
+- Dans 990, quelle est la valeur du chiffre 9 ?
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
 
-- **DEV05-01** Dans 672, quelle est la valeur du chiffre 7 ?
-- **DEV05-02** Dans 781, quelle est la valeur du chiffre 8 ?
-- **DEV05-03** Dans 804, quelle est la valeur du chiffre 0 ?
-- **DEV05-04** Dans 915, quelle est la valeur du chiffre 1 ?
-- **DEV05-05** Dans 990, quelle est la valeur du chiffre 9 ?
-
-### DEV06
-
-- **DEV06-01** Dans 781, quelle est la valeur du chiffre 8 ?
-- **DEV06-02** Dans 804, quelle est la valeur du chiffre 0 ?
-- **DEV06-03** Dans 915, quelle est la valeur du chiffre 1 ?
-- **DEV06-04** Dans 990, quelle est la valeur du chiffre 9 ?
-- **DEV06-05** Dans 124, quelle est la valeur du chiffre 2 ?
-
-### DEV07
-
-- **DEV07-01** Dans 804, quelle est la valeur du chiffre 0 ?
-- **DEV07-02** Dans 915, quelle est la valeur du chiffre 1 ?
-- **DEV07-03** Dans 990, quelle est la valeur du chiffre 9 ?
-- **DEV07-04** Dans 124, quelle est la valeur du chiffre 2 ?
-- **DEV07-05** Dans 236, quelle est la valeur du chiffre 3 ?
-
-### DEV08
-
-- **DEV08-01** Dans 915, quelle est la valeur du chiffre 1 ?
-- **DEV08-02** Dans 990, quelle est la valeur du chiffre 9 ?
-- **DEV08-03** Dans 124, quelle est la valeur du chiffre 2 ?
-- **DEV08-04** Dans 236, quelle est la valeur du chiffre 3 ?
-- **DEV08-05** Dans 347, quelle est la valeur du chiffre 7 ?
-
-### DEV09
-
-- **DEV09-01** Dans 990, quelle est la valeur du chiffre 9 ?
-- **DEV09-02** Dans 124, quelle est la valeur du chiffre 2 ?
-- **DEV09-03** Dans 236, quelle est la valeur du chiffre 3 ?
-- **DEV09-04** Dans 347, quelle est la valeur du chiffre 7 ?
-- **DEV09-05** Dans 458, quelle est la valeur du chiffre 5 ?
-
-### DEV10
-
-- **DEV10-01** Dans 124, quelle est la valeur du chiffre 2 ?
-- **DEV10-02** Dans 236, quelle est la valeur du chiffre 3 ?
-- **DEV10-03** Dans 347, quelle est la valeur du chiffre 7 ?
-- **DEV10-04** Dans 458, quelle est la valeur du chiffre 5 ?
-- **DEV10-05** Dans 569, quelle est la valeur du chiffre 6 ?
+### Devoir 10
+- Dans 124, quelle est la valeur du chiffre 2 ?
+- Dans 236, quelle est la valeur du chiffre 3 ?
+- Dans 347, quelle est la valeur du chiffre 7 ?
+- Dans 458, quelle est la valeur du chiffre 5 ?
+- Dans 569, quelle est la valeur du chiffre 6 ?
 
 ## Corrections
 
@@ -348,80 +318,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. 7.
 2. 50.
 3. 60.
 4. 70.
 5. 80.
 
-#### ENT02
-
+#### Entraînement 2
 1. 60.
 2. 70.
 3. 80.
 4. 0.
 5. 10.
 
-#### ENT03
-
+#### Entraînement 3
 1. 80.
 2. 0.
 3. 10.
 4. 900.
 5. 20.
 
-#### ENT04
-
+#### Entraînement 4
 1. 10.
 2. 900.
 3. 20.
 4. 30.
 5. 7.
 
-#### ENT05
-
+#### Entraînement 5
 1. 20.
 2. 30.
 3. 7.
 4. 50.
 5. 60.
 
-#### ENT06
-
+#### Entraînement 6
 1. 7.
 2. 50.
 3. 60.
 4. 70.
 5. 80.
 
-#### ENT07
-
+#### Entraînement 7
 1. 60.
 2. 70.
 3. 80.
 4. 0.
 5. 10.
 
-#### ENT08
-
+#### Entraînement 8
 1. 80.
 2. 0.
 3. 10.
 4. 900.
 5. 20.
 
-#### ENT09
-
+#### Entraînement 9
 1. 10.
 2. 900.
 3. 20.
 4. 30.
 5. 7.
 
-#### ENT10
-
+#### Entraînement 10
 1. 20.
 2. 30.
 3. 7.
@@ -430,80 +390,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. 7.
 2. 50.
 3. 60.
 4. 70.
 5. 80.
 
-#### EVAL02
-
+#### Évaluation 2
 1. 60.
 2. 70.
 3. 80.
 4. 0.
 5. 10.
 
-#### EVAL03
-
+#### Évaluation 3
 1. 80.
 2. 0.
 3. 10.
 4. 900.
 5. 20.
 
-#### EVAL04
-
+#### Évaluation 4
 1. 10.
 2. 900.
 3. 20.
 4. 30.
 5. 7.
 
-#### EVAL05
-
+#### Évaluation 5
 1. 20.
 2. 30.
 3. 7.
 4. 50.
 5. 60.
 
-#### EVAL06
-
+#### Évaluation 6
 1. 7.
 2. 50.
 3. 60.
 4. 70.
 5. 80.
 
-#### EVAL07
-
+#### Évaluation 7
 1. 60.
 2. 70.
 3. 80.
 4. 0.
 5. 10.
 
-#### EVAL08
-
+#### Évaluation 8
 1. 80.
 2. 0.
 3. 10.
 4. 900.
 5. 20.
 
-#### EVAL09
-
+#### Évaluation 9
 1. 10.
 2. 900.
 3. 20.
 4. 30.
 5. 7.
 
-#### EVAL10
-
+#### Évaluation 10
 1. 20.
 2. 30.
 3. 7.
@@ -512,80 +462,70 @@ La réponse porte directement sur la compétence, se corrige de façon stable et
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. 30.
 2. 7.
 3. 50.
 4. 60.
 5. 70.
 
-#### DEV02
-
+#### Devoir 2
 1. 7.
 2. 50.
 3. 60.
 4. 70.
 5. 80.
 
-#### DEV03
-
+#### Devoir 3
 1. 50.
 2. 60.
 3. 70.
 4. 80.
 5. 0.
 
-#### DEV04
-
+#### Devoir 4
 1. 60.
 2. 70.
 3. 80.
 4. 0.
 5. 10.
 
-#### DEV05
-
+#### Devoir 5
 1. 70.
 2. 80.
 3. 0.
 4. 10.
 5. 900.
 
-#### DEV06
-
+#### Devoir 6
 1. 80.
 2. 0.
 3. 10.
 4. 900.
 5. 20.
 
-#### DEV07
-
+#### Devoir 7
 1. 0.
 2. 10.
 3. 900.
 4. 20.
 5. 30.
 
-#### DEV08
-
+#### Devoir 8
 1. 10.
 2. 900.
 3. 20.
 4. 30.
 5. 7.
 
-#### DEV09
-
+#### Devoir 9
 1. 900.
 2. 20.
 3. 30.
 4. 7.
 5. 50.
 
-#### DEV10
-
+#### Devoir 10
 1. 20.
 2. 30.
 3. 7.

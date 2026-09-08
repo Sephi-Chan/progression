@@ -58,24 +58,21 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.  
 **Attention :** l’enseignant fait repérer l’élément donné et nomme le contrôle décisif.  
 **Verbalisation :** « Je ne réponds pas seulement à l’œil. Je place mon repère ou mon instrument, je fais l’action, puis je vérifie. »  
 **Réponse :** cube ; 6 faces carrées, 8 sommets, 12 arêtes.  
 **Contrôle final :** reprendre chaque donnée de l’énoncé et montrer où elle est satisfaite.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.  
 **Attention :** demander : « Que regardons-nous d’abord ? Quel outil ou repère faut-il utiliser ? »  
 **Verbalisation :** « Je place correctement, j’agis sans déplacer, puis je contrôle. » Les élèves complètent les mots manquants.  
 **Réponse :** boule.  
 **Contrôle final :** un élève indique la preuve sur le support.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.  
 **Attention :** laisser l’élève choisir et placer le repère ou l’instrument.  
 **Verbalisation :** « Dis ce que tu vas vérifier avant d’agir. »  
@@ -84,13 +81,13 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## À toi de jouer — 7 items
 
-- **IMM01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **IMM02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **IMM03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **IMM04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **IMM05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **IMM06** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **IMM07** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
 
 ## Variables didactiques
 
@@ -100,511 +97,451 @@ Le même format rend visibles la prise d’information, la décision, l’action
 
 ## Entraînements
 
-### ENT01
+### Entraînement 1
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
 
-- **ENT01-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **ENT01-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **ENT01-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **ENT01-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **ENT01-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+### Entraînement 2
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
 
-### ENT02
+### Entraînement 3
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
 
-- **ENT02-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **ENT02-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **ENT02-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **ENT02-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **ENT02-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+### Entraînement 4
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
 
-### ENT03
+### Entraînement 5
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
 
-- **ENT03-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **ENT03-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **ENT03-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **ENT03-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **ENT03-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+### Entraînement 6
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
 
-### ENT04
+### Entraînement 7
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
 
-- **ENT04-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
-- **ENT04-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
-- **ENT04-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
-- **ENT04-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
-- **ENT04-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
+### Entraînement 8
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : toutes mes faces sont planes ; j’en ai 6, carrées et identiques.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai une seule base plane circulaire et une pointe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
 
-### ENT05
+### Entraînement 9
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
 
-- **ENT05-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
-- **ENT05-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
-- **ENT05-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
-- **ENT05-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
-- **ENT05-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
-
-### ENT06
-
-- **ENT06-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
-- **ENT06-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
-- **ENT06-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
-- **ENT06-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
-- **ENT06-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
-
-### ENT07
-
-- **ENT07-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
-- **ENT07-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
-- **ENT07-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
-- **ENT07-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
-- **ENT07-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
-
-### ENT08
-
-- **ENT08-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : toutes mes faces sont planes ; j’en ai 6, carrées et identiques.
-- **ENT08-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai une seule base plane circulaire et une pointe.
-- **ENT08-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
-- **ENT08-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
-- **ENT08-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
-
-### ENT09
-
-- **ENT09-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
-- **ENT09-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
-- **ENT09-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
-- **ENT09-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
-- **ENT09-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
-
-### ENT10
-
-- **ENT10-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
-- **ENT10-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
-- **ENT10-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
-- **ENT10-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : toutes mes faces sont planes ; j’en ai 6, carrées et identiques.
-- **ENT10-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai une seule base plane circulaire et une pointe.
+### Entraînement 10
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : toutes mes faces sont planes ; j’en ai 6, carrées et identiques.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai une seule base plane circulaire et une pointe.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune comporte un item accessible, deux standards, un plus résistant déjà entraîné et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un cornet de glace sans glace.
 
-- **EVAL01-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **EVAL01-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
-- **EVAL01-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
-- **EVAL01-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
-- **EVAL01-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un cornet de glace sans glace.
+### Évaluation 2
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre : une base triangulaire et trois faces triangulaires se rejoignent en un sommet.
 
-### EVAL02
+### Évaluation 3
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une brique rectangulaire.
 
-- **EVAL02-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **EVAL02-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
-- **EVAL02-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
-- **EVAL02-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
-- **EVAL02-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre : une base triangulaire et trois faces triangulaires se rejoignent en un sommet.
+### Évaluation 4
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide sans arête et sans sommet, entièrement arrondi.
 
-### EVAL03
+### Évaluation 5
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un cornet de glace sans glace.
 
-- **EVAL03-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **EVAL03-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
-- **EVAL03-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
-- **EVAL03-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
-- **EVAL03-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une brique rectangulaire.
+### Évaluation 6
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre : une base triangulaire et trois faces triangulaires se rejoignent en un sommet.
 
-### EVAL04
+### Évaluation 7
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une brique rectangulaire.
 
-- **EVAL04-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **EVAL04-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
-- **EVAL04-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
-- **EVAL04-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
-- **EVAL04-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide sans arête et sans sommet, entièrement arrondi.
+### Évaluation 8
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide sans arête et sans sommet, entièrement arrondi.
 
-### EVAL05
+### Évaluation 9
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un cornet de glace sans glace.
 
-- **EVAL05-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **EVAL05-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
-- **EVAL05-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
-- **EVAL05-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
-- **EVAL05-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un cornet de glace sans glace.
-
-### EVAL06
-
-- **EVAL06-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **EVAL06-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
-- **EVAL06-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une boîte de conserve.
-- **EVAL06-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Intrus parmi cube, pavé, pyramide et boule : lequel n’a aucune face plane ?
-- **EVAL06-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre : une base triangulaire et trois faces triangulaires se rejoignent en un sommet.
-
-### EVAL07
-
-- **EVAL07-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **EVAL07-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces ; toutes sont carrées.
-- **EVAL07-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
-- **EVAL07-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Compare cube et pavé : donne une propriété commune et une différence.
-- **EVAL07-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : une brique rectangulaire.
-
-### EVAL08
-
-- **EVAL08-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **EVAL08-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces rectangulaires, 8 sommets et 12 arêtes.
-- **EVAL08-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre à base carrée et quatre faces triangulaires.
-- **EVAL08-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 5 faces, dont une carrée et quatre triangulaires.
-- **EVAL08-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide sans arête et sans sommet, entièrement arrondi.
-
-### EVAL09
-
-- **EVAL09-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **EVAL09-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
-- **EVAL09-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il roule dans une direction et possède deux bases circulaires.
-- **EVAL09-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Jeu du portrait : j’ai 8 sommets et 12 arêtes ; mes faces ne sont pas toutes carrées.
-- **EVAL09-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un cornet de glace sans glace.
-
-### EVAL10
-
-- **EVAL10-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **EVAL10-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
-- **EVAL10-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
-- **EVAL10-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
-- **EVAL10-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre : une base triangulaire et trois faces triangulaires se rejoignent en un sommet.
+### Évaluation 10
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un ballon parfaitement rond.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il peut rouler dans toutes les directions et n’a pas de sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Solide tourné : deux disques parallèles ferment une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Polyèdre : une base triangulaire et trois faces triangulaires se rejoignent en un sommet.
 
 ## Devoirs
 
 Les supports et la consigne sont identiques à ceux des premiers entraînements. Aucun matériel autre que celui indiqué sur la fiche n’est requis.
 
-### DEV01
+### Devoir 1
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
 
-- **DEV01-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **DEV01-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **DEV01-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **DEV01-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **DEV01-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+### Devoir 2
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
 
-### DEV02
+### Devoir 3
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
 
-- **DEV02-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **DEV02-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV02-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **DEV02-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV02-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+### Devoir 4
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
 
-### DEV03
+### Devoir 5
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
 
-- **DEV03-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **DEV03-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **DEV03-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **DEV03-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **DEV03-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+### Devoir 6
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
 
-### DEV04
+### Devoir 7
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
 
-- **DEV04-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **DEV04-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **DEV04-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV04-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **DEV04-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+### Devoir 8
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
 
-### DEV05
+### Devoir 9
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
 
-- **DEV05-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV05-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **DEV05-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **DEV05-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **DEV05-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-
-### DEV06
-
-- **DEV06-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **DEV06-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **DEV06-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **DEV06-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **DEV06-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-
-### DEV07
-
-- **DEV07-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **DEV07-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV07-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **DEV07-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV07-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-
-### DEV08
-
-- **DEV08-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **DEV08-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **DEV08-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **DEV08-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a 6 faces carrées, 8 sommets et 12 arêtes.
-- **DEV08-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-
-### DEV09
-
-- **DEV09-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a deux bases circulaires et une surface courbe.
-- **DEV09-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Objet réel : un dé classique.
-- **DEV09-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV09-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il est rond comme une balle et n’a ni arête ni sommet.
-- **DEV09-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-
-### DEV10
-
-- **DEV10-01** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
-- **DEV10-02** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **DEV10-03** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
-- **DEV10-04** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
-- **DEV10-05** Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+### Devoir 10
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il a une base circulaire et un sommet pointu.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Il ressemble à une boîte à chaussures ; ses faces sont des rectangles ou des carrés.
+- Lis ou observe la carte, nomme le solide puis donne la propriété demandée. Ses faces latérales sont des triangles qui se rejoignent en un sommet.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-1. **IMM01** cylindre
-2. **IMM02** cône
-3. **IMM03** pyramide
-4. **IMM04** cube ; ses 6 faces sont carrées
-5. **IMM05** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-6. **IMM06** boule
-7. **IMM07** pavé ou pavé droit
+1. cylindre
+2. cône
+3. pyramide
+4. cube ; ses 6 faces sont carrées
+5. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+6. boule
+7. pavé ou pavé droit
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+1. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+2. boule
+3. pavé ou pavé droit
+4. cylindre
+5. cône
 
-1. **ENT01-01** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-2. **ENT01-02** boule
-3. **ENT01-03** pavé ou pavé droit
-4. **ENT01-04** cylindre
-5. **ENT01-05** cône
+#### Entraînement 2
+1. pavé ou pavé droit
+2. cylindre
+3. cône
+4. pyramide
+5. cube ; ses 6 faces sont carrées
 
-#### ENT02
+#### Entraînement 3
+1. cône
+2. pyramide
+3. cube ; ses 6 faces sont carrées
+4. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+5. boule
 
-1. **ENT02-01** pavé ou pavé droit
-2. **ENT02-02** cylindre
-3. **ENT02-03** cône
-4. **ENT02-04** pyramide
-5. **ENT02-05** cube ; ses 6 faces sont carrées
+#### Entraînement 4
+1. boule
+2. cylindre ; deux bases circulaires et une surface courbe
+3. boule
+4. pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
+5. cube
 
-#### ENT03
+#### Entraînement 5
+1. boule
+2. pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
+3. cube
+4. pavé droit
+5. cylindre
 
-1. **ENT03-01** cône
-2. **ENT03-02** pyramide
-3. **ENT03-03** cube ; ses 6 faces sont carrées
-4. **ENT03-04** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-5. **ENT03-05** boule
+#### Entraînement 6
+1. cube
+2. pavé droit
+3. cylindre
+4. boule
+5. cylindre ; deux bases circulaires et une surface courbe
 
-#### ENT04
+#### Entraînement 7
+1. cylindre
+2. boule
+3. cylindre ; deux bases circulaires et une surface courbe
+4. boule
+5. pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
 
-1. **ENT04-01** boule
-2. **ENT04-02** cylindre ; deux bases circulaires et une surface courbe
-3. **ENT04-03** boule
-4. **ENT04-04** pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
-5. **ENT04-05** cube
+#### Entraînement 8
+1. cube
+2. cône
+3. pyramide à base carrée
+4. pavé droit
+5. cylindre
 
-#### ENT05
+#### Entraînement 9
+1. pyramide à base carrée
+2. pavé droit
+3. cylindre
+4. boule
+5. commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
 
-1. **ENT05-01** boule
-2. **ENT05-02** pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
-3. **ENT05-03** cube
-4. **ENT05-04** pavé droit
-5. **ENT05-05** cylindre
-
-#### ENT06
-
-1. **ENT06-01** cube
-2. **ENT06-02** pavé droit
-3. **ENT06-03** cylindre
-4. **ENT06-04** boule
-5. **ENT06-05** cylindre ; deux bases circulaires et une surface courbe
-
-#### ENT07
-
-1. **ENT07-01** cylindre
-2. **ENT07-02** boule
-3. **ENT07-03** cylindre ; deux bases circulaires et une surface courbe
-4. **ENT07-04** boule
-5. **ENT07-05** pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
-
-#### ENT08
-
-1. **ENT08-01** cube
-2. **ENT08-02** cône
-3. **ENT08-03** pyramide à base carrée
-4. **ENT08-04** pavé droit
-5. **ENT08-05** cylindre
-
-#### ENT09
-
-1. **ENT09-01** pyramide à base carrée
-2. **ENT09-02** pavé droit
-3. **ENT09-03** cylindre
-4. **ENT09-04** boule
-5. **ENT09-05** commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
-
-#### ENT10
-
-1. **ENT10-01** cylindre
-2. **ENT10-02** boule
-3. **ENT10-03** commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
-4. **ENT10-04** cube
-5. **ENT10-05** cône
+#### Entraînement 10
+1. cylindre
+2. boule
+3. commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
+4. cube
+5. cône
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+1. cône
+2. pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
+3. cylindre ; deux bases circulaires et une surface courbe
+4. boule
+5. cône
 
-1. **EVAL01-01** cône
-2. **EVAL01-02** pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
-3. **EVAL01-03** cylindre ; deux bases circulaires et une surface courbe
-4. **EVAL01-04** boule
-5. **EVAL01-05** cône
+#### Évaluation 2
+1. pyramide
+2. cube
+3. boule
+4. commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
+5. pyramide à base triangulaire
 
-#### EVAL02
+#### Évaluation 3
+1. cube ; ses 6 faces sont carrées
+2. pavé droit
+3. pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
+4. pyramide à base carrée
+5. pavé droit
 
-1. **EVAL02-01** pyramide
-2. **EVAL02-02** cube
-3. **EVAL02-03** boule
-4. **EVAL02-04** commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
-5. **EVAL02-05** pyramide à base triangulaire
+#### Évaluation 4
+1. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+2. cylindre
+3. cylindre
+4. pavé droit
+5. boule
 
-#### EVAL03
+#### Évaluation 5
+1. boule
+2. boule
+3. boule
+4. cylindre
+5. cône
 
-1. **EVAL03-01** cube ; ses 6 faces sont carrées
-2. **EVAL03-02** pavé droit
-3. **EVAL03-03** pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
-4. **EVAL03-04** pyramide à base carrée
-5. **EVAL03-05** pavé droit
+#### Évaluation 6
+1. cône
+2. pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
+3. cylindre ; deux bases circulaires et une surface courbe
+4. boule
+5. pyramide à base triangulaire
 
-#### EVAL04
+#### Évaluation 7
+1. pyramide
+2. cube
+3. boule
+4. commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
+5. pavé droit
 
-1. **EVAL04-01** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-2. **EVAL04-02** cylindre
-3. **EVAL04-03** cylindre
-4. **EVAL04-04** pavé droit
-5. **EVAL04-05** boule
+#### Évaluation 8
+1. cube ; ses 6 faces sont carrées
+2. pavé droit
+3. pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
+4. pyramide à base carrée
+5. boule
 
-#### EVAL05
+#### Évaluation 9
+1. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+2. cylindre
+3. cylindre
+4. pavé droit
+5. cône
 
-1. **EVAL05-01** boule
-2. **EVAL05-02** boule
-3. **EVAL05-03** boule
-4. **EVAL05-04** cylindre
-5. **EVAL05-05** cône
-
-#### EVAL06
-
-1. **EVAL06-01** cône
-2. **EVAL06-02** pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
-3. **EVAL06-03** cylindre ; deux bases circulaires et une surface courbe
-4. **EVAL06-04** boule
-5. **EVAL06-05** pyramide à base triangulaire
-
-#### EVAL07
-
-1. **EVAL07-01** pyramide
-2. **EVAL07-02** cube
-3. **EVAL07-03** boule
-4. **EVAL07-04** commune : 6 faces, 8 sommets, 12 arêtes ; différence : toutes les faces du cube sont carrées, celles du pavé peuvent être rectangulaires
-5. **EVAL07-05** pavé droit
-
-#### EVAL08
-
-1. **EVAL08-01** cube ; ses 6 faces sont carrées
-2. **EVAL08-02** pavé droit
-3. **EVAL08-03** pyramide à base carrée ; 5 faces, 8 arêtes, 5 sommets
-4. **EVAL08-04** pyramide à base carrée
-5. **EVAL08-05** boule
-
-#### EVAL09
-
-1. **EVAL09-01** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-2. **EVAL09-02** cylindre
-3. **EVAL09-03** cylindre
-4. **EVAL09-04** pavé droit
-5. **EVAL09-05** cône
-
-#### EVAL10
-
-1. **EVAL10-01** boule
-2. **EVAL10-02** boule
-3. **EVAL10-03** boule
-4. **EVAL10-04** cylindre
-5. **EVAL10-05** pyramide à base triangulaire
+#### Évaluation 10
+1. boule
+2. boule
+3. boule
+4. cylindre
+5. pyramide à base triangulaire
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+1. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+2. cylindre
+3. cube ; ses 6 faces sont carrées
+4. cylindre
+5. cube ; ses 6 faces sont carrées
 
-1. **DEV01-01** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-2. **DEV01-02** cylindre
-3. **DEV01-03** cube ; ses 6 faces sont carrées
-4. **DEV01-04** cylindre
-5. **DEV01-05** cube ; ses 6 faces sont carrées
+#### Devoir 2
+1. boule
+2. cône
+3. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+4. cône
+5. pavé ou pavé droit
 
-#### DEV02
+#### Devoir 3
+1. pavé ou pavé droit
+2. pyramide
+3. boule
+4. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+5. cylindre
 
-1. **DEV02-01** boule
-2. **DEV02-02** cône
-3. **DEV02-03** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-4. **DEV02-04** cône
-5. **DEV02-05** pavé ou pavé droit
+#### Devoir 4
+1. cylindre
+2. cube ; ses 6 faces sont carrées
+3. cône
+4. boule
+5. cône
 
-#### DEV03
+#### Devoir 5
+1. cône
+2. pavé ou pavé droit
+3. pyramide
+4. pavé ou pavé droit
+5. pyramide
 
-1. **DEV03-01** pavé ou pavé droit
-2. **DEV03-02** pyramide
-3. **DEV03-03** boule
-4. **DEV03-04** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-5. **DEV03-05** cylindre
+#### Devoir 6
+1. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+2. cylindre
+3. cube ; ses 6 faces sont carrées
+4. cylindre
+5. cube ; ses 6 faces sont carrées
 
-#### DEV04
+#### Devoir 7
+1. boule
+2. cône
+3. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+4. cône
+5. pavé ou pavé droit
 
-1. **DEV04-01** cylindre
-2. **DEV04-02** cube ; ses 6 faces sont carrées
-3. **DEV04-03** cône
-4. **DEV04-04** boule
-5. **DEV04-05** cône
+#### Devoir 8
+1. pavé ou pavé droit
+2. pyramide
+3. boule
+4. cube ; 6 faces carrées, 8 sommets, 12 arêtes
+5. cylindre
 
-#### DEV05
+#### Devoir 9
+1. cylindre
+2. cube ; ses 6 faces sont carrées
+3. cône
+4. boule
+5. cône
 
-1. **DEV05-01** cône
-2. **DEV05-02** pavé ou pavé droit
-3. **DEV05-03** pyramide
-4. **DEV05-04** pavé ou pavé droit
-5. **DEV05-05** pyramide
-
-#### DEV06
-
-1. **DEV06-01** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-2. **DEV06-02** cylindre
-3. **DEV06-03** cube ; ses 6 faces sont carrées
-4. **DEV06-04** cylindre
-5. **DEV06-05** cube ; ses 6 faces sont carrées
-
-#### DEV07
-
-1. **DEV07-01** boule
-2. **DEV07-02** cône
-3. **DEV07-03** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-4. **DEV07-04** cône
-5. **DEV07-05** pavé ou pavé droit
-
-#### DEV08
-
-1. **DEV08-01** pavé ou pavé droit
-2. **DEV08-02** pyramide
-3. **DEV08-03** boule
-4. **DEV08-04** cube ; 6 faces carrées, 8 sommets, 12 arêtes
-5. **DEV08-05** cylindre
-
-#### DEV09
-
-1. **DEV09-01** cylindre
-2. **DEV09-02** cube ; ses 6 faces sont carrées
-3. **DEV09-03** cône
-4. **DEV09-04** boule
-5. **DEV09-05** cône
-
-#### DEV10
-
-1. **DEV10-01** cône
-2. **DEV10-02** pavé ou pavé droit
-3. **DEV10-03** pyramide
-4. **DEV10-04** pavé ou pavé droit
-5. **DEV10-05** pyramide
+#### Devoir 10
+1. cône
+2. pavé ou pavé droit
+3. pyramide
+4. pavé ou pavé droit
+5. pyramide
 
 Pour tout tracé ouvert, accepter une autre orientation si le point imposé, les longueurs, les relations et l’usage de l’instrument sont conformes. Une trace légèrement tremblée n’invalide pas la réponse si le geste et le contrôle sont corrects ; une propriété géométrique manquante, elle, doit être reprise.
 

@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Samir ; **Fait quoi ?** ouvre son parapluie ; **Où ?** sous la pluie.
@@ -81,8 +80,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** la maîtresse ; **Fait quoi ?** écrit ; **Où ?** au tableau.
@@ -95,8 +93,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un écureuil ; **Fait quoi ?** cache une noisette ; **Où ?** sous un arbre.
@@ -111,25 +108,25 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lou ; **Fait quoi ?** porte un gâteau ; **Où ?** dans la cuisine.
-- **IMM02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** des oiseaux ; **Fait quoi ?** picorent des graines ; **Où ?** près du banc.
-- **IMM03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** une fillette ; **Fait quoi ?** observe une étoile ; **Où ?** dans le ciel.
-- **IMM04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le facteur ; **Fait quoi ?** dépose une lettre ; **Où ?** dans la boîte.
-- **IMM05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lina ; **Fait quoi ?** saute ; **Où ?** dans la cour.
-- **IMM06** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un chien ; **Fait quoi ?** court ; **Où ?** sur le chemin.
-- **IMM07** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Milo ; **Fait quoi ?** lit ; **Où ?** dans son lit.
 
@@ -155,223 +152,213 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
-
-- **ENT01-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 1 — accessible
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lina ; **Fait quoi ?** dessine un soleil ; **Où ?** sur sa feuille.
 
-- **ENT01-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Malo ; **Fait quoi ?** ferme la porte ; **Où ?** de la classe.
 
-- **ENT01-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Nora ; **Fait quoi ?** lit un album ; **Où ?** dans le coin lecture.
 
-- **ENT01-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un chat ; **Fait quoi ?** dort ; **Où ?** sur le tapis.
 
-- **ENT01-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** la tortue ; **Fait quoi ?** avance ; **Où ?** sur le chemin.
 
-### ENT02 — accessible
-
-- **ENT02-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 2 — accessible
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Sami ; **Fait quoi ?** range ses crayons ; **Où ?** dans sa trousse.
 
-- **ENT02-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** une abeille ; **Fait quoi ?** butine ; **Où ?** sur une fleur.
 
-- **ENT02-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Zoé ; **Fait quoi ?** lance le ballon ; **Où ?** dans la cour.
 
-- **ENT02-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le facteur ; **Fait quoi ?** dépose une lettre ; **Où ?** dans la boîte.
 
-- **ENT02-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Milo ; **Fait quoi ?** ouvre son livre ; **Où ?** à la bibliothèque.
 
-### ENT03 — accessible
-
-- **ENT03-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 3 — accessible
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lou ; **Fait quoi ?** porte un gâteau ; **Où ?** dans la cuisine.
 
-- **ENT03-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un lapin ; **Fait quoi ?** mange une carotte ; **Où ?** dans son enclos.
 
-- **ENT03-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Inès ; **Fait quoi ?** arrose les tomates ; **Où ?** dans le jardin.
 
-- **ENT03-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le chien ; **Fait quoi ?** cherche sa balle ; **Où ?** sous le banc.
 
-- **ENT03-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Aya ; **Fait quoi ?** colle une image ; **Où ?** sur l’affiche.
 
-### ENT04 — standard
-
-- **ENT04-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 4 — standard
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** au fond du jardin ; **Qui ?** les deux enfants ; **Fait quoi ?** plantent des graines.
 
-- **ENT04-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sous la grande table ; **Qui ?** la petite souris ; **Fait quoi ?** cherche une miette.
 
-- **ENT04-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** dans la classe ; **Qui ?** Nina et Tom ; **Fait quoi ?** préparent une affiche.
 
-- **ENT04-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** près du portail ; **Qui ?** les oiseaux gris ; **Fait quoi ?** picorent des graines.
 
-- **ENT04-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant le groupe ; **Qui ?** notre maîtresse ; **Fait quoi ?** raconte une histoire.
 
-### ENT05 — standard
-
-- **ENT05-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 5 — standard
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** remplit son arrosoir ; **Où ?** près de la cabane ; **Qui ?** le jeune jardinier.
 
-- **ENT05-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** volent en ligne ; **Où ?** au-dessus du lac ; **Qui ?** deux grandes grues.
 
-- **ENT05-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** construisent une tour ; **Où ?** sur le tapis ; **Qui ?** Léa et son frère.
 
-- **ENT05-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** ouvre la grande porte ; **Où ?** dans le hall ; **Qui ?** le gardien du musée.
 
-- **ENT05-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** sautent dans l’herbe ; **Où ?** au bord de la mare ; **Qui ?** les petites grenouilles.
 
-### ENT06 — standard
-
-- **ENT06-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 6 — standard
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant le garage ; **Fait quoi ?** répare son vélo ; **Qui ?** mon voisin Paul.
 
-- **ENT06-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** dans la classe ; **Fait quoi ?** distribuent les cahiers ; **Qui ?** trois élèves.
 
-- **ENT06-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** à sa maîtresse ; **Fait quoi ?** rapporte un bâton ; **Qui ?** la chienne rousse.
 
-- **ENT06-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur la petite scène ; **Fait quoi ?** accordent leurs instruments ; **Qui ?** les musiciens.
 
-- **ENT06-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur l’étagère ; **Fait quoi ?** pose les pains chauds ; **Qui ?** la boulangère.
 
-### ENT07 — standard
-
-- **ENT07-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 7 — standard
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** observent les insectes ; **Qui ?** les enfants du centre ; **Où ?** dans le potager.
 
-- **ENT07-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** avance lentement ; **Qui ?** le vieux bateau ; **Où ?** sur la mer.
 
-- **ENT07-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** ramassent les feuilles ; **Qui ?** Maya et Léo ; **Où ?** derrière l’école.
 
-- **ENT07-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** cache une noisette ; **Qui ?** un écureuil roux ; **Où ?** sous les feuilles.
 
-- **ENT07-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** mélangent la soupe ; **Qui ?** les deux cuisiniers ; **Où ?** dans une grande casserole.
 
-### ENT08 — plus résistant
-
-- **ENT08-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 8 — plus résistant
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** près des rosiers du jardin ; **Fait quoi ?** observe un papillon jaune ; **Qui ?** la petite fille au bonnet bleu.
 
-- **ENT08-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** dans le local du gymnase ; **Fait quoi ?** rangent les ballons rouges ; **Qui ?** les trois joueurs de notre équipe.
 
-- **ENT08-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant la maison de Lina ; **Fait quoi ?** apporte un gros colis ; **Qui ?** le facteur du village.
 
-- **ENT08-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur la table du fond ; **Fait quoi ?** terminent leur grande affiche ; **Qui ?** Nora et ses deux camarades.
 
-- **ENT08-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** derrière la vieille ferme ; **Fait quoi ?** traverse le chemin ; **Qui ?** un jeune renard prudent.
 
-### ENT09 — plus résistant
-
-- **ENT09-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 9 — plus résistant
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** chantent une chanson douce ; **Où ?** dans la salle de spectacle ; **Qui ?** les élèves de la classe voisine.
 
-- **ENT09-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** mange une feuille de salade ; **Où ?** au milieu de son enclos ; **Qui ?** la grande tortue de l’école.
 
-- **ENT09-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** préparent un cadeau coloré ; **Où ?** pour l’anniversaire de leur mère ; **Qui ?** Malo et sa petite sœur.
 
-- **ENT09-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** attend son maître ; **Où ?** près de la grille fermée ; **Qui ?** le chien noir du gardien.
 
-- **ENT09-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** construisent leur nid ; **Où ?** sous le toit de la grange ; **Qui ?** deux hirondelles rapides.
 
-### ENT10 — plus résistant
-
-- **ENT10-01** — À partir du support, écris **une phrase qui a du sens**.
+### Entraînement 10 — plus résistant
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur l’étagère de la bibliothèque ; **Qui ?** la maîtresse et trois élèves ; **Fait quoi ?** installent les livres neufs.
 
-- **ENT10-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur le lac calme ; **Qui ?** un petit bateau à voile ; **Fait quoi ?** avance entre les bouées rouges.
 
-- **ENT10-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** le long de la grande avenue ; **Qui ?** les jardiniers de la ville ; **Fait quoi ?** plantent de jeunes arbres.
 
-- **ENT10-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sous le tapis du salon ; **Qui ?** Inès et son cousin Sami ; **Fait quoi ?** cherchent une pièce du puzzle.
 
-- **ENT10-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** derrière la fenêtre ouverte ; **Qui ?** le vieux chat de la voisine ; **Fait quoi ?** regarde les oiseaux.
 
@@ -379,223 +366,213 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 Les dix formes sont parallèles : chacune associe un item accessible, deux items standard, un item plus résistant et un item nouveau strictement isomorphe.
 
-### EVAL01
-
-- **EVAL01-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 1
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lina ; **Fait quoi ?** dessine un soleil ; **Où ?** sur sa feuille.
 
-- **EVAL01-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** dans la classe ; **Qui ?** Nina et Tom ; **Fait quoi ?** préparent une affiche.
 
-- **EVAL01-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** ouvre la grande porte ; **Où ?** dans le hall ; **Qui ?** le gardien du musée.
 
-- **EVAL01-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** derrière la vieille ferme ; **Fait quoi ?** traverse le chemin ; **Qui ?** un jeune renard prudent.
 
-- **EVAL01-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur le mur du préau ; **Qui ?** Aya et Pablo ; **Fait quoi ?** accrochent une affiche colorée.
 
-### EVAL02
-
-- **EVAL02-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 2
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** une abeille ; **Fait quoi ?** butine ; **Où ?** sur une fleur.
 
-- **EVAL02-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** ouvre la grande porte ; **Où ?** dans le hall ; **Qui ?** le gardien du musée.
 
-- **EVAL02-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur l’étagère ; **Fait quoi ?** pose les pains chauds ; **Qui ?** la boulangère.
 
-- **EVAL02-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** chantent une chanson douce ; **Où ?** dans la salle de spectacle ; **Qui ?** les élèves de la classe voisine.
 
-- **EVAL02-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** galope rapidement ; **Où ?** dans le grand pré ; **Qui ?** un poulain brun.
 
-### EVAL03
-
-- **EVAL03-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 3
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Inès ; **Fait quoi ?** arrose les tomates ; **Où ?** dans le jardin.
 
-- **EVAL03-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur l’étagère ; **Fait quoi ?** pose les pains chauds ; **Qui ?** la boulangère.
 
-- **EVAL03-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** observent les insectes ; **Qui ?** les enfants du centre ; **Où ?** dans le potager.
 
-- **EVAL03-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur le lac calme ; **Qui ?** un petit bateau à voile ; **Fait quoi ?** avance entre les bouées rouges.
 
-- **EVAL03-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** au musée de la ville ; **Fait quoi ?** visite une exposition ; **Qui ?** la classe de CE1.
 
-### EVAL04
-
-- **EVAL04-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 4
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un chat ; **Fait quoi ?** dort ; **Où ?** sur le tapis.
 
-- **EVAL04-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** observent les insectes ; **Qui ?** les enfants du centre ; **Où ?** dans le potager.
 
-- **EVAL04-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sous la grande table ; **Qui ?** la petite souris ; **Fait quoi ?** cherche une miette.
 
-- **EVAL04-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant la maison de Lina ; **Fait quoi ?** apporte un gros colis ; **Qui ?** le facteur du village.
 
-- **EVAL04-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** nagent entre les roseaux ; **Qui ?** deux canards sauvages ; **Où ?** au bord de l’étang.
 
-### EVAL05
-
-- **EVAL05-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 5
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Milo ; **Fait quoi ?** ouvre son livre ; **Où ?** à la bibliothèque.
 
-- **EVAL05-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sous la grande table ; **Qui ?** la petite souris ; **Fait quoi ?** cherche une miette.
 
-- **EVAL05-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** construisent une tour ; **Où ?** sur le tapis ; **Qui ?** Léa et son frère.
 
-- **EVAL05-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** attend son maître ; **Où ?** près de la grille fermée ; **Qui ?** le chien noir du gardien.
 
-- **EVAL05-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** dans la salle de musique ; **Qui ?** le jeune musicien ; **Fait quoi ?** range son violon.
 
-### EVAL06
-
-- **EVAL06-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 6
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lou ; **Fait quoi ?** porte un gâteau ; **Où ?** dans la cuisine.
 
-- **EVAL06-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** construisent une tour ; **Où ?** sur le tapis ; **Qui ?** Léa et son frère.
 
-- **EVAL06-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur la petite scène ; **Fait quoi ?** accordent leurs instruments ; **Qui ?** les musiciens.
 
-- **EVAL06-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** derrière la fenêtre ouverte ; **Qui ?** le vieux chat de la voisine ; **Fait quoi ?** regarde les oiseaux.
 
-- **EVAL06-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** cueillent des pommes mûres ; **Où ?** dans le verger ; **Qui ?** Nina et son grand-père.
 
-### EVAL07
-
-- **EVAL07-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 7
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Malo ; **Fait quoi ?** ferme la porte ; **Où ?** de la classe.
 
-- **EVAL07-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur la petite scène ; **Fait quoi ?** accordent leurs instruments ; **Qui ?** les musiciens.
 
-- **EVAL07-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** mélangent la soupe ; **Qui ?** les deux cuisiniers ; **Où ?** dans une grande casserole.
 
-- **EVAL07-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** près des rosiers du jardin ; **Fait quoi ?** observe un papillon jaune ; **Qui ?** la petite fille au bonnet bleu.
 
-- **EVAL07-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant la caserne ; **Fait quoi ?** déroulent un long tuyau ; **Qui ?** les pompiers du village.
 
-### EVAL08
-
-- **EVAL08-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 8
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Zoé ; **Fait quoi ?** lance le ballon ; **Où ?** dans la cour.
 
-- **EVAL08-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** mélangent la soupe ; **Qui ?** les deux cuisiniers ; **Où ?** dans une grande casserole.
 
-- **EVAL08-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** au fond du jardin ; **Qui ?** les deux enfants ; **Fait quoi ?** plantent des graines.
 
-- **EVAL08-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** mange une feuille de salade ; **Où ?** au milieu de son enclos ; **Qui ?** la grande tortue de l’école.
 
-- **EVAL08-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** surveille ses petits ; **Qui ?** une chatte blanche ; **Où ?** dans un panier rond.
 
-### EVAL09
-
-- **EVAL09-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 9
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le chien ; **Fait quoi ?** cherche sa balle ; **Où ?** sous le banc.
 
-- **EVAL09-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** au fond du jardin ; **Qui ?** les deux enfants ; **Fait quoi ?** plantent des graines.
 
-- **EVAL09-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** volent en ligne ; **Où ?** au-dessus du lac ; **Qui ?** deux grandes grues.
 
-- **EVAL09-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** le long de la grande avenue ; **Qui ?** les jardiniers de la ville ; **Fait quoi ?** plantent de jeunes arbres.
 
-- **EVAL09-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** dans la salle d’arts ; **Qui ?** les enfants du club ; **Fait quoi ?** fabriquent un cerf-volant.
 
-### EVAL10
-
-- **EVAL10-01** — À partir du support, écris **une phrase qui a du sens**.
+### Évaluation 10
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** la tortue ; **Fait quoi ?** avance ; **Où ?** sur le chemin.
 
-- **EVAL10-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** volent en ligne ; **Où ?** au-dessus du lac ; **Qui ?** deux grandes grues.
 
-- **EVAL10-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** à sa maîtresse ; **Fait quoi ?** rapporte un bâton ; **Qui ?** la chienne rousse.
 
-- **EVAL10-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sur la table du fond ; **Fait quoi ?** terminent leur grande affiche ; **Qui ?** Nora et ses deux camarades.
 
-- **EVAL10-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Fait quoi ?** ouvre les portes ; **Où ?** devant l’école ; **Qui ?** le conducteur du bus.
 
@@ -603,223 +580,213 @@ Les dix formes sont parallèles : chacune associe un item accessible, deux items
 
 La consigne et le format sont identiques à ceux rencontrés en classe. Tous les items viennent des quatre premières séries.
 
-### DEV01
-
-- **DEV01-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 1
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lina ; **Fait quoi ?** dessine un soleil ; **Où ?** sur sa feuille.
 
-- **DEV01-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** une abeille ; **Fait quoi ?** butine ; **Où ?** sur une fleur.
 
-- **DEV01-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Inès ; **Fait quoi ?** arrose les tomates ; **Où ?** dans le jardin.
 
-- **DEV01-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** près du portail ; **Qui ?** les oiseaux gris ; **Fait quoi ?** picorent des graines.
 
-- **DEV01-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** la tortue ; **Fait quoi ?** avance ; **Où ?** sur le chemin.
 
-### DEV02
-
-- **DEV02-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 2
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Zoé ; **Fait quoi ?** lance le ballon ; **Où ?** dans la cour.
 
-- **DEV02-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le chien ; **Fait quoi ?** cherche sa balle ; **Où ?** sous le banc.
 
-- **DEV02-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant le groupe ; **Qui ?** notre maîtresse ; **Fait quoi ?** raconte une histoire.
 
-- **DEV02-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lina ; **Fait quoi ?** dessine un soleil ; **Où ?** sur sa feuille.
 
-- **DEV02-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** une abeille ; **Fait quoi ?** butine ; **Où ?** sur une fleur.
 
-### DEV03
-
-- **DEV03-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 3
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Aya ; **Fait quoi ?** colle une image ; **Où ?** sur l’affiche.
 
-- **DEV03-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** au fond du jardin ; **Qui ?** les deux enfants ; **Fait quoi ?** plantent des graines.
 
-- **DEV03-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Malo ; **Fait quoi ?** ferme la porte ; **Où ?** de la classe.
 
-- **DEV03-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Zoé ; **Fait quoi ?** lance le ballon ; **Où ?** dans la cour.
 
-- **DEV03-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le chien ; **Fait quoi ?** cherche sa balle ; **Où ?** sous le banc.
 
-### DEV04
-
-- **DEV04-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 4
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sous la grande table ; **Qui ?** la petite souris ; **Fait quoi ?** cherche une miette.
 
-- **DEV04-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Nora ; **Fait quoi ?** lit un album ; **Où ?** dans le coin lecture.
 
-- **DEV04-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le facteur ; **Fait quoi ?** dépose une lettre ; **Où ?** dans la boîte.
 
-- **DEV04-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Aya ; **Fait quoi ?** colle une image ; **Où ?** sur l’affiche.
 
-- **DEV04-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** au fond du jardin ; **Qui ?** les deux enfants ; **Fait quoi ?** plantent des graines.
 
-### DEV05
-
-- **DEV05-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 5
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un chat ; **Fait quoi ?** dort ; **Où ?** sur le tapis.
 
-- **DEV05-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Milo ; **Fait quoi ?** ouvre son livre ; **Où ?** à la bibliothèque.
 
-- **DEV05-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lou ; **Fait quoi ?** porte un gâteau ; **Où ?** dans la cuisine.
 
-- **DEV05-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** sous la grande table ; **Qui ?** la petite souris ; **Fait quoi ?** cherche une miette.
 
-- **DEV05-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Nora ; **Fait quoi ?** lit un album ; **Où ?** dans le coin lecture.
 
-### DEV06
-
-- **DEV06-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 6
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Sami ; **Fait quoi ?** range ses crayons ; **Où ?** dans sa trousse.
 
-- **DEV06-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un lapin ; **Fait quoi ?** mange une carotte ; **Où ?** dans son enclos.
 
-- **DEV06-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** dans la classe ; **Qui ?** Nina et Tom ; **Fait quoi ?** préparent une affiche.
 
-- **DEV06-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un chat ; **Fait quoi ?** dort ; **Où ?** sur le tapis.
 
-- **DEV06-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Milo ; **Fait quoi ?** ouvre son livre ; **Où ?** à la bibliothèque.
 
-### DEV07
-
-- **DEV07-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 7
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Inès ; **Fait quoi ?** arrose les tomates ; **Où ?** dans le jardin.
 
-- **DEV07-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** près du portail ; **Qui ?** les oiseaux gris ; **Fait quoi ?** picorent des graines.
 
-- **DEV07-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** la tortue ; **Fait quoi ?** avance ; **Où ?** sur le chemin.
 
-- **DEV07-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Sami ; **Fait quoi ?** range ses crayons ; **Où ?** dans sa trousse.
 
-- **DEV07-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** un lapin ; **Fait quoi ?** mange une carotte ; **Où ?** dans son enclos.
 
-### DEV08
-
-- **DEV08-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 8
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant le groupe ; **Qui ?** notre maîtresse ; **Fait quoi ?** raconte une histoire.
 
-- **DEV08-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lina ; **Fait quoi ?** dessine un soleil ; **Où ?** sur sa feuille.
 
-- **DEV08-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** une abeille ; **Fait quoi ?** butine ; **Où ?** sur une fleur.
 
-- **DEV08-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Inès ; **Fait quoi ?** arrose les tomates ; **Où ?** dans le jardin.
 
-- **DEV08-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** près du portail ; **Qui ?** les oiseaux gris ; **Fait quoi ?** picorent des graines.
 
-### DEV09
-
-- **DEV09-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 9
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Malo ; **Fait quoi ?** ferme la porte ; **Où ?** de la classe.
 
-- **DEV09-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Zoé ; **Fait quoi ?** lance le ballon ; **Où ?** dans la cour.
 
-- **DEV09-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le chien ; **Fait quoi ?** cherche sa balle ; **Où ?** sous le banc.
 
-- **DEV09-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** devant le groupe ; **Qui ?** notre maîtresse ; **Fait quoi ?** raconte une histoire.
 
-- **DEV09-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Lina ; **Fait quoi ?** dessine un soleil ; **Où ?** sur sa feuille.
 
-### DEV10
-
-- **DEV10-01** — À partir du support, écris **une phrase qui a du sens**.
+### Devoir 10
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** le facteur ; **Fait quoi ?** dépose une lettre ; **Où ?** dans la boîte.
 
-- **DEV10-02** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Aya ; **Fait quoi ?** colle une image ; **Où ?** sur l’affiche.
 
-- **DEV10-03** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Où ?** au fond du jardin ; **Qui ?** les deux enfants ; **Fait quoi ?** plantent des graines.
 
-- **DEV10-04** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Malo ; **Fait quoi ?** ferme la porte ; **Où ?** de la classe.
 
-- **DEV10-05** — À partir du support, écris **une phrase qui a du sens**.
+- — À partir du support, écris **une phrase qui a du sens**.
 
 **Qui ?** Zoé ; **Fait quoi ?** lance le ballon ; **Où ?** dans la cour.
 
@@ -827,81 +794,71 @@ La consigne et le format sont identiques à ceux rencontrés en classe. Tous les
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Exemple attendu : « Lou porte un gâteau dans la cuisine. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
-- **IMM02** — Exemple attendu : « Des oiseaux picorent des graines près du banc. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
-- **IMM03** — Exemple attendu : « Une fillette observe une étoile dans le ciel. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
-- **IMM04** — Exemple attendu : « Le facteur dépose une lettre dans la boîte. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
-- **IMM05** — Exemple attendu : « Lina saute dans la cour. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
-- **IMM06** — Exemple attendu : « Un chien court sur le chemin. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
-- **IMM07** — Exemple attendu : « Milo lit dans son lit. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
+- — Exemple attendu : « Lou porte un gâteau dans la cuisine. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
+- — Exemple attendu : « Des oiseaux picorent des graines près du banc. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
+- — Exemple attendu : « Une fillette observe une étoile dans le ciel. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
+- — Exemple attendu : « Le facteur dépose une lettre dans la boîte. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
+- — Exemple attendu : « Lina saute dans la cour. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
+- — Exemple attendu : « Un chien court sur le chemin. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
+- — Exemple attendu : « Milo lit dans son lit. » Accepter une autre formulation si elle reprend sans contradiction les trois informations, forme une seule phrase compréhensible et contient un verbe.
 
 ### Corrections des entraînements
 
-#### ENT01
-1. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 11. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Malo ferme la porte de la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Nora lit un album dans le coin lecture. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Un chat dort sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « La tortue avance sur le chemin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT02
-1. « Sami range ses crayons dans sa trousse. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 21. « Sami range ses crayons dans sa trousse. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Une abeille butine sur une fleur. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Zoé lance le ballon dans la cour. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Le facteur dépose une lettre dans la boîte. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Milo ouvre son livre à la bibliothèque. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT03
-1. « Lou porte un gâteau dans la cuisine. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 31. « Lou porte un gâteau dans la cuisine. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Un lapin mange une carotte dans son enclos. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Inès arrose les tomates dans le jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Le chien cherche sa balle sous le banc. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Aya colle une image sur l’affiche. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT04
-1. « Les deux enfants plantent des graines au fond du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 41. « Les deux enfants plantent des graines au fond du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « La petite souris cherche une miette sous la grande table. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Nina et Tom préparent une affiche dans la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Les oiseaux gris picorent des graines près du portail. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Notre maîtresse raconte une histoire devant le groupe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT05
-1. « Le jeune jardinier remplit son arrosoir près de la cabane. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 51. « Le jeune jardinier remplit son arrosoir près de la cabane. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Deux grandes grues volent en ligne au-dessus du lac. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Léa et son frère construisent une tour sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Le gardien du musée ouvre la grande porte dans le hall. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Les petites grenouilles sautent dans l’herbe au bord de la mare. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT06
-1. « Mon voisin Paul répare son vélo devant le garage. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 61. « Mon voisin Paul répare son vélo devant le garage. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Trois élèves distribuent les cahiers dans la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « La chienne rousse rapporte un bâton à sa maîtresse. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Les musiciens accordent leurs instruments sur la petite scène. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « La boulangère pose les pains chauds sur l’étagère. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT07
-1. « Les enfants du centre observent les insectes dans le potager. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 71. « Les enfants du centre observent les insectes dans le potager. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Le vieux bateau avance lentement sur la mer. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Maya et Léo ramassent les feuilles derrière l’école. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Un écureuil roux cache une noisette sous les feuilles. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Les deux cuisiniers mélangent la soupe dans une grande casserole. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT08
-1. « La petite fille au bonnet bleu observe un papillon jaune près des rosiers du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 81. « La petite fille au bonnet bleu observe un papillon jaune près des rosiers du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Les trois joueurs de notre équipe rangent les ballons rouges dans le local du gymnase. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Le facteur du village apporte un gros colis devant la maison de Lina. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Nora et ses deux camarades terminent leur grande affiche sur la table du fond. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Un jeune renard prudent traverse le chemin derrière la vieille ferme. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT09
-1. « Les élèves de la classe voisine chantent une chanson douce dans la salle de spectacle. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 91. « Les élèves de la classe voisine chantent une chanson douce dans la salle de spectacle. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « La grande tortue de l’école mange une feuille de salade au milieu de son enclos. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Malo et sa petite sœur préparent un cadeau coloré pour l’anniversaire de leur mère. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Le chien noir du gardien attend son maître près de la grille fermée. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Deux hirondelles rapides construisent leur nid sous le toit de la grange. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### ENT10
-1. « La maîtresse et trois élèves installent les livres neufs sur l’étagère de la bibliothèque. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Entraînement 101. « La maîtresse et trois élèves installent les livres neufs sur l’étagère de la bibliothèque. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Un petit bateau à voile avance entre les bouées rouges sur le lac calme. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Les jardiniers de la ville plantent de jeunes arbres le long de la grande avenue. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Inès et son cousin Sami cherchent une pièce du puzzle sous le tapis du salon. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
@@ -909,71 +866,61 @@ La consigne et le format sont identiques à ceux rencontrés en classe. Tous les
 
 ### Corrections des évaluations
 
-#### EVAL01
-1. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 11. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Nina et Tom préparent une affiche dans la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Le gardien du musée ouvre la grande porte dans le hall. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Un jeune renard prudent traverse le chemin derrière la vieille ferme. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Aya et Pablo accrochent une affiche colorée sur le mur du préau. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL02
-1. « Une abeille butine sur une fleur. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 21. « Une abeille butine sur une fleur. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Le gardien du musée ouvre la grande porte dans le hall. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « La boulangère pose les pains chauds sur l’étagère. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Les élèves de la classe voisine chantent une chanson douce dans la salle de spectacle. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Un poulain brun galope rapidement dans le grand pré. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL03
-1. « Inès arrose les tomates dans le jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 31. « Inès arrose les tomates dans le jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « La boulangère pose les pains chauds sur l’étagère. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Les enfants du centre observent les insectes dans le potager. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Un petit bateau à voile avance entre les bouées rouges sur le lac calme. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « La classe de CE1 visite une exposition au musée de la ville. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL04
-1. « Un chat dort sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 41. « Un chat dort sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Les enfants du centre observent les insectes dans le potager. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « La petite souris cherche une miette sous la grande table. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Le facteur du village apporte un gros colis devant la maison de Lina. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Deux canards sauvages nagent entre les roseaux au bord de l’étang. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL05
-1. « Milo ouvre son livre à la bibliothèque. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 51. « Milo ouvre son livre à la bibliothèque. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « La petite souris cherche une miette sous la grande table. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Léa et son frère construisent une tour sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Le chien noir du gardien attend son maître près de la grille fermée. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Le jeune musicien range son violon dans la salle de musique. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL06
-1. « Lou porte un gâteau dans la cuisine. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 61. « Lou porte un gâteau dans la cuisine. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Léa et son frère construisent une tour sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Les musiciens accordent leurs instruments sur la petite scène. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Le vieux chat de la voisine regarde les oiseaux derrière la fenêtre ouverte. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Nina et son grand-père cueillent des pommes mûres dans le verger. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL07
-1. « Malo ferme la porte de la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 71. « Malo ferme la porte de la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Les musiciens accordent leurs instruments sur la petite scène. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Les deux cuisiniers mélangent la soupe dans une grande casserole. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « La petite fille au bonnet bleu observe un papillon jaune près des rosiers du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Les pompiers du village déroulent un long tuyau devant la caserne. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL08
-1. « Zoé lance le ballon dans la cour. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 81. « Zoé lance le ballon dans la cour. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Les deux cuisiniers mélangent la soupe dans une grande casserole. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Les deux enfants plantent des graines au fond du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « La grande tortue de l’école mange une feuille de salade au milieu de son enclos. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Une chatte blanche surveille ses petits dans un panier rond. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL09
-1. « Le chien cherche sa balle sous le banc. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 91. « Le chien cherche sa balle sous le banc. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Les deux enfants plantent des graines au fond du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Deux grandes grues volent en ligne au-dessus du lac. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Les jardiniers de la ville plantent de jeunes arbres le long de la grande avenue. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Les enfants du club fabriquent un cerf-volant dans la salle d’arts. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### EVAL10
-1. « La tortue avance sur le chemin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Évaluation 101. « La tortue avance sur le chemin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Deux grandes grues volent en ligne au-dessus du lac. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « La chienne rousse rapporte un bâton à sa maîtresse. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Nora et ses deux camarades terminent leur grande affiche sur la table du fond. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
@@ -981,71 +928,61 @@ La consigne et le format sont identiques à ceux rencontrés en classe. Tous les
 
 ### Corrections des devoirs
 
-#### DEV01
-1. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 11. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Une abeille butine sur une fleur. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Inès arrose les tomates dans le jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Les oiseaux gris picorent des graines près du portail. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « La tortue avance sur le chemin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV02
-1. « Zoé lance le ballon dans la cour. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 21. « Zoé lance le ballon dans la cour. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Le chien cherche sa balle sous le banc. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Notre maîtresse raconte une histoire devant le groupe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Une abeille butine sur une fleur. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV03
-1. « Aya colle une image sur l’affiche. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 31. « Aya colle une image sur l’affiche. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Les deux enfants plantent des graines au fond du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Malo ferme la porte de la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Zoé lance le ballon dans la cour. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Le chien cherche sa balle sous le banc. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV04
-1. « La petite souris cherche une miette sous la grande table. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 41. « La petite souris cherche une miette sous la grande table. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Nora lit un album dans le coin lecture. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Le facteur dépose une lettre dans la boîte. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Aya colle une image sur l’affiche. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Les deux enfants plantent des graines au fond du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV05
-1. « Un chat dort sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 51. « Un chat dort sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Milo ouvre son livre à la bibliothèque. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Lou porte un gâteau dans la cuisine. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « La petite souris cherche une miette sous la grande table. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Nora lit un album dans le coin lecture. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV06
-1. « Sami range ses crayons dans sa trousse. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 61. « Sami range ses crayons dans sa trousse. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Un lapin mange une carotte dans son enclos. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Nina et Tom préparent une affiche dans la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Un chat dort sur le tapis. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Milo ouvre son livre à la bibliothèque. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV07
-1. « Inès arrose les tomates dans le jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 71. « Inès arrose les tomates dans le jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Les oiseaux gris picorent des graines près du portail. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « La tortue avance sur le chemin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Sami range ses crayons dans sa trousse. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Un lapin mange une carotte dans son enclos. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV08
-1. « Notre maîtresse raconte une histoire devant le groupe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 81. « Notre maîtresse raconte une histoire devant le groupe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Une abeille butine sur une fleur. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Inès arrose les tomates dans le jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Les oiseaux gris picorent des graines près du portail. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV09
-1. « Malo ferme la porte de la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 91. « Malo ferme la porte de la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Zoé lance le ballon dans la cour. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Le chien cherche sa balle sous le banc. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Notre maîtresse raconte une histoire devant le groupe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 5. « Lina dessine un soleil sur sa feuille. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 
-#### DEV10
-1. « Le facteur dépose une lettre dans la boîte. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
+#### Devoir 101. « Le facteur dépose une lettre dans la boîte. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 2. « Aya colle une image sur l’affiche. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 3. « Les deux enfants plantent des graines au fond du jardin. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.
 4. « Malo ferme la porte de la classe. » Accepter toute phrase qui reprend les trois informations et les organise syntaxiquement ; ne pas faire dépendre la réussite d’une erreur orthographique ou de ponctuation isolée.

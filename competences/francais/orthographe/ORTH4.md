@@ -61,24 +61,21 @@ La réécriture oblige à traiter toute la chaine sans ajouter une tâche de rep
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 - **Énoncé :** Mets au pluriel : *le petit chat*.
 - **Attention :** Faire dire *les petits chats* et aligner les trois mots.
 - **Verbalisation :** « Je dois parler de plusieurs. *Le* devient *les*. J’ajoute *s* à *petit* et à *chat*. J’écris *les petits chats*. »
 - **Réponse :** les petits chats
 - **Contrôle final :** Pointer successivement *les*, le *s* de *petits* et le *s* de *chats*.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 - **Énoncé :** Mets au féminin : *un ami poli*.
 - **Attention :** Faire transformer oralement avant d’écrire.
 - **Verbalisation :** « Au féminin, *un* devient quoi ? J’ajoute *e* à *ami* et à *poli*. Je relis les trois mots. »
 - **Réponse :** une amie polie
 - **Contrôle final :** Comparer mot à mot avec le groupe de départ.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 - **Énoncé :** Mets au pluriel : *la grande maison*.
 - **Attention :** Laisser les élèves annoncer les trois changements.
 - **Verbalisation :** « Je lis la cible, je transforme oralement, puis je change chaque mot qui doit porter le pluriel. »
@@ -89,13 +86,13 @@ La réécriture oblige à traiter toute la chaine sans ajouter une tâche de rep
 
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **IMM01** — Mets au pluriel : *un chat*.
-2. **IMM02** — Mets au pluriel : *la maison*.
-3. **IMM03** — Mets au pluriel : *un ballon*.
-4. **IMM04** — Mets au pluriel : *une robe*.
-5. **IMM05** — Mets au pluriel : *le lapin*.
-6. **IMM06** — Mets au pluriel : *la table*.
-7. **IMM07** — Mets au pluriel : *un jardin*.
+1. — Mets au pluriel : *un chat*.
+2. — Mets au pluriel : *la maison*.
+3. — Mets au pluriel : *un ballon*.
+4. — Mets au pluriel : *une robe*.
+5. — Mets au pluriel : *le lapin*.
+6. — Mets au pluriel : *la table*.
+7. — Mets au pluriel : *un jardin*.
 
 ## Variables didactiques
 
@@ -122,323 +119,293 @@ La réécriture oblige à traiter toute la chaine sans ajouter une tâche de rep
 
 ## Entraînements
 
-### ENT01
-
+### Entraînement 1
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT01-01** — Mets au pluriel : *un chat*.
-2. **ENT01-02** — Mets au pluriel : *la maison*.
-3. **ENT01-03** — Mets au pluriel : *un ballon*.
-4. **ENT01-04** — Mets au pluriel : *une robe*.
-5. **ENT01-05** — Mets au pluriel : *le lapin*.
-6. **ENT01-06** — Mets au pluriel : *la table*.
+1. — Mets au pluriel : *un chat*.
+2. — Mets au pluriel : *la maison*.
+3. — Mets au pluriel : *un ballon*.
+4. — Mets au pluriel : *une robe*.
+5. — Mets au pluriel : *le lapin*.
+6. — Mets au pluriel : *la table*.
 
-### ENT02
-
+### Entraînement 2
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT02-01** — Mets au pluriel : *un jardin*.
-2. **ENT02-02** — Mets au pluriel : *une voiture*.
-3. **ENT02-03** — Mets au pluriel : *le crayon*.
-4. **ENT02-04** — Mets au féminin : *un ami*.
-5. **ENT02-05** — Mets au féminin : *un invité*.
-6. **ENT02-06** — Mets au féminin : *un marchand*.
+1. — Mets au pluriel : *un jardin*.
+2. — Mets au pluriel : *une voiture*.
+3. — Mets au pluriel : *le crayon*.
+4. — Mets au féminin : *un ami*.
+5. — Mets au féminin : *un invité*.
+6. — Mets au féminin : *un marchand*.
 
-### ENT03
-
+### Entraînement 3
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT03-01** — Mets au féminin : *un voisin*.
-2. **ENT03-02** — Mets au féminin : *un cousin*.
-3. **ENT03-03** — Mets au féminin : *un employé*.
-4. **ENT03-04** — Mets au féminin : *un candidat*.
-5. **ENT03-05** — Mets au féminin : *un client*.
-6. **ENT03-06** — Mets au féminin : *un habitant*.
+1. — Mets au féminin : *un voisin*.
+2. — Mets au féminin : *un cousin*.
+3. — Mets au féminin : *un employé*.
+4. — Mets au féminin : *un candidat*.
+5. — Mets au féminin : *un client*.
+6. — Mets au féminin : *un habitant*.
 
-### ENT04
-
+### Entraînement 4
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT04-01** — Mets au pluriel : *le petit chat*.
-2. **ENT04-02** — Mets au pluriel : *la grande maison*.
-3. **ENT04-03** — Mets au pluriel : *un ballon rouge*.
-4. **ENT04-04** — Mets au pluriel : *une robe bleue*.
-5. **ENT04-05** — Mets au pluriel : *le jeune lapin*.
-6. **ENT04-06** — Mets au pluriel : *la table ronde*.
+1. — Mets au pluriel : *le petit chat*.
+2. — Mets au pluriel : *la grande maison*.
+3. — Mets au pluriel : *un ballon rouge*.
+4. — Mets au pluriel : *une robe bleue*.
+5. — Mets au pluriel : *le jeune lapin*.
+6. — Mets au pluriel : *la table ronde*.
 
-### ENT05
-
+### Entraînement 5
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT05-01** — Mets au pluriel : *un jardin fleuri*.
-2. **ENT05-02** — Mets au pluriel : *une voiture verte*.
-3. **ENT05-03** — Mets au pluriel : *le crayon noir*.
-4. **ENT05-04** — Mets au pluriel : *la petite lampe*.
-5. **ENT05-05** — Mets au pluriel : *un livre neuf*.
-6. **ENT05-06** — Mets au pluriel : *la porte fermée*.
+1. — Mets au pluriel : *un jardin fleuri*.
+2. — Mets au pluriel : *une voiture verte*.
+3. — Mets au pluriel : *le crayon noir*.
+4. — Mets au pluriel : *la petite lampe*.
+5. — Mets au pluriel : *un livre neuf*.
+6. — Mets au pluriel : *la porte fermée*.
 
-### ENT06
-
+### Entraînement 6
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT06-01** — Mets au féminin : *un ami poli*.
-2. **ENT06-02** — Mets au féminin : *un invité pressé*.
-3. **ENT06-03** — Mets au féminin : *un marchand bavard*.
-4. **ENT06-04** — Mets au féminin : *un voisin content*.
-5. **ENT06-05** — Mets au féminin : *un cousin patient*.
-6. **ENT06-06** — Mets au féminin : *un employé prudent*.
+1. — Mets au féminin : *un ami poli*.
+2. — Mets au féminin : *un invité pressé*.
+3. — Mets au féminin : *un marchand bavard*.
+4. — Mets au féminin : *un voisin content*.
+5. — Mets au féminin : *un cousin patient*.
+6. — Mets au féminin : *un employé prudent*.
 
-### ENT07
-
+### Entraînement 7
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT07-01** — Mets au féminin : *un candidat motivé*.
-2. **ENT07-02** — Mets au féminin : *un client étonné*.
-3. **ENT07-03** — Mets au féminin : *un habitant content*.
-4. **ENT07-04** — Mets au féminin : *un ami appliqué*.
-5. **ENT07-05** — Mets au féminin : *un invité calme*.
-6. **ENT07-06** — Mets au féminin : *un voisin bavard*.
+1. — Mets au féminin : *un candidat motivé*.
+2. — Mets au féminin : *un client étonné*.
+3. — Mets au féminin : *un habitant content*.
+4. — Mets au féminin : *un ami appliqué*.
+5. — Mets au féminin : *un invité calme*.
+6. — Mets au féminin : *un voisin bavard*.
 
-### ENT08
-
+### Entraînement 8
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT08-01** — Mets au pluriel : *le petit chat noir*.
-2. **ENT08-02** — Mets au pluriel : *la grande maison blanche*.
-3. **ENT08-03** — Mets au pluriel : *un ballon rond rouge*.
-4. **ENT08-04** — Mets au pluriel : *une robe courte bleue*.
-5. **ENT08-05** — Mets au pluriel : *le jeune lapin gris*.
-6. **ENT08-06** — Mets au pluriel : *la petite table ronde*.
+1. — Mets au pluriel : *le petit chat noir*.
+2. — Mets au pluriel : *la grande maison blanche*.
+3. — Mets au pluriel : *un ballon rond rouge*.
+4. — Mets au pluriel : *une robe courte bleue*.
+5. — Mets au pluriel : *le jeune lapin gris*.
+6. — Mets au pluriel : *la petite table ronde*.
 
-### ENT09
-
+### Entraînement 9
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT09-01** — Mets au pluriel : *le long jardin fleuri*.
-2. **ENT09-02** — Mets au pluriel : *la petite voiture verte*.
-3. **ENT09-03** — Mets au pluriel : *le grand crayon noir*.
-4. **ENT09-04** — Mets au féminin : *un ami poli et content*.
-5. **ENT09-05** — Mets au féminin : *un invité patient et calme*.
-6. **ENT09-06** — Mets au féminin : *un marchand bavard et pressé*.
+1. — Mets au pluriel : *le long jardin fleuri*.
+2. — Mets au pluriel : *la petite voiture verte*.
+3. — Mets au pluriel : *le grand crayon noir*.
+4. — Mets au féminin : *un ami poli et content*.
+5. — Mets au féminin : *un invité patient et calme*.
+6. — Mets au féminin : *un marchand bavard et pressé*.
 
-### ENT10
-
+### Entraînement 10
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **ENT10-01** — Mets au féminin : *un voisin content et poli*.
-2. **ENT10-02** — Mets au féminin : *un cousin prudent et appliqué*.
-3. **ENT10-03** — Mets au féminin : *un employé prudent et patient*.
-4. **ENT10-04** — Mets au féminin : *un candidat motivé et prêt*.
-5. **ENT10-05** — Mets au féminin : *un client étonné et bavard*.
-6. **ENT10-06** — Mets au féminin : *un habitant poli et calme*.
+1. — Mets au féminin : *un voisin content et poli*.
+2. — Mets au féminin : *un cousin prudent et appliqué*.
+3. — Mets au féminin : *un employé prudent et patient*.
+4. — Mets au féminin : *un candidat motivé et prêt*.
+5. — Mets au féminin : *un client étonné et bavard*.
+6. — Mets au féminin : *un habitant poli et calme*.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune associe trois items entraînés, un item très légèrement transposé et un item nouveau strictement isomorphe.
 
-### EVAL01
-
+### Évaluation 1
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL01-01** — Mets au féminin : *un ami*.
-2. **EVAL01-02** — Mets au féminin : *un invité pressé*.
-3. **EVAL01-03** — Mets au féminin : *un marchand bavard et pressé*.
-4. **EVAL01-04** — Mets au pluriel : *un vélo rouge*.
-5. **EVAL01-05** — Mets au pluriel : *la petite tasse*.
+1. — Mets au féminin : *un ami*.
+2. — Mets au féminin : *un invité pressé*.
+3. — Mets au féminin : *un marchand bavard et pressé*.
+4. — Mets au pluriel : *un vélo rouge*.
+5. — Mets au pluriel : *la petite tasse*.
 
-### EVAL02
-
+### Évaluation 2
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL02-01** — Mets au féminin : *un invité*.
-2. **EVAL02-02** — Mets au féminin : *un marchand bavard*.
-3. **EVAL02-03** — Mets au pluriel : *une robe courte bleue*.
-4. **EVAL02-04** — Mets au pluriel : *un sac léger*.
-5. **EVAL02-05** — Mets au féminin : *un invité poli*.
+1. — Mets au féminin : *un invité*.
+2. — Mets au féminin : *un marchand bavard*.
+3. — Mets au pluriel : *une robe courte bleue*.
+4. — Mets au pluriel : *un sac léger*.
+5. — Mets au féminin : *un invité poli*.
 
-### EVAL03
-
+### Évaluation 3
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL03-01** — Mets au féminin : *un marchand*.
-2. **EVAL03-02** — Mets au féminin : *un voisin content*.
-3. **EVAL03-03** — Mets au féminin : *un cousin prudent et appliqué*.
-4. **EVAL03-04** — Mets au pluriel : *un mur haut*.
-5. **EVAL03-05** — Mets au pluriel : *le ruban rouge*.
+1. — Mets au féminin : *un marchand*.
+2. — Mets au féminin : *un voisin content*.
+3. — Mets au féminin : *un cousin prudent et appliqué*.
+4. — Mets au pluriel : *un mur haut*.
+5. — Mets au pluriel : *le ruban rouge*.
 
-### EVAL04
-
+### Évaluation 4
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL04-01** — Mets au pluriel : *une robe*.
-2. **EVAL04-02** — Mets au féminin : *un cousin patient*.
-3. **EVAL04-03** — Mets au féminin : *un employé prudent et patient*.
-4. **EVAL04-04** — Mets au pluriel : *un ruban long*.
-5. **EVAL04-05** — Mets au féminin : *un voisin pressé*.
+1. — Mets au pluriel : *une robe*.
+2. — Mets au féminin : *un cousin patient*.
+3. — Mets au féminin : *un employé prudent et patient*.
+4. — Mets au pluriel : *un ruban long*.
+5. — Mets au féminin : *un voisin pressé*.
 
-### EVAL05
-
+### Évaluation 5
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL05-01** — Mets au féminin : *un cousin*.
-2. **EVAL05-02** — Mets au féminin : *un employé prudent*.
-3. **EVAL05-03** — Mets au féminin : *un candidat motivé et prêt*.
-4. **EVAL05-04** — Mets au pluriel : *un chemin plat*.
-5. **EVAL05-05** — Mets au pluriel : *un arbre vert*.
+1. — Mets au féminin : *un cousin*.
+2. — Mets au féminin : *un employé prudent*.
+3. — Mets au féminin : *un candidat motivé et prêt*.
+4. — Mets au pluriel : *un chemin plat*.
+5. — Mets au pluriel : *un arbre vert*.
 
-### EVAL06
-
+### Évaluation 6
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL06-01** — Mets au féminin : *un employé*.
-2. **EVAL06-02** — Mets au pluriel : *un jardin fleuri*.
-3. **EVAL06-03** — Mets au féminin : *un client étonné et bavard*.
-4. **EVAL06-04** — Mets au pluriel : *un nuage blanc*.
-5. **EVAL06-05** — Mets au féminin : *un ami étonné*.
+1. — Mets au féminin : *un employé*.
+2. — Mets au pluriel : *un jardin fleuri*.
+3. — Mets au féminin : *un client étonné et bavard*.
+4. — Mets au pluriel : *un nuage blanc*.
+5. — Mets au féminin : *un ami étonné*.
 
-### EVAL07
-
+### Évaluation 7
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL07-01** — Mets au féminin : *un candidat*.
-2. **EVAL07-02** — Mets au féminin : *un client étonné*.
-3. **EVAL07-03** — Mets au féminin : *un habitant poli et calme*.
-4. **EVAL07-04** — Mets au pluriel : *un arbre vert*.
-5. **EVAL07-05** — Mets au pluriel : *la fenêtre ouverte*.
+1. — Mets au féminin : *un candidat*.
+2. — Mets au féminin : *un client étonné*.
+3. — Mets au féminin : *un habitant poli et calme*.
+4. — Mets au pluriel : *un arbre vert*.
+5. — Mets au pluriel : *la fenêtre ouverte*.
 
-### EVAL08
-
+### Évaluation 8
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL08-01** — Mets au féminin : *un client*.
-2. **EVAL08-02** — Mets au féminin : *un habitant content*.
-3. **EVAL08-03** — Mets au pluriel : *le petit chat noir*.
-4. **EVAL08-04** — Mets au pluriel : *un cordon court*.
-5. **EVAL08-05** — Mets au féminin : *un client patient*.
+1. — Mets au féminin : *un client*.
+2. — Mets au féminin : *un habitant content*.
+3. — Mets au pluriel : *le petit chat noir*.
+4. — Mets au pluriel : *un cordon court*.
+5. — Mets au féminin : *un client patient*.
 
-### EVAL09
-
+### Évaluation 9
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL09-01** — Mets au féminin : *un habitant*.
-2. **EVAL09-02** — Mets au féminin : *un ami appliqué*.
-3. **EVAL09-03** — Mets au féminin : *un invité patient et calme*.
-4. **EVAL09-04** — Mets au pluriel : *un cahier neuf*.
-5. **EVAL09-05** — Mets au pluriel : *un nuage blanc*.
+1. — Mets au féminin : *un habitant*.
+2. — Mets au féminin : *un ami appliqué*.
+3. — Mets au féminin : *un invité patient et calme*.
+4. — Mets au pluriel : *un cahier neuf*.
+5. — Mets au pluriel : *un nuage blanc*.
 
-### EVAL10
-
+### Évaluation 10
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **EVAL10-01** — Mets au pluriel : *un chat*.
-2. **EVAL10-02** — Mets au féminin : *un invité calme*.
-3. **EVAL10-03** — Mets au féminin : *un marchand bavard et pressé*.
-4. **EVAL10-04** — Mets au pluriel : *un panier rond*.
-5. **EVAL10-05** — Mets au féminin : *un candidat appliqué*.
+1. — Mets au pluriel : *un chat*.
+2. — Mets au féminin : *un invité calme*.
+3. — Mets au féminin : *un marchand bavard et pressé*.
+4. — Mets au pluriel : *un panier rond*.
+5. — Mets au féminin : *un candidat appliqué*.
 
 ## Devoirs
 
 Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
-### DEV01
-
+### Devoir 1
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV01-01** — Mets au pluriel : *un chat*.
-2. **DEV01-02** — Mets au pluriel : *une robe*.
-3. **DEV01-03** — Mets au pluriel : *un jardin*.
-4. **DEV01-04** — Mets au féminin : *un ami*.
-5. **DEV01-05** — Mets au féminin : *un voisin*.
+1. — Mets au pluriel : *un chat*.
+2. — Mets au pluriel : *une robe*.
+3. — Mets au pluriel : *un jardin*.
+4. — Mets au féminin : *un ami*.
+5. — Mets au féminin : *un voisin*.
 
-### DEV02
-
+### Devoir 2
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV02-01** — Mets au pluriel : *la table*.
-2. **DEV02-02** — Mets au pluriel : *le crayon*.
-3. **DEV02-03** — Mets au féminin : *un marchand*.
-4. **DEV02-04** — Mets au féminin : *un employé*.
-5. **DEV02-05** — Mets au féminin : *un habitant*.
+1. — Mets au pluriel : *la table*.
+2. — Mets au pluriel : *le crayon*.
+3. — Mets au féminin : *un marchand*.
+4. — Mets au féminin : *un employé*.
+5. — Mets au féminin : *un habitant*.
 
-### DEV03
-
+### Devoir 3
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV03-01** — Mets au féminin : *un invité*.
-2. **DEV03-02** — Mets au féminin : *un cousin*.
-3. **DEV03-03** — Mets au féminin : *un client*.
-4. **DEV03-04** — Mets au pluriel : *la grande maison*.
-5. **DEV03-05** — Mets au pluriel : *le jeune lapin*.
+1. — Mets au féminin : *un invité*.
+2. — Mets au féminin : *un cousin*.
+3. — Mets au féminin : *un client*.
+4. — Mets au pluriel : *la grande maison*.
+5. — Mets au pluriel : *le jeune lapin*.
 
-### DEV04
-
+### Devoir 4
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV04-01** — Mets au féminin : *un candidat*.
-2. **DEV04-02** — Mets au pluriel : *le petit chat*.
-3. **DEV04-03** — Mets au pluriel : *une robe bleue*.
-4. **DEV04-04** — Mets au pluriel : *un chat*.
-5. **DEV04-05** — Mets au pluriel : *une robe*.
+1. — Mets au féminin : *un candidat*.
+2. — Mets au pluriel : *le petit chat*.
+3. — Mets au pluriel : *une robe bleue*.
+4. — Mets au pluriel : *un chat*.
+5. — Mets au pluriel : *une robe*.
 
-### DEV05
-
+### Devoir 5
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV05-01** — Mets au pluriel : *un ballon rouge*.
-2. **DEV05-02** — Mets au pluriel : *la table ronde*.
-3. **DEV05-03** — Mets au pluriel : *un ballon*.
-4. **DEV05-04** — Mets au pluriel : *la table*.
-5. **DEV05-05** — Mets au pluriel : *le crayon*.
+1. — Mets au pluriel : *un ballon rouge*.
+2. — Mets au pluriel : *la table ronde*.
+3. — Mets au pluriel : *un ballon*.
+4. — Mets au pluriel : *la table*.
+5. — Mets au pluriel : *le crayon*.
 
-### DEV06
-
+### Devoir 6
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV06-01** — Mets au pluriel : *la maison*.
-2. **DEV06-02** — Mets au pluriel : *le lapin*.
-3. **DEV06-03** — Mets au pluriel : *une voiture*.
-4. **DEV06-04** — Mets au féminin : *un invité*.
-5. **DEV06-05** — Mets au féminin : *un cousin*.
+1. — Mets au pluriel : *la maison*.
+2. — Mets au pluriel : *le lapin*.
+3. — Mets au pluriel : *une voiture*.
+4. — Mets au féminin : *un invité*.
+5. — Mets au féminin : *un cousin*.
 
-### DEV07
-
+### Devoir 7
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV07-01** — Mets au pluriel : *un jardin*.
-2. **DEV07-02** — Mets au féminin : *un ami*.
-3. **DEV07-03** — Mets au féminin : *un voisin*.
-4. **DEV07-04** — Mets au féminin : *un candidat*.
-5. **DEV07-05** — Mets au pluriel : *le petit chat*.
+1. — Mets au pluriel : *un jardin*.
+2. — Mets au féminin : *un ami*.
+3. — Mets au féminin : *un voisin*.
+4. — Mets au féminin : *un candidat*.
+5. — Mets au pluriel : *le petit chat*.
 
-### DEV08
-
+### Devoir 8
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV08-01** — Mets au féminin : *un marchand*.
-2. **DEV08-02** — Mets au féminin : *un employé*.
-3. **DEV08-03** — Mets au féminin : *un habitant*.
-4. **DEV08-04** — Mets au pluriel : *un ballon rouge*.
-5. **DEV08-05** — Mets au pluriel : *la table ronde*.
+1. — Mets au féminin : *un marchand*.
+2. — Mets au féminin : *un employé*.
+3. — Mets au féminin : *un habitant*.
+4. — Mets au pluriel : *un ballon rouge*.
+5. — Mets au pluriel : *la table ronde*.
 
-### DEV09
-
+### Devoir 9
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV09-01** — Mets au féminin : *un client*.
-2. **DEV09-02** — Mets au pluriel : *la grande maison*.
-3. **DEV09-03** — Mets au pluriel : *le jeune lapin*.
-4. **DEV09-04** — Mets au pluriel : *la maison*.
-5. **DEV09-05** — Mets au pluriel : *le lapin*.
+1. — Mets au féminin : *un client*.
+2. — Mets au pluriel : *la grande maison*.
+3. — Mets au pluriel : *le jeune lapin*.
+4. — Mets au pluriel : *la maison*.
+5. — Mets au pluriel : *le lapin*.
 
-### DEV10
-
+### Devoir 10
 **Consigne :** Réécris le groupe nominal en respectant la transformation demandée
 
-1. **DEV10-01** — Mets au pluriel : *une robe bleue*.
-2. **DEV10-02** — Mets au pluriel : *un chat*.
-3. **DEV10-03** — Mets au pluriel : *une robe*.
-4. **DEV10-04** — Mets au pluriel : *un jardin*.
-5. **DEV10-05** — Mets au féminin : *un ami*.
+1. — Mets au pluriel : *une robe bleue*.
+2. — Mets au pluriel : *un chat*.
+3. — Mets au pluriel : *une robe*.
+4. — Mets au pluriel : *un jardin*.
+5. — Mets au féminin : *un ami*.
 
 ## Corrections
 
@@ -454,8 +421,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des entraînements
 
-#### ENT01
-
+#### Entraînement 1
 1. des chats
 2. les maisons
 3. des ballons
@@ -463,8 +429,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. les lapins
 6. les tables
 
-#### ENT02
-
+#### Entraînement 2
 1. des jardins
 2. des voitures
 3. les crayons
@@ -472,8 +437,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. une invitée
 6. une marchande
 
-#### ENT03
-
+#### Entraînement 3
 1. une voisine
 2. une cousine
 3. une employée
@@ -481,8 +445,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. une cliente
 6. une habitante
 
-#### ENT04
-
+#### Entraînement 4
 1. les petits chats
 2. les grandes maisons
 3. des ballons rouges
@@ -490,8 +453,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. les jeunes lapins
 6. les tables rondes
 
-#### ENT05
-
+#### Entraînement 5
 1. des jardins fleuris
 2. des voitures vertes
 3. les crayons noirs
@@ -499,8 +461,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. des livres neufs
 6. les portes fermées
 
-#### ENT06
-
+#### Entraînement 6
 1. une amie polie
 2. une invitée pressée
 3. une marchande bavarde
@@ -508,8 +469,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. une cousine patiente
 6. une employée prudente
 
-#### ENT07
-
+#### Entraînement 7
 1. une candidate motivée
 2. une cliente étonnée
 3. une habitante contente
@@ -517,8 +477,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. une invitée calme
 6. une voisine bavarde
 
-#### ENT08
-
+#### Entraînement 8
 1. les petits chats noirs
 2. les grandes maisons blanches
 3. des ballons ronds rouges
@@ -526,8 +485,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. les jeunes lapins gris
 6. les petites tables rondes
 
-#### ENT09
-
+#### Entraînement 9
 1. les longs jardins fleuris
 2. les petites voitures vertes
 3. les grands crayons noirs
@@ -535,8 +493,7 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 5. une invitée patiente et calme
 6. une marchande bavarde et pressée
 
-#### ENT10
-
+#### Entraînement 10
 1. une voisine contente et polie
 2. une cousine prudente et appliquée
 3. une employée prudente et patiente
@@ -546,80 +503,70 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des évaluations
 
-#### EVAL01
-
+#### Évaluation 1
 1. une amie
 2. une invitée pressée
 3. une marchande bavarde et pressée
 4. des vélos rouges
 5. les petites tasses
 
-#### EVAL02
-
+#### Évaluation 2
 1. une invitée
 2. une marchande bavarde
 3. des robes courtes bleues
 4. des sacs légers
 5. une invitée polie
 
-#### EVAL03
-
+#### Évaluation 3
 1. une marchande
 2. une voisine contente
 3. une cousine prudente et appliquée
 4. des murs hauts
 5. les rubans rouges
 
-#### EVAL04
-
+#### Évaluation 4
 1. des robes
 2. une cousine patiente
 3. une employée prudente et patiente
 4. des rubans longs
 5. une voisine pressée
 
-#### EVAL05
-
+#### Évaluation 5
 1. une cousine
 2. une employée prudente
 3. une candidate motivée et prête
 4. des chemins plats
 5. des arbres verts
 
-#### EVAL06
-
+#### Évaluation 6
 1. une employée
 2. des jardins fleuris
 3. une cliente étonnée et bavarde
 4. des nuages blancs
 5. une amie étonnée
 
-#### EVAL07
-
+#### Évaluation 7
 1. une candidate
 2. une cliente étonnée
 3. une habitante polie et calme
 4. des arbres verts
 5. les fenêtres ouvertes
 
-#### EVAL08
-
+#### Évaluation 8
 1. une cliente
 2. une habitante contente
 3. les petits chats noirs
 4. des cordons courts
 5. une cliente patiente
 
-#### EVAL09
-
+#### Évaluation 9
 1. une habitante
 2. une amie appliquée
 3. une invitée patiente et calme
 4. des cahiers neufs
 5. des nuages blancs
 
-#### EVAL10
-
+#### Évaluation 10
 1. des chats
 2. une invitée calme
 3. une marchande bavarde et pressée
@@ -628,80 +575,70 @@ Les devoirs reprennent uniquement des items accessibles issus de ENT01 à ENT04.
 
 ### Corrections des devoirs
 
-#### DEV01
-
+#### Devoir 1
 1. des chats
 2. des robes
 3. des jardins
 4. une amie
 5. une voisine
 
-#### DEV02
-
+#### Devoir 2
 1. les tables
 2. les crayons
 3. une marchande
 4. une employée
 5. une habitante
 
-#### DEV03
-
+#### Devoir 3
 1. une invitée
 2. une cousine
 3. une cliente
 4. les grandes maisons
 5. les jeunes lapins
 
-#### DEV04
-
+#### Devoir 4
 1. une candidate
 2. les petits chats
 3. des robes bleues
 4. des chats
 5. des robes
 
-#### DEV05
-
+#### Devoir 5
 1. des ballons rouges
 2. les tables rondes
 3. des ballons
 4. les tables
 5. les crayons
 
-#### DEV06
-
+#### Devoir 6
 1. les maisons
 2. les lapins
 3. des voitures
 4. une invitée
 5. une cousine
 
-#### DEV07
-
+#### Devoir 7
 1. des jardins
 2. une amie
 3. une voisine
 4. une candidate
 5. les petits chats
 
-#### DEV08
-
+#### Devoir 8
 1. une marchande
 2. une employée
 3. une habitante
 4. des ballons rouges
 5. les tables rondes
 
-#### DEV09
-
+#### Devoir 9
 1. une cliente
 2. les grandes maisons
 3. les jeunes lapins
 4. les maisons
 5. les lapins
 
-#### DEV10
-
+#### Devoir 10
 1. des robes bleues
 2. des chats
 3. des robes

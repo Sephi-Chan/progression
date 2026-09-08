@@ -67,8 +67,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Modelage explicite — 3 items
 
-### MOD01 — modelage complet
-
+### Modelage 1 — modelage complet
 **Énoncé :** Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
 **Attention d’abord :** L’enseignant pointe le support et nomme chaque étape.
@@ -79,8 +78,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD02 — modelage interactif
-
+### Modelage 2 — modelage interactif
 **Énoncé :** Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
 **Attention d’abord :** L’enseignant fait nommer la cible et la première décision par les élèves.
@@ -91,8 +89,7 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 **Contrôle final :** reprendre les critères un à un et pointer dans la réponse l’indice qui valide chacun.
 
-### MOD03 — guidage allégé
-
+### Modelage 3 — guidage allégé
 **Énoncé :** Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
 **Attention d’abord :** Les élèves annoncent les étapes ; l’enseignant ne relance qu’en cas d’oubli.
@@ -105,13 +102,13 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## À toi de jouer — 7 items
 
-- **IMM01** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **IMM02** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **IMM03** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **IMM04** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **IMM05** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **IMM06** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **IMM07** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
 ## Variables didactiques
 
@@ -135,511 +132,451 @@ Le format rend la procédure visible et répétable. Chaque item fournit les inf
 
 ## Entraînements
 
-### ENT01 — accessible
+### Entraînement 1 — accessible
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **ENT01-01** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT01-02** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT01-03** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT01-04** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT01-05** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Entraînement 2 — accessible
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### ENT02 — accessible
+### Entraînement 3 — accessible
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **ENT02-01** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT02-02** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT02-03** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT02-04** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT02-05** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Entraînement 4 — standard
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### ENT03 — accessible
+### Entraînement 5 — standard
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **ENT03-01** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT03-02** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT03-03** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT03-04** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT03-05** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Entraînement 6 — standard
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### ENT04 — standard
+### Entraînement 7 — standard
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **ENT04-01** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT04-02** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT04-03** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT04-04** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT04-05** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Entraînement 8 — plus résistant
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### ENT05 — standard
+### Entraînement 9 — plus résistant
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **ENT05-01** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT05-02** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT05-03** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT05-04** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT05-05** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### ENT06 — standard
-
-- **ENT06-01** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT06-02** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT06-03** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT06-04** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT06-05** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### ENT07 — standard
-
-- **ENT07-01** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT07-02** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT07-03** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT07-04** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT07-05** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### ENT08 — plus résistant
-
-- **ENT08-01** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT08-02** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT08-03** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT08-04** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT08-05** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### ENT09 — plus résistant
-
-- **ENT09-01** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT09-02** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT09-03** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT09-04** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT09-05** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### ENT10 — plus résistant
-
-- **ENT10-01** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT10-02** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT10-03** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT10-04** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **ENT10-05** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Entraînement 10 — plus résistant
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
 ## Évaluations
 
 Les dix formes sont parallèles : chacune combine quatre items entraînés issus des mêmes niveaux de série et un item nouveau strictement isomorphe.
 
-### EVAL01
+### Évaluation 1
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter une sortie au port.** Cartes : qui : la classe ; où : le port ; action : observe les bateaux ; intrus : une chaussette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **EVAL01-01** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL01-02** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL01-03** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL01-04** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL01-05** — Projet : **Présenter une sortie au port.** Cartes : qui : la classe ; où : le port ; action : observe les bateaux ; intrus : une chaussette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Évaluation 2
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire sur un pique-nique.** Cartes : qui : Aya ; aliment : du pain ; lieu : le parc ; intrus : un réveil. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### EVAL02
+### Évaluation 3
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet en train.** Cartes : départ : Lyon ; moyen : le train ; arrivée : Dijon ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **EVAL02-01** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL02-02** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL02-03** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL02-04** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL02-05** — Projet : **Écrire sur un pique-nique.** Cartes : qui : Aya ; aliment : du pain ; lieu : le parc ; intrus : un réveil. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Évaluation 4
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un oiseau.** Cartes : animal : le héron ; couleur : blanc ; lieu : la rive ; intrus : jeudi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### EVAL03
+### Évaluation 5
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer un pliage.** Cartes : matériel : une feuille ; action 1 : plier ; action 2 : marquer le bord ; intrus : une poire. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **EVAL03-01** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL03-02** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL03-03** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL03-04** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL03-05** — Projet : **Raconter un trajet en train.** Cartes : départ : Lyon ; moyen : le train ; arrivée : Dijon ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Évaluation 6
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire un message.** Cartes : destinataire : Pablo ; raison : rendez-vous ; moment : mercredi ; intrus : une pelle. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### EVAL04
+### Évaluation 7
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un atelier.** Cartes : qui : Maëlle et Aya ; activité : peinture ; lieu : la salle ; intrus : un poisson. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **EVAL04-01** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL04-02** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL04-03** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL04-04** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL04-05** — Projet : **Décrire un oiseau.** Cartes : animal : le héron ; couleur : blanc ; lieu : la rive ; intrus : jeudi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Évaluation 8
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Présenter un spectacle.** Cartes : titre : Le bateau bleu ; personnage : un marin ; avis : drôle ; intrus : une casserole. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### EVAL05
+### Évaluation 9
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une expérience.** Cartes : matériel : un glaçon ; action 1 : poser au soleil ; action 2 : observer ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **EVAL05-01** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL05-02** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL05-03** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL05-04** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL05-05** — Projet : **Expliquer un pliage.** Cartes : matériel : une feuille ; action 1 : plier ; action 2 : marquer le bord ; intrus : une poire. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### EVAL06
-
-- **EVAL06-01** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL06-02** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL06-03** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL06-04** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL06-05** — Projet : **Écrire un message.** Cartes : destinataire : Pablo ; raison : rendez-vous ; moment : mercredi ; intrus : une pelle. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### EVAL07
-
-- **EVAL07-01** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL07-02** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL07-03** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL07-04** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL07-05** — Projet : **Raconter un atelier.** Cartes : qui : Maëlle et Aya ; activité : peinture ; lieu : la salle ; intrus : un poisson. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### EVAL08
-
-- **EVAL08-01** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL08-02** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL08-03** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL08-04** — Projet : **Présenter un livre.** Cartes : titre : La petite étoile ; personnage : Zoé ; avis : amusant ; intrus : une fourchette. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL08-05** — Projet : **Présenter un spectacle.** Cartes : titre : Le bateau bleu ; personnage : un marin ; avis : drôle ; intrus : une casserole. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### EVAL09
-
-- **EVAL09-01** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL09-02** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL09-03** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL09-04** — Projet : **Raconter une recette.** Cartes : ingrédient : une pomme ; action 1 : couper ; action 2 : mélanger ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL09-05** — Projet : **Raconter une expérience.** Cartes : matériel : un glaçon ; action 1 : poser au soleil ; action 2 : observer ; intrus : une trousse. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### EVAL10
-
-- **EVAL10-01** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL10-02** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL10-03** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL10-04** — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **EVAL10-05** — Projet : **Décrire un paysage.** Cartes : ciel : rose ; lieu : la mer ; détail : un phare ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Évaluation 10
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire la météo.** Cartes : ciel : gris ; phénomène : pluie ; vêtement : imperméable ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un paysage.** Cartes : ciel : rose ; lieu : la mer ; détail : un phare ; intrus : un tambour. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
 ## Devoirs
 
 La consigne reste celle de la classe. Tous les items proviennent des quatre premières séries ; aucun matériel particulier n’est requis en dehors du support imprimé et d’un crayon.
 
-### DEV01
+### Devoir 1
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **DEV01-01** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV01-02** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV01-03** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV01-04** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV01-05** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Devoir 2
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### DEV02
+### Devoir 3
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **DEV02-01** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV02-02** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV02-03** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV02-04** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV02-05** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Devoir 4
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### DEV03
+### Devoir 5
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **DEV03-01** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV03-02** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV03-03** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV03-04** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV03-05** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Devoir 6
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### DEV04
+### Devoir 7
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **DEV04-01** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV04-02** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV04-03** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV04-04** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV04-05** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Devoir 8
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-### DEV05
+### Devoir 9
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
-- **DEV05-01** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV05-02** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV05-03** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV05-04** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV05-05** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### DEV06
-
-- **DEV06-01** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV06-02** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV06-03** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV06-04** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV06-05** — Projet : **Décrire un animal.** Cartes : animal : le renard ; couleur : roux ; lieu : la forêt ; intrus : mardi. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### DEV07
-
-- **DEV07-01** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV07-02** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV07-03** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV07-04** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV07-05** — Projet : **Expliquer une plantation.** Cartes : matériel : une graine ; action 1 : creuser ; action 2 : arroser ; intrus : un livre. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### DEV08
-
-- **DEV08-01** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV08-02** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV08-03** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV08-04** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV08-05** — Projet : **Écrire une invitation.** Cartes : destinataire : Lina ; événement : anniversaire ; moment : samedi ; intrus : un vélo. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### DEV09
-
-- **DEV09-01** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV09-02** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV09-03** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV09-04** — Projet : **Raconter une récréation.** Cartes : qui : Nora et Adam ; jeu : ballon ; lieu : la cour ; intrus : une soupe. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV09-05** — Projet : **Raconter une visite au jardin.** Cartes : qui : la classe ; où : au jardin ; action : observe les insectes ; intrus : un ballon. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-
-### DEV10
-
-- **DEV10-01** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV10-02** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV10-03** — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV10-04** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
-- **DEV10-05** — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+### Devoir 10
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Raconter un trajet.** Cartes : départ : l’école ; moyen : le bus ; arrivée : le musée ; intrus : un lapin. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
+- — Projet : **Écrire une phrase sur un goûter.** Cartes : qui : Milo ; aliment : une poire ; action : mange ; intrus : la piscine. Prépare un brouillon en mots ou groupes de mots dans trois rubriques utiles. Ne rédige pas encore le texte.
 
 ## Corrections
 
 ### Correction — À toi de jouer
 
-- **IMM01** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **IMM02** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **IMM03** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **IMM04** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **IMM05** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **IMM06** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **IMM07** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
 ### Corrections des entraînements
 
-#### ENT01
+#### Entraînement 1
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **ENT01-01** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT01-02** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT01-03** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT01-04** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT01-05** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Entraînement 2
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### ENT02
+#### Entraînement 3
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **ENT02-01** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT02-02** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT02-03** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT02-04** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT02-05** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Entraînement 4
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### ENT03
+#### Entraînement 5
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **ENT03-01** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT03-02** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT03-03** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT03-04** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT03-05** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Entraînement 6
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### ENT04
+#### Entraînement 7
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **ENT04-01** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT04-02** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT04-03** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT04-04** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT04-05** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Entraînement 8
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### ENT05
+#### Entraînement 9
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **ENT05-01** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT05-02** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT05-03** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT05-04** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT05-05** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### ENT06
-
-- **ENT06-01** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT06-02** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT06-03** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT06-04** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT06-05** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### ENT07
-
-- **ENT07-01** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT07-02** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT07-03** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT07-04** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT07-05** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### ENT08
-
-- **ENT08-01** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT08-02** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT08-03** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT08-04** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT08-05** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### ENT09
-
-- **ENT09-01** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT09-02** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT09-03** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT09-04** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT09-05** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### ENT10
-
-- **ENT10-01** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT10-02** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT10-03** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT10-04** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **ENT10-05** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Entraînement 10
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
 ### Corrections des évaluations
 
-#### EVAL01
+#### Évaluation 1
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? le port ; Action ? observer les bateaux ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **EVAL01-01** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL01-02** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL01-03** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL01-04** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL01-05** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? le port ; Action ? observer les bateaux ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Évaluation 2
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Aya ; Aliment ? du pain ; Où ? le parc ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### EVAL02
+#### Évaluation 3
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? Lyon ; Moyen ? le train ; Arrivée ? Dijon ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **EVAL02-01** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL02-02** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL02-03** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL02-04** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL02-05** — Exemple de brouillon attendu : « Qui ? Aya ; Aliment ? du pain ; Où ? le parc ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Évaluation 4
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le héron ; Détail ? blanc ; Lieu ? la rive ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### EVAL03
+#### Évaluation 5
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une feuille ; D’abord ? plier ; Ensuite ? marquer le bord ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **EVAL03-01** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL03-02** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL03-03** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL03-04** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL03-05** — Exemple de brouillon attendu : « Départ ? Lyon ; Moyen ? le train ; Arrivée ? Dijon ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Évaluation 6
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Pablo ; Pourquoi ? rendez-vous ; Quand ? mercredi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### EVAL04
+#### Évaluation 7
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Maëlle et Aya ; Activité ? peinture ; Où ? la salle ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **EVAL04-01** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL04-02** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL04-03** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL04-04** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL04-05** — Exemple de brouillon attendu : « Animal ? le héron ; Détail ? blanc ; Lieu ? la rive ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Évaluation 8
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Titre ? Le bateau bleu ; Personnage ? un marin ; Avis ? drôle ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### EVAL05
+#### Évaluation 9
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? un glaçon ; D’abord ? poser au soleil ; Ensuite ? observer ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **EVAL05-01** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL05-02** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL05-03** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL05-04** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL05-05** — Exemple de brouillon attendu : « Matériel ? une feuille ; D’abord ? plier ; Ensuite ? marquer le bord ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### EVAL06
-
-- **EVAL06-01** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL06-02** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL06-03** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL06-04** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL06-05** — Exemple de brouillon attendu : « Pour qui ? Pablo ; Pourquoi ? rendez-vous ; Quand ? mercredi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### EVAL07
-
-- **EVAL07-01** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL07-02** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL07-03** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL07-04** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL07-05** — Exemple de brouillon attendu : « Qui ? Maëlle et Aya ; Activité ? peinture ; Où ? la salle ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### EVAL08
-
-- **EVAL08-01** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL08-02** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL08-03** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL08-04** — Exemple de brouillon attendu : « Titre ? La petite étoile ; Personnage ? Zoé ; Avis ? amusant ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL08-05** — Exemple de brouillon attendu : « Titre ? Le bateau bleu ; Personnage ? un marin ; Avis ? drôle ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### EVAL09
-
-- **EVAL09-01** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL09-02** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL09-03** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL09-04** — Exemple de brouillon attendu : « Ingrédient ? une pomme ; D’abord ? couper ; Ensuite ? mélanger ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL09-05** — Exemple de brouillon attendu : « Matériel ? un glaçon ; D’abord ? poser au soleil ; Ensuite ? observer ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### EVAL10
-
-- **EVAL10-01** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL10-02** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL10-03** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL10-04** — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **EVAL10-05** — Exemple de brouillon attendu : « Ciel ? rose ; Lieu ? la mer ; Détail ? un phare ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Évaluation 10
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? gris ; Temps ? pluie ; Vêtement utile ? imperméable ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Ciel ? rose ; Lieu ? la mer ; Détail ? un phare ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
 ### Corrections des devoirs
 
-#### DEV01
+#### Devoir 1
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **DEV01-01** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV01-02** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV01-03** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV01-04** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV01-05** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Devoir 2
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### DEV02
+#### Devoir 3
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **DEV02-01** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV02-02** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV02-03** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV02-04** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV02-05** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Devoir 4
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### DEV03
+#### Devoir 5
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **DEV03-01** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV03-02** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV03-03** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV03-04** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV03-05** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Devoir 6
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### DEV04
+#### Devoir 7
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **DEV04-01** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV04-02** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV04-03** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV04-04** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV04-05** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Devoir 8
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-#### DEV05
+#### Devoir 9
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
-- **DEV05-01** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV05-02** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV05-03** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV05-04** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV05-05** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### DEV06
-
-- **DEV06-01** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV06-02** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV06-03** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV06-04** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV06-05** — Exemple de brouillon attendu : « Animal ? le renard ; Détail ? roux ; Lieu ? la forêt ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### DEV07
-
-- **DEV07-01** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV07-02** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV07-03** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV07-04** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV07-05** — Exemple de brouillon attendu : « Matériel ? une graine ; D’abord ? creuser ; Ensuite ? arroser ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### DEV08
-
-- **DEV08-01** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV08-02** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV08-03** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV08-04** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV08-05** — Exemple de brouillon attendu : « Pour qui ? Lina ; Pourquoi ? anniversaire ; Quand ? samedi ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### DEV09
-
-- **DEV09-01** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV09-02** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV09-03** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV09-04** — Exemple de brouillon attendu : « Qui ? Nora et Adam ; Jeu ? ballon ; Où ? la cour ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV09-05** — Exemple de brouillon attendu : « Qui ? la classe ; Où ? au jardin ; Action ? observer les insectes ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-
-#### DEV10
-
-- **DEV10-01** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV10-02** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV10-03** — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV10-04** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
-- **DEV10-05** — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+#### Devoir 10
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Départ ? l’école ; Moyen ? le bus ; Arrivée ? le musée ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
+- — Exemple de brouillon attendu : « Qui ? Milo ; Action ? manger ; Détail utile ? une poire ». Accepter tout brouillon non rédigé qui sélectionne les trois informations utiles, les range dans des rubriques compréhensibles et écarte l’intrus.
 
 ## Traçabilité des évaluations et devoirs
 
