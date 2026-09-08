@@ -454,7 +454,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — Lina
+#### Entraînement 1
+
+1. Lina
 2. — Le chat
 3. — Mes amis
 4. — Elle
@@ -463,7 +465,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Un grand chien
 8. — Les jeunes arbres
 
-#### Entraînement 21. **ENT02-01** — Notre maîtresse
+#### Entraînement 2
+
+1. Notre maîtresse
 2. — Ces deux oiseaux
 3. — Mon voisin
 4. — La lumière
@@ -472,7 +476,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Le vieux bateau
 8. — Ma sœur et moi
 
-#### Entraînement 31. **ENT03-01** — Vous
+#### Entraînement 3
+
+1. Vous
 2. — Le facteur souriant
 3. — Les feuilles jaunes
 4. — Cette lourde porte
@@ -481,7 +487,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Mes amis
 8. — Elle
 
-#### Entraînement 41. **ENT04-01** — Tom et Léo
+#### Entraînement 4
+
+1. Tom et Léo
 2. — La petite souris
 3. — Un grand chien
 4. — Les jeunes arbres
@@ -490,7 +498,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Mon voisin
 8. — La lumière
 
-#### Entraînement 51. **ENT05-01** — ils
+#### Entraînement 5
+
+1. ils
 2. — les élèves calmes
 3. — le vieux bateau
 4. — ma sœur et moi
@@ -499,7 +509,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — les feuilles jaunes
 8. — cette lourde porte
 
-#### Entraînement 61. **ENT06-01** — Lina
+#### Entraînement 6
+
+1. Lina
 2. — le chat
 3. — mes amis
 4. — elle
@@ -508,7 +520,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — un grand chien
 8. — les jeunes arbres
 
-#### Entraînement 71. **ENT07-01** — notre maîtresse
+#### Entraînement 7
+
+1. notre maîtresse
 2. — ces deux oiseaux
 3. — mon voisin
 4. — la lumière
@@ -517,7 +531,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — le vieux bateau
 8. — ma sœur et moi
 
-#### Entraînement 81. **ENT08-01** — vous
+#### Entraînement 8
+
+1. vous
 2. — le facteur souriant
 3. — les feuilles jaunes
 4. — cette lourde porte
@@ -526,7 +542,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — mes amis
 8. — elle
 
-#### Entraînement 91. **ENT09-01** — Tom et Léo
+#### Entraînement 9
+
+1. Tom et Léo
 2. — la petite souris
 3. — un grand chien
 4. — les jeunes arbres
@@ -535,7 +553,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — mon voisin
 8. — la lumière
 
-#### Entraînement 101. **ENT10-01** — ils
+#### Entraînement 10
+
+1. ils
 2. — les élèves calmes
 3. — le vieux bateau
 4. — ma sœur et moi
@@ -547,61 +567,81 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — Lina
+#### Évaluation 1
+
+1. Lina
 2. — Cette lourde porte
 3. — les feuilles jaunes
 4. — mon cousin
 5. — Nora et Sami
 
-#### Évaluation 21. **EVAL02-01** — Les jeunes arbres
+#### Évaluation 2
+
+1. Les jeunes arbres
 2. — Un grand chien
 3. — la petite souris
 4. — la lampe
 5. — Le petit cheval blanc
 
-#### Évaluation 31. **EVAL03-01** — Le vieux bateau
+#### Évaluation 3
+
+1. Le vieux bateau
 2. — les élèves calmes
 3. — ils
 4. — ils
 5. — Nous
 
-#### Évaluation 41. **EVAL04-01** — Le chat
+#### Évaluation 4
+
+1. Le chat
 2. — Lina
 3. — cette lourde porte
 4. — les enfants calmes
 5. — Les trois canards
 
-#### Évaluation 51. **EVAL05-01** — Notre maîtresse
+#### Évaluation 5
+
+1. Notre maîtresse
 2. — les jeunes arbres
 3. — un grand chien
 4. — le vieux camion
 5. — Cette horloge ancienne
 
-#### Évaluation 61. **EVAL06-01** — ma sœur et moi
+#### Évaluation 6
+
+1. ma sœur et moi
 2. — le vieux bateau
 3. — les élèves calmes
 4. — mon frère et moi
 5. — Le nouveau cuisinier
 
-#### Évaluation 71. **EVAL07-01** — mes amis
+#### Évaluation 7
+
+1. mes amis
 2. — le chat
 3. — Lina
 4. — vous
 5. — Ma tante
 
-#### Évaluation 81. **EVAL08-01** — ces deux oiseaux
+#### Évaluation 8
+
+1. ces deux oiseaux
 2. — notre maîtresse
 3. — Les jeunes arbres
 4. — le gardien souriant
 5. — Des nuages gris
 
-#### Évaluation 91. **EVAL09-01** — vous
+#### Évaluation 9
+
+1. vous
 2. — ma sœur et moi
 3. — Le vieux bateau
 4. — les pétales jaunes
 5. — Tu
 
-#### Évaluation 101. **EVAL10-01** — elle
+#### Évaluation 10
+
+1. elle
 2. — Mes amis
 3. — Le chat
 4. — cette lourde grille
@@ -610,61 +650,81 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — Lina
+#### Devoir 1
+
+1. Lina
 2. — Les jeunes arbres
 3. — Le vieux bateau
 4. — Le chat
 5. — Notre maîtresse
 
-#### Devoir 21. **DEV02-01** — Elle
+#### Devoir 2
+
+1. Elle
 2. — Mon voisin
 3. — Le facteur souriant
 4. — Tom et Léo
 5. — La lumière
 
-#### Devoir 31. **DEV03-01** — Un grand chien
+#### Devoir 3
+
+1. Un grand chien
 2. — Les élèves calmes
 3. — Lina
 4. — Les jeunes arbres
 5. — Mes amis
 
-#### Devoir 41. **DEV04-01** — Ces deux oiseaux
+#### Devoir 4
+
+1. Ces deux oiseaux
 2. — Vous
 3. — Elle
 4. — Mon voisin
 5. — La petite souris
 
-#### Devoir 51. **DEV05-01** — Ils
+#### Devoir 5
+
+1. Ils
 2. — Cette lourde porte
 3. — Un grand chien
 4. — Le chat
 5. — Notre maîtresse
 
-#### Devoir 61. **DEV06-01** — Ma sœur et moi
+#### Devoir 6
+
+1. Ma sœur et moi
 2. — Mes amis
 3. — Ces deux oiseaux
 4. — Tom et Léo
 5. — La lumière
 
-#### Devoir 71. **DEV07-01** — Les feuilles jaunes
+#### Devoir 7
+
+1. Les feuilles jaunes
 2. — La petite souris
 3. — Lina
 4. — Les jeunes arbres
 5. — Le vieux bateau
 
-#### Devoir 81. **DEV08-01** — Le chat
+#### Devoir 8
+
+1. Le chat
 2. — Notre maîtresse
 3. — Elle
 4. — Mon voisin
 5. — Le facteur souriant
 
-#### Devoir 91. **DEV09-01** — Tom et Léo
+#### Devoir 9
+
+1. Tom et Léo
 2. — La lumière
 3. — Un grand chien
 4. — Les élèves calmes
 5. — Lina
 
-#### Devoir 101. **DEV10-01** — Les jeunes arbres
+#### Devoir 10
+
+1. Les jeunes arbres
 2. — Mes amis
 3. — Ces deux oiseaux
 4. — Vous

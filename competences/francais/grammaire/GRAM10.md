@@ -455,7 +455,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — Il dort sur le tapis.
+#### Entraînement 1
+
+1. Il dort sur le tapis.
 2. — Elle court le long du mur.
 3. — Il cherche sa balle.
 4. — Elle avance lentement.
@@ -464,7 +466,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Il apporte une lettre.
 8. — Elle lit une histoire.
 
-#### Entraînement 21. **ENT02-01** — Il mange une carotte.
+#### Entraînement 2
+
+1. Il mange une carotte.
 2. — Elle éclaire la pièce.
 3. — Ils dorment sur le canapé.
 4. — Elles se cachent dans le mur.
@@ -473,7 +477,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Ils quittent le port.
 8. — Elles tournent à gauche.
 
-#### Entraînement 31. **ENT03-01** — Ils apportent le courrier.
+#### Entraînement 3
+
+1. Ils apportent le courrier.
 2. — Elles préparent la classe.
 3. — Ils mangent des carottes.
 4. — Elles éclairent la salle.
@@ -482,7 +488,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Il cherche sa balle.
 8. — Elle avance lentement.
 
-#### Entraînement 41. **ENT04-01** — Il quitte le port.
+#### Entraînement 4
+
+1. Il quitte le port.
 2. — Elle tourne à droite.
 3. — Il apporte une lettre.
 4. — Elle lit une histoire.
@@ -491,7 +499,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Ils dorment sur le canapé.
 8. — Elles se cachent dans le mur.
 
-#### Entraînement 51. **ENT05-01** — Ils courent dans le jardin.
+#### Entraînement 5
+
+1. Ils courent dans le jardin.
 2. — Elles avancent lentement.
 3. — Ils quittent le port.
 4. — Elles tournent à gauche.
@@ -500,7 +510,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Ils mangent des carottes.
 8. — Elles éclairent la salle.
 
-#### Entraînement 61. **ENT06-01** — Il dort sur le tapis.
+#### Entraînement 6
+
+1. Il dort sur le tapis.
 2. — Elle court le long du mur.
 3. — Il cherche sa balle.
 4. — Elle avance lentement.
@@ -509,7 +521,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Il apporte une lettre.
 8. — Elle lit une histoire.
 
-#### Entraînement 71. **ENT07-01** — Il mange une carotte.
+#### Entraînement 7
+
+1. Il mange une carotte.
 2. — Elle éclaire la pièce.
 3. — Ils dorment sur le canapé.
 4. — Elles se cachent dans le mur.
@@ -518,7 +532,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Ils quittent le port.
 8. — Elles tournent à gauche.
 
-#### Entraînement 81. **ENT08-01** — Ils apportent le courrier.
+#### Entraînement 8
+
+1. Ils apportent le courrier.
 2. — Elles préparent la classe.
 3. — Ils mangent des carottes.
 4. — Elles éclairent la salle.
@@ -527,7 +543,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Il cherche sa balle.
 8. — Elle avance lentement.
 
-#### Entraînement 91. **ENT09-01** — Il quitte le port.
+#### Entraînement 9
+
+1. Il quitte le port.
 2. — Elle tourne à droite.
 3. — Il apporte une lettre.
 4. — Elle lit une histoire.
@@ -536,7 +554,9 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 7. — Ils dorment sur le canapé.
 8. — Elles se cachent dans le mur.
 
-#### Entraînement 101. **ENT10-01** — Ils courent dans le jardin.
+#### Entraînement 10
+
+1. Ils courent dans le jardin.
 2. — Elles avancent lentement.
 3. — Ils quittent le port.
 4. — Elles tournent à gauche.
@@ -548,61 +568,81 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — Il dort sur le tapis.
+#### Évaluation 1
+
+1. Il dort sur le tapis.
 2. — Elles éclairent la salle.
 3. — Ils mangent des carottes.
 4. — Ils dorment sur le canapé.
 5. — Il perd ses feuilles.
 
-#### Évaluation 21. **EVAL02-01** — Elle lit une histoire.
+#### Évaluation 2
+
+1. Elle lit une histoire.
 2. — Il apporte une lettre.
 3. — Elle tourne à droite.
 4. — Elles se cachent dans le mur.
 5. — Elle saute la barrière.
 
-#### Évaluation 31. **EVAL03-01** — Ils quittent le port.
+#### Évaluation 3
+
+1. Ils quittent le port.
 2. — Elles avancent lentement.
 3. — Ils courent dans le jardin.
 4. — Ils courent dans le jardin.
 5. — Ils cachent le soleil.
 
-#### Évaluation 41. **EVAL04-01** — Elle court le long du mur.
+#### Évaluation 4
+
+1. Elle court le long du mur.
 2. — Il dort sur le tapis.
 3. — Elles éclairent la salle.
 4. — Elles avancent lentement.
 5. — Elles poussent près du mur.
 
-#### Évaluation 51. **EVAL05-01** — Il mange une carotte.
+#### Évaluation 5
+
+1. Il mange une carotte.
 2. — Elle lit une histoire.
 3. — Il apporte une lettre.
 4. — Ils quittent le port.
 5. — Il reste dans l’entrée.
 
-#### Évaluation 61. **EVAL06-01** — Elles tournent à gauche.
+#### Évaluation 6
+
+1. Elles tournent à gauche.
 2. — Ils quittent le port.
 3. — Elles avancent lentement.
 4. — Elles tournent à gauche.
 5. — Elle sonne à midi.
 
-#### Évaluation 71. **EVAL07-01** — Il cherche sa balle.
+#### Évaluation 7
+
+1. Il cherche sa balle.
 2. — Elle court le long du mur.
 3. — Il dort sur le tapis.
 4. — Ils apportent le courrier.
 5. — Ils tombent de l’étagère.
 
-#### Évaluation 81. **EVAL08-01** — Elle éclaire la pièce.
+#### Évaluation 8
+
+1. Elle éclaire la pièce.
 2. — Il mange une carotte.
 3. — Elle lit une histoire.
 4. — Elles préparent la classe.
 5. — Elles bougent avec le vent.
 
-#### Évaluation 91. **EVAL09-01** — Ils apportent le courrier.
+#### Évaluation 9
+
+1. Ils apportent le courrier.
 2. — Elles tournent à gauche.
 3. — Ils quittent le port.
 4. — Ils mangent des carottes.
 5. — Il roule sous la table.
 
-#### Évaluation 101. **EVAL10-01** — Elle avance lentement.
+#### Évaluation 10
+
+1. Elle avance lentement.
 2. — Il cherche sa balle.
 3. — Elle court le long du mur.
 4. — Elles éclairent la salle.
@@ -611,61 +651,81 @@ Récris chaque phrase en remplaçant le groupe nominal sujet en gras par il, ell
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — Il dort sur le tapis.
+#### Devoir 1
+
+1. Il dort sur le tapis.
 2. — Elle lit une histoire.
 3. — Ils quittent le port.
 4. — Elle court le long du mur.
 5. — Il mange une carotte.
 
-#### Devoir 21. **DEV02-01** — Elle avance lentement.
+#### Devoir 2
+
+1. Elle avance lentement.
 2. — Ils dorment sur le canapé.
 3. — Elles préparent la classe.
 4. — Il quitte le port.
 5. — Elles se cachent dans le mur.
 
-#### Devoir 31. **DEV03-01** — Il apporte une lettre.
+#### Devoir 3
+
+1. Il apporte une lettre.
 2. — Elles avancent lentement.
 3. — Il dort sur le tapis.
 4. — Elle lit une histoire.
 5. — Il cherche sa balle.
 
-#### Devoir 41. **DEV04-01** — Elle éclaire la pièce.
+#### Devoir 4
+
+1. Elle éclaire la pièce.
 2. — Ils apportent le courrier.
 3. — Elle avance lentement.
 4. — Ils dorment sur le canapé.
 5. — Elle tourne à droite.
 
-#### Devoir 51. **DEV05-01** — Ils courent dans le jardin.
+#### Devoir 5
+
+1. Ils courent dans le jardin.
 2. — Elles éclairent la salle.
 3. — Il apporte une lettre.
 4. — Elle court le long du mur.
 5. — Il mange une carotte.
 
-#### Devoir 61. **DEV06-01** — Elles tournent à gauche.
+#### Devoir 6
+
+1. Elles tournent à gauche.
 2. — Il cherche sa balle.
 3. — Elle éclaire la pièce.
 4. — Il quitte le port.
 5. — Elles se cachent dans le mur.
 
-#### Devoir 71. **DEV07-01** — Ils mangent des carottes.
+#### Devoir 7
+
+1. Ils mangent des carottes.
 2. — Elle tourne à droite.
 3. — Il dort sur le tapis.
 4. — Elle lit une histoire.
 5. — Ils quittent le port.
 
-#### Devoir 81. **DEV08-01** — Elle court le long du mur.
+#### Devoir 8
+
+1. Elle court le long du mur.
 2. — Il mange une carotte.
 3. — Elle avance lentement.
 4. — Ils dorment sur le canapé.
 5. — Elles préparent la classe.
 
-#### Devoir 91. **DEV09-01** — Il quitte le port.
+#### Devoir 9
+
+1. Il quitte le port.
 2. — Elles se cachent dans le mur.
 3. — Il apporte une lettre.
 4. — Elles avancent lentement.
 5. — Il dort sur le tapis.
 
-#### Devoir 101. **DEV10-01** — Elle lit une histoire.
+#### Devoir 10
+
+1. Elle lit une histoire.
 2. — Il cherche sa balle.
 3. — Elle éclaire la pièce.
 4. — Ils apportent le courrier.

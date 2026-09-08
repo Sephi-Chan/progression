@@ -434,70 +434,90 @@ Transforme chaque phrase selon la forme demandée.
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — Le chat ne dort pas.
+#### Entraînement 1
+
+1. Le chat ne dort pas.
 2. — Le chat dort.
 3. — Lina ne ferme pas la porte.
 4. — Lina ferme la porte.
 5. — Malo n’aime pas les épinards.
 6. — Malo aime les épinards.
 
-#### Entraînement 21. **ENT02-01** — Le chien ne trouve pas sa balle.
+#### Entraînement 2
+
+1. Le chien ne trouve pas sa balle.
 2. — Le chien trouve sa balle.
 3. — Nina ne range pas son cahier.
 4. — Nina range son cahier.
 5. — Le train n’arrive pas à l’heure.
 6. — Le train arrive à l’heure.
 
-#### Entraînement 31. **ENT03-01** — La lampe n’éclaire pas la pièce.
+#### Entraînement 3
+
+1. La lampe n’éclaire pas la pièce.
 2. — La lampe éclaire la pièce.
 3. — Le bébé ne boit pas son lait.
 4. — Le bébé boit son lait.
 5. — Le facteur ne passe pas le matin.
 6. — Le facteur passe le matin.
 
-#### Entraînement 41. **ENT04-01** — La tortue n’avance pas vite.
+#### Entraînement 4
+
+1. La tortue n’avance pas vite.
 2. — Comme ce gâteau est bon !
 3. — La tortue avance vite.
 4. — Ce gâteau est bon.
 5. — Le bateau ne quitte pas le port.
 6. — Comme cette tour est haute !
 
-#### Entraînement 51. **ENT05-01** — Le bateau quitte le port.
+#### Entraînement 5
+
+1. Le bateau quitte le port.
 2. — Cette tour est haute.
 3. — Zoé ne porte pas son chapeau.
 4. — Comme ce sac est lourd !
 5. — Zoé porte son chapeau.
 6. — Ce sac est lourd.
 
-#### Entraînement 61. **ENT06-01** — Le lapin ne mange pas la carotte.
+#### Entraînement 6
+
+1. Le lapin ne mange pas la carotte.
 2. — Comme cette eau est froide !
 3. — Le lapin mange la carotte.
 4. — Cette eau est froide.
 5. — La pluie ne tombe pas dehors.
 6. — Comme ce dessin est beau !
 
-#### Entraînement 71. **ENT07-01** — La pluie tombe dehors.
+#### Entraînement 7
+
+1. La pluie tombe dehors.
 2. — Ce dessin est beau.
 3. — Le soleil ne brille pas aujourd’hui.
 4. — Comme ce chemin est long !
 5. — Le soleil brille aujourd’hui.
 6. — Ce chemin est long.
 
-#### Entraînement 81. **ENT08-01** — Les enfants ne jouent pas dehors.
+#### Entraînement 8
+
+1. Les enfants ne jouent pas dehors.
 2. — Comme cette souris est petite !
 3. — Les enfants jouent dehors.
 4. — Cette souris est petite.
 5. — Le poisson ne nage pas près du bord.
 6. — Comme ce ballon est gros !
 
-#### Entraînement 91. **ENT09-01** — Ce ballon est gros.
+#### Entraînement 9
+
+1. Ce ballon est gros.
 2. — Le poisson nage près du bord.
 3. — Comme cette histoire est drôle !
 4. — Le vent ne pousse pas les feuilles.
 5. — Cette histoire est drôle.
 6. — Le vent pousse les feuilles.
 
-#### Entraînement 101. **ENT10-01** — Comme ce jardin est fleuri !
+#### Entraînement 10
+
+1. Comme ce jardin est fleuri !
 2. — La maîtresse ne lit pas cette histoire.
 3. — Ce jardin est fleuri.
 4. — La maîtresse lit cette histoire.
@@ -507,61 +527,81 @@ Transforme chaque phrase selon la forme demandée.
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — Le chat ne dort pas.
+#### Évaluation 1
+
+1. Le chat ne dort pas.
 2. — Comme ce gâteau est bon !
 3. — Le soleil ne brille pas aujourd’hui.
 4. — Le chat ne dort pas ce matin.
 5. — Comme ce coussin est moelleux !
 
-#### Évaluation 21. **EVAL02-01** — Le chien trouve sa balle.
+#### Évaluation 2
+
+1. Le chien trouve sa balle.
 2. — Zoé ne porte pas son chapeau.
 3. — Cette souris est petite.
 4. — Le chien ne trouve pas sa balle ce matin.
 5. — Comme cette valise est lourde !
 
-#### Évaluation 31. **EVAL03-01** — Le bébé ne boit pas son lait.
+#### Évaluation 3
+
+1. Le bébé ne boit pas son lait.
 2. — Cette eau est froide.
 3. — Cette histoire est drôle.
 4. — La lampe n’éclaire pas la pièce ce matin.
 5. — Comme ce lac est profond !
 
-#### Évaluation 41. **EVAL04-01** — Ce gâteau est bon.
+#### Évaluation 4
+
+1. Ce gâteau est bon.
 2. — Le soleil brille aujourd’hui.
 3. — Le camion ne roule pas sur la route.
 4. — La tortue n’avance pas vite ce matin.
 5. — Comme cette cloche est sonore !
 
-#### Évaluation 51. **EVAL05-01** — Zoé porte son chapeau.
+#### Évaluation 5
+
+1. Zoé porte son chapeau.
 2. — Comme ce ballon est gros !
 3. — Le chien ne trouve pas sa balle.
 4. — Le bateau quitte le port ce matin.
 5. — Comme ce fruit est sucré !
 
-#### Évaluation 61. **EVAL06-01** — Comme ce dessin est beau !
+#### Évaluation 6
+
+1. Comme ce dessin est beau !
 2. — Comme ce jardin est fleuri !
 3. — La lampe éclaire la pièce.
 4. — Le lapin ne mange pas la carotte ce matin.
 5. — Comme cette cabane est jolie !
 
-#### Évaluation 71. **EVAL07-01** — Les enfants ne jouent pas dehors.
+#### Évaluation 7
+
+1. Les enfants ne jouent pas dehors.
 2. — Le chat dort.
 3. — La tortue avance vite.
 4. — La pluie tombe dehors ce matin.
 5. — Comme ce pantalon est large !
 
-#### Évaluation 81. **EVAL08-01** — Le poisson nage près du bord.
+#### Évaluation 8
+
+1. Le poisson nage près du bord.
 2. — Nina ne range pas son cahier.
 3. — Comme ce sac est lourd !
 4. — Les enfants ne jouent pas dehors ce matin.
 5. — Comme cette montagne est haute !
 
-#### Évaluation 91. **EVAL09-01** — Ce jardin est fleuri.
+#### Évaluation 9
+
+1. Ce jardin est fleuri.
 2. — Le bébé boit son lait.
 3. — La pluie ne tombe pas dehors.
 4. — Le poisson nage près du bord ce matin.
 5. — Comme ce film est amusant !
 
-#### Évaluation 101. **EVAL10-01** — Lina ferme la porte.
+#### Évaluation 10
+
+1. Lina ferme la porte.
 2. — Le bateau ne quitte pas le port.
 3. — Ce chemin est long.
 4. — La maîtresse ne lit pas cette histoire ce matin.
@@ -570,61 +610,81 @@ Transforme chaque phrase selon la forme demandée.
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — Le chat ne dort pas.
+#### Devoir 1
+
+1. Le chat ne dort pas.
 2. — Le chien trouve sa balle.
 3. — Le bébé ne boit pas son lait.
 4. — Ce gâteau est bon.
 5. — Malo n’aime pas les épinards.
 
-#### Devoir 21. **DEV02-01** — Lina ferme la porte.
+#### Devoir 2
+
+1. Lina ferme la porte.
 2. — Le train n’arrive pas à l’heure.
 3. — Le facteur passe le matin.
 4. — Le chat ne dort pas.
 5. — Le chien trouve sa balle.
 
-#### Devoir 31. **DEV03-01** — Le chien ne trouve pas sa balle.
+#### Devoir 3
+
+1. Le chien ne trouve pas sa balle.
 2. — La lampe éclaire la pièce.
 3. — La tortue avance vite.
 4. — Lina ferme la porte.
 5. — Le train n’arrive pas à l’heure.
 
-#### Devoir 41. **DEV04-01** — Nina range son cahier.
+#### Devoir 4
+
+1. Nina range son cahier.
 2. — Le facteur ne passe pas le matin.
 3. — Comme cette tour est haute !
 4. — Le chien ne trouve pas sa balle.
 5. — La lampe éclaire la pièce.
 
-#### Devoir 51. **DEV05-01** — La lampe n’éclaire pas la pièce.
+#### Devoir 5
+
+1. La lampe n’éclaire pas la pièce.
 2. — Comme ce gâteau est bon !
 3. — Lina ne ferme pas la porte.
 4. — Nina range son cahier.
 5. — Le facteur ne passe pas le matin.
 
-#### Devoir 61. **DEV06-01** — Le bébé boit son lait.
+#### Devoir 6
+
+1. Le bébé boit son lait.
 2. — Le bateau ne quitte pas le port.
 3. — Malo aime les épinards.
 4. — La lampe n’éclaire pas la pièce.
 5. — Comme ce gâteau est bon !
 
-#### Devoir 71. **DEV07-01** — La tortue n’avance pas vite.
+#### Devoir 7
+
+1. La tortue n’avance pas vite.
 2. — Le chat dort.
 3. — Nina ne range pas son cahier.
 4. — Le bébé boit son lait.
 5. — Le bateau ne quitte pas le port.
 
-#### Devoir 81. **DEV08-01** — Ce gâteau est bon.
+#### Devoir 8
+
+1. Ce gâteau est bon.
 2. — Malo n’aime pas les épinards.
 3. — Le train arrive à l’heure.
 4. — La tortue n’avance pas vite.
 5. — Le chat dort.
 
-#### Devoir 91. **DEV09-01** — Le chat ne dort pas.
+#### Devoir 9
+
+1. Le chat ne dort pas.
 2. — Le chien trouve sa balle.
 3. — Le bébé ne boit pas son lait.
 4. — Ce gâteau est bon.
 5. — Malo n’aime pas les épinards.
 
-#### Devoir 101. **DEV10-01** — Lina ferme la porte.
+#### Devoir 10
+
+1. Lina ferme la porte.
 2. — Le train n’arrive pas à l’heure.
 3. — Le facteur passe le matin.
 4. — Le chat ne dort pas.

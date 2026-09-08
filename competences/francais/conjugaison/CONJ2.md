@@ -83,7 +83,9 @@ Consigne : **Complète avec le verbe entre parenthèses conjugué au présent.**
 
 Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué au présent.**
 
-### Entraînement 11. **ENT01-01** Je … une fleur. (*dessiner*)
+### Entraînement 1
+
+1. Je … une fleur. (*dessiner*)
 2. Tu … vite. (*marcher*)
 3. Il … la balle. (*lancer*)
 4. Elle … une chanson. (*chanter*)
@@ -92,7 +94,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Ils … la table. (*laver*)
 8. Elles … la date. (*copier*)
 
-### Entraînement 21. **ENT02-01** Je … calme. (*être*)
+### Entraînement 2
+
+1. Je … calme. (*être*)
 2. Tu … content. (*être*)
 3. Il … malade. (*être*)
 4. Nous … en classe. (*être*)
@@ -101,7 +105,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Je … un livre. (*avoir*)
 8. Tu … huit ans. (*avoir*)
 
-### Entraînement 31. **ENT03-01** Il … un vélo. (*avoir*)
+### Entraînement 3
+
+1. Il … un vélo. (*avoir*)
 2. Nous … une idée. (*avoir*)
 3. Vous … le temps. (*avoir*)
 4. Elles … des cartes. (*avoir*)
@@ -110,7 +116,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Nous … nos affaires. (*ranger*)
 8. Vous … Lina. (*aider*)
 
-### Entraînement 41. **ENT04-01** Le chat … sur le mur. (*grimper*)
+### Entraînement 4
+
+1. Le chat … sur le mur. (*grimper*)
 2. Les enfants … dans la cour. (*danser*)
 3. Ma sœur … une histoire. (*raconter*)
 4. Les oiseaux … au-dessus du jardin. (*voler*)
@@ -119,7 +127,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Le gardien … la lampe. (*allumer*)
 8. Les élèves … une affiche. (*préparer*)
 
-### Entraînement 51. **ENT05-01** Aujourd’hui, je … à la maison. (*rester*)
+### Entraînement 5
+
+1. Aujourd’hui, je … à la maison. (*rester*)
 2. Ce matin, tu … les plantes. (*arroser*)
 3. En classe, il … la date. (*noter*)
 4. Maintenant, nous … la salle. (*décorer*)
@@ -128,7 +138,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Maintenant, je … disponible. (*être*)
 8. Aujourd’hui, nous … du temps. (*avoir*)
 
-### Entraînement 61. **ENT06-01** Dans la cour, Sami … le ballon. (*attraper*)
+### Entraînement 6
+
+1. Dans la cour, Sami … le ballon. (*attraper*)
 2. Près du portail, les familles … calmement. (*patienter*)
 3. Au tableau, tu … un cercle. (*tracer*)
 4. Après le repas, nous … les verres. (*ranger*)
@@ -137,7 +149,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Devant l’école, ils … en rang. (*être*)
 8. Pour le jeu, elles … trois cartes. (*avoir*)
 
-### Entraînement 71. **ENT07-01** Avec soin, Nora … les formes. (*découper*)
+### Entraînement 7
+
+1. Avec soin, Nora … les formes. (*découper*)
 2. Sans bruit, les enfants … le livre. (*refermer*)
 3. Dans son carnet, Hugo … ses idées. (*noter*)
 4. Au loin, nous … les montagnes. (*observer*)
@@ -146,7 +160,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Ce matin, les deux classes … réunies. (*être*)
 8. Pour l’atelier, tu … une règle. (*avoir*)
 
-### Entraînement 81. **ENT08-01** Au signal, les coureurs … ensemble. (*démarrer*)
+### Entraînement 8
+
+1. Au signal, les coureurs … ensemble. (*démarrer*)
 2. Dans le silence, vous … un bruit lointain. (*distinguer*)
 3. Sous son manteau, Amir … son dessin. (*protéger*)
 4. À la fin, tu … la dernière case. (*compléter*)
@@ -155,7 +171,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Après l’effort, nous … fiers. (*être*)
 8. Pour finir, elles … encore une minute. (*avoir*)
 
-### Entraînement 91. **ENT09-01** Pendant l’expérience, la classe … les consignes. (*respecter*)
+### Entraînement 9
+
+1. Pendant l’expérience, la classe … les consignes. (*respecter*)
 2. Au-dessus des arbres, des nuages … le soleil. (*cacher*)
 3. Avec patience, nous … les pièces. (*assembler*)
 4. Sur le plan, vous … l’école. (*localiser*)
@@ -164,7 +182,9 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 7. Les deux équipes … prêtes. (*être*)
 8. Pour ce travail, j’… une consigne claire. (*avoir*)
 
-### Entraînement 101. **ENT10-01** Avant le départ, la maîtresse … les règles. (*rappeler*)
+### Entraînement 10
+
+1. Avant le départ, la maîtresse … les règles. (*rappeler*)
 2. Dans leur exposé, les élèves … trois animaux. (*présenter*)
 3. Malgré le bruit, vous … attentivement. (*écouter*)
 4. À l’aide des indices, nous … le chemin. (*retrouver*)
@@ -177,61 +197,81 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 
 Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué au présent.**
 
-### Évaluation 11. **EVAL01-01** Tu … vite. (*marcher*)
+### Évaluation 1
+
+1. Tu … vite. (*marcher*)
 2. Nous … une idée. (*avoir*)
 3. Les enfants … dans la cour. (*danser*)
 4. Vous … l’école sur le plan. (*localiser*)
 5. Près du banc, Lila … son bonnet. (*retrouver*)
 
-### Évaluation 21. **EVAL02-01** Elle … une chanson. (*chanter*)
+### Évaluation 2
+
+1. Elle … une chanson. (*chanter*)
 2. Vous … prêts. (*être*)
 3. Le chat … sur le mur. (*grimper*)
 4. La classe … les consignes. (*respecter*)
 5. Au soleil, les vitres … vivement. (*briller*)
 
-### Évaluation 31. **EVAL03-01** Nous … dehors. (*jouer*)
+### Évaluation 3
+
+1. Nous … dehors. (*jouer*)
 2. Elles … des cartes. (*avoir*)
 3. Ma sœur … une histoire. (*raconter*)
 4. Tu … le parcours. (*représenter*)
 5. Au signal, Zoé … sa carte. (*retourner*)
 
-### Évaluation 41. **EVAL04-01** Vous … la porte. (*fermer*)
+### Évaluation 4
+
+1. Vous … la porte. (*fermer*)
 2. Il … un vélo. (*avoir*)
 3. Les oiseaux … au-dessus du jardin. (*voler*)
 4. Nous … les pièces. (*assembler*)
 5. Dans le bus, Yanis … les maisons. (*observer*)
 
-### Évaluation 51. **EVAL05-01** Ils … la table. (*laver*)
+### Évaluation 5
+
+1. Ils … la table. (*laver*)
 2. Nous … en classe. (*être*)
 3. Léa et toi … un puzzle. (*terminer*)
 4. Lina … son choix. (*expliquer*)
 5. Sur la table, Nora … les jetons. (*disposer*)
 
-### Évaluation 61. **EVAL06-01** Elles … la date. (*copier*)
+### Évaluation 6
+
+1. Elles … la date. (*copier*)
 2. Tu … huit ans. (*avoir*)
 3. Le gardien … la lampe. (*allumer*)
 4. Vous … attentivement. (*écouter*)
 5. Avant la classe, Malo … la salle. (*aérer*)
 
-### Évaluation 71. **EVAL07-01** Je … mon sac. (*porter*)
+### Évaluation 7
+
+1. Je … mon sac. (*porter*)
 2. Elles … dehors. (*être*)
 3. Les élèves … une affiche. (*préparer*)
 4. Le groupe … son travail. (*organiser*)
 5. Au portail, les familles … calmement. (*patienter*)
 
-### Évaluation 81. **EVAL08-01** Tu … la consigne. (*écouter*)
+### Évaluation 8
+
+1. Tu … la consigne. (*écouter*)
 2. Vous … le temps. (*avoir*)
 3. Mon ami et moi … la carte. (*regarder*)
 4. Tu … la dernière case. (*compléter*)
 5. Dans le sable, Lou … une étoile. (*dessiner*)
 
-### Évaluation 91. **EVAL09-01** Nous … nos affaires. (*ranger*)
+### Évaluation 9
+
+1. Nous … nos affaires. (*ranger*)
 2. Je … calme. (*être*)
 3. Les élèves … trois animaux. (*présenter*)
 4. Vous … l’école. (*localiser*)
 5. Sous le préau, les enfants … leurs dessins. (*abriter*)
 
-### Évaluation 101. **EVAL10-01** Vous … Lina. (*aider*)
+### Évaluation 10
+
+1. Vous … Lina. (*aider*)
 2. Elles … des cartes. (*avoir*)
 3. Sami … le ballon. (*attraper*)
 4. Nous … le chemin. (*retrouver*)
@@ -241,61 +281,81 @@ Consigne : **Complète chaque phrase avec le verbe entre parenthèses conjugué 
 
 Consigne : **Complète avec le verbe entre parenthèses conjugué au présent.**
 
-### Devoir 11. **DEV01-01** Je … une fleur. (*dessiner*)
+### Devoir 1
+
+1. Je … une fleur. (*dessiner*)
 2. Tu … vite. (*marcher*)
 3. Il … la balle. (*lancer*)
 4. Elle … une chanson. (*chanter*)
 5. Nous … dehors. (*jouer*)
 
-### Devoir 21. **DEV02-01** Vous … la porte. (*fermer*)
+### Devoir 2
+
+1. Vous … la porte. (*fermer*)
 2. Ils … la table. (*laver*)
 3. Elles … la date. (*copier*)
 4. Je … calme. (*être*)
 5. Tu … content. (*être*)
 
-### Devoir 31. **DEV03-01** Il … malade. (*être*)
+### Devoir 3
+
+1. Il … malade. (*être*)
 2. Nous … en classe. (*être*)
 3. Vous … prêts. (*être*)
 4. Je … un livre. (*avoir*)
 5. Tu … huit ans. (*avoir*)
 
-### Devoir 41. **DEV04-01** Il … un vélo. (*avoir*)
+### Devoir 4
+
+1. Il … un vélo. (*avoir*)
 2. Nous … une idée. (*avoir*)
 3. Vous … le temps. (*avoir*)
 4. Elles … des cartes. (*avoir*)
 5. Je … mon sac. (*porter*)
 
-### Devoir 51. **DEV05-01** Tu … la consigne. (*écouter*)
+### Devoir 5
+
+1. Tu … la consigne. (*écouter*)
 2. Nous … nos affaires. (*ranger*)
 3. Vous … Lina. (*aider*)
 4. Elle … la date. (*copier*)
 5. Je … calme. (*être*)
 
-### Devoir 61. **DEV06-01** Tu … vite. (*marcher*)
+### Devoir 6
+
+1. Tu … vite. (*marcher*)
 2. Nous … dehors. (*jouer*)
 3. Tu … huit ans. (*avoir*)
 4. Vous … la porte. (*fermer*)
 5. Il … un vélo. (*avoir*)
 
-### Devoir 71. **DEV07-01** Je … une fleur. (*dessiner*)
+### Devoir 7
+
+1. Je … une fleur. (*dessiner*)
 2. Vous … prêts. (*être*)
 3. Ils … la table. (*laver*)
 4. Nous … une idée. (*avoir*)
 5. Tu … la consigne. (*écouter*)
 
-### Devoir 81. **DEV08-01** Elle … une chanson. (*chanter*)
+### Devoir 8
+
+1. Elle … une chanson. (*chanter*)
 2. Je … un livre. (*avoir*)
 3. Nous … nos affaires. (*ranger*)
 4. Tu … content. (*être*)
 5. Elles … la date. (*copier*)
 
-### Devoir 91. **DEV09-01** Il … la balle. (*lancer*)
+### Devoir 9
+
+1. Il … la balle. (*lancer*)
 2. Nous … en classe. (*être*)
 3. Vous … Lina. (*aider*)
 4. Elles … des cartes. (*avoir*)
 5. Je … mon sac. (*porter*)
 
-### Devoir 101. **DEV10-01** Nous … dehors. (*jouer*)
+### Devoir 10
+
+1. Nous … dehors. (*jouer*)
 2. Tu … huit ans. (*avoir*)
 3. Je … calme. (*être*)
 4. Vous … la porte. (*fermer*)

@@ -435,70 +435,90 @@ Transforme chaque phrase selon le type demandé.
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — Est-ce que le chat dort ?
+#### Entraînement 1
+
+1. Est-ce que le chat dort ?
 2. — Le chat dort.
 3. — Est-ce que Lina ferme la fenêtre ?
 4. — Lina ferme la fenêtre.
 5. — Est-ce que le train arrive à midi ?
 6. — Le train arrive à midi.
 
-#### Entraînement 21. **ENT02-01** — Est-ce que Malo prend son goûter ?
+#### Entraînement 2
+
+1. Est-ce que Malo prend son goûter ?
 2. — Malo prend son goûter.
 3. — Est-ce que la pluie tombe ?
 4. — La pluie tombe.
 5. — Est-ce que le chien cherche sa balle ?
 6. — Le chien cherche sa balle.
 
-#### Entraînement 31. **ENT03-01** — Est-ce que Nina range son livre ?
+#### Entraînement 3
+
+1. Est-ce que Nina range son livre ?
 2. — Nina range son livre.
 3. — Est-ce que le bateau quitte le port ?
 4. — Le bateau quitte le port.
 5. — Est-ce que les élèves entrent en classe ?
 6. — Les élèves entrent en classe.
 
-#### Entraînement 41. **ENT04-01** — Est-ce que Papa prépare une soupe ?
+#### Entraînement 4
+
+1. Est-ce que Papa prépare une soupe ?
 2. — Ferme la porte.
 3. — Papa prépare une soupe.
 4. — Tu fermes la porte.
 5. — Est-ce que la tortue avance lentement ?
 6. — Range ton cahier.
 
-#### Entraînement 51. **ENT05-01** — La tortue avance lentement.
+#### Entraînement 5
+
+1. La tortue avance lentement.
 2. — Tu ranges ton cahier.
 3. — Est-ce que le facteur apporte le courrier ?
 4. — Écoute la consigne.
 5. — Le facteur apporte le courrier.
 6. — Tu écoutes la consigne.
 
-#### Entraînement 61. **ENT06-01** — Est-ce que Zoé porte un manteau ?
+#### Entraînement 6
+
+1. Est-ce que Zoé porte un manteau ?
 2. — Regarde le tableau.
 3. — Zoé porte un manteau.
 4. — Tu regardes le tableau.
 5. — Est-ce que le soleil brille ?
 6. — Pose ton crayon.
 
-#### Entraînement 71. **ENT07-01** — Le soleil brille.
+#### Entraînement 7
+
+1. Le soleil brille.
 2. — Tu poses ton crayon.
 3. — Est-ce que le lapin mange une carotte ?
 4. — Ouvre ton livre.
 5. — Le lapin mange une carotte.
 6. — Tu ouvres ton livre.
 
-#### Entraînement 81. **ENT08-01** — Est-ce que la maîtresse lit une histoire ?
+#### Entraînement 8
+
+1. Est-ce que la maîtresse lit une histoire ?
 2. — Trace un cercle.
 3. — La maîtresse lit une histoire.
 4. — Tu traces un cercle.
 5. — Est-ce que le poisson nage dans le bassin ?
 6. — Découpe la feuille.
 
-#### Entraînement 91. **ENT09-01** — Tu découpes la feuille.
+#### Entraînement 9
+
+1. Tu découpes la feuille.
 2. — Le poisson nage dans le bassin.
 3. — Colle l’étiquette.
 4. — Est-ce que le vent pousse les feuilles ?
 5. — Tu colles l’étiquette.
 6. — Le vent pousse les feuilles.
 
-#### Entraînement 101. **ENT10-01** — Lève la main.
+#### Entraînement 10
+
+1. Lève la main.
 2. — Est-ce que le bébé boit son lait ?
 3. — Tu lèves la main.
 4. — Le bébé boit son lait.
@@ -508,61 +528,81 @@ Transforme chaque phrase selon le type demandé.
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — Est-ce que le chat dort ?
+#### Évaluation 1
+
+1. Est-ce que le chat dort ?
 2. — Ferme la porte.
 3. — Est-ce que le lapin mange une carotte ?
 4. — Est-ce que le chat dort maintenant ?
 5. — Tire le rideau.
 
-#### Évaluation 21. **EVAL02-01** — Malo prend son goûter.
+#### Évaluation 2
+
+1. Malo prend son goûter.
 2. — Est-ce que le facteur apporte le courrier ?
 3. — Tu traces un cercle.
 4. — Est-ce que Malo prend son goûter maintenant ?
 5. — Pousse la chaise.
 
-#### Évaluation 31. **EVAL03-01** — Est-ce que le bateau quitte le port ?
+#### Évaluation 3
+
+1. Est-ce que le bateau quitte le port ?
 2. — Tu regardes le tableau.
 3. — Tu colles l’étiquette.
 4. — Est-ce que Nina range son livre maintenant ?
 5. — Lance le dé.
 
-#### Évaluation 41. **EVAL04-01** — Tu fermes la porte.
+#### Évaluation 4
+
+1. Tu fermes la porte.
 2. — Le lapin mange une carotte.
 3. — Est-ce que le jardinier arrose les fleurs ?
 4. — Est-ce que Papa prépare une soupe maintenant ?
 5. — Remplis le verre.
 
-#### Évaluation 51. **EVAL05-01** — Le facteur apporte le courrier.
+#### Évaluation 5
+
+1. Le facteur apporte le courrier.
 2. — Découpe la feuille.
 3. — Est-ce que Malo prend son goûter ?
 4. — La tortue avance lentement maintenant.
 5. — Lis la première ligne.
 
-#### Évaluation 61. **EVAL06-01** — Pose ton crayon.
+#### Évaluation 6
+
+1. Pose ton crayon.
 2. — Lève la main.
 3. — Nina range son livre.
 4. — Est-ce que Zoé porte un manteau maintenant ?
 5. — Suis le chemin.
 
-#### Évaluation 71. **EVAL07-01** — Est-ce que la maîtresse lit une histoire ?
+#### Évaluation 7
+
+1. Est-ce que la maîtresse lit une histoire ?
 2. — Le chat dort.
 3. — Papa prépare une soupe.
 4. — Le soleil brille maintenant.
 5. — Touche le carré.
 
-#### Évaluation 81. **EVAL08-01** — Le poisson nage dans le bassin.
+#### Évaluation 8
+
+1. Le poisson nage dans le bassin.
 2. — Est-ce que la pluie tombe ?
 3. — Écoute la consigne.
 4. — Est-ce que la maîtresse lit une histoire maintenant ?
 5. — Demande la parole.
 
-#### Évaluation 91. **EVAL09-01** — Tu lèves la main.
+#### Évaluation 9
+
+1. Tu lèves la main.
 2. — Le bateau quitte le port.
 3. — Est-ce que le soleil brille ?
 4. — Tu découpes la feuille maintenant.
 5. — Garde le silence.
 
-#### Évaluation 101. **EVAL10-01** — Lina ferme la fenêtre.
+#### Évaluation 10
+
+1. Lina ferme la fenêtre.
 2. — Est-ce que la tortue avance lentement ?
 3. — Tu ouvres ton livre.
 4. — Lève la main maintenant.
@@ -571,61 +611,81 @@ Transforme chaque phrase selon le type demandé.
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — Est-ce que le chat dort ?
+#### Devoir 1
+
+1. Est-ce que le chat dort ?
 2. — Malo prend son goûter.
 3. — Est-ce que le bateau quitte le port ?
 4. — Tu fermes la porte.
 5. — Est-ce que le train arrive à midi ?
 
-#### Devoir 21. **DEV02-01** — Lina ferme la fenêtre.
+#### Devoir 2
+
+1. Lina ferme la fenêtre.
 2. — Est-ce que le chien cherche sa balle ?
 3. — Les élèves entrent en classe.
 4. — Est-ce que le chat dort ?
 5. — Malo prend son goûter.
 
-#### Devoir 31. **DEV03-01** — Est-ce que Malo prend son goûter ?
+#### Devoir 3
+
+1. Est-ce que Malo prend son goûter ?
 2. — Nina range son livre.
 3. — Papa prépare une soupe.
 4. — Lina ferme la fenêtre.
 5. — Est-ce que le chien cherche sa balle ?
 
-#### Devoir 41. **DEV04-01** — La pluie tombe.
+#### Devoir 4
+
+1. La pluie tombe.
 2. — Est-ce que les élèves entrent en classe ?
 3. — Range ton cahier.
 4. — Est-ce que Malo prend son goûter ?
 5. — Nina range son livre.
 
-#### Devoir 51. **DEV05-01** — Est-ce que Nina range son livre ?
+#### Devoir 5
+
+1. Est-ce que Nina range son livre ?
 2. — Ferme la porte.
 3. — Est-ce que Lina ferme la fenêtre ?
 4. — La pluie tombe.
 5. — Est-ce que les élèves entrent en classe ?
 
-#### Devoir 61. **DEV06-01** — Le bateau quitte le port.
+#### Devoir 6
+
+1. Le bateau quitte le port.
 2. — Est-ce que la tortue avance lentement ?
 3. — Le train arrive à midi.
 4. — Est-ce que Nina range son livre ?
 5. — Ferme la porte.
 
-#### Devoir 71. **DEV07-01** — Est-ce que Papa prépare une soupe ?
+#### Devoir 7
+
+1. Est-ce que Papa prépare une soupe ?
 2. — Le chat dort.
 3. — Est-ce que la pluie tombe ?
 4. — Le bateau quitte le port.
 5. — Est-ce que la tortue avance lentement ?
 
-#### Devoir 81. **DEV08-01** — Tu fermes la porte.
+#### Devoir 8
+
+1. Tu fermes la porte.
 2. — Est-ce que le train arrive à midi ?
 3. — Le chien cherche sa balle.
 4. — Est-ce que Papa prépare une soupe ?
 5. — Le chat dort.
 
-#### Devoir 91. **DEV09-01** — Est-ce que le chat dort ?
+#### Devoir 9
+
+1. Est-ce que le chat dort ?
 2. — Malo prend son goûter.
 3. — Est-ce que le bateau quitte le port ?
 4. — Tu fermes la porte.
 5. — Est-ce que le train arrive à midi ?
 
-#### Devoir 101. **DEV10-01** — Lina ferme la fenêtre.
+#### Devoir 10
+
+1. Lina ferme la fenêtre.
 2. — Est-ce que le chien cherche sa balle ?
 3. — Les élèves entrent en classe.
 4. — Est-ce que le chat dort ?

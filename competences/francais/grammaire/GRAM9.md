@@ -454,7 +454,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — déterminant
+#### Entraînement 1
+
+1. déterminant
 2. — nom commun
 3. — verbe
 4. — déterminant
@@ -463,7 +465,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — nom commun
 8. — déterminant
 
-#### Entraînement 21. **ENT02-01** — déterminant
+#### Entraînement 2
+
+1. déterminant
 2. — nom commun
 3. — verbe
 4. — déterminant
@@ -472,7 +476,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — nom commun
 8. — déterminant
 
-#### Entraînement 31. **ENT03-01** — déterminant
+#### Entraînement 3
+
+1. déterminant
 2. — nom commun
 3. — verbe
 4. — déterminant
@@ -481,7 +487,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — nom commun
 8. — déterminant
 
-#### Entraînement 41. **ENT04-01** — déterminant
+#### Entraînement 4
+
+1. déterminant
 2. — nom commun
 3. — adjectif
 4. — verbe
@@ -490,7 +498,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — nom commun
 8. — adjectif
 
-#### Entraînement 51. **ENT05-01** — déterminant
+#### Entraînement 5
+
+1. déterminant
 2. — nom commun
 3. — adjectif
 4. — verbe
@@ -499,7 +509,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — nom commun
 8. — adjectif
 
-#### Entraînement 61. **ENT06-01** — déterminant
+#### Entraînement 6
+
+1. déterminant
 2. — nom commun
 3. — adjectif
 4. — verbe
@@ -508,7 +520,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — nom commun
 8. — adjectif
 
-#### Entraînement 71. **ENT07-01** — déterminant
+#### Entraînement 7
+
+1. déterminant
 2. — nom commun
 3. — adjectif
 4. — verbe
@@ -517,7 +531,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — nom commun
 8. — adjectif
 
-#### Entraînement 81. **ENT08-01** — pronom personnel sujet
+#### Entraînement 8
+
+1. pronom personnel sujet
 2. — adjectif
 3. — nom propre
 4. — verbe
@@ -526,7 +542,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — adjectif
 8. — verbe
 
-#### Entraînement 91. **ENT09-01** — pronom personnel sujet
+#### Entraînement 9
+
+1. pronom personnel sujet
 2. — adjectif
 3. — nom propre
 4. — verbe
@@ -535,7 +553,9 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 7. — adjectif
 8. — verbe
 
-#### Entraînement 101. **ENT10-01** — pronom personnel sujet
+#### Entraînement 10
+
+1. pronom personnel sujet
 2. — adjectif
 3. — nom propre
 4. — verbe
@@ -547,61 +567,81 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — déterminant
+#### Évaluation 1
+
+1. déterminant
 2. — déterminant
 3. — nom commun
 4. — nom commun
 5. — adjectif
 
-#### Évaluation 21. **EVAL02-01** — déterminant
+#### Évaluation 2
+
+1. déterminant
 2. — adjectif
 3. — pronom personnel sujet
 4. — nom commun
 5. — nom propre
 
-#### Évaluation 31. **EVAL03-01** — nom commun
+#### Évaluation 3
+
+1. nom commun
 2. — nom commun
 3. — nom propre
 4. — nom commun
 5. — pronom personnel sujet
 
-#### Évaluation 41. **EVAL04-01** — verbe
+#### Évaluation 4
+
+1. verbe
 2. — déterminant
 3. — verbe
 4. — nom commun
 5. — verbe
 
-#### Évaluation 51. **EVAL05-01** — nom propre
+#### Évaluation 5
+
+1. nom propre
 2. — adjectif
 3. — nom propre
 4. — nom commun
 5. — déterminant
 
-#### Évaluation 61. **EVAL06-01** — verbe
+#### Évaluation 6
+
+1. verbe
 2. — nom commun
 3. — adjectif
 4. — nom commun
 5. — nom commun
 
-#### Évaluation 71. **EVAL07-01** — adjectif
+#### Évaluation 7
+
+1. adjectif
 2. — nom commun
 3. — déterminant
 4. — nom commun
 5. — adjectif
 
-#### Évaluation 81. **EVAL08-01** — nom commun
+#### Évaluation 8
+
+1. nom commun
 2. — déterminant
 3. — déterminant
 4. — nom commun
 5. — pronom personnel sujet
 
-#### Évaluation 91. **EVAL09-01** — pronom personnel sujet
+#### Évaluation 9
+
+1. pronom personnel sujet
 2. — verbe
 3. — nom commun
 4. — nom commun
 5. — nom propre
 
-#### Évaluation 101. **EVAL10-01** — verbe
+#### Évaluation 10
+
+1. verbe
 2. — verbe
 3. — verbe
 4. — nom commun
@@ -610,61 +650,81 @@ Donne la nature du mot en gras : déterminant, nom commun, nom propre, adjectif,
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — déterminant
+#### Devoir 1
+
+1. déterminant
 2. — déterminant
 3. — nom commun
 4. — verbe
 5. — nom propre
 
-#### Devoir 21. **DEV02-01** — déterminant
+#### Devoir 2
+
+1. déterminant
 2. — verbe
 3. — nom commun
 4. — déterminant
 5. — adjectif
 
-#### Devoir 31. **DEV03-01** — nom commun
+#### Devoir 3
+
+1. nom commun
 2. — verbe
 3. — nom commun
 4. — verbe
 5. — verbe
 
-#### Devoir 41. **DEV04-01** — nom commun
+#### Devoir 4
+
+1. nom commun
 2. — déterminant
 3. — déterminant
 4. — nom commun
 5. — verbe
 
-#### Devoir 51. **DEV05-01** — nom commun
+#### Devoir 5
+
+1. nom commun
 2. — déterminant
 3. — adjectif
 4. — nom commun
 5. — déterminant
 
-#### Devoir 61. **DEV06-01** — déterminant
+#### Devoir 6
+
+1. déterminant
 2. — nom commun
 3. — pronom personnel sujet
 4. — nom commun
 5. — déterminant
 
-#### Devoir 71. **DEV07-01** — verbe
+#### Devoir 7
+
+1. verbe
 2. — nom commun
 3. — déterminant
 4. — déterminant
 5. — nom commun
 
-#### Devoir 81. **DEV08-01** — verbe
+#### Devoir 8
+
+1. verbe
 2. — nom propre
 3. — déterminant
 4. — verbe
 5. — nom commun
 
-#### Devoir 91. **DEV09-01** — déterminant
+#### Devoir 9
+
+1. déterminant
 2. — adjectif
 3. — nom commun
 4. — verbe
 5. — nom commun
 
-#### Devoir 101. **DEV10-01** — verbe
+#### Devoir 10
+
+1. verbe
 2. — verbe
 3. — nom commun
 4. — déterminant

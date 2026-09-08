@@ -189,61 +189,81 @@ Consigne pour toutes les séries : **Lis chaque phrase. Écris l’infinitif du 
 
 Consigne pour toutes les formes : **Lis chaque phrase. Écris l’infinitif du verbe en gras.**
 
-### Évaluation 11. **EVAL01-01** Tu **colles** une image.
+### Évaluation 1
+
+1. Tu **colles** une image.
 2. Le matin, nous **entrons** dans la salle.
 3. Les vagues **effacent** les traces.
 4. Sur le plan, vous **localisez** la mairie.
 5. Près du banc, Lila **retrouve** son bonnet.
 
-### Évaluation 21. **EVAL02-01** Elle **tourne** la page.
+### Évaluation 2
+
+1. Elle **tourne** la page.
 2. Dans la cour, Sami **attrape** la balle.
 3. Vous **terminez** le puzzle.
 4. Sans parler, vous **observez** les changements.
 5. Après la pluie, le jardin **brille** au soleil.
 
-### Évaluation 31. **EVAL03-01** Les élèves **copient** la date.
+### Évaluation 3
+
+1. Les élèves **copient** la date.
 2. Tu **prépares** ton sac.
 3. Avec soin, tu **découpes** le carré.
 4. Sur une feuille, tu **représentes** le chemin.
 5. Au signal, Zoé **retourne** sa carte.
 
-### Évaluation 41. **EVAL04-01** Nous **visitons** le musée.
+### Évaluation 4
+
+1. Nous **visitons** le musée.
 2. Au tableau, je **trace** un cercle.
 3. Le soleil **éclaire** la cour.
 4. Dans sa réponse, Lina **explique** son choix.
 5. Dans le bus, Yanis **observe** les maisons.
 
-### Évaluation 51. **EVAL05-01** Je **demande** un crayon.
+### Évaluation 5
+
+1. Je **demande** un crayon.
 2. Les amis **partagent** leurs cartes.
 3. La gardienne **allume** la lampe.
 4. Les enfants **respectent** les consignes.
 5. Sur la table, Nora **dispose** les jetons.
 
-### Évaluation 61. **EVAL06-01** Le chien **cherche** sa balle.
+### Évaluation 6
+
+1. Le chien **cherche** sa balle.
 2. Tu **prépares** ton cartable.
 3. Nous **assemblons** les pièces.
 4. Les panneaux **indiquent** la direction.
 5. Avant la classe, Malo **aère** la salle.
 
-### Évaluation 71. **EVAL07-01** Vous **écoutez** la consigne.
+### Évaluation 7
+
+1. Vous **écoutez** la consigne.
 2. Le chat **observe** nos pieds.
 3. Tu **ramasses** un galet.
 4. Le groupe **organise** son travail.
 5. Au portail, les familles **patientent** calmement.
 
-### Évaluation 81. **EVAL08-01** Mon frère **raconte** une histoire.
+### Évaluation 8
+
+1. Mon frère **raconte** une histoire.
 2. Nous **entrons** en classe.
 3. Tu **complètes** la dernière case.
 4. Vous **localisez** l’école.
 5. Dans le sable, Lou **dessine** une étoile.
 
-### Évaluation 91. **EVAL09-01** La cloche **sonne** à midi.
+### Évaluation 9
+
+1. La cloche **sonne** à midi.
 2. Nous **décorons** la salle.
 3. Les enfants **avancent** calmement.
 4. Je **remarque** un détail.
 5. Sous le préau, les élèves **abritent** leurs dessins.
 
-### Évaluation 101. **EVAL10-01** Tu **montres** ton cahier.
+### Évaluation 10
+
+1. Tu **montres** ton cahier.
 2. Je **regarde** la montagne.
 3. Vous **levez** la main.
 4. Nous **retrouvons** le chemin.
@@ -253,61 +273,81 @@ Consigne pour toutes les formes : **Lis chaque phrase. Écris l’infinitif du v
 
 Consigne pour tous les devoirs : **Lis chaque phrase. Écris l’infinitif du verbe en gras.**
 
-### Devoir 11. **DEV01-01** Léa **parle** doucement.
+### Devoir 1
+
+1. Léa **parle** doucement.
 2. Tom **saute** haut.
 3. Je **chante** juste.
 4. Tu **marches** vite.
 5. Il **dessine** bien.
 
-### Devoir 21. **DEV02-01** Elle **ferme** la boîte.
+### Devoir 2
+
+1. Elle **ferme** la boîte.
 2. Nous **jouons** dehors.
 3. Vous **lavez** la table.
 4. Je **porte** un panier.
 5. Tu **colles** une image.
 
-### Devoir 31. **DEV03-01** Il **range** ses cartes.
+### Devoir 3
+
+1. Il **range** ses cartes.
 2. Elle **tourne** la page.
 3. Nous **gardons** le ballon.
 4. Vous **aidez** Lina.
 5. Ils **dansent** en rond.
 
-### Devoir 41. **DEV04-01** Elles **volent** très haut.
+### Devoir 4
+
+1. Elles **volent** très haut.
 2. Le chien **cherche** sa balle.
 3. La cloche **sonne** à midi.
 4. Les élèves **copient** la date.
 5. Tu **montres** ton cahier.
 
-### Devoir 51. **DEV05-01** Je **chante** juste.
+### Devoir 5
+
+1. Je **chante** juste.
 2. Nous **gardons** le ballon.
 3. Vous **écoutez** la consigne.
 4. Elle **ferme** la boîte.
 5. Le chien **cherche** sa balle.
 
-### Devoir 61. **DEV06-01** Tom **saute** haut.
+### Devoir 6
+
+1. Tom **saute** haut.
 2. Vous **aidez** Lina.
 3. Nous **visitons** le musée.
 4. Je **porte** un panier.
 5. La cloche **sonne** à midi.
 
-### Devoir 71. **DEV07-01** Tu **marches** vite.
+### Devoir 7
+
+1. Tu **marches** vite.
 2. Ils **dansent** en rond.
 3. Mon frère **raconte** une histoire.
 4. Nous **jouons** dehors.
 5. Il **range** ses cartes.
 
-### Devoir 81. **DEV08-01** Léa **parle** doucement.
+### Devoir 8
+
+1. Léa **parle** doucement.
 2. Elles **volent** très haut.
 3. Tu **montres** ton cahier.
 4. Vous **lavez** la table.
 5. Elle **tourne** la page.
 
-### Devoir 91. **DEV09-01** Il **dessine** bien.
+### Devoir 9
+
+1. Il **dessine** bien.
 2. Je **demande** un crayon.
 3. Les élèves **copient** la date.
 4. Tu **colles** une image.
 5. Nous **gardons** le ballon.
 
-### Devoir 101. **DEV10-01** Elle **ferme** la boîte.
+### Devoir 10
+
+1. Elle **ferme** la boîte.
 2. Le chien **cherche** sa balle.
 3. Vous **écoutez** la consigne.
 4. Tom **saute** haut.

@@ -454,7 +454,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — dort
+#### Entraînement 1
+
+1. dort
 2. — dessine
 3. — jouent
 4. — range
@@ -463,7 +465,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — cherche
 8. — écoutez
 
-#### Entraînement 21. **ENT02-01** — éclaire
+#### Entraînement 2
+
+1. éclaire
 2. — courent
 3. — apporte
 4. — avance
@@ -472,7 +476,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — portes
 8. — quitte
 
-#### Entraînement 31. **ENT03-01** — raconte
+#### Entraînement 3
+
+1. raconte
 2. — nage
 3. — tombent
 4. — prépare
@@ -481,7 +487,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — jouent
 8. — range
 
-#### Entraînement 41. **ENT04-01** — tombe
+#### Entraînement 4
+
+1. tombe
 2. — chantons
 3. — cherche
 4. — écoutez
@@ -490,7 +498,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — apporte
 8. — avance
 
-#### Entraînement 51. **ENT05-01** — ferme
+#### Entraînement 5
+
+1. ferme
 2. — volent
 3. — portes
 4. — quitte
@@ -499,7 +509,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — tombent
 8. — prépare
 
-#### Entraînement 61. **ENT06-01** — dort
+#### Entraînement 6
+
+1. dort
 2. — dessine
 3. — jouent
 4. — range
@@ -508,7 +520,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — cherche
 8. — écoutez
 
-#### Entraînement 71. **ENT07-01** — éclaire
+#### Entraînement 7
+
+1. éclaire
 2. — courent
 3. — apporte
 4. — avance
@@ -517,7 +531,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — portes
 8. — quitte
 
-#### Entraînement 81. **ENT08-01** — raconte
+#### Entraînement 8
+
+1. raconte
 2. — nage
 3. — tombent
 4. — prépare
@@ -526,7 +542,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — jouent
 8. — range
 
-#### Entraînement 91. **ENT09-01** — tombe
+#### Entraînement 9
+
+1. tombe
 2. — chantons
 3. — cherche
 4. — écoutez
@@ -535,7 +553,9 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 7. — apporte
 8. — avance
 
-#### Entraînement 101. **ENT10-01** — ferme
+#### Entraînement 10
+
+1. ferme
 2. — volent
 3. — portes
 4. — quitte
@@ -547,61 +567,81 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — dort
+#### Évaluation 1
+
+1. dort
 2. — prépare
 3. — tombent
 4. — apporte
 5. — sonne
 
-#### Évaluation 21. **EVAL02-01** — écoutez
+#### Évaluation 2
+
+1. écoutez
 2. — cherche
 3. — chantons
 4. — avance
 5. — sourit
 
-#### Évaluation 31. **EVAL03-01** — portes
+#### Évaluation 3
+
+1. portes
 2. — volent
 3. — ferme
 4. — ferme
 5. — cachent
 
-#### Évaluation 41. **EVAL04-01** — dessine
+#### Évaluation 4
+
+1. dessine
 2. — dort
 3. — prépare
 4. — volent
 5. — ouvrons
 
-#### Évaluation 51. **EVAL05-01** — éclaire
+#### Évaluation 5
+
+1. éclaire
 2. — écoutez
 3. — cherche
 4. — portes
 5. — tourne
 
-#### Évaluation 61. **EVAL06-01** — quitte
+#### Évaluation 6
+
+1. quitte
 2. — portes
 3. — volent
 4. — quitte
 5. — sautent
 
-#### Évaluation 71. **EVAL07-01** — jouent
+#### Évaluation 7
+
+1. jouent
 2. — dessine
 3. — dort
 4. — raconte
 5. — coupe
 
-#### Évaluation 81. **EVAL08-01** — courent
+#### Évaluation 8
+
+1. courent
 2. — éclaire
 3. — écoutez
 4. — nage
 5. — prends
 
-#### Évaluation 91. **EVAL09-01** — raconte
+#### Évaluation 9
+
+1. raconte
 2. — quitte
 3. — portes
 4. — tombent
 5. — recouvre
 
-#### Évaluation 101. **EVAL10-01** — range
+#### Évaluation 10
+
+1. range
 2. — jouent
 3. — dessine
 4. — prépare
@@ -610,61 +650,81 @@ Dans chaque phrase, écris seulement le verbe conjugué. Le groupe sujet est en 
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — dort
+#### Devoir 1
+
+1. dort
 2. — écoutez
 3. — portes
 4. — dessine
 5. — éclaire
 
-#### Devoir 21. **DEV02-01** — range
+#### Devoir 2
+
+1. range
 2. — apporte
 3. — nage
 4. — tombe
 5. — avance
 
-#### Devoir 31. **DEV03-01** — cherche
+#### Devoir 3
+
+1. cherche
 2. — volent
 3. — dort
 4. — écoutez
 5. — jouent
 
-#### Devoir 41. **DEV04-01** — courent
+#### Devoir 4
+
+1. courent
 2. — raconte
 3. — range
 4. — apporte
 5. — chantons
 
-#### Devoir 51. **DEV05-01** — ferme
+#### Devoir 5
+
+1. ferme
 2. — prépare
 3. — cherche
 4. — dessine
 5. — éclaire
 
-#### Devoir 61. **DEV06-01** — quitte
+#### Devoir 6
+
+1. quitte
 2. — jouent
 3. — courent
 4. — tombe
 5. — avance
 
-#### Devoir 71. **DEV07-01** — tombent
+#### Devoir 7
+
+1. tombent
 2. — chantons
 3. — dort
 4. — écoutez
 5. — portes
 
-#### Devoir 81. **DEV08-01** — dessine
+#### Devoir 8
+
+1. dessine
 2. — éclaire
 3. — range
 4. — apporte
 5. — nage
 
-#### Devoir 91. **DEV09-01** — tombe
+#### Devoir 9
+
+1. tombe
 2. — avance
 3. — cherche
 4. — volent
 5. — dort
 
-#### Devoir 101. **DEV10-01** — écoutez
+#### Devoir 10
+
+1. écoutez
 2. — jouent
 3. — courent
 4. — raconte

@@ -453,7 +453,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — chat
+#### Entraînement 1
+
+1. chat
 2. — robe
 3. — lapin
 4. — porte
@@ -462,7 +464,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — camion
 8. — pomme
 
-#### Entraînement 21. **ENT02-01** — porte
+#### Entraînement 2
+
+1. porte
 2. — ballon
 3. — écharpe
 4. — camion
@@ -471,7 +475,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — fleur
 8. — souris
 
-#### Entraînement 31. **ENT03-01** — camion
+#### Entraînement 3
+
+1. camion
 2. — pomme
 3. — livre
 4. — fleur
@@ -480,7 +486,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — bateau
 8. — renard
 
-#### Entraînement 41. **ENT04-01** — voiture
+#### Entraînement 4
+
+1. voiture
 2. — balle
 3. — chapeau
 4. — panier
@@ -489,7 +497,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — couverture
 8. — carton
 
-#### Entraînement 51. **ENT05-01** — panier
+#### Entraînement 5
+
+1. panier
 2. — mur
 3. — crayon
 4. — couverture
@@ -498,7 +508,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — branche
 8. — poche
 
-#### Entraînement 61. **ENT06-01** — couverture
+#### Entraînement 6
+
+1. couverture
 2. — carton
 3. — tasse
 4. — branche
@@ -507,7 +519,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — chien
 8. — bateau
 
-#### Entraînement 71. **ENT07-01** — branche
+#### Entraînement 7
+
+1. branche
 2. — poche
 3. — souris
 4. — chien
@@ -516,7 +530,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — maison
 8. — oiseau
 
-#### Entraînement 81. **ENT08-01** — chaise
+#### Entraînement 8
+
+1. chaise
 2. — nuage
 3. — soleil
 4. — veste
@@ -525,7 +541,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — pré
 8. — boîte
 
-#### Entraînement 91. **ENT09-01** — veste
+#### Entraînement 9
+
+1. veste
 2. — cartable
 3. — chèvre
 4. — pré
@@ -534,7 +552,9 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 7. — balle
 8. — chapeau
 
-#### Entraînement 101. **ENT10-01** — pré
+#### Entraînement 10
+
+1. pré
 2. — boîte
 3. — perles
 4. — balle
@@ -546,61 +566,81 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — chat
+#### Évaluation 1
+
+1. chat
 2. — fleur
 3. — branche
 4. — balle
 5. — plante
 
-#### Évaluation 21. **EVAL02-01** — pomme
+#### Évaluation 2
+
+1. pomme
 2. — chapeau
 3. — souris
 4. — chapeau
 5. — plante
 
-#### Évaluation 31. **EVAL03-01** — fleur
+#### Évaluation 3
+
+1. fleur
 2. — mur
 3. — bateau
 4. — panier
 5. — plante
 
-#### Évaluation 41. **EVAL04-01** — chien
+#### Évaluation 4
+
+1. chien
 2. — couverture
 3. — veste
 4. — mur
 5. — plante
 
-#### Évaluation 51. **EVAL05-01** — mur
+#### Évaluation 5
+
+1. mur
 2. — bateau
 3. — chèvre
 4. — crayon
 5. — plante
 
-#### Évaluation 61. **EVAL06-01** — couverture
+#### Évaluation 6
+
+1. couverture
 2. — maison
 3. — boîte
 4. — couverture
 5. — plante
 
-#### Évaluation 71. **EVAL07-01** — tasse
+#### Évaluation 7
+
+1. tasse
 2. — chèvre
 3. — chat
 4. — carton
 5. — plante
 
-#### Évaluation 81. **EVAL08-01** — poche
+#### Évaluation 8
+
+1. poche
 2. — boîte
 3. — pomme
 4. — tasse
 5. — plante
 
-#### Évaluation 91. **EVAL09-01** — chaise
+#### Évaluation 9
+
+1. chaise
 2. — balle
 3. — fleur
 4. — branche
 5. — plante
 
-#### Évaluation 101. **EVAL10-01** — boîte
+#### Évaluation 10
+
+1. boîte
 2. — lapin
 3. — chien
 4. — poche
@@ -609,61 +649,81 @@ Dans chaque phrase, écris seulement le nom précisé par l’adjectif en gras.
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — chat
+#### Devoir 1
+
+1. chat
 2. — pomme
 3. — fleur
 4. — chien
 5. — mur
 
-#### Devoir 21. **DEV02-01** — porte
+#### Devoir 2
+
+1. porte
 2. — écharpe
 3. — pomme
 4. — voiture
 5. — carton
 
-#### Devoir 31. **DEV03-01** — camion
+#### Devoir 3
+
+1. camion
 2. — livre
 3. — souris
 4. — panier
 5. — lapin
 
-#### Devoir 41. **DEV04-01** — ballon
+#### Devoir 4
+
+1. ballon
 2. — camion
 3. — renard
 4. — couverture
 5. — écharpe
 
-#### Devoir 51. **DEV05-01** — pomme
+#### Devoir 5
+
+1. pomme
 2. — fleur
 3. — chapeau
 4. — robe
 5. — porte
 
-#### Devoir 61. **DEV06-01** — souris
+#### Devoir 6
+
+1. souris
 2. — bateau
 3. — crayon
 4. — ballon
 5. — camion
 
-#### Devoir 71. **DEV07-01** — livre
+#### Devoir 7
+
+1. livre
 2. — balle
 3. — chat
 4. — pomme
 5. — fleur
 
-#### Devoir 81. **DEV08-01** — chien
+#### Devoir 8
+
+1. chien
 2. — mur
 3. — porte
 4. — écharpe
 5. — pomme
 
-#### Devoir 91. **DEV09-01** — voiture
+#### Devoir 9
+
+1. voiture
 2. — carton
 3. — camion
 4. — livre
 5. — souris
 
-#### Devoir 101. **DEV10-01** — panier
+#### Devoir 10
+
+1. panier
 2. — lapin
 3. — ballon
 4. — camion

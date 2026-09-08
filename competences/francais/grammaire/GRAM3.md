@@ -453,7 +453,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — A
+#### Entraînement 1
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -462,7 +464,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 21. **ENT02-01** — A
+#### Entraînement 2
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -471,7 +475,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 31. **ENT03-01** — A
+#### Entraînement 3
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -480,7 +486,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 41. **ENT04-01** — A
+#### Entraînement 4
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -489,7 +497,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 51. **ENT05-01** — A
+#### Entraînement 5
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -498,7 +508,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 61. **ENT06-01** — A
+#### Entraînement 6
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -507,7 +519,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 71. **ENT07-01** — A
+#### Entraînement 7
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -516,7 +530,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 81. **ENT08-01** — A
+#### Entraînement 8
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -525,7 +541,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 91. **ENT09-01** — A
+#### Entraînement 9
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -534,7 +552,9 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 7. — A
 8. — B
 
-#### Entraînement 101. **ENT10-01** — A
+#### Entraînement 10
+
+1. A
 2. — B
 3. — A
 4. — B
@@ -546,61 +566,81 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — A
+#### Évaluation 1
+
+1. A
 2. — B
 3. — A
 4. — A
 5. — A
 
-#### Évaluation 21. **EVAL02-01** — B
+#### Évaluation 2
+
+1. B
 2. — A
 3. — B
 4. — B
 5. — A
 
-#### Évaluation 31. **EVAL03-01** — A
+#### Évaluation 3
+
+1. A
 2. — B
 3. — A
 4. — A
 5. — A
 
-#### Évaluation 41. **EVAL04-01** — B
+#### Évaluation 4
+
+1. B
 2. — A
 3. — B
 4. — B
 5. — A
 
-#### Évaluation 51. **EVAL05-01** — A
+#### Évaluation 5
+
+1. A
 2. — B
 3. — A
 4. — A
 5. — A
 
-#### Évaluation 61. **EVAL06-01** — B
+#### Évaluation 6
+
+1. B
 2. — A
 3. — B
 4. — B
 5. — A
 
-#### Évaluation 71. **EVAL07-01** — A
+#### Évaluation 7
+
+1. A
 2. — B
 3. — A
 4. — A
 5. — A
 
-#### Évaluation 81. **EVAL08-01** — B
+#### Évaluation 8
+
+1. B
 2. — A
 3. — B
 4. — B
 5. — A
 
-#### Évaluation 91. **EVAL09-01** — A
+#### Évaluation 9
+
+1. A
 2. — B
 3. — A
 4. — A
 5. — A
 
-#### Évaluation 101. **EVAL10-01** — B
+#### Évaluation 10
+
+1. B
 2. — A
 3. — B
 4. — B
@@ -609,61 +649,81 @@ Pour chaque item, écris A ou B : choisis la phrase correcte.
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — A
+#### Devoir 1
+
+1. A
 2. — B
 3. — A
 4. — B
 5. — A
 
-#### Devoir 21. **DEV02-01** — B
+#### Devoir 2
+
+1. B
 2. — A
 3. — B
 4. — A
 5. — B
 
-#### Devoir 31. **DEV03-01** — A
+#### Devoir 3
+
+1. A
 2. — B
 3. — A
 4. — B
 5. — A
 
-#### Devoir 41. **DEV04-01** — B
+#### Devoir 4
+
+1. B
 2. — A
 3. — B
 4. — A
 5. — B
 
-#### Devoir 51. **DEV05-01** — A
+#### Devoir 5
+
+1. A
 2. — B
 3. — A
 4. — B
 5. — A
 
-#### Devoir 61. **DEV06-01** — B
+#### Devoir 6
+
+1. B
 2. — A
 3. — B
 4. — A
 5. — B
 
-#### Devoir 71. **DEV07-01** — A
+#### Devoir 7
+
+1. A
 2. — B
 3. — A
 4. — B
 5. — A
 
-#### Devoir 81. **DEV08-01** — B
+#### Devoir 8
+
+1. B
 2. — A
 3. — B
 4. — A
 5. — B
 
-#### Devoir 91. **DEV09-01** — A
+#### Devoir 9
+
+1. A
 2. — B
 3. — A
 4. — B
 5. — A
 
-#### Devoir 101. **DEV10-01** — B
+#### Devoir 10
+
+1. B
 2. — A
 3. — B
 4. — A

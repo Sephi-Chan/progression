@@ -453,7 +453,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 ### Corrections des entraînements
 
 
-#### Entraînement 11. **ENT01-01** — Le chat de Nina
+#### Entraînement 1
+
+1. Le chat de Nina
 2. — Le chien de Sami
 3. — La sœur de Léo
 4. — Le lapin du voisin
@@ -462,7 +464,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — La tortue du jardin
 8. — Le facteur du village
 
-#### Entraînement 21. **ENT02-01** — La lampe du salon
+#### Entraînement 2
+
+1. La lampe du salon
 2. — Le bateau de mon oncle
 3. — La poule de la ferme
 4. — Le bébé de nos amis
@@ -471,7 +475,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Le cheval du fermier
 8. — La cloche de l’école
 
-#### Entraînement 31. **ENT03-01** — Le ballon de Tom
+#### Entraînement 3
+
+1. Le ballon de Tom
 2. — La chatte de Zoé
 3. — Le camion de livraison
 4. — La branche du pommier
@@ -480,7 +486,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Les roues du vieux vélo
 8. — Les chats de la voisine
 
-#### Entraînement 41. **ENT04-01** — Les feuilles de cet arbre
+#### Entraînement 4
+
+1. Les feuilles de cet arbre
 2. — Les fenêtres de la maison
 3. — Les joueurs de cette équipe
 4. — Les fleurs du petit jardin
@@ -489,7 +497,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Les poissons du grand bassin
 8. — Les poules de la ferme
 
-#### Entraînement 51. **ENT05-01** — Les livres de cette étagère
+#### Entraînement 5
+
+1. Les livres de cette étagère
 2. — Les vagues de la mer
 3. — Les chiens du berger
 4. — Les lumières de la rue
@@ -498,7 +508,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — Les nuages du matin
 8. — Les enfants du centre
 
-#### Entraînement 61. **ENT06-01** — le chat de Nina
+#### Entraînement 6
+
+1. le chat de Nina
 2. — le chien de Sami
 3. — la sœur de Léo
 4. — le lapin du voisin
@@ -507,7 +519,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — la tortue du jardin
 8. — le facteur du village
 
-#### Entraînement 71. **ENT07-01** — la lampe du salon
+#### Entraînement 7
+
+1. la lampe du salon
 2. — le bateau de mon oncle
 3. — la poule de la ferme
 4. — le bébé de nos amis
@@ -516,7 +530,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — le cheval du fermier
 8. — la cloche de l’école
 
-#### Entraînement 81. **ENT08-01** — le ballon de Tom
+#### Entraînement 8
+
+1. le ballon de Tom
 2. — la chatte de Zoé
 3. — le camion de livraison
 4. — la branche du pommier
@@ -525,7 +541,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — les roues du vieux vélo
 8. — les chats de la voisine
 
-#### Entraînement 91. **ENT09-01** — les feuilles de cet arbre
+#### Entraînement 9
+
+1. les feuilles de cet arbre
 2. — les fenêtres de la maison
 3. — les joueurs de cette équipe
 4. — les fleurs du petit jardin
@@ -534,7 +552,9 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 7. — les poissons du grand bassin
 8. — les poules de la ferme
 
-#### Entraînement 101. **ENT10-01** — les livres de cette étagère
+#### Entraînement 10
+
+1. les livres de cette étagère
 2. — les vagues de la mer
 3. — les chiens du berger
 4. — les lumières de la rue
@@ -546,61 +566,81 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 ### Corrections des évaluations
 
 
-#### Évaluation 11. **EVAL01-01** — Le chat de Nina
+#### Évaluation 1
+
+1. Le chat de Nina
 2. — La branche du pommier
 3. — Les nuages du matin
 4. — le chat de Lina
 5. — Le petit chat de ma tante
 
-#### Évaluation 21. **EVAL02-01** — Le facteur du village
+#### Évaluation 2
+
+1. Le facteur du village
 2. — Les joueurs de cette équipe
 3. — le vélo de mon frère
 4. — le chien de Rémi
 5. — La grande porte du garage
 
-#### Évaluation 31. **EVAL03-01** — Le cheval du fermier
+#### Évaluation 3
+
+1. Le cheval du fermier
 2. — Les vagues de la mer
 3. — le livre de contes
 4. — la sœur de Noé
 5. — Les jeunes arbres de la place
 
-#### Évaluation 41. **EVAL04-01** — Les élèves de notre classe
+#### Évaluation 4
+
+1. Les élèves de notre classe
 2. — le chat de Nina
 3. — la branche du pommier
 4. — le lapin du cousin
 5. — Les crayons de la trousse rouge
 
-#### Évaluation 51. **EVAL05-01** — Les cloches de l’église
+#### Évaluation 5
+
+1. Les cloches de l’église
 2. — le facteur du village
 3. — les joueurs de cette équipe
 4. — la maîtresse du groupe
 5. — Le nouveau gardien de l’école
 
-#### Évaluation 61. **EVAL06-01** — Les lumières de la rue
+#### Évaluation 6
+
+1. Les lumières de la rue
 2. — le cheval du fermier
 3. — les vagues de la mer
 4. — le vélo de mon cousin
 5. — Les canards du petit étang
 
-#### Évaluation 71. **EVAL07-01** — la sœur de Léo
+#### Évaluation 7
+
+1. la sœur de Léo
 2. — les élèves de notre classe
 3. — Le chat de Nina
 4. — la tortue du parc
 5. — La voiture de nos voisins
 
-#### Évaluation 81. **EVAL08-01** — le bateau de mon oncle
+#### Évaluation 8
+
+1. le bateau de mon oncle
 2. — les cloches de l’église
 3. — Le facteur du village
 4. — le facteur du quartier
 5. — Les étoiles du ciel clair
 
-#### Évaluation 91. **EVAL09-01** — le ballon de Tom
+#### Évaluation 9
+
+1. le ballon de Tom
 2. — les lumières de la rue
 3. — Le cheval du fermier
 4. — la lampe du couloir
 5. — Le manteau de mon grand-père
 
-#### Évaluation 101. **EVAL10-01** — les chats de la voisine
+#### Évaluation 10
+
+1. les chats de la voisine
 2. — La sœur de Léo
 3. — Les élèves de notre classe
 4. — le bateau de mon père
@@ -609,61 +649,81 @@ Dans chaque phrase, écris le groupe sujet complet du verbe en gras.
 ### Corrections des devoirs
 
 
-#### Devoir 11. **DEV01-01** — Le chat de Nina
+#### Devoir 1
+
+1. Le chat de Nina
 2. — Le facteur du village
 3. — Le cheval du fermier
 4. — Les élèves de notre classe
 5. — Les cloches de l’église
 
-#### Devoir 21. **DEV02-01** — Le lapin du voisin
+#### Devoir 2
+
+1. Le lapin du voisin
 2. — La poule de la ferme
 3. — La chatte de Zoé
 4. — Les feuilles de cet arbre
 5. — Les poules de la ferme
 
-#### Devoir 31. **DEV03-01** — La tortue du jardin
+#### Devoir 3
+
+1. La tortue du jardin
 2. — La porte de la cuisine
 3. — Les oiseaux du grand arbre
 4. — Les fleurs du petit jardin
 5. — La sœur de Léo
 
-#### Devoir 41. **DEV04-01** — Le bateau de mon oncle
+#### Devoir 4
+
+1. Le bateau de mon oncle
 2. — Le ballon de Tom
 3. — Les chats de la voisine
 4. — Les poissons du grand bassin
 5. — Le vélo de mon frère
 
-#### Devoir 51. **DEV05-01** — Le livre de contes
+#### Devoir 5
+
+1. Le livre de contes
 2. — La branche du pommier
 3. — Les joueurs de cette équipe
 4. — Le chien de Sami
 5. — La lampe du salon
 
-#### Devoir 61. **DEV06-01** — La cloche de l’école
+#### Devoir 6
+
+1. La cloche de l’école
 2. — Les roues du vieux vélo
 3. — Les enfants de mes voisins
 4. — La maîtresse de la classe
 5. — Le bébé de nos amis
 
-#### Devoir 71. **DEV07-01** — Le camion de livraison
+#### Devoir 7
+
+1. Le camion de livraison
 2. — Les fenêtres de la maison
 3. — Le chat de Nina
 4. — Le facteur du village
 5. — Le cheval du fermier
 
-#### Devoir 81. **DEV08-01** — Les élèves de notre classe
+#### Devoir 8
+
+1. Les élèves de notre classe
 2. — Les cloches de l’église
 3. — Le lapin du voisin
 4. — La poule de la ferme
 5. — La chatte de Zoé
 
-#### Devoir 91. **DEV09-01** — Les feuilles de cet arbre
+#### Devoir 9
+
+1. Les feuilles de cet arbre
 2. — Les poules de la ferme
 3. — La tortue du jardin
 4. — La porte de la cuisine
 5. — Les oiseaux du grand arbre
 
-#### Devoir 101. **DEV10-01** — Les fleurs du petit jardin
+#### Devoir 10
+
+1. Les fleurs du petit jardin
 2. — La sœur de Léo
 3. — Le bateau de mon oncle
 4. — Le ballon de Tom
