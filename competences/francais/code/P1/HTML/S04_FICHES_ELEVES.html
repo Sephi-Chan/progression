@@ -1,0 +1,162 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S04 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "P1 S4 J1"; } }
+@page :nth(2) { @bottom-left { content: "P1 S4 J2"; } }
+@page :nth(3) { @bottom-left { content: "P1 S4 J3"; } }
+@page :nth(4) { @bottom-left { content: "P1 S4 J4"; } }
+@page :nth(5) { @bottom-left { content: "P1 S4 TEXTE"; } }</style></head><body><h1>Lundi — Les deux lectures de c</h1>
+<h2>Je retrouve</h2>
+<p>guitare · bague · girafe</p>
+<h2>Je lis les mots</h2>
+<p>Dis si c se lit comme dans café ou citron.</p>
+<ul>
+<li>café</li>
+<li>cube</li>
+<li>camion</li>
+<li>carte</li>
+<li>colle</li>
+<li>école</li>
+<li>cerise</li>
+<li>cinéma</li>
+<li>citron</li>
+<li>cité</li>
+<li>pouce</li>
+<li>place</li>
+</ul>
+<p>Avec l’adulte : camion · cerise · place.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le camion arrive près de la gare.</li>
+<li>La cerise est rouge.</li>
+<li>Le cube est à sa place.</li>
+</ol>
+<h1>Mardi — qu · k · ch · ç</h1>
+<h2>Je retrouve</h2>
+<p>chat · cube · citron</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>quatre</li>
+<li>quarante</li>
+<li>équipe</li>
+<li>quille</li>
+<li>kilo</li>
+<li>kimono</li>
+<li>képi</li>
+<li>chorale</li>
+<li>garçon</li>
+<li>leçon</li>
+<li>façade</li>
+<li>reçu</li>
+</ul>
+<p>Avec l’adulte : chorale · képi · façade · salle.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le garçon porte un kimono.</li>
+<li>La chorale arrive dans la salle.</li>
+<li>La fille a reçu une quille.</li>
+</ol>
+<h1>Jeudi — s · ss</h1>
+<h2>Je retrouve</h2>
+<p>garçon · citron · girafe</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>salade</li>
+<li>soupe</li>
+<li>sac</li>
+<li>soleil</li>
+<li>maison</li>
+<li>poison</li>
+<li>rose</li>
+<li>valise</li>
+<li>poisson</li>
+<li>dessin</li>
+<li>tasse</li>
+<li>mousse</li>
+</ul>
+<p>Avec l’adulte : poisson · poison · est.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La valise rose est dans la maison.</li>
+<li>Le poisson passe sous la mousse.</li>
+<li>La salade est dans la tasse.</li>
+</ol>
+<h1>Vendredi — Lire ils et elles avec un verbe</h1>
+<h2>Je retrouve</h2>
+<p>chat · enfant · rouge</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>ils jouent</li>
+<li>elles chantent</li>
+<li>ils passent</li>
+<li>elles rangent</li>
+<li>ils mangent</li>
+<li>elles regardent</li>
+<li>ils dansent</li>
+<li>elles marchent</li>
+<li>le vent</li>
+<li>une dent</li>
+<li>un enfant</li>
+<li>le vent souffle</li>
+</ul>
+<p>Avec l’adulte : les filles · les chats · souffle.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les filles chantent.</li>
+<li>Les chats passent dans la chambre.</li>
+<li>Elles rangent la guitare.</li>
+</ol>
+<h1>La chorale</h1>
+<blockquote>
+<p>La chorale arrive dans la salle. Les filles et les garçons se placent près de la porte. Lina regarde le garçon à la guitare.</p>
+<p>Les enfants chantent. Ils regardent Lina. Elle montre une carte avec un soleil. Ils chantent une chanson sur le soleil. Puis elle montre une carte avec un chat.</p>
+<p>Les enfants chantent une autre chanson. Ils sourient. La guitare donne la dernière note. La chorale salue, puis les enfants sortent de la salle.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : se placent · les enfants · sourient · dernière · sortent.</p>
+<p>Je lis les groupes « les enfants chantent » et « ils regardent Lina » sans faire entendre ent.</p>
+<h2>Je raconte</h2>
+<p>Quels dessins Lina montre-t-elle sur les cartes ?</p>
+</body></html>

@@ -1,0 +1,168 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S03 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "P1 S3 J1"; } }
+@page :nth(2) { @bottom-left { content: "P1 S3 J2"; } }
+@page :nth(3) { @bottom-left { content: "P1 S3 J3"; } }
+@page :nth(4) { @bottom-left { content: "P1 S3 J4"; } }
+@page :nth(5) { @bottom-left { content: "P1 S3 TEXTE"; } }</style></head><body><h1>Lundi — eu · œu · eur</h1>
+<h2>Je retrouve</h2>
+<p>lapin · enfant · ballon</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>feu</li>
+<li>jeu</li>
+<li>deux</li>
+<li>bleu</li>
+<li>peu</li>
+<li>peur</li>
+<li>fleur</li>
+<li>couleur</li>
+<li>cœur</li>
+<li>sœur</li>
+<li>neuf</li>
+<li>œuf</li>
+</ul>
+<p>Avec l’adulte : cœur · sœur · œuf · pousse.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La sœur de Léo a peur.</li>
+<li>Une fleur bleue pousse près du mur.</li>
+<li>Le cœur de Léo bat vite.</li>
+</ol>
+<h1>Mardi — j et g pour le son de jeudi</h1>
+<h2>Je retrouve</h2>
+<p>feu · peur · lapin</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>jeudi</li>
+<li>jupe</li>
+<li>joli</li>
+<li>joue</li>
+<li>jambe</li>
+<li>girafe</li>
+<li>genou</li>
+<li>gilet</li>
+<li>gel</li>
+<li>rouge</li>
+<li>page</li>
+<li>pigeon</li>
+</ul>
+<p>Avec l’adulte : gel · pigeon · longue · se pose.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La girafe a une longue jambe.</li>
+<li>Jeudi, Julie porte une jupe rouge.</li>
+<li>Le pigeon se pose près du mur.</li>
+</ol>
+<h1>Jeudi — g · gu · ge</h1>
+<h2>Je retrouve</h2>
+<p>jeudi · rouge · couleur</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>gare</li>
+<li>gomme</li>
+<li>gourde</li>
+<li>figure</li>
+<li>girafe</li>
+<li>genou</li>
+<li>guitare</li>
+<li>bague</li>
+<li>guêpe</li>
+<li>pigeon</li>
+<li>nous mangeons</li>
+<li>nous nageons</li>
+</ul>
+<p>Avec l’adulte : guêpe · nous mangeons · nous nageons.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La guêpe vole près de la gare.</li>
+<li>Nous mangeons une figue.</li>
+<li>La guitare est dans la chambre.</li>
+</ol>
+<h1>Vendredi — gn et les lectures de g</h1>
+<h2>Je retrouve</h2>
+<p>guitare · pigeon · girafe</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>ligne</li>
+<li>signe</li>
+<li>vigne</li>
+<li>gagne</li>
+<li>montagne</li>
+<li>champignon</li>
+<li>chignon</li>
+<li>baignoire</li>
+<li>guitare</li>
+<li>bague</li>
+<li>girafe</li>
+<li>pigeon</li>
+</ul>
+<p>Avec l’adulte : baignoire · au · pousse.</p>
+<h2>J’écris</h2>
+<p>Cache les mots et écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La vigne pousse au pied de la montagne.</li>
+<li>Le champignon est près du chemin.</li>
+<li>Lina gagne une petite guitare.</li>
+</ol>
+<h1>La guitare rouge</h1>
+<blockquote>
+<p>Jeudi, Julie apporte une guitare rouge. Léo pose la guitare sur un tapis, près de la table. Julie regarde les cordes.</p>
+<p>Une corde a glissé. Léo aide Julie à la remettre en place. Julie joue une note, puis une autre. La guitare sonne !</p>
+<p>La sœur de Julie arrive. Elle regarde la guitare rouge et écoute. Julie joue encore. Léo a le cœur joyeux. Une petite note suffit pour commencer la fête.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : cordes · glissé · remettre · place · sonne · joyeux · suffit · commencer.</p>
+<p>Je garde ensemble « une guitare rouge ». Je fais entendre la surprise au point d’exclamation.</p>
+<h2>Je raconte</h2>
+<p>De quelle couleur est la guitare ?</p>
+</body></html>

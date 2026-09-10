@@ -1,0 +1,161 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S05 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "P1 S5 J1"; } }
+@page :nth(2) { @bottom-left { content: "P1 S5 J2"; } }
+@page :nth(3) { @bottom-left { content: "P1 S5 J3"; } }
+@page :nth(4) { @bottom-left { content: "P1 S5 J4"; } }
+@page :nth(5) { @bottom-left { content: "P1 S5 TEXTE"; } }</style></head><body><h1>Lundi — oi</h1>
+<h2>Je retrouve</h2>
+<p>garçon · girafe · maison</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>boire</li>
+<li>poire</li>
+<li>noir</li>
+<li>soir</li>
+<li>voiture</li>
+<li>toit</li>
+<li>oiseau</li>
+<li>poisson</li>
+<li>étoile</li>
+<li>histoire</li>
+<li>voisin</li>
+<li>bois</li>
+</ul>
+<p>Avec l’adulte : oiseau · histoire · un oiseau.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le poisson noir nage.</li>
+<li>Le voisin lave la voiture.</li>
+<li>Un oiseau se pose sur le toit.</li>
+</ol>
+<h1>Mardi — Les lectures de y</h1>
+<h2>Je retrouve</h2>
+<p>poire · voiture · soleil</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>pyjama</li>
+<li>stylo</li>
+<li>pyramide</li>
+<li>gymnase</li>
+<li>rayon</li>
+<li>crayon</li>
+<li>voyage</li>
+<li>noyau</li>
+<li>tuyau</li>
+<li>joyeux</li>
+<li>yeux</li>
+<li>pays</li>
+</ul>
+<p>Avec l’adulte : gymnase · tuyau · yeux · pays.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le crayon est près du stylo.</li>
+<li>Un rayon de soleil arrive sur le tuyau.</li>
+<li>Le garçon porte un pyjama bleu.</li>
+</ol>
+<h1>Jeudi — ien · oin · ion</h1>
+<h2>Je retrouve</h2>
+<p>lapin · poire · voyage</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>chien</li>
+<li>bien</li>
+<li>rien</li>
+<li>musicien</li>
+<li>coin</li>
+<li>loin</li>
+<li>point</li>
+<li>foin</li>
+<li>avion</li>
+<li>camion</li>
+<li>champion</li>
+<li>pion</li>
+</ul>
+<p>Avec l’adulte : musicien · ciel · un avion.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le chien va bien.</li>
+<li>Le champion lance le pion loin du camion.</li>
+<li>Un avion passe dans le ciel.</li>
+</ol>
+<h1>Vendredi — Finales muettes et liaisons</h1>
+<h2>Je retrouve</h2>
+<p>ils jouent · elles chantent · feu</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>les chats</li>
+<li>les jeux</li>
+<li>les livres</li>
+<li>des ballons</li>
+<li>les amis</li>
+<li>des oiseaux</li>
+<li>les enfants</li>
+<li>des avions</li>
+<li>les petits chats</li>
+<li>les jeux de Léa</li>
+<li>les amis de Léo</li>
+<li>des oiseaux jaunes</li>
+</ul>
+<p>Avec l’adulte : des oiseaux · des avions · arrivent.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les amis jouent.</li>
+<li>Des oiseaux arrivent.</li>
+<li>Les enfants chantent.</li>
+</ol>
+<h1>Le voyage du pion</h1>
+<blockquote>
+<p>Léo pose un pion sur la table. Il trace une route sur une grande feuille. La route passe près de la maison, puis elle arrive au bord du bois.</p>
+<p>Lina fait avancer le pion. Le pion est un champion : il va loin ! Un oiseau est sur le toit de la maison. Le chien reste dans un coin.</p>
+<p>Les amis regardent la route. Le voyage du pion se termine près du bois. Léo et Lina rangent le jeu.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : fait · avancer · bord · se termine.</p>
+<p>Je relie « les amis » avec le son /z/. Je garde ensemble « un oiseau » avec le son /n/.</p>
+<h2>Je raconte</h2>
+<p>Où le voyage du pion se termine-t-il ?</p>
+</body></html>

@@ -1,0 +1,160 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8">
+<title>exemple</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+ul > li:nth-last-child(-n+3) { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+</style></head>
+<body><h1>Lundi — eil · ail · euil</h1>
+<h2>Je retrouve</h2>
+<p>ai · ei · eu</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>soleil</li>
+<li>réveil</li>
+<li>travail</li>
+<li>rail</li>
+<li>fauteuil</li>
+<li>écureuil</li>
+<li>orteil</li>
+<li>portail</li>
+<li>bétail</li>
+<li>pareil</li>
+<li>conseil</li>
+<li>seuil</li>
+</ul>
+<p>Avec l’adulte : conseil · brille · un écureuil.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le soleil brille.</li>
+<li>La fille répare le fauteuil.</li>
+<li>Un écureuil file sur le rail.</li>
+</ol>
+<h1>Mardi — aill · eill · ouill · ill</h1>
+<h2>Je retrouve</h2>
+<p>soleil · travail · fauteuil</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>paille</li>
+<li>taille</li>
+<li>bataille</li>
+<li>abeille</li>
+<li>oreille</li>
+<li>bouteille</li>
+<li>fouille</li>
+<li>rouille</li>
+<li>grenouille</li>
+<li>fille</li>
+<li>bille</li>
+<li>quille</li>
+</ul>
+<p>Avec l’adulte : quille · feuille · ramasse.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La fille ramasse une bille.</li>
+<li>Une abeille vole sur la paille.</li>
+<li>La grenouille se cache sous une feuille.</li>
+</ol>
+<h1>Jeudi — i · y · ill · il</h1>
+<h2>Je retrouve</h2>
+<p>paille · abeille · soleil</p>
+<h2>Je lis les mots</h2>
+<p>Entoure les lettres du son qui glisse.</p>
+<ul>
+<li>pied</li>
+<li>piano</li>
+<li>papier</li>
+<li>rayon</li>
+<li>crayon</li>
+<li>yeux</li>
+<li>fille</li>
+<li>bille</li>
+<li>quille</li>
+<li>soleil</li>
+<li>réveil</li>
+<li>travail</li>
+</ul>
+<p>Avec l’adulte : yeux · papier · rayon · les yeux.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La fille pose le pied sur le tapis.</li>
+<li>Le rayon de soleil arrive sur le piano.</li>
+<li>Le chat ferme les yeux.</li>
+</ol>
+<h1>Vendredi — Les lettres muettes</h1>
+<h2>Je retrouve</h2>
+<p>soleil · fille · bille</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>petit</li>
+<li>grand</li>
+<li>chat</li>
+<li>rat</li>
+<li>tapis</li>
+<li>lit</li>
+<li>le petit chat</li>
+<li>le grand lit</li>
+<li>un petit rat</li>
+<li>le chat gris</li>
+<li>le tapis gris</li>
+<li>le chat est grand</li>
+</ul>
+<p>Avec l’adulte : grand · gris · est · dort.</p>
+<h2>J’écris</h2>
+<p>Cache les mots et écris le mot dicté.</p>
+<ol>
+<li>____________________________</li>
+</ol>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le petit chat va sur le lit.</li>
+<li>Le grand chat dort sur le tapis.</li>
+<li>Le chat gris est petit.</li>
+</ol>
+<h1>Le fauteuil de Lina</h1>
+<blockquote>
+<p>Lina est une petite fille. Elle arrive près du fauteuil. Une bille roule sous le fauteuil. Lina se penche et ramasse la bille.</p>
+<p>Sur le tapis, une feuille cache une autre bille. Lina regarde la feuille, puis le tapis. Elle trouve la bille.</p>
+<p>Le soleil arrive sur le fauteuil. Lina pose la feuille près de la fenêtre. Une abeille vole dehors. Lina reste dans la salle et regarde le soleil.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : est · près · se penche · autre · trouve · fenêtre · dehors · dans · salle.</p>
+<h2>Je raconte</h2>
+<p>Que ramasse Lina sous le fauteuil ?</p>
+</body></html>

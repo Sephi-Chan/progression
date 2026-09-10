@@ -1,0 +1,133 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>BILAN S07</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "P1 S7 BILAN CODE"; } }
+@page :nth(2) { @bottom-left { content: "P1 S7 BILAN MOTS"; } }
+@page :nth(3) { @bottom-left { content: "P1 S7 BILAN TEXTE"; } }</style></head><body><h1>Bilan de fin de P1</h1>
+<h2>Je lis des lettres et des groupes</h2>
+<p>Lis ce que montre ton enseignant.</p>
+<ul>
+<li>a</li>
+<li>i</li>
+<li>u</li>
+<li>m</li>
+<li>f</li>
+<li>l</li>
+<li>b</li>
+<li>d</li>
+<li>ou</li>
+<li>au</li>
+<li>eau</li>
+<li>un</li>
+<li>ui</li>
+<li>ch</li>
+<li>on</li>
+<li>in</li>
+</ul>
+<h2>Je lis des syllabes</h2>
+<ul>
+<li>la</li>
+<li>vu</li>
+<li>sol</li>
+<li>lou</li>
+<li>flu</li>
+<li>pri</li>
+</ul>
+<h2>J’écris ce que je viens d’entendre</h2>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>Bilan de fin de P1 — mots</h1>
+<ul>
+<li>détail</li>
+<li>chenille</li>
+<li>poussin</li>
+<li>roman</li>
+<li>mouton</li>
+<li>soin</li>
+<li>moteur</li>
+<li>cajou</li>
+<li>guidon</li>
+<li>agneau</li>
+<li>cigale</li>
+<li>liquide</li>
+<li>raisin</li>
+<li>miroir</li>
+<li>noyade</li>
+<li>paquet</li>
+<li>pharmacie</li>
+<li>brique</li>
+<li>lien</li>
+<li>lion</li>
+<li>fixe</li>
+<li>exister</li>
+<li>serre</li>
+<li>épée</li>
+</ul>
+<h2>Je lis aussi des mots inventés</h2>
+<ul>
+<li>naveil</li>
+<li>poraille</li>
+<li>rampou</li>
+<li>zimpou</li>
+<li>fompon</li>
+<li>loinpa</li>
+<li>teuron</li>
+<li>guifou</li>
+<li>gépu</li>
+<li>gnaton</li>
+<li>çanvu</li>
+<li>photri</li>
+</ul>
+<h1>Le panier de Nina</h1>
+<p>Lis à voix haute.</p>
+<blockquote>
+<p>Nina arrive dans le jardin avec un petit panier. Elle pose le panier sur une table, près de la porte. Dans le panier, il y a une pomme rouge, une tasse et un livre. Nina prend la pomme et appelle son ami Sami. Sami arrive et regarde le panier. Il pose sa veste à côté du livre.</p>
+<p>Les deux amis regardent la pomme. Nina lave la pomme et Sami la sèche. Puis Sami pose la tasse sur la table. La pomme roule sous la table. Nina se baisse et la ramasse. Elle regarde sous la table : le livre est aussi par terre. Elle le remet dans le panier.</p>
+<p>Un petit vent arrive. Les amis reprennent la pomme, le livre et la veste. Ils vont dans la maison. Nina pose le panier près du canapé. Sami ouvre le livre. Sur la page, un chien joue avec une balle. Les amis regardent le chien, puis Sami lit la première phrase.</p>
+</blockquote>
+</body></html>

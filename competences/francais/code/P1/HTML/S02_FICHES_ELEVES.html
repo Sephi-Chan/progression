@@ -1,0 +1,176 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S02 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "P1 S2 J1"; } }
+@page :nth(2) { @bottom-left { content: "P1 S2 J2"; } }
+@page :nth(3) { @bottom-left { content: "P1 S2 J3"; } }
+@page :nth(4) { @bottom-left { content: "P1 S2 J4"; } }
+@page :nth(5) { @bottom-left { content: "P1 S2 TEXTE"; } }</style></head><body><h1>Lundi — an · am · en · em</h1>
+<h2>Je retrouve</h2>
+<p>soleil · fille · travail</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>maman</li>
+<li>ruban</li>
+<li>enfant</li>
+<li>vent</li>
+<li>lampe</li>
+<li>chambre</li>
+<li>jambe</li>
+<li>tambour</li>
+<li>tempête</li>
+<li>ensemble</li>
+<li>pente</li>
+<li>dent</li>
+</ul>
+<p>Avec l’adulte : tempête · ensemble · un enfant.</p>
+<h2>J’écris</h2>
+<p>Cache les mots et écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Maman pose la lampe sur le lit.</li>
+<li>Le vent arrive.</li>
+<li>Un enfant passe dans la chambre.</li>
+</ol>
+<h1>Mardi — in · im · ain · ein</h1>
+<h2>Je retrouve</h2>
+<p>lampe · enfant · tempête</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>lapin</li>
+<li>sapin</li>
+<li>marin</li>
+<li>matin</li>
+<li>timbre</li>
+<li>simple</li>
+<li>pain</li>
+<li>bain</li>
+<li>main</li>
+<li>nain</li>
+<li>peinture</li>
+<li>plein</li>
+</ul>
+<p>Avec l’adulte : plein · près · est.</p>
+<h2>Je lis des mots inventés</h2>
+<p>Avec l’adulte : lintou · pimpa · dainfa · reinva</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le lapin passe près du sapin.</li>
+<li>Le marin a du pain.</li>
+<li>La peinture est sur la main de Nina.</li>
+</ol>
+<h1>Jeudi — on · om · oin</h1>
+<h2>Je retrouve</h2>
+<p>lapin · pain · peinture</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>ballon</li>
+<li>savon</li>
+<li>melon</li>
+<li>talon</li>
+<li>ombre</li>
+<li>tomber</li>
+<li>nombre</li>
+<li>pompe</li>
+<li>coin</li>
+<li>loin</li>
+<li>point</li>
+<li>foin</li>
+</ul>
+<p>Avec l’adulte : tomber · nombre · près.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le ballon roule dans un coin.</li>
+<li>Le lapin va loin.</li>
+<li>Le savon est près de la pompe.</li>
+</ol>
+<h1>Vendredi — Choisir n ou m</h1>
+<h2>Je retrouve</h2>
+<p>soleil · point · enfant</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>lampe</li>
+<li>chambre</li>
+<li>timbre</li>
+<li>tomber</li>
+<li>emmener</li>
+<li>maman</li>
+<li>enfant</li>
+<li>lapin</li>
+</ul>
+<p>Avec l’adulte : emmener.</p>
+<h2>Je complète avec n ou m</h2>
+<p>Écoute le mot. Écris la lettre qui manque.</p>
+<ul>
+<li>la…pe</li>
+<li>cha…bre</li>
+<li>ti…bre</li>
+<li>to…ber</li>
+<li>e…mener</li>
+<li>e…fant</li>
+<li>lapi…</li>
+<li>po…pe</li>
+</ul>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La lampe est dans la chambre.</li>
+<li>Maman va emmener le chat.</li>
+<li>Le timbre est sur la table.</li>
+</ol>
+<h1>La lampe de la chambre</h1>
+<blockquote>
+<p>Maman pose une lampe dans la chambre de Nina. Nina apporte un petit tapis. Le tapis est près du lit.</p>
+<p>Un lapin en tissu est sur le tapis. Nina pose le lapin dans un coin de la chambre. Puis elle met un ruban sur la lampe.</p>
+<p>Maman retire le ruban : la lampe doit rester libre. Nina pose le ruban sur le lapin. La chambre est prête. Nina regarde la lampe et le lapin.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : tissu · puis · met · doit · rester · libre · prête.</p>
+<h2>Je raconte</h2>
+<p>Où Nina pose-t-elle le ruban à la fin ?</p>
+</body></html>

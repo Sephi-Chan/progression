@@ -709,26 +709,25 @@ Ne pas :
 
 Suivre cet ordre :
 
-1. Lire `Sources-institutionnelles.txt`.
-2. Lire `progression.xlsx`.
-3. Identifier exactement la compétence demandée.
-4. Examiner les compétences voisines du même sous-domaine.
-5. Rechercher les sources institutionnelles actuelles.
-6. Définir précisément le périmètre de la compétence.
-7. Choisir un exercice type stable.
-8. Définir ses variables didactiques.
-9. Construire la leçon de 10 à 15 minutes.
-10. Proposer une trace écrite qui n'excède pas 5 phrases.
-11. Construire les 3 items de modelage. Explicite les pocédures.
-12. Construire les 7 items de pratique immédiate.
-13. Construire `ENT01` à `ENT10`.
-14. Construire `EVAL01` à `EVAL10` en réutilisant réellement les entraînements.
-15. Construire `DEV01` à `DEV10` à partir des formes les plus accessibles.
-16. Construire toutes les corrections.
-17. Construire les tableaux de traçabilité.
-18. Ajouter les sources.
-19. Exécuter la checklist de validation.
-20. Écrire le fichier au chemin prévu.
+1. Lire `progression.xlsx`.
+2. Identifier exactement la compétence demandée.
+3. Examiner les compétences voisines du même sous-domaine.
+4. Rechercher les sources institutionnelles actuelles.
+5. Définir précisément le périmètre de la compétence.
+6. Choisir un exercice type stable.
+7. Définir ses variables didactiques.
+8. Construire la leçon de 10 à 15 minutes.
+9. Proposer une trace écrite qui n'excède pas 5 phrases.
+10. Construire les 3 items de modelage. Explicite les pocédures.
+11. Construire les 7 items de pratique immédiate.
+12. Construire `ENT01` à `ENT10`.
+13. Construire `EVAL01` à `EVAL10` en réutilisant réellement les entraînements.
+14. Construire `DEV01` à `DEV10` à partir des formes les plus accessibles.
+15. Construire toutes les corrections.
+16. Construire les tableaux de traçabilité.
+17. Ajouter les sources.
+18. Exécuter la checklist de validation.
+19. Écrire le fichier au chemin prévu.
 
 Lorsque plusieurs compétences sont demandées, effectuer cette procédure pour chacune d'elles et produire un fichier distinct.
 

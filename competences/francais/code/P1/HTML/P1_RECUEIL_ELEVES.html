@@ -1,0 +1,1060 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>P1 — Recueil élèves</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "P1 S1 DIAG CODE"; } }
+@page :nth(2) { @bottom-left { content: "P1 S1 DIAG MOTS"; } }
+@page :nth(3) { @bottom-left { content: "P1 S1 DIAG TEXTE"; } }
+@page :nth(4) { @bottom-left { content: "P1 S1 J1"; } }
+@page :nth(5) { @bottom-left { content: "P1 S1 J2"; } }
+@page :nth(6) { @bottom-left { content: "P1 S1 J3"; } }
+@page :nth(7) { @bottom-left { content: "P1 S1 J4"; } }
+@page :nth(8) { @bottom-left { content: "P1 S1 TEXTE"; } }
+@page :nth(9) { @bottom-left { content: "P1 S2 J1"; } }
+@page :nth(10) { @bottom-left { content: "P1 S2 J2"; } }
+@page :nth(11) { @bottom-left { content: "P1 S2 J3"; } }
+@page :nth(12) { @bottom-left { content: "P1 S2 J4"; } }
+@page :nth(13) { @bottom-left { content: "P1 S2 TEXTE"; } }
+@page :nth(14) { @bottom-left { content: "P1 S3 J1"; } }
+@page :nth(15) { @bottom-left { content: "P1 S3 J2"; } }
+@page :nth(16) { @bottom-left { content: "P1 S3 J3"; } }
+@page :nth(17) { @bottom-left { content: "P1 S3 J4"; } }
+@page :nth(18) { @bottom-left { content: "P1 S3 TEXTE"; } }
+@page :nth(19) { @bottom-left { content: "P1 S4 J1"; } }
+@page :nth(20) { @bottom-left { content: "P1 S4 J2"; } }
+@page :nth(21) { @bottom-left { content: "P1 S4 J3"; } }
+@page :nth(22) { @bottom-left { content: "P1 S4 J4"; } }
+@page :nth(23) { @bottom-left { content: "P1 S4 TEXTE"; } }
+@page :nth(24) { @bottom-left { content: "P1 S5 J1"; } }
+@page :nth(25) { @bottom-left { content: "P1 S5 J2"; } }
+@page :nth(26) { @bottom-left { content: "P1 S5 J3"; } }
+@page :nth(27) { @bottom-left { content: "P1 S5 J4"; } }
+@page :nth(28) { @bottom-left { content: "P1 S5 TEXTE"; } }
+@page :nth(29) { @bottom-left { content: "P1 S6 J1"; } }
+@page :nth(30) { @bottom-left { content: "P1 S6 J2"; } }
+@page :nth(31) { @bottom-left { content: "P1 S6 J3"; } }
+@page :nth(32) { @bottom-left { content: "P1 S6 J4"; } }
+@page :nth(33) { @bottom-left { content: "P1 S6 TEXTE"; } }
+@page :nth(34) { @bottom-left { content: "P1 S7 J1"; } }
+@page :nth(35) { @bottom-left { content: "P1 S7 J2"; } }
+@page :nth(36) { @bottom-left { content: "P1 S7 J3"; } }
+@page :nth(37) { @bottom-left { content: "P1 S7 J4"; } }
+@page :nth(38) { @bottom-left { content: "P1 S7 TEXTE"; } }
+@page :nth(39) { @bottom-left { content: "P1 S7 BILAN CODE"; } }
+@page :nth(40) { @bottom-left { content: "P1 S7 BILAN MOTS"; } }
+@page :nth(41) { @bottom-left { content: "P1 S7 BILAN TEXTE"; } }</style></head><body><h1>Diagnostic de rentrée</h1>
+<h2>Je lis des lettres et des groupes</h2>
+<p>Lis ce que montre ton enseignant.</p>
+<ul>
+<li>a</li>
+<li>i</li>
+<li>u</li>
+<li>m</li>
+<li>f</li>
+<li>l</li>
+<li>b</li>
+<li>d</li>
+<li>ou</li>
+<li>au</li>
+<li>eau</li>
+<li>un</li>
+<li>ui</li>
+<li>ch</li>
+<li>on</li>
+<li>in</li>
+</ul>
+<h2>Je lis des syllabes</h2>
+<ul>
+<li>ma</li>
+<li>fu</li>
+<li>bol</li>
+<li>mou</li>
+<li>plu</li>
+<li>tri</li>
+</ul>
+<h2>J’écris ce que je viens d’entendre</h2>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>Diagnostic de rentrée — mots</h1>
+<ul>
+<li>corail</li>
+<li>cheville</li>
+<li>coussin</li>
+<li>ruban</li>
+<li>bouton</li>
+<li>foin</li>
+<li>chaleur</li>
+<li>bijou</li>
+<li>guider</li>
+<li>peigne</li>
+<li>cerise</li>
+<li>équipe</li>
+<li>cousin</li>
+<li>tiroir</li>
+<li>rayon</li>
+<li>sachet</li>
+<li>téléphone</li>
+<li>crabe</li>
+<li>chien</li>
+<li>avion</li>
+<li>boxe</li>
+<li>exemple</li>
+<li>terre</li>
+<li>bébé</li>
+</ul>
+<h2>Je lis aussi des mots inventés</h2>
+<ul>
+<li>maveil</li>
+<li>toraille</li>
+<li>lampou</li>
+<li>vimpou</li>
+<li>dompon</li>
+<li>noinra</li>
+<li>peuron</li>
+<li>guipou</li>
+<li>gérou</li>
+<li>gnapon</li>
+<li>çanfi</li>
+<li>phodri</li>
+</ul>
+<h1>Le sac de Léo</h1>
+<p>Lis à voix haute.</p>
+<blockquote>
+<p>Léo arrive dans la cour avec un petit sac. Il pose le sac sur un banc, près de la porte. Dans le sac, il y a une balle rouge, une corde et un livre. Léo prend la balle et appelle son amie Lina. Lina arrive et regarde le sac. Elle pose sa veste à côté du livre.</p>
+<p>Les deux amis jouent avec la balle. Léo lance la balle et Lina la rattrape. Puis Lina la lance à son tour. La balle roule sous le banc. Léo se baisse et la ramasse. Il regarde sous le banc : la corde est aussi par terre. Il la remet dans le sac.</p>
+<p>Une petite pluie arrive. Les amis reprennent la balle, le livre et la veste. Ils vont dans la salle. Léo pose le sac près de la table. Lina ouvre le livre. Sur la page, un chat dort sur un tapis. Les amis regardent le chat, puis Lina lit la première phrase.</p>
+</blockquote>
+<h1>Lundi — eil · ail · euil</h1>
+<h2>Je retrouve</h2>
+<p>ai · ei · eu</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>soleil</li>
+<li>réveil</li>
+<li>travail</li>
+<li>rail</li>
+<li>fauteuil</li>
+<li>écureuil</li>
+<li>orteil</li>
+<li>portail</li>
+<li>bétail</li>
+<li>pareil</li>
+<li>conseil</li>
+<li>seuil</li>
+</ul>
+<p>Avec l’adulte : conseil · brille · un écureuil.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le soleil brille.</li>
+<li>La fille répare le fauteuil.</li>
+<li>Un écureuil file sur le rail.</li>
+</ol>
+<h1>Mardi — aill · eill · ouill · ill</h1>
+<h2>Je retrouve</h2>
+<p>soleil · travail · fauteuil</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>paille</li>
+<li>taille</li>
+<li>bataille</li>
+<li>abeille</li>
+<li>oreille</li>
+<li>bouteille</li>
+<li>fouille</li>
+<li>rouille</li>
+<li>grenouille</li>
+<li>fille</li>
+<li>bille</li>
+<li>quille</li>
+</ul>
+<p>Avec l’adulte : quille · feuille · ramasse.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La fille ramasse une bille.</li>
+<li>Une abeille vole sur la paille.</li>
+<li>La grenouille se cache sous une feuille.</li>
+</ol>
+<h1>Jeudi — i · y · ill · il</h1>
+<h2>Je retrouve</h2>
+<p>paille · abeille · soleil</p>
+<h2>Je lis les mots</h2>
+<p>Entoure les lettres du son qui glisse.</p>
+<ul>
+<li>pied</li>
+<li>piano</li>
+<li>papier</li>
+<li>rayon</li>
+<li>crayon</li>
+<li>yeux</li>
+<li>fille</li>
+<li>bille</li>
+<li>quille</li>
+<li>soleil</li>
+<li>réveil</li>
+<li>travail</li>
+</ul>
+<p>Avec l’adulte : yeux · papier · rayon · les yeux.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La fille pose le pied sur le tapis.</li>
+<li>Le rayon de soleil arrive sur le piano.</li>
+<li>Le chat ferme les yeux.</li>
+</ol>
+<h1>Vendredi — Les lettres muettes</h1>
+<h2>Je retrouve</h2>
+<p>soleil · fille · bille</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>petit</li>
+<li>grand</li>
+<li>chat</li>
+<li>rat</li>
+<li>tapis</li>
+<li>lit</li>
+<li>le petit chat</li>
+<li>le grand lit</li>
+<li>un petit rat</li>
+<li>le chat gris</li>
+<li>le tapis gris</li>
+<li>le chat est grand</li>
+</ul>
+<p>Avec l’adulte : grand · gris · est · dort.</p>
+<h2>J’écris</h2>
+<p>Cache les mots et écris le mot dicté.</p>
+<ol>
+<li>____________________________</li>
+</ol>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le petit chat va sur le lit.</li>
+<li>Le grand chat dort sur le tapis.</li>
+<li>Le chat gris est petit.</li>
+</ol>
+<h1>Le fauteuil de Lina</h1>
+<blockquote>
+<p>Lina est une petite fille. Elle arrive près du fauteuil. Une bille roule sous le fauteuil. Lina se penche et ramasse la bille.</p>
+<p>Sur le tapis, une feuille cache une autre bille. Lina regarde la feuille, puis le tapis. Elle trouve la bille.</p>
+<p>Le soleil arrive sur le fauteuil. Lina pose la feuille près de la fenêtre. Une abeille vole dehors. Lina reste dans la salle et regarde le soleil.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : est · près · se penche · autre · trouve · fenêtre · dehors · dans · salle.</p>
+<h2>Je raconte</h2>
+<p>Que ramasse Lina sous le fauteuil ?</p>
+<h1>Lundi — an · am · en · em</h1>
+<h2>Je retrouve</h2>
+<p>soleil · fille · travail</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>maman</li>
+<li>ruban</li>
+<li>enfant</li>
+<li>vent</li>
+<li>lampe</li>
+<li>chambre</li>
+<li>jambe</li>
+<li>tambour</li>
+<li>tempête</li>
+<li>ensemble</li>
+<li>pente</li>
+<li>dent</li>
+</ul>
+<p>Avec l’adulte : tempête · ensemble · un enfant.</p>
+<h2>J’écris</h2>
+<p>Cache les mots et écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Maman pose la lampe sur le lit.</li>
+<li>Le vent arrive.</li>
+<li>Un enfant passe dans la chambre.</li>
+</ol>
+<h1>Mardi — in · im · ain · ein</h1>
+<h2>Je retrouve</h2>
+<p>lampe · enfant · tempête</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>lapin</li>
+<li>sapin</li>
+<li>marin</li>
+<li>matin</li>
+<li>timbre</li>
+<li>simple</li>
+<li>pain</li>
+<li>bain</li>
+<li>main</li>
+<li>nain</li>
+<li>peinture</li>
+<li>plein</li>
+</ul>
+<p>Avec l’adulte : plein · près · est.</p>
+<h2>Je lis des mots inventés</h2>
+<p>Avec l’adulte : lintou · pimpa · dainfa · reinva</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le lapin passe près du sapin.</li>
+<li>Le marin a du pain.</li>
+<li>La peinture est sur la main de Nina.</li>
+</ol>
+<h1>Jeudi — on · om · oin</h1>
+<h2>Je retrouve</h2>
+<p>lapin · pain · peinture</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>ballon</li>
+<li>savon</li>
+<li>melon</li>
+<li>talon</li>
+<li>ombre</li>
+<li>tomber</li>
+<li>nombre</li>
+<li>pompe</li>
+<li>coin</li>
+<li>loin</li>
+<li>point</li>
+<li>foin</li>
+</ul>
+<p>Avec l’adulte : tomber · nombre · près.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le ballon roule dans un coin.</li>
+<li>Le lapin va loin.</li>
+<li>Le savon est près de la pompe.</li>
+</ol>
+<h1>Vendredi — Choisir n ou m</h1>
+<h2>Je retrouve</h2>
+<p>soleil · point · enfant</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>lampe</li>
+<li>chambre</li>
+<li>timbre</li>
+<li>tomber</li>
+<li>emmener</li>
+<li>maman</li>
+<li>enfant</li>
+<li>lapin</li>
+</ul>
+<p>Avec l’adulte : emmener.</p>
+<h2>Je complète avec n ou m</h2>
+<p>Écoute le mot. Écris la lettre qui manque.</p>
+<ul>
+<li>la…pe</li>
+<li>cha…bre</li>
+<li>ti…bre</li>
+<li>to…ber</li>
+<li>e…mener</li>
+<li>e…fant</li>
+<li>lapi…</li>
+<li>po…pe</li>
+</ul>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La lampe est dans la chambre.</li>
+<li>Maman va emmener le chat.</li>
+<li>Le timbre est sur la table.</li>
+</ol>
+<h1>La lampe de la chambre</h1>
+<blockquote>
+<p>Maman pose une lampe dans la chambre de Nina. Nina apporte un petit tapis. Le tapis est près du lit.</p>
+<p>Un lapin en tissu est sur le tapis. Nina pose le lapin dans un coin de la chambre. Puis elle met un ruban sur la lampe.</p>
+<p>Maman retire le ruban : la lampe doit rester libre. Nina pose le ruban sur le lapin. La chambre est prête. Nina regarde la lampe et le lapin.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : tissu · puis · met · doit · rester · libre · prête.</p>
+<h2>Je raconte</h2>
+<p>Où Nina pose-t-elle le ruban à la fin ?</p>
+<h1>Lundi — eu · œu · eur</h1>
+<h2>Je retrouve</h2>
+<p>lapin · enfant · ballon</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>feu</li>
+<li>jeu</li>
+<li>deux</li>
+<li>bleu</li>
+<li>peu</li>
+<li>peur</li>
+<li>fleur</li>
+<li>couleur</li>
+<li>cœur</li>
+<li>sœur</li>
+<li>neuf</li>
+<li>œuf</li>
+</ul>
+<p>Avec l’adulte : cœur · sœur · œuf · pousse.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La sœur de Léo a peur.</li>
+<li>Une fleur bleue pousse près du mur.</li>
+<li>Le cœur de Léo bat vite.</li>
+</ol>
+<h1>Mardi — j et g pour le son de jeudi</h1>
+<h2>Je retrouve</h2>
+<p>feu · peur · lapin</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>jeudi</li>
+<li>jupe</li>
+<li>joli</li>
+<li>joue</li>
+<li>jambe</li>
+<li>girafe</li>
+<li>genou</li>
+<li>gilet</li>
+<li>gel</li>
+<li>rouge</li>
+<li>page</li>
+<li>pigeon</li>
+</ul>
+<p>Avec l’adulte : gel · pigeon · longue · se pose.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La girafe a une longue jambe.</li>
+<li>Jeudi, Julie porte une jupe rouge.</li>
+<li>Le pigeon se pose près du mur.</li>
+</ol>
+<h1>Jeudi — g · gu · ge</h1>
+<h2>Je retrouve</h2>
+<p>jeudi · rouge · couleur</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>gare</li>
+<li>gomme</li>
+<li>gourde</li>
+<li>figure</li>
+<li>girafe</li>
+<li>genou</li>
+<li>guitare</li>
+<li>bague</li>
+<li>guêpe</li>
+<li>pigeon</li>
+<li>nous mangeons</li>
+<li>nous nageons</li>
+</ul>
+<p>Avec l’adulte : guêpe · nous mangeons · nous nageons.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La guêpe vole près de la gare.</li>
+<li>Nous mangeons une figue.</li>
+<li>La guitare est dans la chambre.</li>
+</ol>
+<h1>Vendredi — gn et les lectures de g</h1>
+<h2>Je retrouve</h2>
+<p>guitare · pigeon · girafe</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>ligne</li>
+<li>signe</li>
+<li>vigne</li>
+<li>gagne</li>
+<li>montagne</li>
+<li>champignon</li>
+<li>chignon</li>
+<li>baignoire</li>
+<li>guitare</li>
+<li>bague</li>
+<li>girafe</li>
+<li>pigeon</li>
+</ul>
+<p>Avec l’adulte : baignoire · au · pousse.</p>
+<h2>J’écris</h2>
+<p>Cache les mots et écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La vigne pousse au pied de la montagne.</li>
+<li>Le champignon est près du chemin.</li>
+<li>Lina gagne une petite guitare.</li>
+</ol>
+<h1>La guitare rouge</h1>
+<blockquote>
+<p>Jeudi, Julie apporte une guitare rouge. Léo pose la guitare sur un tapis, près de la table. Julie regarde les cordes.</p>
+<p>Une corde a glissé. Léo aide Julie à la remettre en place. Julie joue une note, puis une autre. La guitare sonne !</p>
+<p>La sœur de Julie arrive. Elle regarde la guitare rouge et écoute. Julie joue encore. Léo a le cœur joyeux. Une petite note suffit pour commencer la fête.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : cordes · glissé · remettre · place · sonne · joyeux · suffit · commencer.</p>
+<p>Je garde ensemble « une guitare rouge ». Je fais entendre la surprise au point d’exclamation.</p>
+<h2>Je raconte</h2>
+<p>De quelle couleur est la guitare ?</p>
+<h1>Lundi — Les deux lectures de c</h1>
+<h2>Je retrouve</h2>
+<p>guitare · bague · girafe</p>
+<h2>Je lis les mots</h2>
+<p>Dis si c se lit comme dans café ou citron.</p>
+<ul>
+<li>café</li>
+<li>cube</li>
+<li>camion</li>
+<li>carte</li>
+<li>colle</li>
+<li>école</li>
+<li>cerise</li>
+<li>cinéma</li>
+<li>citron</li>
+<li>cité</li>
+<li>pouce</li>
+<li>place</li>
+</ul>
+<p>Avec l’adulte : camion · cerise · place.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le camion arrive près de la gare.</li>
+<li>La cerise est rouge.</li>
+<li>Le cube est à sa place.</li>
+</ol>
+<h1>Mardi — qu · k · ch · ç</h1>
+<h2>Je retrouve</h2>
+<p>chat · cube · citron</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>quatre</li>
+<li>quarante</li>
+<li>équipe</li>
+<li>quille</li>
+<li>kilo</li>
+<li>kimono</li>
+<li>képi</li>
+<li>chorale</li>
+<li>garçon</li>
+<li>leçon</li>
+<li>façade</li>
+<li>reçu</li>
+</ul>
+<p>Avec l’adulte : chorale · képi · façade · salle.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le garçon porte un kimono.</li>
+<li>La chorale arrive dans la salle.</li>
+<li>La fille a reçu une quille.</li>
+</ol>
+<h1>Jeudi — s · ss</h1>
+<h2>Je retrouve</h2>
+<p>garçon · citron · girafe</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>salade</li>
+<li>soupe</li>
+<li>sac</li>
+<li>soleil</li>
+<li>maison</li>
+<li>poison</li>
+<li>rose</li>
+<li>valise</li>
+<li>poisson</li>
+<li>dessin</li>
+<li>tasse</li>
+<li>mousse</li>
+</ul>
+<p>Avec l’adulte : poisson · poison · est.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La valise rose est dans la maison.</li>
+<li>Le poisson passe sous la mousse.</li>
+<li>La salade est dans la tasse.</li>
+</ol>
+<h1>Vendredi — Lire ils et elles avec un verbe</h1>
+<h2>Je retrouve</h2>
+<p>chat · enfant · rouge</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>ils jouent</li>
+<li>elles chantent</li>
+<li>ils passent</li>
+<li>elles rangent</li>
+<li>ils mangent</li>
+<li>elles regardent</li>
+<li>ils dansent</li>
+<li>elles marchent</li>
+<li>le vent</li>
+<li>une dent</li>
+<li>un enfant</li>
+<li>le vent souffle</li>
+</ul>
+<p>Avec l’adulte : les filles · les chats · souffle.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les filles chantent.</li>
+<li>Les chats passent dans la chambre.</li>
+<li>Elles rangent la guitare.</li>
+</ol>
+<h1>La chorale</h1>
+<blockquote>
+<p>La chorale arrive dans la salle. Les filles et les garçons se placent près de la porte. Lina regarde le garçon à la guitare.</p>
+<p>Les enfants chantent. Ils regardent Lina. Elle montre une carte avec un soleil. Ils chantent une chanson sur le soleil. Puis elle montre une carte avec un chat.</p>
+<p>Les enfants chantent une autre chanson. Ils sourient. La guitare donne la dernière note. La chorale salue, puis les enfants sortent de la salle.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : se placent · les enfants · sourient · dernière · sortent.</p>
+<p>Je lis les groupes « les enfants chantent » et « ils regardent Lina » sans faire entendre ent.</p>
+<h2>Je raconte</h2>
+<p>Quels dessins Lina montre-t-elle sur les cartes ?</p>
+<h1>Lundi — oi</h1>
+<h2>Je retrouve</h2>
+<p>garçon · girafe · maison</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>boire</li>
+<li>poire</li>
+<li>noir</li>
+<li>soir</li>
+<li>voiture</li>
+<li>toit</li>
+<li>oiseau</li>
+<li>poisson</li>
+<li>étoile</li>
+<li>histoire</li>
+<li>voisin</li>
+<li>bois</li>
+</ul>
+<p>Avec l’adulte : oiseau · histoire · un oiseau.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le poisson noir nage.</li>
+<li>Le voisin lave la voiture.</li>
+<li>Un oiseau se pose sur le toit.</li>
+</ol>
+<h1>Mardi — Les lectures de y</h1>
+<h2>Je retrouve</h2>
+<p>poire · voiture · soleil</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>pyjama</li>
+<li>stylo</li>
+<li>pyramide</li>
+<li>gymnase</li>
+<li>rayon</li>
+<li>crayon</li>
+<li>voyage</li>
+<li>noyau</li>
+<li>tuyau</li>
+<li>joyeux</li>
+<li>yeux</li>
+<li>pays</li>
+</ul>
+<p>Avec l’adulte : gymnase · tuyau · yeux · pays.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le crayon est près du stylo.</li>
+<li>Un rayon de soleil arrive sur le tuyau.</li>
+<li>Le garçon porte un pyjama bleu.</li>
+</ol>
+<h1>Jeudi — ien · oin · ion</h1>
+<h2>Je retrouve</h2>
+<p>lapin · poire · voyage</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>chien</li>
+<li>bien</li>
+<li>rien</li>
+<li>musicien</li>
+<li>coin</li>
+<li>loin</li>
+<li>point</li>
+<li>foin</li>
+<li>avion</li>
+<li>camion</li>
+<li>champion</li>
+<li>pion</li>
+</ul>
+<p>Avec l’adulte : musicien · ciel · un avion.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le chien va bien.</li>
+<li>Le champion lance le pion loin du camion.</li>
+<li>Un avion passe dans le ciel.</li>
+</ol>
+<h1>Vendredi — Finales muettes et liaisons</h1>
+<h2>Je retrouve</h2>
+<p>ils jouent · elles chantent · feu</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>les chats</li>
+<li>les jeux</li>
+<li>les livres</li>
+<li>des ballons</li>
+<li>les amis</li>
+<li>des oiseaux</li>
+<li>les enfants</li>
+<li>des avions</li>
+<li>les petits chats</li>
+<li>les jeux de Léa</li>
+<li>les amis de Léo</li>
+<li>des oiseaux jaunes</li>
+</ul>
+<p>Avec l’adulte : des oiseaux · des avions · arrivent.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les amis jouent.</li>
+<li>Des oiseaux arrivent.</li>
+<li>Les enfants chantent.</li>
+</ol>
+<h1>Le voyage du pion</h1>
+<blockquote>
+<p>Léo pose un pion sur la table. Il trace une route sur une grande feuille. La route passe près de la maison, puis elle arrive au bord du bois.</p>
+<p>Lina fait avancer le pion. Le pion est un champion : il va loin ! Un oiseau est sur le toit de la maison. Le chien reste dans un coin.</p>
+<p>Les amis regardent la route. Le voyage du pion se termine près du bois. Léo et Lina rangent le jeu.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : fait · avancer · bord · se termine.</p>
+<p>Je relie « les amis » avec le son /z/. Je garde ensemble « un oiseau » avec le son /n/.</p>
+<h2>Je raconte</h2>
+<p>Où le voyage du pion se termine-t-il ?</p>
+<h1>Lundi — Les finales er · ez · et</h1>
+<h2>Je retrouve</h2>
+<p>voyage · crayon · poire</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>marcher</li>
+<li>chanter</li>
+<li>jouer</li>
+<li>laver</li>
+<li>nez</li>
+<li>assez</li>
+<li>vous parlez</li>
+<li>vous jouez</li>
+<li>bonnet</li>
+<li>robinet</li>
+<li>gilet</li>
+<li>objet</li>
+</ul>
+<p>Avec l’adulte : assez · objet · vous parlez.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Vous parlez près du robinet.</li>
+<li>Le garçon va jouer.</li>
+<li>Le bonnet est sur le lit.</li>
+</ol>
+<h1>Mardi — é · è · ê · ai</h1>
+<h2>Je retrouve</h2>
+<p>marcher · nez · bonnet</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>été</li>
+<li>école</li>
+<li>bébé</li>
+<li>vélo</li>
+<li>père</li>
+<li>mère</li>
+<li>tête</li>
+<li>fête</li>
+<li>balai</li>
+<li>lait</li>
+<li>chaise</li>
+<li>aile</li>
+</ul>
+<p>Avec l’adulte : aile · chaise · fenêtre.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le bébé regarde le vélo.</li>
+<li>Le père de Léa pose le balai.</li>
+<li>Une chaise est près de la fenêtre.</li>
+</ol>
+<h1>Jeudi — x · ph</h1>
+<h2>Je retrouve</h2>
+<p>citron · girafe · poison</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>taxi</li>
+<li>boxe</li>
+<li>texte</li>
+<li>examen</li>
+<li>exact</li>
+<li>exemple</li>
+<li>six</li>
+<li>dix</li>
+<li>photo</li>
+<li>phare</li>
+<li>téléphone</li>
+<li>phoque</li>
+</ul>
+<p>Avec l’adulte : examen · exact · six · dix.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le taxi arrive près du phare.</li>
+<li>Lina regarde une photo de phoque.</li>
+<li>Le téléphone est sur la table.</li>
+</ol>
+<h1>Vendredi — e devant des consonnes</h1>
+<h2>Je retrouve</h2>
+<p>marcher · nez · bonnet · taxi</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>bec</li>
+<li>mer</li>
+<li>sel</li>
+<li>fer</li>
+<li>veste</li>
+<li>perle</li>
+<li>herbe</li>
+<li>personne</li>
+<li>lettre</li>
+<li>terre</li>
+<li>belle</li>
+<li>lunettes</li>
+</ul>
+<p>Avec l’adulte : personne · herbe · lunettes.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La lettre est sous la veste.</li>
+<li>Une perle roule dans la terre.</li>
+<li>La personne porte des lunettes.</li>
+</ol>
+<h1>La photo de la fête</h1>
+<blockquote>
+<p>Lina pose une photo sur la table. Sur la photo, son père porte un bonnet. Sa mère est près du vélo. Le bébé regarde une fleur.</p>
+<p>Lina cherche une place pour la photo. Elle retire une lettre et une petite boîte. Elle pose la photo près du téléphone.</p>
+<p>Son père arrive. Il regarde la photo de la fête et sourit. Lina lui montre le bonnet. Le père rit : ce bonnet est trop petit pour lui !</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : boîte · sourit · lui · trop.</p>
+<h2>Je raconte</h2>
+<p>Près de quel objet Lina pose-t-elle la photo ?</p>
+<h1>Lundi — pl · fl · bl · cl · gl</h1>
+<h2>Je retrouve</h2>
+<p>veste · lettre · citron</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>pluie</li>
+<li>plume</li>
+<li>place</li>
+<li>flèche</li>
+<li>flûte</li>
+<li>fleur</li>
+<li>blanc</li>
+<li>blouse</li>
+<li>bleu</li>
+<li>classe</li>
+<li>clou</li>
+<li>glace</li>
+</ul>
+<p>Avec l’adulte : pluie · flûte · blanc.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La pluie tombe sur la classe.</li>
+<li>La fleur bleue est près du mur.</li>
+<li>Lina pose sa flûte sur la table.</li>
+</ol>
+<h1>Mardi — br · pr · cr · gr · fr · tr · dr</h1>
+<h2>Je retrouve</h2>
+<p>plume · classe · glace · taxi</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>bras</li>
+<li>brosse</li>
+<li>prix</li>
+<li>prune</li>
+<li>crabe</li>
+<li>crayon</li>
+<li>gris</li>
+<li>grotte</li>
+<li>froid</li>
+<li>frite</li>
+<li>train</li>
+<li>droite</li>
+</ul>
+<p>Avec l’adulte : prix · froid · droite.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le crabe gris se cache.</li>
+<li>Le train passe près de la grotte.</li>
+<li>La brosse est à droite du livre.</li>
+</ol>
+<h1>Jeudi — Je lis des mots inventés</h1>
+<h2>Je retrouve</h2>
+<p>chambre · garçon · girafe · rayon</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>guimpon</li>
+<li>cérain</li>
+<li>phourel</li>
+<li>draillon</li>
+<li>goufeuil</li>
+<li>çampou</li>
+<li>vaison</li>
+<li>ploinfa</li>
+<li>gnarou</li>
+<li>tuyomi</li>
+<li>freillon</li>
+<li>choumi</li>
+</ul>
+<p>Avec l’adulte : tuyomi.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le garçon regarde le crayon.</li>
+<li>La grenouille se cache près du fauteuil.</li>
+<li>Les amis jouent de la guitare.</li>
+</ol>
+<h1>Vendredi — Je relis ce que je connais</h1>
+<h2>Je retrouve</h2>
+<p>soleil · lampe · guitare</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>feuille</li>
+<li>champignon</li>
+<li>garçon</li>
+<li>voyage</li>
+<li>personne</li>
+<li>poisson</li>
+<li>fauteuil</li>
+<li>chambre</li>
+<li>crayon</li>
+<li>lettre</li>
+<li>photo</li>
+<li>train</li>
+</ul>
+<p>Avec l’adulte : personne · fauteuil · champignon.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les amis jouent près de la maison.</li>
+<li>La fille pose une photo sur le fauteuil.</li>
+<li>Le garçon regarde le train.</li>
+</ol>
+<h1>Le crabe près de la grotte</h1>
+<blockquote>
+<p>Lina marche sur le sable avec son frère. Près de la grotte, un crabe gris se cache sous une pierre. Le frère de Lina montre la pierre du doigt.</p>
+<p>Lina reste sur place. Le crabe sort une patte, puis une autre. Il passe devant la pierre et file vers la mer.</p>
+<p>Les enfants regardent le crabe sans le suivre. Une vague arrive sur le sable. Le crabe est déjà loin. Lina et son frère reprennent leur promenade.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : pierre · doigt · sans · déjà · reprennent · promenade.</p>
+<p>Je lis sans ajouter de voyelle dans frère, crabe, gris et grotte.</p>
+<h2>Je raconte</h2>
+<p>Vers quel endroit le crabe file-t-il ?</p>
+<h1>Bilan de fin de P1</h1>
+<h2>Je lis des lettres et des groupes</h2>
+<p>Lis ce que montre ton enseignant.</p>
+<ul>
+<li>a</li>
+<li>i</li>
+<li>u</li>
+<li>m</li>
+<li>f</li>
+<li>l</li>
+<li>b</li>
+<li>d</li>
+<li>ou</li>
+<li>au</li>
+<li>eau</li>
+<li>un</li>
+<li>ui</li>
+<li>ch</li>
+<li>on</li>
+<li>in</li>
+</ul>
+<h2>Je lis des syllabes</h2>
+<ul>
+<li>la</li>
+<li>vu</li>
+<li>sol</li>
+<li>lou</li>
+<li>flu</li>
+<li>pri</li>
+</ul>
+<h2>J’écris ce que je viens d’entendre</h2>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>Bilan de fin de P1 — mots</h1>
+<ul>
+<li>détail</li>
+<li>chenille</li>
+<li>poussin</li>
+<li>roman</li>
+<li>mouton</li>
+<li>soin</li>
+<li>moteur</li>
+<li>cajou</li>
+<li>guidon</li>
+<li>agneau</li>
+<li>cigale</li>
+<li>liquide</li>
+<li>raisin</li>
+<li>miroir</li>
+<li>noyade</li>
+<li>paquet</li>
+<li>pharmacie</li>
+<li>brique</li>
+<li>lien</li>
+<li>lion</li>
+<li>fixe</li>
+<li>exister</li>
+<li>serre</li>
+<li>épée</li>
+</ul>
+<h2>Je lis aussi des mots inventés</h2>
+<ul>
+<li>naveil</li>
+<li>poraille</li>
+<li>rampou</li>
+<li>zimpou</li>
+<li>fompon</li>
+<li>loinpa</li>
+<li>teuron</li>
+<li>guifou</li>
+<li>gépu</li>
+<li>gnaton</li>
+<li>çanvu</li>
+<li>photri</li>
+</ul>
+<h1>Le panier de Nina</h1>
+<p>Lis à voix haute.</p>
+<blockquote>
+<p>Nina arrive dans le jardin avec un petit panier. Elle pose le panier sur une table, près de la porte. Dans le panier, il y a une pomme rouge, une tasse et un livre. Nina prend la pomme et appelle son ami Sami. Sami arrive et regarde le panier. Il pose sa veste à côté du livre.</p>
+<p>Les deux amis regardent la pomme. Nina lave la pomme et Sami la sèche. Puis Sami pose la tasse sur la table. La pomme roule sous la table. Nina se baisse et la ramasse. Elle regarde sous la table : le livre est aussi par terre. Elle le remet dans le panier.</p>
+<p>Un petit vent arrive. Les amis reprennent la pomme, le livre et la veste. Ils vont dans la maison. Nina pose le panier près du canapé. Sami ouvre le livre. Sur la page, un chien joue avec une balle. Les amis regardent le chien, puis Sami lit la première phrase.</p>
+</blockquote>
+</body></html>

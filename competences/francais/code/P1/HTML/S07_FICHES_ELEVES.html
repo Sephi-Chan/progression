@@ -1,0 +1,161 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S07 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "P1 S7 J1"; } }
+@page :nth(2) { @bottom-left { content: "P1 S7 J2"; } }
+@page :nth(3) { @bottom-left { content: "P1 S7 J3"; } }
+@page :nth(4) { @bottom-left { content: "P1 S7 J4"; } }
+@page :nth(5) { @bottom-left { content: "P1 S7 TEXTE"; } }</style></head><body><h1>Lundi — pl · fl · bl · cl · gl</h1>
+<h2>Je retrouve</h2>
+<p>veste · lettre · citron</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>pluie</li>
+<li>plume</li>
+<li>place</li>
+<li>flèche</li>
+<li>flûte</li>
+<li>fleur</li>
+<li>blanc</li>
+<li>blouse</li>
+<li>bleu</li>
+<li>classe</li>
+<li>clou</li>
+<li>glace</li>
+</ul>
+<p>Avec l’adulte : pluie · flûte · blanc.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La pluie tombe sur la classe.</li>
+<li>La fleur bleue est près du mur.</li>
+<li>Lina pose sa flûte sur la table.</li>
+</ol>
+<h1>Mardi — br · pr · cr · gr · fr · tr · dr</h1>
+<h2>Je retrouve</h2>
+<p>plume · classe · glace · taxi</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>bras</li>
+<li>brosse</li>
+<li>prix</li>
+<li>prune</li>
+<li>crabe</li>
+<li>crayon</li>
+<li>gris</li>
+<li>grotte</li>
+<li>froid</li>
+<li>frite</li>
+<li>train</li>
+<li>droite</li>
+</ul>
+<p>Avec l’adulte : prix · froid · droite.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le crabe gris se cache.</li>
+<li>Le train passe près de la grotte.</li>
+<li>La brosse est à droite du livre.</li>
+</ol>
+<h1>Jeudi — Je lis des mots inventés</h1>
+<h2>Je retrouve</h2>
+<p>chambre · garçon · girafe · rayon</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>guimpon</li>
+<li>cérain</li>
+<li>phourel</li>
+<li>draillon</li>
+<li>goufeuil</li>
+<li>çampou</li>
+<li>vaison</li>
+<li>ploinfa</li>
+<li>gnarou</li>
+<li>tuyomi</li>
+<li>freillon</li>
+<li>choumi</li>
+</ul>
+<p>Avec l’adulte : tuyomi.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le garçon regarde le crayon.</li>
+<li>La grenouille se cache près du fauteuil.</li>
+<li>Les amis jouent de la guitare.</li>
+</ol>
+<h1>Vendredi — Je relis ce que je connais</h1>
+<h2>Je retrouve</h2>
+<p>soleil · lampe · guitare</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>feuille</li>
+<li>champignon</li>
+<li>garçon</li>
+<li>voyage</li>
+<li>personne</li>
+<li>poisson</li>
+<li>fauteuil</li>
+<li>chambre</li>
+<li>crayon</li>
+<li>lettre</li>
+<li>photo</li>
+<li>train</li>
+</ul>
+<p>Avec l’adulte : personne · fauteuil · champignon.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les amis jouent près de la maison.</li>
+<li>La fille pose une photo sur le fauteuil.</li>
+<li>Le garçon regarde le train.</li>
+</ol>
+<h1>Le crabe près de la grotte</h1>
+<blockquote>
+<p>Lina marche sur le sable avec son frère. Près de la grotte, un crabe gris se cache sous une pierre. Le frère de Lina montre la pierre du doigt.</p>
+<p>Lina reste sur place. Le crabe sort une patte, puis une autre. Il passe devant la pierre et file vers la mer.</p>
+<p>Les enfants regardent le crabe sans le suivre. Une vague arrive sur le sable. Le crabe est déjà loin. Lina et son frère reprennent leur promenade.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : pierre · doigt · sans · déjà · reprennent · promenade.</p>
+<p>Je lis sans ajouter de voyelle dans frère, crabe, gris et grotte.</p>
+<h2>Je raconte</h2>
+<p>Vers quel endroit le crabe file-t-il ?</p>
+</body></html>
