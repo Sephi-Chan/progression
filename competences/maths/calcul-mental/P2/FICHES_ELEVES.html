@@ -1,0 +1,601 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8">
+<title>FICHES_ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+ul > li:nth-last-child(-n+3) { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+</style></head>
+<body><h1>41. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>32 + … = 40</li>
+<li>7 + 7 = …</li>
+<li>8 + 8 = …</li>
+<li>10 + 10 = …</li>
+<li>2 + … = 5</li>
+<li>89 + 3 = …</li>
+<li>75 - 4 = …</li>
+<li>3 + 6 = …</li>
+<li>9 + 9 = …</li>
+<li>10 + … = 10</li>
+</ol>
+<h1>42. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>5 + 5 = …</li>
+<li>6 + 6 = …</li>
+<li>76 + 6 = …</li>
+<li>4 + 4 = …</li>
+<li>7 + … = 10</li>
+<li>2 + 2 = …</li>
+<li>7 + 6 = …</li>
+<li>1 + 1 = …</li>
+<li>89 + … = 90</li>
+<li>3 + 3 = …</li>
+</ol>
+<h1>43. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>8 + 8 = …</li>
+<li>43 + 8 = …</li>
+<li>69 + … = 70</li>
+<li>3 + … = 9</li>
+<li>34 + 5 = …</li>
+<li>9 + 9 = …</li>
+<li>7 + 7 = …</li>
+<li>30 - 20 = …</li>
+<li>10 + 10 = …</li>
+<li>2 + 7 = …</li>
+</ol>
+<h1>44. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>29 + … = 30</li>
+<li>25 + 7 = …</li>
+<li>6 + … = 10</li>
+<li>6 + 6 = …</li>
+<li>88 - 6 = …</li>
+<li>8 + … = 9</li>
+<li>65 + 20 = …</li>
+<li>2 + 2 = …</li>
+<li>4 + 4 = …</li>
+<li>3 + 3 = …</li>
+</ol>
+<h1>45. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>9 + 9 = …</li>
+<li>1 + 1 = …</li>
+<li>26 + … = 30</li>
+<li>41 + 10 = …</li>
+<li>5 + 4 = …</li>
+<li>68 + 6 = …</li>
+<li>1 + … = 10</li>
+<li>2 + … = 10</li>
+<li>8 + 8 = …</li>
+<li>5 + 5 = …</li>
+</ol>
+<h1>46. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>3 + 3 = …</li>
+<li>4 + 4 = …</li>
+<li>2 + 7 = …</li>
+<li>55 - 3 = …</li>
+<li>61 + … = 70</li>
+<li>67 - 10 = …</li>
+<li>24 + … = 30</li>
+<li>54 + 7 = …</li>
+<li>5 + … = 10</li>
+<li>8 + … = 10</li>
+</ol>
+<h1>47. Retirer à une dizaine entière</h1>
+<h2>À retenir</h2>
+<p>Pour retirer à une dizaine entière, j’échange une dizaine contre 10 unités.
+Je retire les unités et je garde les dizaines restantes.</p>
+<h2>Je m’entraîne</h2>
+<p>Complète.</p>
+<ol>
+<li>20 - 3 = …</li>
+<li>30 - 4 = …</li>
+<li>40 - 6 = …</li>
+<li>50 - 8 = …</li>
+<li>60 - 5 = …</li>
+</ol>
+<h1>48. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>2 + 2 = …</li>
+<li>8 + 5 = …</li>
+<li>29 + 10 = …</li>
+<li>27 + 8 = …</li>
+<li>40 - 8 = …</li>
+<li>9 + … = 10</li>
+<li>85 - 3 = …</li>
+<li>40 - 2 = …</li>
+<li>20 - 6 = …</li>
+<li>30 - 7 = …</li>
+</ol>
+<h1>49. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>40 - 3 = …</li>
+<li>88 + 8 = …</li>
+<li>20 - 9 = …</li>
+<li>86 - 5 = …</li>
+<li>50 - 8 = …</li>
+<li>30 - 4 = …</li>
+<li>3 + 5 = …</li>
+<li>30 - 1 = …</li>
+<li>30 - 3 = …</li>
+<li>4 + 4 = …</li>
+</ol>
+<h1>50. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>50 - 4 = …</li>
+<li>50 - 2 = …</li>
+<li>3 + 3 = …</li>
+<li>84 + … = 90</li>
+<li>83 + 4 = …</li>
+<li>50 - 5 = …</li>
+<li>88 + 7 = …</li>
+<li>5 + … = 9</li>
+<li>77 + 10 = …</li>
+<li>40 - 6 = …</li>
+</ol>
+<h1>51. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>50 - 6 = …</li>
+<li>56 - 10 = …</li>
+<li>5 + … = 10</li>
+<li>10 + 10 = …</li>
+<li>58 + 4 = …</li>
+<li>70 - 9 = …</li>
+<li>80 - 4 = …</li>
+<li>22 + … = 30</li>
+<li>40 - 5 = …</li>
+<li>4 + … = 10</li>
+</ol>
+<h1>52. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>10 + … = 10</li>
+<li>9 + 9 = …</li>
+<li>47 + 6 = …</li>
+<li>50 - 1 = …</li>
+<li>50 - 8 = …</li>
+<li>4 + … = 7</li>
+<li>20 - 9 = …</li>
+<li>6 + 9 = …</li>
+<li>90 - 5 = …</li>
+<li>31 + … = 40</li>
+</ol>
+<h1>53. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>87 + 6 = …</li>
+<li>8 + … = 10</li>
+<li>8 + 8 = …</li>
+<li>40 - 2 = …</li>
+<li>40 - 7 = …</li>
+<li>67 - 3 = …</li>
+<li>9 + 5 = …</li>
+<li>63 + … = 70</li>
+<li>2 + … = 10</li>
+<li>56 + 10 = …</li>
+</ol>
+<h1>54. Additionner deux nombres</h1>
+<h2>À retenir</h2>
+<p>Je décompose les deux nombres en dizaines et en unités.
+J’ajoute les dizaines, puis les unités. Je réunis les résultats.</p>
+<h2>Je m’entraîne</h2>
+<p>Complète.</p>
+<ol>
+<li>21 + 13 = …</li>
+<li>32 + 24 = …</li>
+<li>43 + 15 = …</li>
+<li>26 + 17 = …</li>
+<li>35 + 28 = …</li>
+</ol>
+<h1>55. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>90 - 5 = …</li>
+<li>35 + 24 = …</li>
+<li>51 + 16 = …</li>
+<li>36 + 22 = …</li>
+<li>3 + … = 10</li>
+<li>2 + … = 6</li>
+<li>4 + 4 = …</li>
+<li>54 + 12 = …</li>
+<li>52 + 37 = …</li>
+<li>51 + 23 = …</li>
+</ol>
+<h1>56. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>8 + … = 10</li>
+<li>28 + 31 = …</li>
+<li>23 + 6 = …</li>
+<li>33 + 10 = …</li>
+<li>51 + 14 = …</li>
+<li>4 + 4 = …</li>
+<li>40 - 4 = …</li>
+<li>6 + 6 = …</li>
+<li>42 + 25 = …</li>
+<li>21 + 16 = …</li>
+</ol>
+<h1>57. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>33 + 2 = …</li>
+<li>63 + 22 = …</li>
+<li>53 + 45 = …</li>
+<li>9 + 5 = …</li>
+<li>34 + … = 40</li>
+<li>40 - 9 = …</li>
+<li>2 + 2 = …</li>
+<li>36 + 23 = …</li>
+<li>62 + 10 = …</li>
+<li>55 + 31 = …</li>
+</ol>
+<h1>58. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>62 + 28 = …</li>
+<li>49 + 12 = …</li>
+<li>24 + 27 = …</li>
+<li>8 + 8 = …</li>
+<li>50 - 3 = …</li>
+<li>77 + 6 = …</li>
+<li>82 - 2 = …</li>
+<li>36 + 37 = …</li>
+<li>82 + … = 90</li>
+<li>66 - 20 = …</li>
+</ol>
+<h1>59. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>60 - 1 = …</li>
+<li>57 + 8 = …</li>
+<li>48 + 18 = …</li>
+<li>2 + … = 9</li>
+<li>39 + 29 = …</li>
+<li>10 + 10 = …</li>
+<li>58 + … = 60</li>
+<li>37 + 34 = …</li>
+<li>44 - 20 = …</li>
+<li>27 + 44 = …</li>
+</ol>
+<h1>60. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>90 - 2 = …</li>
+<li>48 + 39 = …</li>
+<li>37 + 17 = …</li>
+<li>25 + … = 30</li>
+<li>84 + 7 = …</li>
+<li>6 + … = 9</li>
+<li>29 + 22 = …</li>
+<li>2 + 2 = …</li>
+<li>10 + … = 10</li>
+<li>35 + 26 = …</li>
+</ol>
+<h1>61. Passer par la dizaine pour retirer</h1>
+<h2>À retenir</h2>
+<p>Je retire d’abord les unités pour arriver à la dizaine.
+Puis je retire ce qui reste. Je vérifie que j’ai tout retiré.</p>
+<h2>Je m’entraîne</h2>
+<p>Complète.</p>
+<ol>
+<li>22 - 5 = …</li>
+<li>33 - 7 = …</li>
+<li>41 - 6 = …</li>
+<li>54 - 8 = …</li>
+<li>62 - 7 = …</li>
+</ol>
+<h1>62. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>35 - 6 = …</li>
+<li>41 - 4 = …</li>
+<li>42 - 3 = …</li>
+<li>24 - 8 = …</li>
+<li>56 - 7 = …</li>
+<li>30 - 3 = …</li>
+<li>75 + 7 = …</li>
+<li>55 - 6 = …</li>
+<li>84 + … = 90</li>
+<li>54 + 17 = …</li>
+</ol>
+<h1>63. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>35 - 7 = …</li>
+<li>58 + 4 = …</li>
+<li>7 + 7 = …</li>
+<li>31 - 5 = …</li>
+<li>51 - 4 = …</li>
+<li>60 - 2 = …</li>
+<li>32 - 5 = …</li>
+<li>31 - 2 = …</li>
+<li>49 + 21 = …</li>
+<li>53 - 8 = …</li>
+</ol>
+<h1>64. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>54 - 5 = …</li>
+<li>50 - 2 = …</li>
+<li>3 + … = 10</li>
+<li>2 + 2 = …</li>
+<li>24 - 6 = …</li>
+<li>3 + 5 = …</li>
+<li>41 - 8 = …</li>
+<li>38 + 29 = …</li>
+<li>4 + … = 10</li>
+<li>21 - 4 = …</li>
+</ol>
+<h1>65. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>5 + 4 = …</li>
+<li>2 + … = 10</li>
+<li>29 - 3 = …</li>
+<li>60 - 1 = …</li>
+<li>45 + 26 = …</li>
+<li>22 - 7 = …</li>
+<li>75 - 8 = …</li>
+<li>3 + … = 5</li>
+<li>41 - 5 = …</li>
+<li>31 - 7 = …</li>
+</ol>
+<h1>66. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>26 - 8 = …</li>
+<li>39 + 14 = …</li>
+<li>47 - 30 = …</li>
+<li>41 + 6 = …</li>
+<li>65 - 6 = …</li>
+<li>70 - 7 = …</li>
+<li>36 - 8 = …</li>
+<li>42 - 7 = …</li>
+<li>4 + 3 = …</li>
+<li>7 + … = 10</li>
+</ol>
+<h1>67. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>81 - 8 = …</li>
+<li>5 + 5 = …</li>
+<li>51 - 7 = …</li>
+<li>29 + 17 = …</li>
+<li>57 - 3 = …</li>
+<li>78 + 8 = …</li>
+<li>54 - 20 = …</li>
+<li>53 + … = 60</li>
+<li>6 + 2 = …</li>
+<li>70 - 3 = …</li>
+</ol>
+<h1>68. Trouver une moitié</h1>
+<h2>À retenir</h2>
+<p>La moitié, c’est une des deux parts égales.
+Je cherche le nombre qui, ajouté à lui-même, redonne le tout.</p>
+<h2>Je m’entraîne</h2>
+<p>Complète.</p>
+<ol>
+<li>Moitié de 4 = …</li>
+<li>Moitié de 8 = …</li>
+<li>Moitié de 12 = …</li>
+<li>Moitié de 16 = …</li>
+<li>Moitié de 20 = …</li>
+</ol>
+<h1>69. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>83 + 2 = …</li>
+<li>36 + 30 = …</li>
+<li>47 + 36 = …</li>
+<li>Moitié de 14 = …</li>
+<li>4 + 5 = …</li>
+<li>9 + … = 10</li>
+<li>41 - 2 = …</li>
+<li>Moitié de 6 = …</li>
+<li>Moitié de 2 = …</li>
+<li>Moitié de 16 = …</li>
+</ol>
+<h1>70. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>Moitié de 4 = …</li>
+<li>Moitié de 12 = …</li>
+<li>59 + 37 = …</li>
+<li>Moitié de 18 = …</li>
+<li>52 - 6 = …</li>
+<li>7 + 3 = …</li>
+<li>Moitié de 10 = …</li>
+<li>Moitié de 8 = …</li>
+<li>Moitié de 20 = …</li>
+<li>70 + 5 = …</li>
+</ol>
+<h1>71. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>42 - 5 = …</li>
+<li>Moitié de 6 = …</li>
+<li>32 + … = 40</li>
+<li>46 + 10 = …</li>
+<li>56 + 7 = …</li>
+<li>54 + 3 = …</li>
+<li>27 + 28 = …</li>
+<li>Moitié de 14 = …</li>
+<li>Moitié de 16 = …</li>
+<li>Moitié de 2 = …</li>
+</ol>
+<h1>72. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>35 + 30 = …</li>
+<li>87 + 5 = …</li>
+<li>72 - 8 = …</li>
+<li>Moitié de 10 = …</li>
+<li>Moitié de 4 = …</li>
+<li>Moitié de 20 = …</li>
+<li>89 + … = 90</li>
+<li>9 + 9 = …</li>
+<li>25 + 16 = …</li>
+<li>Moitié de 18 = …</li>
+</ol>
+<h1>73. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>77 + … = 80</li>
+<li>55 + 6 = …</li>
+<li>Moitié de 12 = …</li>
+<li>Moitié de 2 = …</li>
+<li>40 - 7 = …</li>
+<li>Moitié de 8 = …</li>
+<li>49 + 29 = …</li>
+<li>44 - 5 = …</li>
+<li>6 + 6 = …</li>
+<li>Moitié de 6 = …</li>
+</ol>
+<h1>74. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>Moitié de 10 = …</li>
+<li>3 + … = 10</li>
+<li>Moitié de 14 = …</li>
+<li>35 + 28 = …</li>
+<li>4 + 4 = …</li>
+<li>24 + 7 = …</li>
+<li>3 + 5 = …</li>
+<li>85 - 6 = …</li>
+<li>20 - 7 = …</li>
+<li>7 + … = 10</li>
+</ol>
+<h1>75. Multiplier par 0 ou par 1</h1>
+<h2>À retenir</h2>
+<p>Multiplier, c’est compter des groupes égaux.
+Un nombre multiplié par 1 reste le même.
+Un nombre multiplié par 0 donne 0.
+Changer l’ordre des deux nombres ne change pas le résultat.</p>
+<h2>Je m’entraîne</h2>
+<p>Complète.</p>
+<ol>
+<li>4 × 1 = …</li>
+<li>1 × 6 = …</li>
+<li>5 × 0 = …</li>
+<li>0 × 8 = …</li>
+<li>1 × 9 = …</li>
+</ol>
+<h1>76. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>79 + … = 80</li>
+<li>1 × 1 = …</li>
+<li>0 × 5 = …</li>
+<li>1 × 8 = …</li>
+<li>36 - 7 = …</li>
+<li>Moitié de 20 = …</li>
+<li>77 + 7 = …</li>
+<li>5 + 5 = …</li>
+<li>10 × 0 = …</li>
+<li>70 - 8 = …</li>
+</ol>
+<h1>77. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>Moitié de 14 = …</li>
+<li>0 × 3 = …</li>
+<li>6 + 6 = …</li>
+<li>1 × 7 = …</li>
+<li>5 × 1 = …</li>
+<li>38 + 7 = …</li>
+<li>0 × 1 = …</li>
+<li>0 × 8 = …</li>
+<li>9 × 1 = …</li>
+<li>22 - 7 = …</li>
+</ol>
+<h1>78. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>1 × 3 = …</li>
+<li>Moitié de 20 = …</li>
+<li>58 + 13 = …</li>
+<li>4 × 0 = …</li>
+<li>6 × 1 = …</li>
+<li>23 - 4 = …</li>
+<li>5 + … = 9</li>
+<li>50 - 8 = …</li>
+<li>4 × 1 = …</li>
+<li>1 + 1 = …</li>
+</ol>
+<h1>79. Je calcule</h1>
+<p>Complète.</p>
+<ol>
+<li>6 + … = 10</li>
+<li>1 + … = 9</li>
+<li>1 × 9 = …</li>
+<li>30 - 2 = …</li>
+<li>0 × 8 = …</li>
+<li>28 + 43 = …</li>
+<li>1 × 6 = …</li>
+<li>21 - 5 = …</li>
+<li>Moitié de 8 = …</li>
+<li>0 × 4 = …</li>
+</ol>
+<h1>80. Je cherche</h1>
+<p>Complète.</p>
+<ol>
+<li>0 × 10 = …</li>
+<li>0 × 6 = …</li>
+<li>6 × 0 = …</li>
+<li>35 - 8 = …</li>
+<li>Moitié de 12 = …</li>
+<li>8 × 0 = …</li>
+<li>8 + … = 10</li>
+<li>4 + 7 = …</li>
+<li>43 + 27 = …</li>
+<li>5 + … = 8</li>
+</ol>
+</body></html>
