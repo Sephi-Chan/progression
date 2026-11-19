@@ -1,0 +1,146 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S09 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Semaine 9 - Lundi"; } }
+@page :nth(2) { @bottom-left { content: "Semaine 9 - Mardi"; } }
+@page :nth(3) { @bottom-left { content: "Semaine 9 - Jeudi"; } }
+@page :nth(4) { @bottom-left { content: "Semaine 9 - Vendredi"; } }
+@page :nth(5) { @bottom-left { content: "Semaine 9 - Lecture"; } }</style></head><body><h1>Lundi — oi et oin</h1>
+<h2>Je retrouve</h2>
+<p>chambre · dessin · timbre</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>bois</li>
+<li>coin</li>
+<li>voiture</li>
+<li>point</li>
+<li>soir</li>
+<li>loin</li>
+<li>boire</li>
+<li>foin</li>
+<li>étoile</li>
+<li>soin</li>
+<li>noir</li>
+<li>moins</li>
+</ul>
+<p>Avec l’adulte : bois · coin · point · loin.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La voiture passe près du bois.</li>
+<li>Le chat dort dans un coin.</li>
+</ol>
+<h1>Mardi — y et le son /j/</h1>
+<h2>Je retrouve</h2>
+<p>soleil · abeille · grenouille · voiture</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>voyage</li>
+<li>tuyau</li>
+<li>rayon</li>
+<li>fille</li>
+<li>pied</li>
+<li>crayon</li>
+<li>balayer</li>
+<li>noyau</li>
+<li>joyeux</li>
+<li>pays</li>
+<li>pyjama</li>
+<li>yeux</li>
+</ul>
+<p>Avec l’adulte : voyage · tuyau · fille · pied.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le rayon du soleil passe sur le tapis.</li>
+<li>La fille pose son crayon.</li>
+</ol>
+<h1>Jeudi — Je lis des mots inventés</h1>
+<h2>Je retrouve</h2>
+<p>garçon · guitare · girafe · voyage</p>
+<h2>Je déchiffre</h2>
+<ul>
+<li>boipon</li>
+<li>goinra</li>
+<li>toinloge</li>
+<li>poilon</li>
+<li>bruillon</li>
+<li>voipou</li>
+<li>cloinva</li>
+<li>raillou</li>
+<li>douillami</li>
+</ul>
+<p>Avec l’adulte : boipon · goinra · bruillon.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>La grenouille saute près du bois.</li>
+<li>Le garçon regarde le rayon.</li>
+</ol>
+<h1>Vendredi — Je relis les mots</h1>
+<h2>Je retrouve</h2>
+<p>bois · point · fille</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>voisin</li>
+<li>voiture</li>
+<li>oiseau</li>
+<li>voyage</li>
+<li>tuyau</li>
+<li>rayon</li>
+</ul>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>L’oiseau se pose près du tuyau.</li>
+</ol>
+<h1>Le tuyau du jardin</h1>
+<blockquote>
+<p>Au fond du jardin, Léo déroule un tuyau. Il le tire jusqu’au petit banc de bois. Tout près, un oiseau se pose sur un piquet.</p>
+<p>Léo ouvre le robinet. L’eau sort et brille dans un rayon de soleil. Il arrose les fleurs, puis il ferme le robinet.</p>
+<p>L’oiseau descend. Il boit un peu d’eau dans un coin de la cour, puis il s’envole.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : déroule · piquet · robinet · brille · s’envole.</p>
+<p>Je relis « dans un rayon de soleil » en un seul groupe.</p>
+<h2>Je raconte</h2>
+<p>Où l’oiseau boit-il ?</p>
+</body></html>

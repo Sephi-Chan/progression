@@ -1,0 +1,145 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S12 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Semaine 12 - Lundi"; } }
+@page :nth(2) { @bottom-left { content: "Semaine 12 - Mardi"; } }
+@page :nth(3) { @bottom-left { content: "Semaine 12 - Jeudi"; } }
+@page :nth(4) { @bottom-left { content: "Semaine 12 - Vendredi"; } }
+@page :nth(5) { @bottom-left { content: "Semaine 12 - Lecture"; } }</style></head><body><h1>Lundi — Les valeurs de x</h1>
+<h2>Je retrouve</h2>
+<p>marcher · nez · bonnet</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>taxi</li>
+<li>texte</li>
+<li>exact</li>
+<li>examen</li>
+<li>six</li>
+<li>dix</li>
+<li>boxe</li>
+<li>exemple</li>
+<li>fixer</li>
+<li>exercice</li>
+<li>luxe</li>
+<li>taximètre</li>
+</ul>
+<p>Avec l’adulte : taxi · exact · examen · six.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le taxi roule près de l’école.</li>
+<li>Le maître relit le texte.</li>
+</ol>
+<h1>Mardi — Je lis ph</h1>
+<h2>Je retrouve</h2>
+<p>taxi · examen · citron · guitare</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>photo</li>
+<li>téléphone</li>
+<li>pharmacie</li>
+<li>éléphant</li>
+<li>phrase</li>
+<li>phare</li>
+<li>phoque</li>
+<li>dauphin</li>
+<li>photographe</li>
+</ul>
+<p>Avec l’adulte : photo · phare · phrase · dauphin.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le phare se voit de loin.</li>
+<li>Le photographe regarde le dauphin.</li>
+</ol>
+<h1>Jeudi — Je lis c, g, s et x</h1>
+<h2>Je retrouve</h2>
+<p>c · g · s · x</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>garçon</li>
+<li>girafe</li>
+<li>poison</li>
+<li>exact</li>
+<li>cinéma</li>
+<li>guitare</li>
+<li>maison</li>
+<li>boxe</li>
+<li>cerise</li>
+<li>gare</li>
+<li>poisson</li>
+<li>texte</li>
+</ul>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le garçon dessine une girafe.</li>
+<li>Le taxi passe devant le cinéma.</li>
+</ol>
+<h1>Vendredi — Je relis les mots de la semaine</h1>
+<h2>Je retrouve</h2>
+<p>taxi · phare · boxe</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>phrase</li>
+<li>photo</li>
+<li>exemple</li>
+<li>exercice</li>
+<li>six</li>
+<li>téléphone</li>
+</ul>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Lina lit une phrase.</li>
+</ol>
+<h1>La photo du phare</h1>
+<blockquote>
+<p>Lina monte dans un taxi avec son père. Ils vont voir le phare près du port. Lina emporte son petit appareil photo.</p>
+<p>En haut du phare, elle regarde les bateaux. Elle cherche un bateau bleu, mais il passe derrière un gros bateau blanc.</p>
+<p>Son père indique la gauche. Le bateau bleu revient dans la lumière. Lina prend vite une photo.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : appareil · haut · derrière · gauche · revient.</p>
+<p>Je relis « derrière un gros bateau blanc » d’un seul mouvement.</p>
+<h2>Je raconte</h2>
+<p>De quelle couleur est le bateau que Lina photographie ?</p>
+</body></html>

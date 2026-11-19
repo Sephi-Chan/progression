@@ -1,0 +1,141 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S14 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Semaine 14 - Lundi"; } }
+@page :nth(2) { @bottom-left { content: "Semaine 14 - Mardi"; } }
+@page :nth(3) { @bottom-left { content: "Semaine 14 - Jeudi"; } }
+@page :nth(4) { @bottom-left { content: "Semaine 14 - Vendredi"; } }
+@page :nth(5) { @bottom-left { content: "Semaine 14 - Lecture"; } }</style></head><body><h1>Lundi — Je relis c, g et s</h1>
+<h2>Je retrouve</h2>
+<p>taxi · examen · voyage · rayon</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>cinq</li>
+<li>glace</li>
+<li>guitare</li>
+<li>maison</li>
+<li>dessin</li>
+<li>garçon</li>
+<li>girafe</li>
+<li>cage</li>
+<li>salade</li>
+<li>poisson</li>
+<li>gomme</li>
+<li>citron</li>
+</ul>
+<p>Avec l’adulte : glace · guitare · maison · dessin.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le garçon pose sa guitare.</li>
+<li>Une girafe passe près de la maison.</li>
+</ol>
+<h1>Mardi — Je relis les nasales et les finales</h1>
+<h2>Je retrouve</h2>
+<p>marcher · chez · bonnet</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>maintenant</li>
+<li>peinture</li>
+<li>bonnet</li>
+<li>tomber</li>
+<li>cahier</li>
+<li>chambre</li>
+<li>point</li>
+<li>ballon</li>
+<li>laver</li>
+<li>assez</li>
+<li>sifflet</li>
+<li>jardin</li>
+</ul>
+<p>Avec l’adulte : peinture · tomber · cahier · sifflet.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>L’enfant range le cahier et le bonnet.</li>
+<li>Le ballon tombe près du banc.</li>
+</ol>
+<h1>Jeudi — Je relis des mots connus</h1>
+<h2>Je retrouve</h2>
+<p>maison · photo · veste</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>guitare</li>
+<li>poisson</li>
+<li>voyage</li>
+<li>avion</li>
+<li>bonnet</li>
+<li>taxi</li>
+<li>chambre</li>
+<li>tuyau</li>
+<li>fourchette</li>
+</ul>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Un avion passe près de la maison.</li>
+<li>Les amis regardent le chat.</li>
+</ol>
+<h1>Vendredi — Je relis des mots inventés</h1>
+<h2>Je retrouve</h2>
+<p>guitare · coin · photo · voyage</p>
+<h2>Je déchiffre</h2>
+<ul>
+<li>drageuil</li>
+<li>quinzon</li>
+<li>pharoin</li>
+<li>blenette</li>
+<li>voyail</li>
+<li>grinpon</li>
+</ul>
+<h1>Le goûter près du banc</h1>
+<blockquote>
+<p>Les enfants posent un panier près du banc. Il contient du pain, une pomme et des biscuits. Sami sort son appareil photo. Il veut prendre son amie Lina en photo.</p>
+<p>Un petit chien arrive au coin du chemin. Il regarde le panier, puis repart vers le jardin voisin.</p>
+<p>Lina appelle Sami. Il lève son appareil juste à temps. Le chien est déjà loin, mais on voit encore le bout de sa queue.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : contient · biscuits · appareil · amie · queue.</p>
+<p>Je relis la dernière phrase en faisant une petite pause à la virgule.</p>
+<h2>Je raconte</h2>
+<p>Que voit-on encore du chien ?</p>
+</body></html>

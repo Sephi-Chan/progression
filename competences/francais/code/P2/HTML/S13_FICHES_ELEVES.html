@@ -1,0 +1,147 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S13 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Semaine 13 - Lundi"; } }
+@page :nth(2) { @bottom-left { content: "Semaine 13 - Mardi"; } }
+@page :nth(3) { @bottom-left { content: "Semaine 13 - Jeudi"; } }
+@page :nth(4) { @bottom-left { content: "Semaine 13 - Vendredi"; } }
+@page :nth(5) { @bottom-left { content: "Semaine 13 - Lecture"; } }</style></head><body><h1>Lundi — Je lis e devant des consonnes</h1>
+<h2>Je retrouve</h2>
+<p>été · père · bonnet</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>bec</li>
+<li>mer</li>
+<li>sel</li>
+<li>veste</li>
+<li>perdre</li>
+<li>herbe</li>
+<li>ferme</li>
+<li>reste</li>
+<li>verte</li>
+<li>merci</li>
+<li>lecture</li>
+<li>escargot</li>
+</ul>
+<p>Avec l’adulte : bec · veste · perdre · lecture.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le bec de l’oiseau touche l’herbe.</li>
+<li>Lina perd sa veste verte.</li>
+</ol>
+<h1>Mardi — Les consonnes doubles</h1>
+<h2>Je retrouve</h2>
+<p>maison · poisson · bec · veste</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>personne</li>
+<li>lettre</li>
+<li>lunettes</li>
+<li>terre</li>
+<li>assiette</li>
+<li>ficelle</li>
+<li>belle</li>
+<li>pomme</li>
+<li>balle</li>
+<li>gomme</li>
+<li>nappe</li>
+<li>carotte</li>
+</ul>
+<p>Avec l’adulte : lettre · terre · personne · pomme.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les lunettes sont sur la table.</li>
+<li>Une pomme roule près de l’assiette.</li>
+</ol>
+<h1>Jeudi — Je lis des mots plus longs</h1>
+<h2>Je retrouve</h2>
+<p>pluie · crayon · droite · terre</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>apprendre</li>
+<li>brouette</li>
+<li>adresse</li>
+<li>problème</li>
+<li>fourchette</li>
+<li>grenouille</li>
+<li>cartable</li>
+<li>téléphone</li>
+<li>bibliothèque</li>
+</ul>
+<p>Avec l’adulte : brouette · problème · fourchette.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le jardinier pousse une brouette.</li>
+<li>La fourchette est près de l’assiette.</li>
+</ol>
+<h1>Vendredi — Je relis les doubles, puis j’écris</h1>
+<h2>Je retrouve</h2>
+<p>veste · terre · personne</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>veste</li>
+<li>lettre</li>
+<li>terre</li>
+<li>personne</li>
+<li>lunettes</li>
+</ul>
+<h2>J’écris</h2>
+<p>Cache les mots. Écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>La brouette du jardinier</h1>
+<blockquote>
+<p>Dans le jardin, un jardinier pousse une brouette. Elle est pleine de terre. Lina porte un petit plant de salade. Elle suit le jardinier près de la serre.</p>
+<p>Une roue touche une pierre. La brouette penche et le plant glisse entre deux mottes de terre.</p>
+<p>Le jardinier ramasse le plant. Lina creuse un trou avec une petite pelle. Elle y pose le plant, puis le jardinier couvre les racines de terre.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : pleine · serre · glisse · mottes · racines.</p>
+<p>Je relis « entre deux mottes de terre » sans couper le groupe.</p>
+<h2>Je raconte</h2>
+<p>Avec quoi Lina creuse-t-elle un trou ?</p>
+</body></html>

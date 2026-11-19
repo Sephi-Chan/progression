@@ -1,0 +1,142 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S11 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Semaine 11 - Lundi"; } }
+@page :nth(2) { @bottom-left { content: "Semaine 11 - Mardi"; } }
+@page :nth(3) { @bottom-left { content: "Semaine 11 - Jeudi"; } }
+@page :nth(4) { @bottom-left { content: "Semaine 11 - Vendredi"; } }
+@page :nth(5) { @bottom-left { content: "Semaine 11 - Lecture"; } }</style></head><body><h1>Lundi — Les finales er, ez et et</h1>
+<h2>Je retrouve</h2>
+<p>mer · veste · rayon</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>marcher</li>
+<li>dessiner</li>
+<li>assez</li>
+<li>nez</li>
+<li>bonnet</li>
+<li>paquet</li>
+<li>sifflet</li>
+<li>couper</li>
+<li>laver</li>
+<li>chez</li>
+<li>jouet</li>
+<li>objet</li>
+</ul>
+<p>Avec l’adulte : marcher · nez · bonnet · paquet.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Lina pose son bonnet chez Sami.</li>
+<li>Nous allons laver le jouet.</li>
+</ol>
+<h1>Mardi — Je lis é, è et d’autres graphies</h1>
+<h2>Je retrouve</h2>
+<p>marcher · assez · bonnet</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>école</li>
+<li>papier</li>
+<li>été</li>
+<li>père</li>
+<li>tête</li>
+<li>fête</li>
+<li>dictée</li>
+<li>vélo</li>
+<li>balai</li>
+<li>neige</li>
+<li>chèvre</li>
+<li>clé</li>
+</ul>
+<p>Avec l’adulte : école · père · tête · papier.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Mon père range le balai.</li>
+<li>La fête a lieu à l’école.</li>
+</ol>
+<h1>Jeudi — Des finales dans les mots inventés</h1>
+<h2>Je retrouve</h2>
+<p>bec · lettre · sel</p>
+<h2>Je déchiffre</h2>
+<ul>
+<li>lumer</li>
+<li>danez</li>
+<li>pochet</li>
+<li>vester</li>
+<li>besset</li>
+<li>famez</li>
+<li>picher</li>
+<li>nouret</li>
+<li>calez</li>
+</ul>
+<p>Lis les fins comme dans marcher, nez et bonnet.</p>
+<h1>Vendredi — Je relis, puis j’écris</h1>
+<h2>Je retrouve</h2>
+<p>laver · chez · paquet</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>papier</li>
+<li>bonnet</li>
+<li>marcher</li>
+<li>assez</li>
+<li>veste</li>
+</ul>
+<h2>J’écris</h2>
+<p>Cache les mots. Écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>Le bonnet oublié</h1>
+<blockquote>
+<p>Après l’école, Lina va chez son père. Elle pose sa veste et son bonnet près de la porte. Puis elle monte chercher son cahier.</p>
+<p>Sa sœur arrive avec un paquet de papier. Elles dessinent une fête : des ballons, des fleurs et un grand gâteau.</p>
+<p>Avant de sortir, Lina remet sa veste. Son père montre la chaise. Le bonnet est posé dessus. Lina le prend et court dans la cour.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : après · sœur · cahier · gâteau · dessus.</p>
+<p>Je relis « près de la porte » d’un seul souffle.</p>
+<h2>Je raconte</h2>
+<p>Sur quoi le bonnet est-il posé à la fin ?</p>
+</body></html>

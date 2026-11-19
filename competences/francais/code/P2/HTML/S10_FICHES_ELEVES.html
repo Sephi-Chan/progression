@@ -1,0 +1,133 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S10 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Semaine 10 - Lundi"; } }
+@page :nth(2) { @bottom-left { content: "Semaine 10 - Mardi"; } }
+@page :nth(3) { @bottom-left { content: "Semaine 10 - Jeudi"; } }
+@page :nth(4) { @bottom-left { content: "Semaine 10 - Vendredi"; } }
+@page :nth(5) { @bottom-left { content: "Semaine 10 - Lecture"; } }</style></head><body><h1>Lundi — ien, oin et ion</h1>
+<h2>Je retrouve</h2>
+<p>voyage · voiture · tuyau</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>chien</li>
+<li>musicien</li>
+<li>coin</li>
+<li>avion</li>
+<li>champion</li>
+<li>bien</li>
+<li>rien</li>
+<li>point</li>
+<li>loin</li>
+<li>pion</li>
+<li>lion</li>
+<li>camion</li>
+</ul>
+<p>Avec l’adulte : chien · coin · pion · camion.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le chien reste dans un coin.</li>
+<li>Un camion passe près du parc.</li>
+</ol>
+<h1>Mardi — Groupes de consonnes et finales</h1>
+<h2>Je retrouve</h2>
+<p>pluie · blanc · train · droite</p>
+<h2>Je lis des mots inventés</h2>
+<ul>
+<li>prien</li>
+<li>cloin</li>
+<li>drion</li>
+<li>froin</li>
+<li>plion</li>
+<li>brien</li>
+<li>gloin</li>
+<li>blion</li>
+<li>trien</li>
+</ul>
+<p>Avec l’adulte : prien · cloin · drion.</p>
+<h1>Jeudi — J’écris ien, oin et ion</h1>
+<h2>Je retrouve</h2>
+<p>lampe · peinture · voyage</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>chien</li>
+<li>point</li>
+<li>avion</li>
+<li>musicien</li>
+<li>coin</li>
+<li>pion</li>
+</ul>
+<h2>J’écris</h2>
+<p>Cache les mots. Écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>Vendredi — Je relis des phrases</h1>
+<h2>Je retrouve</h2>
+<p>chien · avion · loin</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le chien va bien.</li>
+<li>Un avion passe.</li>
+<li>Les musiciens jouent.</li>
+<li>Le ballon va loin.</li>
+<li>Le chat reste dans un coin.</li>
+</ol>
+<h1>L’avion de papier</h1>
+<blockquote>
+<p>Dans un coin de la cour, Yanis plie une feuille. Il fabrique un avion et le lance. L’avion passe devant le banc, puis tombe près du chien.</p>
+<p>Le chien regarde l’avion. Il penche la tête et reste bien sage. Yanis ramasse son avion et le lance encore.</p>
+<p>Cette fois, l’avion va loin. Il arrive près du portail. Yanis court pour le reprendre.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : Yanis · plie · feuille · fabrique · portail.</p>
+<p>Je marque une pause après « cette fois ».</p>
+<h2>Je raconte</h2>
+<p>Où l’avion arrive-t-il la deuxième fois ?</p>
+</body></html>

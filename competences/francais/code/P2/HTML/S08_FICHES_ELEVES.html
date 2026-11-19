@@ -1,0 +1,147 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>S08 FICHES ELEVES</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Semaine 8 - Lundi"; } }
+@page :nth(2) { @bottom-left { content: "Semaine 8 - Mardi"; } }
+@page :nth(3) { @bottom-left { content: "Semaine 8 - Jeudi"; } }
+@page :nth(4) { @bottom-left { content: "Semaine 8 - Vendredi"; } }
+@page :nth(5) { @bottom-left { content: "Semaine 8 - Lecture"; } }</style></head><body><h1>Lundi — Les voyelles nasales</h1>
+<h2>Je retrouve</h2>
+<p>soleil · fille · pluie · train</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>chambre</li>
+<li>timbre</li>
+<li>tomber</li>
+<li>peinture</li>
+<li>point</li>
+<li>lampe</li>
+<li>enfant</li>
+<li>jardin</li>
+<li>ballon</li>
+<li>ombre</li>
+<li>plante</li>
+<li>coin</li>
+</ul>
+<p>Avec l’adulte : chambre · timbre · ombre · point.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le ballon tombe dans un coin.</li>
+<li>L’enfant peint un soleil.</li>
+</ol>
+<h1>Mardi — s et ss</h1>
+<h2>Je retrouve</h2>
+<p>cerise · garçon · girafe · guitare</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>poison</li>
+<li>poisson</li>
+<li>maison</li>
+<li>dessin</li>
+<li>passer</li>
+<li>cause</li>
+<li>casse</li>
+<li>salade</li>
+<li>visage</li>
+<li>tasse</li>
+<li>rose</li>
+<li>pousser</li>
+</ul>
+<p>Avec l’adulte : poison · poisson · maison · dessin.</p>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Le poisson passe près du rocher.</li>
+<li>La tasse est dans la maison.</li>
+</ol>
+<h1>Jeudi — Je lis, puis j’écris</h1>
+<h2>Je retrouve</h2>
+<p>marcher · dessiner · chanter</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>enfant</li>
+<li>important</li>
+<li>poisson</li>
+<li>chambre</li>
+<li>dessin</li>
+<li>lampe</li>
+</ul>
+<h2>J’écris</h2>
+<p>Cache les mots. Écris les mots dictés.</p>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>Vendredi — Je relis des groupes</h1>
+<h2>Je retrouve</h2>
+<p>chambre · timbre · soleil</p>
+<h2>Je lis les mots</h2>
+<ul>
+<li>le soleil</li>
+<li>les poissons</li>
+<li>la chambre</li>
+<li>ils chantent</li>
+<li>les amis</li>
+<li>des enfants</li>
+</ul>
+<h2>Je lis des phrases</h2>
+<ol>
+<li>Les amis chantent.</li>
+<li>Les poissons nagent.</li>
+</ol>
+<h1>Le dessin du poisson</h1>
+<blockquote>
+<p>Dans sa chambre, Nina prépare un dessin. Elle peint un poisson orange et un grand soleil. Sur la table, il y a du papier et des crayons.</p>
+<p>Son ami Sami arrive. Ensemble, ils regardent le poisson. « Il manque une plante », dit Sami. Nina dessine une plante verte dans un coin.</p>
+<p>Les amis posent le dessin près de la fenêtre. Dans la lumière du soir, le poisson semble presque nager.</p>
+</blockquote>
+<h2>Je prépare ma lecture</h2>
+<p>Avec l’adulte : chambre · peint · ensemble · lumière · semble.</p>
+<p>Je relis la dernière phrase sans couper « dans la lumière du soir ».</p>
+<h2>Je raconte</h2>
+<p>Que dessine Nina dans un coin ?</p>
+</body></html>

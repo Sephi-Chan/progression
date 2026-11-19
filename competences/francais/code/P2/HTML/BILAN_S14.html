@@ -1,0 +1,134 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>BILAN S14</title><style>/* Le texte courant donne sa taille à tous les supports de lecture.
+   Seuls les titres et l'en-tête ont une taille distincte. */
+@page {
+  size: A4;
+  margin: 28mm 18mm 16mm;
+  @top-left {
+    content: 'Prénom : ____________________';
+    font: 13pt sans-serif;
+    text-align: left;
+  }
+  @top-right {
+    content: 'Date : ______________';
+    font: 13pt sans-serif;
+    text-align: right;
+  }
+  @bottom-right { content: counter(page); font: 9pt sans-serif; color: #555; }
+  @bottom-left { font: 8pt sans-serif; color: #aaa; text-align: left; }
+}
+body { margin: 0; color: #181818; font: 16pt / 1.5 sans-serif; }
+h1 { font-size: 23pt; line-height: 1.2; margin: 0 0 5mm; break-before: page; }
+h1:first-child { break-before: auto; }
+h2 { font-size: 13pt; line-height: 1.4; margin: 7mm 0 3mm; padding-top: 4mm; }
+h1, h2 { break-after: avoid; }
+p { margin: 3mm 0; orphans: 2; widows: 2; }
+/* Les listes à puces sont les grilles de mots ; les listes numérotées
+   restent des phrases. Ordre de lecture : gauche à droite, puis ligne suivante. */
+ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 4mm;
+     list-style: none; padding: 0; margin: 3mm 0 4mm; break-inside: avoid; }
+ul > li { margin: 0; padding: 3mm 2mm 3mm 0; border-bottom: .2mm solid #ddd; }
+/* Dernière rangée, complète ou non (grilles de 8, 12, 16… items). */
+ul > li:nth-child(3n+1):nth-last-child(-n+3),
+ul > li:nth-child(3n+1):nth-last-child(-n+3) ~ li { border-bottom: 0; }
+ol { padding-left: 8mm; margin: 3mm 0 4mm; }
+li { padding-left: 0; margin-bottom: 3mm; break-inside: avoid; }
+li::marker { font-size: 1em; }
+blockquote { margin: 7mm 0; line-height: 1.65; }
+blockquote p { margin: 0 0 5mm; }
+hr { border: 0; border-top: .25mm solid #999; margin: 6mm 0; }
+a { color: inherit; overflow-wrap: anywhere; }
+@media screen {
+  html { background: #e5e5e5; padding: 10mm; }
+  body { background: white; max-width: 174mm; padding: 16mm 18mm; margin: auto; }
+  h1:not(:first-child) { margin-top: 20mm; }
+}
+
+@page :nth(1) { @bottom-left { content: "Bilan - Lettres et syllabes"; } }
+@page :nth(2) { @bottom-left { content: "Bilan - Mots"; } }
+@page :nth(3) { @bottom-left { content: "Bilan - Lecture"; } }</style></head><body><h1>Bilan de fin de période</h1>
+<h2>Je lis des lettres et des groupes</h2>
+<p>Lis ce que montre ton enseignant.</p>
+<ul>
+<li>a</li>
+<li>i</li>
+<li>u</li>
+<li>m</li>
+<li>f</li>
+<li>l</li>
+<li>b</li>
+<li>d</li>
+<li>ou</li>
+<li>au</li>
+<li>eau</li>
+<li>un</li>
+<li>ui</li>
+<li>ch</li>
+<li>on</li>
+<li>in</li>
+</ul>
+<h2>Je lis des syllabes</h2>
+<ul>
+<li>ra</li>
+<li>du</li>
+<li>bol</li>
+<li>nou</li>
+<li>glu</li>
+<li>bru</li>
+</ul>
+<h2>J’écris les syllabes dictées</h2>
+<ol>
+<li>____________________________</li>
+<li>____________________________</li>
+<li>____________________________</li>
+</ol>
+<h1>Bilan de fin de période — mots</h1>
+<h2>Je lis les mots</h2>
+<ul>
+<li>épouvantail</li>
+<li>écaille</li>
+<li>mandarin</li>
+<li>boudin</li>
+<li>marron</li>
+<li>recoin</li>
+<li>tracteur</li>
+<li>joujou</li>
+<li>guirlande</li>
+<li>signal</li>
+<li>cymbale</li>
+<li>quinze</li>
+<li>fusée</li>
+<li>foire</li>
+<li>voyageur</li>
+<li>baquet</li>
+<li>saxophone</li>
+<li>tresse</li>
+<li>gardien</li>
+<li>lampion</li>
+<li>index</li>
+<li>exagérer</li>
+<li>tonnerre</li>
+<li>doré</li>
+</ul>
+<h2>Je lis les mots inventés</h2>
+<ul>
+<li>lufail</li>
+<li>nupaillou</li>
+<li>zampu</li>
+<li>fimbou</li>
+<li>lonfa</li>
+<li>croinpa</li>
+<li>feuron</li>
+<li>guibou</li>
+<li>gécou</li>
+<li>gnivou</li>
+<li>çoupan</li>
+<li>phapri</li>
+</ul>
+<h1>Le ballon de Mila</h1>
+<p>Lis à voix haute.</p>
+<blockquote>
+<p>Mila arrive dans la cour avec un sac jaune. Elle pose le sac sur un banc, près du mur. Dans le sac, il y a une écharpe, un petit ballon et un livre. Mila sort le ballon et le livre. Elle appelle son ami Tom. Tom arrive et pose son bonnet sur le banc. Les deux amis vont jouer près de la porte.</p>
+<p>Tom lance le ballon à Mila. Mila pose le livre près du banc. Le ballon touche le sol et roule sous le banc. Tom se baisse et tend la main. Il attrape le ballon. Sous le banc, il voit aussi le livre de Mila. Il le ramasse et le remet dans le sac.</p>
+<p>Un peu de pluie tombe dans la cour. Mila prend le sac et Tom reprend son bonnet. Ils rentrent dans la classe. Mila sort le livre et tourne une page. Sur la page, un petit lapin mange une carotte. Tom montre l’image à Mila.</p>
+</blockquote>
+</body></html>
